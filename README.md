@@ -6,7 +6,7 @@ Loote - Longer Than I Thought(피처링: 조 조너스)
 
 **Albums**: single.
 
-Last updated at 2020. 7. 15. 오후 6:34:47
+Last updated at 2020. 7. 15. 오후 6:35:56
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
