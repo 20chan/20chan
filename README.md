@@ -6,7 +6,7 @@ Loote - she's all yours
 
 **Albums**: lost
 
-Last updated at 2020. 7. 15. 오후 6:38:51
+Last updated at 2020. 7. 15. 오후 6:39:51
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
