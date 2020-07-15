@@ -1,6 +1,6 @@
 ## Currently Playing
 
-[<img align="left" width="100" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_SONG_URL})
+<img align="left" width="100" src="{CURRENT_PLAYING_ALBUM_SRC}">
 
 {CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}
 **Albums**: {CURRENT_PLAYING_ALBUM}
