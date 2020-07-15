@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://i.ytimg.com/vi/N9ygEiWpM5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/_JNKqbO7nSJYdqIa-4RfkEeu-JYBx_QMeAzcC1WFSrRXt6Crslkr99bw0GpPPw00lJIJKEc43iHPX18">
 
-Nightblue Music - Deaf Kev - Samurai
+SAINt JHN - Roses
 
-**Albums**: undefined
+**Albums**: Collection One
 
-Last updated at 2020. 7. 15. 오후 7:05:48
+Last updated at 2020. 7. 15. 오후 7:06:52
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
