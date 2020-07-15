@@ -1,14 +1,15 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/_JNKqbO7nSJYdqIa-4RfkEeu-JYBx_QMeAzcC1WFSrRXt6Crslkr99bw0GpPPw00lJIJKEc43iHPX18">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/dief5zyohb4cWNb4HDmvIY79yngdFfWZcwQ22mIx9TOQHFCZyKwprPxPQg97yeJjd5J7eXCZrHAZnFGK">
 
-SAINt JHN - Roses
+Nea - Some Say
 
-**Albums**: Collection One
+**Albums**: Some Say
 
-Last updated at 2020. 7. 15. 오후 7:06:52
+Last updated at 2020. 7. 15. 오후 8:54:43
 
-### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
+#### Generated with [20chan/github-now](https://github.com/20chan/github-now)
+
 
 <!--
 **20chan/20chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
