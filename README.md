@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/P26OuyoBE3etek_EBx9MQChk5Yc0rw7qypd_burXrXbcvnq0L5BMabJRO6tu6RfqyGMCtLmqf10pPOQ">
+<img align="left" width="100" src="https://i.ytimg.com/vi/qPC8AeU0_-8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
 
-Nico Santos - Unforgettable
+Juke Ross - Fresh Roses
 
-**Albums**: Streets Of Gold (Unforgettable Edition)
+**Albums**: undefined
 
-Last updated at 2020. 7. 15. 오후 8:59:43
+Last updated at 2020. 7. 15. 오후 9:00:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
