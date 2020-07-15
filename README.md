@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/xHpX9HBzAszwqyQ_jD8TbsPxT7VjcbaQD1F8a8KzRYhc9iDtoZh82W9x93at3QPa43kiwrvKC12evxo">
 
-My Chemical Romance(마이 케미컬 로맨스) - Welcome to the Black Parade
+Alexander Jean - Whiskey and Morphine
 
-**Albums**: The Black Parade
+**Albums**: Head High
 
-Last updated at 2020. 7. 15. 오후 9:46:43
+Last updated at 2020. 7. 15. 오후 9:47:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
