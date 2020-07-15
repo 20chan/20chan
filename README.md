@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/oNIJzTiOD6IJ-_ukVg1WSVKuYL48V2ls2PKXoOBM_xXnm9tFPw1G5kekCEYQFSy_Pa79mbWi8r44LqlzzQ">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/gTaCS9pJOPH7vD8MJyc9smRwjLJpdZkn4xnBAq51SBWscqEn1je-1mMqjVxtdxpbPUcSzO2wkQQnIJE">
 
-이달의 소녀 오드아이써클 - Uncover
+샤이 마틴 - Just a Little Longer
 
-**Albums**: Max & Match
+**Albums**: Overthinking
 
-Last updated at 2020. 7. 15. 오후 6:58:46
+Last updated at 2020. 7. 15. 오후 6:59:46
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
