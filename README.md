@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://i.ytimg.com/vi/Qzc_aX8c8g4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/7kF0IlqnI1lAElVUx4ULfon091DmlTE8qNCU6WH01hvrLWXY4zTDJ1LOttfs8mficB74ifppjS9Xonc">
 
-사샤 슬론 - Dancing With Your Ghost
+Sub Urban - Cradles
 
-**Albums**: undefined
+**Albums**: Cradles
 
-Last updated at 2020. 7. 15. 오후 9:06:43
+Last updated at 2020. 7. 15. 오후 9:07:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
