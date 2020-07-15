@@ -6,7 +6,7 @@ Zedd(제드) - Papercut(피처링: Troye Sivan(트로이 시반))
 
 **Albums**: True Colors
 
-Last updated at 2020. 7. 15. 오후 6:51:46
+Last updated at 2020. 7. 15. 오후 6:52:46
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
