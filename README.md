@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/7PKwfdn9TZLzCDJ1lZ7fDH7CKE2zGNDYPyn5wHOeKRQehqGIo7tNr99esmLBlVzrPGvUJIbLT06iBpT48Q">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">
 
-grandson - Despicable
+My Chemical Romance(마이 케미컬 로맨스) - Welcome to the Black Parade
 
-**Albums**: a modern tragedy vol. 1
+**Albums**: The Black Parade
 
-Last updated at 2020. 7. 15. 오후 9:12:43
+Last updated at 2020. 7. 15. 오후 9:46:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
