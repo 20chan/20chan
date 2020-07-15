@@ -8,7 +8,8 @@
 
 Last updated at {CURRENT_PLAYING_LAST_UPDATED}
 
-### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
+#### Generated with [20chan/github-now](https://github.com/20chan/github-now)
+
 
 <!--
 **20chan/20chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
