@@ -1,11 +1,11 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/7RnqyxO_PxgsTE_a4NZ6RnABuutbDmio5Q9rRf63QdS1Smli7TtIf3NCQlCQu2k_nSY6iEeiMbBcqiobeg">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">
 
-Discrete & Sistek - Typo
-**Albums**: Typo
+Loote - Longer Than I Thought(피처링: 조 조너스)
+**Albums**: single.
 
-Last updated at 2020. 7. 15. 오후 6:31:47
+Last updated at 2020. 7. 15. 오후 6:32:47
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
