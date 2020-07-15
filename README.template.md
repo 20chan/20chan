@@ -5,6 +5,8 @@
 {CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}
 **Albums**: {CURRENT_PLAYING_ALBUM}
 
+Last updated at {CURRENT_PLAYING_LAST_UPDATED}
+
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
 <!--
