@@ -6,7 +6,7 @@ grandson - Despicable
 
 **Albums**: a modern tragedy vol. 1
 
-Last updated at 2020. 7. 15. 오후 9:10:43
+Last updated at 2020. 7. 15. 오후 9:11:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
