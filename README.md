@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/gTaCS9pJOPH7vD8MJyc9smRwjLJpdZkn4xnBAq51SBWscqEn1je-1mMqjVxtdxpbPUcSzO2wkQQnIJE">
+<img align="left" width="100" src="https://i.ytimg.com/vi/N9ygEiWpM5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
 
-샤이 마틴 - Just a Little Longer
+Nightblue Music - Deaf Kev - Samurai
 
-**Albums**: Overthinking
+**Albums**: undefined
 
-Last updated at 2020. 7. 15. 오후 7:00:46
+Last updated at 2020. 7. 15. 오후 7:05:48
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
