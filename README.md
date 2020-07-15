@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/9ilraY4HmVAcSYYM-HhkSO3aSVmrDaQnOXRK1E-yQg-cs4S-3M60WLs_1a85chocWvwuC0UjiWx0EgV3">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/D7X-taZ7lFriMSFBMsi7qt8s1CXq0aZN22rqUbzHqH8PsjliXBGe_K7utsxpIuieGRediDPS-B9MBylleA">
 
-Loote - she's all yours
+Zedd(제드) - Papercut(피처링: Troye Sivan(트로이 시반))
 
-**Albums**: lost
+**Albums**: True Colors
 
-Last updated at 2020. 7. 15. 오후 6:40:51
+Last updated at 2020. 7. 15. 오후 6:50:45
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
