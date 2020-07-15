@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://i.ytimg.com/vi/qPC8AeU0_-8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+<img align="left" width="100" src="https://i.ytimg.com/vi/Qzc_aX8c8g4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
 
-Juke Ross - Fresh Roses
+사샤 슬론 - Dancing With Your Ghost
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 15. 오후 9:03:43
+Last updated at 2020. 7. 15. 오후 9:04:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
