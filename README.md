@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">
 
-Loote - Longer Than I Thought(피처링: 조 조너스)
+앨런 워커 - Lily
 
-**Albums**: single.
+**Albums**: Different World
 
-Last updated at 2020. 7. 15. 오후 6:35:56
+Last updated at 2020. 7. 15. 오후 6:36:56
 
 ### 工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으
 
