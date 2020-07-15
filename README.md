@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/7kF0IlqnI1lAElVUx4ULfon091DmlTE8qNCU6WH01hvrLWXY4zTDJ1LOttfs8mficB74ifppjS9Xonc">
+<img align="left" width="100" src="https://lh3.googleusercontent.com/7PKwfdn9TZLzCDJ1lZ7fDH7CKE2zGNDYPyn5wHOeKRQehqGIo7tNr99esmLBlVzrPGvUJIbLT06iBpT48Q">
 
-Sub Urban - Cradles
+grandson - Despicable
 
-**Albums**: Cradles
+**Albums**: a modern tragedy vol. 1
 
-Last updated at 2020. 7. 15. 오후 9:09:43
+Last updated at 2020. 7. 15. 오후 9:10:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
