@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000526825017-l6knnd-t120x120.jpg">](https://soundcloud.com/margo4prez/game-over-1?in_system_playlist=personalized-tracks%3A248946761%3A595616097)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000583290884-7g33yv-t120x120.jpg">](https://soundcloud.com/miavaile/sweet-liar-1)
 
-margø - Game Over
+Mia Vaile - Sweet Liar
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오전 11:33:25
+Last updated at 2020. 7. 16. 오전 11:34:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
