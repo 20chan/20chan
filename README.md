@@ -6,7 +6,7 @@ MAGIC! - Rude
 
 **Albums**: Don't Kill the Magic
 
-Last updated at 2020. 7. 16. 오후 12:31:43
+Last updated at 2020. 7. 16. 오후 12:32:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
