@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000171534452-maskpp-t120x120.jpg">](https://soundcloud.com/kygo/piano-jam)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000212158976-3lw4ad-t120x120.jpg">](https://soundcloud.com/saysooo/thisgirl)
 
-Kygo - Piano Jam
+sayso - this girl
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:06:42
+Last updated at 2020. 7. 16. 오후 12:07:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
