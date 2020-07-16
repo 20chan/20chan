@@ -6,7 +6,7 @@
 
 **Albums**: Billionaire
 
-Last updated at 2020. 7. 16. 오후 12:33:42
+Last updated at 2020. 7. 16. 오후 12:34:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
