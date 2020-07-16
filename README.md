@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CtsjufAFxn08leOCZ626_yjPwqiOzsdj38jFhlXaKsCaUlqFmDf-5s-_lYPvU1E0D8y4lD4oSW_if-A">](https://music.youtube.com/channel/UC4G-AJa7kn8oumI6TT2WXYw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0yBnIUX0QAE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEspIekCimNPvtnt_pGKG3g)
 
-AURORA - Animal
+Toploader - Dancing in the Moonlight
 
-**Albums**: A Different Kind Of Human – Step 2
+**Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 6:26:41
+Last updated at 2020. 7. 16. 오후 6:28:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
