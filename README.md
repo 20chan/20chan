@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vJ9Ejv3y8oCuVsp4a4v5Qo1LGhecV6RzXpjHuBnIXEYK7X_WV31yKlvA64uadTo5CO0cjNgR2YNzuR7J">](https://music.youtube.com/channel/UCVPTdqweUvTZ0hbnmgQ6nVw)
 
-더 크로스 - 백설공주를 사랑한 난장이
+신성우 - 서시
 
-**Albums**: Rush
+**Albums**: 신성우 3집(서시)
 
-Last updated at 2020. 7. 16. 오후 2:08:12
+Last updated at 2020. 7. 16. 오후 4:35:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
