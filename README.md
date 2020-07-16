@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000578060459-druvk1-t120x120.jpg">](https://soundcloud.com/bakermatmusic/show-intro-summer-18)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000596249969-hovmmz-t120x120.jpg">](https://soundcloud.com/saintjhn/saint-jhn-roses-imanbek-remix)
 
-Bakermat - Bakermat - Baianá
+SAINt JHN - SAINt JHN - Roses (Imanbek Remix)
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:14:42
+Last updated at 2020. 7. 16. 오후 12:15:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
