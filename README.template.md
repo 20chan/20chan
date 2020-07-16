@@ -1,6 +1,6 @@
-## Currently Playing
+## Currently Playing on {CURRENT_PLAYING_SOURCE}
 
-<img align="left" width="100" src="{CURRENT_PLAYING_ALBUM_SRC}">
+[<img align="left" width="100" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_URL})
 
 {CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}
 
