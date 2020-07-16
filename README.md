@@ -6,7 +6,7 @@ Maya Official - MAYA(마야) - 그 흔한 반지도 뮤직비디오 Official M/V
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 5:06:41
+Last updated at 2020. 7. 16. 오후 5:07:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
