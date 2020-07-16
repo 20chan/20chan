@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7JGDWKJfgxQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
 
-XXXTENTACION - Everybody Dies In Their Nightmares
+폴킴(Paul Kim) - 초록빛
 
-**Albums**: undefined
+**Albums**: 초록빛
 
-Last updated at 2020. 7. 16. 오후 5:44:41
+Last updated at 2020. 7. 16. 오후 5:45:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
