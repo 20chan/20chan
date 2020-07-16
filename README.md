@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/FDYJzsIlV4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxp1-v6TgE5XQFPDX5z6E8g)
 
-더 크로스 - 난장이가 쏘아올린 작은 공
+Magictwinzleeplay - [AUDIO] 컨츄리꼬꼬 - Gimme! Gimme!
 
-**Albums**: Melody Quus
+**Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 5:26:41
+Last updated at 2020. 7. 16. 오후 5:27:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
