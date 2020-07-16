@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0yBnIUX0QAE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEspIekCimNPvtnt_pGKG3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q9TRfepUbZcSuK5GORNwumR-5qP_EZ-TO7HKbXGOfBUWIRaDnb1k8xHENSGscoc-raRtJkN7KOUi7pUQpA">](https://music.youtube.com/channel/UCpLDY8cESJT8RnFKyYPr7pQ)
 
-Toploader - Dancing in the Moonlight
+Veorra - Run
 
-**Albums**: undefined
+**Albums**: Sapphire
 
-Last updated at 2020. 7. 16. 오후 6:31:41
+Last updated at 2020. 7. 16. 오후 6:35:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
