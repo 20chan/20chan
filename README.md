@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000227422377-3suxc7-t120x120.jpg">](https://soundcloud.com/pls-ty/plsty-run-wild)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000220108528-2v3j9l-t120x120.jpg">](https://soundcloud.com/jerryfolkmusic/purple-feelings-ft-rainsford-1)
 
-PLS&TY - PLS&TY - Run Wild
+Jerry Folk - Purple Feelings ft. Rainsford
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:21:42
+Last updated at 2020. 7. 16. 오후 12:22:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
