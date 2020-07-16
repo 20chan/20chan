@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000232432315-jf8b4a-t120x120.jpg">](https://soundcloud.com/skyhighbeatss/feelings)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000131779994-o9yh17-t120x120.jpg">](https://soundcloud.com/forfucksayk/alone)
 
-Sky.High - feelings
+⠀ - alone (unplugged)
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:10:42
+Last updated at 2020. 7. 16. 오후 12:11:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
