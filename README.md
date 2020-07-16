@@ -6,7 +6,7 @@ My Chemical Romance(마이 케미컬 로맨스) - Welcome to the Black Parade
 
 **Albums**: The Black Parade
 
-Last updated at 2020. 7. 16. 오후 5:58:41
+Last updated at 2020. 7. 16. 오후 5:59:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
