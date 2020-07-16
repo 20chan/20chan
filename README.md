@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/hiSkmo4xbvw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCsO-1WiiZxFAf7skDI68ksg)
 
-더 크로스 - 백설공주를 사랑한 난장이
+our_psalm - 동물원 - 시청 앞 지하철역에서
 
-**Albums**: Rush
+**Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 5:12:41
+Last updated at 2020. 7. 16. 오후 5:13:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
