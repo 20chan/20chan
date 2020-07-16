@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AQrehECHg2yRxN3U1RKhHksrcaY3GeC6-Vv8vr9hh2FDPhDgcVsRag_hfvuHdN0rxSfcJiQrV1vjAfA">](https://music.youtube.com/channel/UCl6-24cszKqIYLkBzo02XzQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pjSzwvTk84w/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCDykmS6e7eaHFc0Qxmmn-zQ)
 
-Lukas Graham(루카스 그레이엄) - Love Someone
+mongtec - 리아 - 눈물
 
-**Albums**: 3 (The Purple Album)
+**Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 5:38:41
+Last updated at 2020. 7. 16. 오후 5:39:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
