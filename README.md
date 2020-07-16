@@ -6,7 +6,7 @@ Kygo - Piano Jam
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:05:42
+Last updated at 2020. 7. 16. 오후 12:06:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
