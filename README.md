@@ -6,7 +6,7 @@ Royal & the Serpent - Weddings & Funerals
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오전 11:41:58
+Last updated at 2020. 7. 16. 오전 11:42:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
