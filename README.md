@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000146776969-5gj846-t120x120.jpg">](https://soundcloud.com/jerryfolkmusic/jerry-folk-x-eloq-you-know-1)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVkZxZMH3ByBHnoMISDTVLD_wYx7GfBXeznsfHhkfew8EzAj-LKGa2yFn7vBW_5rMo33zVpKAEeK5LQE0g">](https://music.youtube.com/channel/UCi7x9i4t7_KUX2-gWLnMNkQ)
 
-Jerry Folk - Jerry Folk x ELOQ - You Know
+MAGIC! - Rude
 
-**Albums**: undefined
+**Albums**: Don't Kill the Magic
 
-Last updated at 2020. 7. 16. 오후 12:28:43
+Last updated at 2020. 7. 16. 오후 12:29:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
