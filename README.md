@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J">](https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA)
 
-NOTD, Shy Martin - Keep You Mine
+NF - Change
 
-**Albums**: Keep You Mine
+**Albums**: The Search
 
-Last updated at 2020. 7. 16. 오후 6:41:42
+Last updated at 2020. 7. 16. 오후 6:42:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
