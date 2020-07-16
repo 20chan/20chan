@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000513854538-1napga-t120x120.jpg">](https://soundcloud.com/bitbird/yas-empty-crown)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000510057018-xzalyk-t120x120.jpg">](https://soundcloud.com/royalandtheserpent/weddings-funerals)
 
-bitbird - YAS - empty crown
+Royal & the Serpent - Weddings & Funerals
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오전 11:40:32
+Last updated at 2020. 7. 16. 오전 11:40:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
