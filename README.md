@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwR8jr3rqrANnex4aLDG1askb5jay1vSRmKpPneHx_Dvr0N9-xhlMbTXFsU2b2sPtBJ-50ss9oL4uyZF">](https://music.youtube.com/channel/UCoEdj_6p3v5aBp8WqrJ0zIg)
 
-SURL (설) - Dry Flower
+웬지 - Deja Vu
 
-**Albums**: I Know
+**Albums**: Deja Vu
 
-Last updated at 2020. 7. 16. 오후 12:37:42
+Last updated at 2020. 7. 16. 오후 12:43:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
