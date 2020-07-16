@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_JNKqbO7nSJYdqIa-4RfkEeu-JYBx_QMeAzcC1WFSrRXt6Crslkr99bw0GpPPw00lJIJKEc43iHPX18">](https://music.youtube.com/channel/UCvfjizX8aIDWRKl9ff70qmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtg7-Ng8pTT0xCE0fXQm-DXtYdg6bRWO67vUsUtE0Ov0f7AaEBwcj9uOJGDaMTOUGBUHykrXS_Hd7nmX">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-SAINt JHN - Roses
+쿨 (Cool) - 진실
 
-**Albums**: Collection One
+**Albums**: Cool Best
 
-Last updated at 2020. 7. 16. 오후 6:07:41
+Last updated at 2020. 7. 16. 오후 6:08:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
