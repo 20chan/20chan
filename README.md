@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000596249969-hovmmz-t120x120.jpg">](https://soundcloud.com/saintjhn/saint-jhn-roses-imanbek-remix)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000227422377-3suxc7-t120x120.jpg">](https://soundcloud.com/pls-ty/plsty-run-wild)
 
-SAINt JHN - SAINt JHN - Roses (Imanbek Remix)
+PLS&TY - PLS&TY - Run Wild
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:17:42
+Last updated at 2020. 7. 16. 오후 12:18:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
