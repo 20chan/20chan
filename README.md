@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/N9ygEiWpM5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe55Gy-hFDvLZp8C8BZhBnw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CtsjufAFxn08leOCZ626_yjPwqiOzsdj38jFhlXaKsCaUlqFmDf-5s-_lYPvU1E0D8y4lD4oSW_if-A">](https://music.youtube.com/channel/UC4G-AJa7kn8oumI6TT2WXYw)
 
-Nightblue Music - Deaf Kev - Samurai
+AURORA - Animal
 
-**Albums**: undefined
+**Albums**: A Different Kind Of Human – Step 2
 
-Last updated at 2020. 7. 16. 오후 6:23:41
+Last updated at 2020. 7. 16. 오후 6:24:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
