@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vJ9Ejv3y8oCuVsp4a4v5Qo1LGhecV6RzXpjHuBnIXEYK7X_WV31yKlvA64uadTo5CO0cjNgR2YNzuR7J">](https://music.youtube.com/channel/UCVPTdqweUvTZ0hbnmgQ6nVw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xmpl-W64i9hc2H6Te_hzIYE8sS1GxjMa_kQwmLVrYT5NZuxpQQT4EJCg7UQ0pwBKrJ-GHMSlSvErXAvy">](https://music.youtube.com/channel/UC_Rbh27IHdXhL6LJdlOTOEQ)
 
-신성우 - 서시
+마틴 에스테베즈 - Sriracha
 
-**Albums**: 신성우 3집(서시)
+**Albums**: NOTHANKYOU.
 
-Last updated at 2020. 7. 16. 오후 4:35:55
+Last updated at 2020. 7. 16. 오후 5:01:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
