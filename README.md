@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Mzl4UaeQDhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN9hBQWOKBVyG3jOcq3GhlA)
 
-My Chemical Romance(마이 케미컬 로맨스) - Welcome to the Black Parade
+어린왕자TV - Tube (튜브) - Karasuno Memories (유리잔의 추억). 캔 - 내생에 봄날은 간다 원곡(가사첨부).
 
-**Albums**: The Black Parade
+**Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 5:59:41
+Last updated at 2020. 7. 16. 오후 6:00:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
