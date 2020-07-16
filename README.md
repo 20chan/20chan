@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hiSkmo4xbvw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCsO-1WiiZxFAf7skDI68ksg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-our_psalm - 동물원 - 시청 앞 지하철역에서
+더 크로스 - 희망
 
-**Albums**: undefined
+**Albums**: Melody Quus
 
-Last updated at 2020. 7. 16. 오후 5:18:42
+Last updated at 2020. 7. 16. 오후 5:19:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
