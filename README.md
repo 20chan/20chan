@@ -6,7 +6,7 @@ PLS&TY - PLS&TY - Run Wild
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:19:43
+Last updated at 2020. 7. 16. 오후 12:20:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
