@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwR8jr3rqrANnex4aLDG1askb5jay1vSRmKpPneHx_Dvr0N9-xhlMbTXFsU2b2sPtBJ-50ss9oL4uyZF">](https://music.youtube.com/channel/UCoEdj_6p3v5aBp8WqrJ0zIg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-웬지 - Deja Vu
+더 크로스 - 백설공주를 사랑한 난장이
 
-**Albums**: Deja Vu
+**Albums**: Rush
 
-Last updated at 2020. 7. 16. 오후 12:43:55
+Last updated at 2020. 7. 16. 오후 2:08:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
