@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/g9u1L9mhVSouIkdIJCv6SOT2QTp-B_IAsZa4qUHpi5JTq8ghWmFRh0WyEXW4s9QqldchLw9v-PEVzbTXDg">](https://music.youtube.com/channel/UC3GyTNF7gU4gxY13cf9n8aQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
 
-트래비 매코이 - Billionaire(피처링: 브루노 마스)
+SURL (설) - Dry Flower
 
-**Albums**: Billionaire
+**Albums**: I Know
 
-Last updated at 2020. 7. 16. 오후 12:34:42
+Last updated at 2020. 7. 16. 오후 12:35:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
