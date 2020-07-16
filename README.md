@@ -6,7 +6,7 @@
 
 **Albums**: Cool Best
 
-Last updated at 2020. 7. 16. 오후 6:08:41
+Last updated at 2020. 7. 16. 오후 6:09:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
