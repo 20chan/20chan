@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xkg25KwCqeUkhAXSzBP_SJslX9GkkNXRZJEh7B6BE5j33HIr87qyCmV0b9b76krLHuW650DIYaaTMMpW">](https://music.youtube.com/channel/UCYiBYNKBZY3OtdRSENzz8BA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/N9ygEiWpM5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe55Gy-hFDvLZp8C8BZhBnw)
 
-스페이스 에이(Space A) - 성숙
+Nightblue Music - Deaf Kev - Samurai
 
-**Albums**: 스페이스 에이(Space A) 2집(Power Bit Techno Space A)
+**Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 6:18:41
+Last updated at 2020. 7. 16. 오후 6:19:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
