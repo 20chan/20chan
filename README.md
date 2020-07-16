@@ -6,7 +6,7 @@ AURORA - Animal
 
 **Albums**: A Different Kind Of Human – Step 2
 
-Last updated at 2020. 7. 16. 오후 6:24:41
+Last updated at 2020. 7. 16. 오후 6:25:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
