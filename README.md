@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O_n2TQfU5hN23qmhpDmkhfcGs6h0AbN4dhPAsbJXD1696-5Qs6hzFuUBG5juc8h4GwSNLzW92uv7i322">](https://music.youtube.com/channel/UCjEDeUJ2tplNj_TGxq9x4eQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AQrehECHg2yRxN3U1RKhHksrcaY3GeC6-Vv8vr9hh2FDPhDgcVsRag_hfvuHdN0rxSfcJiQrV1vjAfA">](https://music.youtube.com/channel/UCl6-24cszKqIYLkBzo02XzQ)
 
-영턱스클럽 (YTC) - 타인
+Lukas Graham(루카스 그레이엄) - Love Someone
 
-**Albums**: 2nd Album
+**Albums**: 3 (The Purple Album)
 
-Last updated at 2020. 7. 16. 오후 5:35:41
+Last updated at 2020. 7. 16. 오후 5:36:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
