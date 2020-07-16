@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dief5zyohb4cWNb4HDmvIY79yngdFfWZcwQ22mIx9TOQHFCZyKwprPxPQg97yeJjd5J7eXCZrHAZnFGK">](https://music.youtube.com/channel/UCAof2o3TDjIhQGnGvieez9w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xkg25KwCqeUkhAXSzBP_SJslX9GkkNXRZJEh7B6BE5j33HIr87qyCmV0b9b76krLHuW650DIYaaTMMpW">](https://music.youtube.com/channel/UCYiBYNKBZY3OtdRSENzz8BA)
 
-Nea - Some Say
+스페이스 에이(Space A) - 성숙
 
-**Albums**: Some Say
+**Albums**: 스페이스 에이(Space A) 2집(Power Bit Techno Space A)
 
-Last updated at 2020. 7. 16. 오후 6:14:41
+Last updated at 2020. 7. 16. 오후 6:15:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
