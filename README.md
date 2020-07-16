@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Mzl4UaeQDhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN9hBQWOKBVyG3jOcq3GhlA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UCIanP7HQ-W6CwT_Vas4Fa2XWE_Uxx3V-f_myKFc5bX1FhbXtNEM84rrFUWzUwjxk3yEaRtArMUvb3bVEw">](https://music.youtube.com/channel/UCYn3oeyYbbHkm5j3Z6Jx5qA)
 
-어린왕자TV - Tube (튜브) - Karasuno Memories (유리잔의 추억). 캔 - 내생에 봄날은 간다 원곡(가사첨부).
+수라즈 자간, 샤르만 조시 - Give Me Some Sunshine
 
-**Albums**: undefined
+**Albums**: 3 Idiots
 
-Last updated at 2020. 7. 16. 오후 6:00:41
+Last updated at 2020. 7. 16. 오후 6:01:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
