@@ -1,12 +1,12 @@
 ## Currently Playing
 
-<img align="left" width="100" src="https://lh3.googleusercontent.com/xHpX9HBzAszwqyQ_jD8TbsPxT7VjcbaQD1F8a8KzRYhc9iDtoZh82W9x93at3QPa43kiwrvKC12evxo">
+<img align="left" width="100" src="https://i.ytimg.com/vi/JnZYDGvXC9Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
 
-Alexander Jean - Whiskey and Morphine
+보고 듣는 음악잡지'반도사사' - 대학가요제 역대 1위곡 모음
 
-**Albums**: Head High
+**Albums**: undefined
 
-Last updated at 2020. 7. 15. 오후 9:47:43
+Last updated at 2020. 7. 16. 오전 11:31:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
