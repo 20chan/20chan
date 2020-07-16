@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000219273371-t75o28-t120x120.jpg">](https://soundcloud.com/grolok/grolok-decouverte)
+[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000171534452-maskpp-t120x120.jpg">](https://soundcloud.com/kygo/piano-jam)
 
-GROLoK Panicrum - Grolok - Decouverte
+Kygo - Piano Jam
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:04:19
+Last updated at 2020. 7. 16. 오후 12:04:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
