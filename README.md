@@ -6,7 +6,7 @@
 
 **Albums**: 스페이스 에이(Space A) 2집(Power Bit Techno Space A)
 
-Last updated at 2020. 7. 16. 오후 6:16:41
+Last updated at 2020. 7. 16. 오후 6:17:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
