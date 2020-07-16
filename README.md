@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVkZxZMH3ByBHnoMISDTVLD_wYx7GfBXeznsfHhkfew8EzAj-LKGa2yFn7vBW_5rMo33zVpKAEeK5LQE0g">](https://music.youtube.com/channel/UCi7x9i4t7_KUX2-gWLnMNkQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/g9u1L9mhVSouIkdIJCv6SOT2QTp-B_IAsZa4qUHpi5JTq8ghWmFRh0WyEXW4s9QqldchLw9v-PEVzbTXDg">](https://music.youtube.com/channel/UC3GyTNF7gU4gxY13cf9n8aQ)
 
-MAGIC! - Rude
+트래비 매코이 - Billionaire(피처링: 브루노 마스)
 
-**Albums**: Don't Kill the Magic
+**Albums**: Billionaire
 
-Last updated at 2020. 7. 16. 오후 12:32:42
+Last updated at 2020. 7. 16. 오후 12:33:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
