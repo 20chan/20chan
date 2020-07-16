@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UCIanP7HQ-W6CwT_Vas4Fa2XWE_Uxx3V-f_myKFc5bX1FhbXtNEM84rrFUWzUwjxk3yEaRtArMUvb3bVEw">](https://music.youtube.com/channel/UCYn3oeyYbbHkm5j3Z6Jx5qA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_JNKqbO7nSJYdqIa-4RfkEeu-JYBx_QMeAzcC1WFSrRXt6Crslkr99bw0GpPPw00lJIJKEc43iHPX18">](https://music.youtube.com/channel/UCvfjizX8aIDWRKl9ff70qmQ)
 
-수라즈 자간, 샤르만 조시 - Give Me Some Sunshine
+SAINt JHN - Roses
 
-**Albums**: 3 Idiots
+**Albums**: Collection One
 
-Last updated at 2020. 7. 16. 오후 6:04:41
+Last updated at 2020. 7. 16. 오후 6:05:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
