@@ -6,7 +6,7 @@ Lukas Graham(루카스 그레이엄) - Love Someone
 
 **Albums**: 3 (The Purple Album)
 
-Last updated at 2020. 7. 16. 오후 5:37:42
+Last updated at 2020. 7. 16. 오후 5:38:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
