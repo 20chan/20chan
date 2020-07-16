@@ -6,7 +6,7 @@
 
 **Albums**: 2nd Album
 
-Last updated at 2020. 7. 16. 오후 5:31:41
+Last updated at 2020. 7. 16. 오후 5:32:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
