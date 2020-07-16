@@ -6,7 +6,7 @@ XXXTENTACION - Everybody Dies In Their Nightmares
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 5:43:41
+Last updated at 2020. 7. 16. 오후 5:44:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
