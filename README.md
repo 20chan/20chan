@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000212158976-3lw4ad-t120x120.jpg">](https://soundcloud.com/saysooo/thisgirl)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000232432315-jf8b4a-t120x120.jpg">](https://soundcloud.com/skyhighbeatss/feelings)
 
-sayso - this girl
+Sky.High - feelings
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 12:08:42
+Last updated at 2020. 7. 16. 오후 12:09:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
