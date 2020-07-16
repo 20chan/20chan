@@ -1,12 +1,12 @@
-## Currently Playing
+## Currently Playing on SoundCloud
 
-<img align="left" width="100" src="https://i.ytimg.com/vi/JnZYDGvXC9Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000526825017-l6knnd-t120x120.jpg">](https://soundcloud.com/margo4prez/game-over-1?in_system_playlist=personalized-tracks%3A248946761%3A595616097)
 
-보고 듣는 음악잡지'반도사사' - 대학가요제 역대 1위곡 모음
+margø - Game Over
 
 **Albums**: undefined
 
-Last updated at 2020. 7. 16. 오전 11:31:25
+Last updated at 2020. 7. 16. 오전 11:33:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
