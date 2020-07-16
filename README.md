@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtg7-Ng8pTT0xCE0fXQm-DXtYdg6bRWO67vUsUtE0Ov0f7AaEBwcj9uOJGDaMTOUGBUHykrXS_Hd7nmX">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dief5zyohb4cWNb4HDmvIY79yngdFfWZcwQ22mIx9TOQHFCZyKwprPxPQg97yeJjd5J7eXCZrHAZnFGK">](https://music.youtube.com/channel/UCAof2o3TDjIhQGnGvieez9w)
 
-쿨 (Cool) - 진실
+Nea - Some Say
 
-**Albums**: Cool Best
+**Albums**: Some Say
 
-Last updated at 2020. 7. 16. 오후 6:11:41
+Last updated at 2020. 7. 16. 오후 6:12:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
