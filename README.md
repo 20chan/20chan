@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xmpl-W64i9hc2H6Te_hzIYE8sS1GxjMa_kQwmLVrYT5NZuxpQQT4EJCg7UQ0pwBKrJ-GHMSlSvErXAvy">](https://music.youtube.com/channel/UC_Rbh27IHdXhL6LJdlOTOEQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/U3JkRKbeC20/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCMpr3n_MFdPE780mKcVbLyw)
 
-마틴 에스테베즈 - Sriracha
+Maya Official - MAYA(마야) - 서시
 
-**Albums**: NOTHANKYOU.
+**Albums**: undefined
 
-Last updated at 2020. 7. 16. 오후 5:01:02
+Last updated at 2020. 7. 16. 오후 5:03:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
