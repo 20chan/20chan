@@ -6,7 +6,7 @@ Nea - Some Say
 
 **Albums**: Some Say
 
-Last updated at 2020. 7. 16. 오후 6:13:41
+Last updated at 2020. 7. 16. 오후 6:14:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
