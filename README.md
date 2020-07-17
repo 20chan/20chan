@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b6XyhCIM2Dj-RjrLU2aKgzqBjjyFLB8lF5tPVZ40KrQ2ZKQvMIJsKpax6JebfwPCN8o-BGoT-w0RM-yZhA">](https://music.youtube.com/channel/UCjXlqnP_jkSBAVyVPtTA1tw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-We Are The Night - Stones
+짙은 - 백야
 
-**Albums**: Midnight Fantasy
+**Albums**: 백야 - EP
 
-Last updated at 2020. 7. 17. 오전 11:16:28
+Last updated at 2020. 7. 17. 오전 11:17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
