@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/b8uLwICM59M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXyfUkEbZ3291XzSprCkzoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-로제네일 - 마야 사랑은 영원하다
+조광일 - Acrobat 곡예사
 
-**Albums**: undefined
+**Albums**: Acrobat 곡예사
 
-Last updated at 2020. 7. 17. 오전 10:29:28
+Last updated at 2020. 7. 17. 오전 10:37:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
