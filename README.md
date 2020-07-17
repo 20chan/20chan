@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
 
-Gryffin - Out of My Mind
+SURL (설) - Dry Flower
 
-**Albums**: Gravity
+**Albums**: I Know
 
-Last updated at 2020. 7. 17. 오전 11:05:11
+Last updated at 2020. 7. 17. 오전 11:06:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
