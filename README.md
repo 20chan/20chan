@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000180586363-6zc0fi-t120x120.jpg">](https://soundcloud.com/thisismiro/an-elegy-for-innocence)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000229032879-2arf83-t120x120.jpg">](https://soundcloud.com/thisismiro/i-like-me-better)
 
-Miro - An Elegy For Innocence
+Miro - Lauv - I Like Me Better (Miro Remix)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:21
+Last updated at 17/07/2020 15:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
