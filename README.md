@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000259752467-gl7e3v-t120x120.jpg">](https://soundcloud.com/halosbeats/track-4)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000358353909-h4t77a-t120x120.jpg">](https://soundcloud.com/lossapardo/sleep-3-am-1)
 
-h a l o s - without u
+Lossapardo - Sleep (3 A.m.)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:00
+Last updated at 17/07/2020 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
