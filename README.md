@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000131779994-o9yh17-t120x120.jpg">](https://soundcloud.com/forfucksayk/alone)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000217214334-vz2jqb-t120x120.jpg">](https://soundcloud.com/skyhighbeatss/its-just-a-blur)
 
-⠀ - alone (unplugged)
+Sky.High - It's just a blur
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:09
+Last updated at 17/07/2020 15:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
