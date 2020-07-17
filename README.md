@@ -6,7 +6,7 @@ Zitten - 잘 지내자, 우리
 
 **Albums**: 사랑의 단상 Chapter 5. The Letter From Nowhere
 
-Last updated at 2020. 7. 17. 오전 11:21:28
+Last updated at 2020. 7. 17. 오전 11:22:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
