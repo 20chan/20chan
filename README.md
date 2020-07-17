@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000216213949-yv2upx-t120x120.jpg">](https://soundcloud.com/lowlypalace/mickey-valen-wildcard-feat-feli-ferraro)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000168290249-k3il0r-t120x120.jpg">](https://soundcloud.com/monstercat/puppet-foria-im-here)
 
-Lowly. - Mickey Valen - Wildcard (feat. Feli Ferraro)
+Monstercat - Puppet & Foria - I'm Here
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:32
+Last updated at 17/07/2020 15:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
