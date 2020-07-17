@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000104987790-fapimd-t120x120.jpg">](https://soundcloud.com/andruofficial/faded)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000159566824-3a541g-t120x120.jpg">](https://soundcloud.com/littletybee/03-more-like-jason)
 
-ANDRU. - FADED / ANDRU REMIX
+LittleTybee - More Like Jason
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 14:35
+Last updated at 17/07/2020 14:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
