@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UDv8NNvqP-dxDTzBDI8BckHOFDMgvwzWJCqSQfUg7mGD028VUvQZRfal43dbLNB3GFf51vTy_wjINXSZ">](https://music.youtube.com/channel/UCEj7hfNeB6sgM7ipygm8zvQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-The Instrumental Back Room Boys - Boulevard of Broken Dreams (Instrumental)
+Green Day - Jesus of Suburbia
 
-**Albums**: Instrumental Extravaganza - 50 Classics
+**Albums**: American Idiot
 
-Last updated at 17/07/2020 12:51
+Last updated at 17/07/2020 12:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
