@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000221160458-yh4h1a-t120x120.jpg">](https://soundcloud.com/marshmellomusic/movingon)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000138224067-fisoy3-t120x120.jpg">](https://soundcloud.com/emmitfenn/painting-greys)
 
-marshmello - Marshmello - Moving On (Original Mix)
+Emmit Fenn - Painting Greys
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:43
+Last updated at 17/07/2020 15:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
