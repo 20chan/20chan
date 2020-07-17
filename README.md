@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_h9Tdj8bwTeKtGYQxdaAObWmw_jS6Ba9UtEcwc2Pd1YKE_erebQ0NOj2c3rwuTGyv29iZDo24I8hM3XG">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RPbBuR-vdTpRxVytQl7VxHHZSAe-L-a-jAxt7j497656LhZFoiaZBXEHwVVx-bvd3AUL8n_Nx57d5Uk">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-Stephen - Stray Nights
+Stephen - Play Me Like A Violin
 
-**Albums**: Stray Nights
+**Albums**: Play Me Like A Violin
 
-Last updated at 17/07/2020 14:18
+Last updated at 17/07/2020 14:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
