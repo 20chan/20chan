@@ -6,7 +6,7 @@ Zitten - Sunflower
 
 **Albums**: diaspora : 흩어진 사람들 [EP]
 
-Last updated at 2020. 7. 17. 오전 11:27:28
+Last updated at 2020. 7. 17. 오전 11:28:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
