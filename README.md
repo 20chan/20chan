@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DDejkGQYQQpxbhXHoZfJ3XivBc1ke5Q3c-mAHngNnr9C7_5az3uyA8famHNxnATUJJTDsypbA82G8up6VA">](https://music.youtube.com/channel/UCKo2HYwW-g0RPJ8zvU0CcUg)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000504106245-oc4edn-t120x120.jpg">](https://soundcloud.com/egzod/better-with-you)
 
-Adventure Club - Gold (feat. Yuna)
+Egzod - Better With You
 
-**Albums**: Calling All Heroes
+**Albums**: undefined
 
-Last updated at 17/07/2020 14:54
+Last updated at 17/07/2020 14:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
