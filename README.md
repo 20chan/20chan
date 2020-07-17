@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HVv1bsaPtpsbpwRaQ7T3RZbO5ZWZVBSB5RNdUpD0PrUlCydFGk82DtA_IHCY7GQUm_3aJG6nHdINaBE">](https://music.youtube.com/channel/UC4FxRR1ZZcap_CY6fTQUU3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-Jeremy Zucker - desire
+Green Day - Wake Me up When September Ends
 
-**Albums**: summer,
+**Albums**: American Idiot
 
-Last updated at 17/07/2020 12:10
+Last updated at 17/07/2020 12:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
