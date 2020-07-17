@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kezQwtykubRS-2XENms-V9fuUClpaLKfDkUjo-uOAN9Qk0-BKoVnSW1RQt7gqbIc2vsQccx8g6tgvZpO">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-조광일 - KOREA
+SID - Rain
 
-**Albums**: 한국
+**Albums**: Rain
 
-Last updated at 2020. 7. 17. 오전 10:44:11
+Last updated at 2020. 7. 17. 오전 10:45:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
