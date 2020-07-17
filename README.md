@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w4eJMPRASjXtrIg_tPmn2z_SkKd-Z2KlAojst-xgOcOjI5qzkaDTBlt9ZpmuyngY-L3NDYZLszz9ViX4">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Zitten - 잘 지내자, 우리
+Zitten - Sunflower
 
-**Albums**: 사랑의 단상 Chapter 5. The Letter From Nowhere
+**Albums**: diaspora : 흩어진 사람들 [EP]
 
-Last updated at 2020. 7. 17. 오전 11:25:28
+Last updated at 2020. 7. 17. 오전 11:26:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
