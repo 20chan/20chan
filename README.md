@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7kF0IlqnI1lAElVUx4ULfon091DmlTE8qNCU6WH01hvrLWXY4zTDJ1LOttfs8mficB74ifppjS9Xonc">](https://music.youtube.com/channel/UCiF_SnCs6b4r2JWP9yMCX3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_h9Tdj8bwTeKtGYQxdaAObWmw_jS6Ba9UtEcwc2Pd1YKE_erebQ0NOj2c3rwuTGyv29iZDo24I8hM3XG">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-Sub Urban - Cradles
+Stephen - Stray Nights
 
-**Albums**: Cradles
+**Albums**: Stray Nights
 
-Last updated at 17/07/2020 14:16
+Last updated at 17/07/2020 14:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
