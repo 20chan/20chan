@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5BzzWC7JgspEJy6VL8tZVKST-1zfZH2XiAsIkKbkCqHNsyp0_zNBnOl6IoBANcBRznL9R6WC28zbXjg">](https://music.youtube.com/channel/UC5J__UU0Y7ZAVluolcIjrbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-Panic! At The Disco - This Is Gospel
+Green Day - 21 Guns
 
-**Albums**: Too Weird To Live, Too Rare To Die!
+**Albums**: 21st Century Breakdown
 
-Last updated at 17/07/2020 12:35
+Last updated at 17/07/2020 12:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
