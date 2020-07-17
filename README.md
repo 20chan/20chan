@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7kF0IlqnI1lAElVUx4ULfon091DmlTE8qNCU6WH01hvrLWXY4zTDJ1LOttfs8mficB74ifppjS9Xonc">](https://music.youtube.com/channel/UCiF_SnCs6b4r2JWP9yMCX3g)
 
-My Chemical Romance - I Don't Love You
+Sub Urban - Cradles
 
-**Albums**: The Black Parade
+**Albums**: Cradles
 
-Last updated at 17/07/2020 13:05
+Last updated at 17/07/2020 14:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
