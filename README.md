@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vuQfCfC6ryZoBEpCwblUwWDeGENKKllTIQtRU6GRRXaDIIbF0EPEM4IRQr4TVUTzssv2Vph7RIYNoOfgpw">](https://music.youtube.com/channel/UCcMcUoDPCQhtONMyuKJs-dg)
 
-Green Day - Restless Heart Syndrome
+Sum 41 - With Me
 
-**Albums**: 21st Century Breakdown
+**Albums**: Underclass Hero
 
-Last updated at 17/07/2020 12:45
+Last updated at 17/07/2020 12:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
