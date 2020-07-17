@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000045200691-ce410i-t120x120.jpg">](https://soundcloud.com/cherrytreerecords/marianas-trench-desperate)
+[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000171534452-maskpp-t120x120.jpg">](https://soundcloud.com/kygo/piano-jam)
 
-Cherrytree Records - Marianas Trench - Desperate Measures
+Kygo - Piano Jam
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 16:51
+Last updated at 07/17/2020 16:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
