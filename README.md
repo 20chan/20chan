@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000136686246-5k1uaa-t120x120.jpg">](https://soundcloud.com/zedd/zedd-papercut-ft-troye-sivan-grey-remix)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000130555477-szlvv7-t120x120.jpg">](https://soundcloud.com/spinnin-deep/felix-jaehn-ft-lost-frequencies-linying-eagle-eyes-lucas-steve-rmx-preview-out-oct-19)
 
-Zedd - Zedd - Papercut (feat. Troye Sivan) [Grey Remix]
+Spinnin' Deep - Felix Jaehn ft. Lost Frequencies & Linying - Eagle Eyes (Lucas & Steve Remix) [Out Now]
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:51
+Last updated at 17/07/2020 15:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
