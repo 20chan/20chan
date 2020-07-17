@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000179925266-k08k86-t120x120.jpg">](https://soundcloud.com/polydorpress/gone-gone-gone-phillip)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000096323607-kvmm5m-t120x120.jpg">](https://soundcloud.com/runagroundmusic/take-me-to-church-hozier-official-cover-runaground)
 
-PolydorRecords - Gone, Gone, Gone - Phillip Phillips
+RUNAGROUND - Take Me To Church - Hozier - Official Cover - RUNAGROUND
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 17:14
+Last updated at 07/17/2020 17:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
