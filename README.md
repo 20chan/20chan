@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000177382109-3n93g7-t120x120.jpg">](https://soundcloud.com/xocollective/closer)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000045200691-ce410i-t120x120.jpg">](https://soundcloud.com/cherrytreerecords/marianas-trench-desperate)
 
-XO Collective - The Chainsmokers - Closer Ft. Halsey (Gill Chang Remix)
+Cherrytree Records - Marianas Trench - Desperate Measures
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 16:48
+Last updated at 07/17/2020 16:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
