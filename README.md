@@ -6,7 +6,7 @@ Swanky Tunes & Going Deeper - Be Okay (feat. Boogshe)
 
 **Albums**: Be Okay
 
-Last updated at 2020. 7. 17. 오전 11:01:11
+Last updated at 2020. 7. 17. 오전 11:02:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
