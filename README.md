@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kknRLRdwe1RiRjPn1b6StOfvG1gsp5w01RjEbQmZwV6vG89BEPB6hsIPVOEFkUb-pIzgwwovm6yu8snz">](https://music.youtube.com/channel/UCGEfxrwIPBuRqxeh-3JUSkg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/b8uLwICM59M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXyfUkEbZ3291XzSprCkzoQ)
 
-Billy Joel(빌리 조엘) - Piano Man
+로제네일 - 마야 사랑은 영원하다
 
-**Albums**: Rock Classics Of The '70s
+**Albums**: undefined
 
-Last updated at 2020. 7. 17. 오전 10:28:28
+Last updated at 2020. 7. 17. 오전 10:29:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
