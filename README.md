@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000147448569-0wivwr-t120x120.jpg">](https://soundcloud.com/tyler-arteaga/paraphernalia)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000177382109-3n93g7-t120x120.jpg">](https://soundcloud.com/xocollective/closer)
 
-Tyler - Paraphernalia
+XO Collective - The Chainsmokers - Closer Ft. Halsey (Gill Chang Remix)
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 16:44
+Last updated at 07/17/2020 16:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
