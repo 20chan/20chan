@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000216539853-z9zcvq-t120x120.jpg">](https://soundcloud.com/lowlypalace/neo-noir-when-i-was-young-feat-brooke-williams)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000191604834-v4izva-t120x120.jpg">](https://soundcloud.com/marshmellomusic/ritual)
 
-Lowly. - Neo Noir - When I Was Young (feat. Brooke Williams)
+marshmello - Ritual (feat. Wrabel)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 16:05
+Last updated at 17/07/2020 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
