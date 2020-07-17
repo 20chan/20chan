@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000187593871-q5ggwo-t120x120.jpg">](https://soundcloud.com/thelifteddjs/mr-sandman-ft-ashliann)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000216539853-z9zcvq-t120x120.jpg">](https://soundcloud.com/lowlypalace/neo-noir-when-i-was-young-feat-brooke-williams)
 
-The Lifted - Mr Sandman ft. Ashliann
+Lowly. - Neo Noir - When I Was Young (feat. Brooke Williams)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 16:01
+Last updated at 17/07/2020 16:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
