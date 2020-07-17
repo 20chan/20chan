@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000216191979-2hslnz-t120x120.jpg">](https://soundcloud.com/worsethanthis/stop-messin-me-up-when-im-tryna-summon-bahamut)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000198407999-86lt6e-t120x120.jpg">](https://soundcloud.com/candylanddjs/hold)
 
-a l e x - stop messin me up when im tryna summon bahamut
+Candyland - Elephante - Hold (Candyland Remix)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:18
+Last updated at 17/07/2020 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
