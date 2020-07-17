@@ -6,7 +6,7 @@ My Chemical Romance - Mama
 
 **Albums**: The Black Parade
 
-Last updated at 17/07/2020 12:24
+Last updated at 17/07/2020 12:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
