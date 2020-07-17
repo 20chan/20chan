@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000173856749-yd3we5-t120x120.jpg">](https://soundcloud.com/martingarrix/itnol)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000187095802-e96wgd-t120x120.jpg">](https://soundcloud.com/r3hab/zara-larsson-aint-my-fault-r3hab-remix)
 
-Martin Garrix - Martin Garrix & Bebe Rexha - In The Name Of Love
+R3HAB - Zara Larsson - Aint My Fault (R3hab Remix)
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 17:25
+Last updated at 07/17/2020 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
