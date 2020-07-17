@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-짙은 - 백야
+짙은 - 고래
 
 **Albums**: 백야 - EP
 
-Last updated at 2020. 7. 17. 오전 11:33:28
+Last updated at 2020. 7. 17. 오전 11:34:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
