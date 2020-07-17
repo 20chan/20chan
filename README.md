@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000144735296-rqpqnq-t120x120.jpg">](https://soundcloud.com/opia-official/falling)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000085940738-2313fo-t120x120.jpg">](https://soundcloud.com/candylanddjs/gold-candyland-revoke-remix-1)
 
-Opia - Falling
+Candyland - Adventure Club - Gold (Candyland & REVOKE Remix)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 14:45
+Last updated at 17/07/2020 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
