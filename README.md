@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zBf5D8Gdx9grQeINrBAyaU0nRbnZra1CTe-V07ZuRmthDfoIKXexKe3uifSTqNoKj4nmygGHLFFRXFeMsA">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-SID - Rain
+SID - Akaite
 
-**Albums**: Rain
+**Albums**: OUTSIDER
 
-Last updated at 2020. 7. 17. 오전 10:48:12
+Last updated at 2020. 7. 17. 오전 10:49:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
