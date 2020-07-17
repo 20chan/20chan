@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000096711568-870lt1-t120x120.jpg">](https://soundcloud.com/louisthechild/bodygold)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000129101224-nncvns-t120x120.jpg">](https://soundcloud.com/louisthechild/itsstrange)
 
-Louis The Child - Oh Wonder - Body Gold (Louis The Child Remix)
+Louis The Child - It's Strange (Ft. K.Flay)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 14:27
+Last updated at 17/07/2020 14:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
