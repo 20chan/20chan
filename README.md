@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BNv7OJkE8vtDUCPFkXHCUj1yKW5EmD9OyrCCIOnlU1HYs9j_E9k5ep08eKnXJhijiMgRDUCe0kgz2JOrlw">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zu5did6sjuNeGw3vf4iSxsMyEJ4lc6rPysVMJOtH800aklaNsc-b06fz_w5BhgXSLRL9RJZ_F9o_yck">](https://music.youtube.com/channel/UC_hqZWcuNgQnRTulFy6BN7w)
 
-SURL (설) - Cilla
+Sodagreen - Violently Sad And Beautiful
 
-**Albums**: Cilla
+**Albums**: Violently Sad And Beautiful
 
-Last updated at 2020. 7. 17. 오전 11:10:28
+Last updated at 2020. 7. 17. 오전 11:11:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
