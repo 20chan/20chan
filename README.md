@@ -6,7 +6,7 @@ Zitten - the things that disappear 사라져가는 것들
 
 **Albums**: the things that disappear 사라져가는 것들
 
-Last updated at 2020. 7. 17. 오전 11:42:29
+Last updated at 2020. 7. 17. 오전 11:43:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
