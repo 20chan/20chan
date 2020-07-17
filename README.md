@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zBf5D8Gdx9grQeINrBAyaU0nRbnZra1CTe-V07ZuRmthDfoIKXexKe3uifSTqNoKj4nmygGHLFFRXFeMsA">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-SID - Akaite
+Maroon 5(마룬 파이브) - Memories
 
-**Albums**: OUTSIDER
+**Albums**: Memories
 
-Last updated at 2020. 7. 17. 오전 10:49:11
+Last updated at 2020. 7. 17. 오전 10:50:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
