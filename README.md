@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zu5did6sjuNeGw3vf4iSxsMyEJ4lc6rPysVMJOtH800aklaNsc-b06fz_w5BhgXSLRL9RJZ_F9o_yck">](https://music.youtube.com/channel/UC_hqZWcuNgQnRTulFy6BN7w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/b6XyhCIM2Dj-RjrLU2aKgzqBjjyFLB8lF5tPVZ40KrQ2ZKQvMIJsKpax6JebfwPCN8o-BGoT-w0RM-yZhA">](https://music.youtube.com/channel/UCjXlqnP_jkSBAVyVPtTA1tw)
 
-Sodagreen - Violently Sad And Beautiful
+We Are The Night - Stones
 
-**Albums**: Violently Sad And Beautiful
+**Albums**: Midnight Fantasy
 
-Last updated at 2020. 7. 17. 오전 11:12:28
+Last updated at 2020. 7. 17. 오전 11:13:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
