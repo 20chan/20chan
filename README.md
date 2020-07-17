@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000138224067-fisoy3-t120x120.jpg">](https://soundcloud.com/emmitfenn/painting-greys)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000136686246-5k1uaa-t120x120.jpg">](https://soundcloud.com/zedd/zedd-papercut-ft-troye-sivan-grey-remix)
 
-Emmit Fenn - Painting Greys
+Zedd - Zedd - Papercut (feat. Troye Sivan) [Grey Remix]
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:47
+Last updated at 17/07/2020 15:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
