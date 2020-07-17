@@ -6,7 +6,7 @@ My Chemical Romance - Welcome to the Black Parade
 
 **Albums**: The Black Parade
 
-Last updated at 17/07/2020 13:01
+Last updated at 17/07/2020 13:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
