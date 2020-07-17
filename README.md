@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000191604834-v4izva-t120x120.jpg">](https://soundcloud.com/marshmellomusic/ritual)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000117346024-1s3yn6-t120x120.jpg">](https://soundcloud.com/unlikepluto/diplo-revolution-unlike-pluto-remix-1)
 
-marshmello - Ritual (feat. Wrabel)
+Unlike Pluto - Diplo - Revolution (Unlike Pluto Remix) [feat. Faustix & Imanos and Kai]
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 16:09
+Last updated at 17/07/2020 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
