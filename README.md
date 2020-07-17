@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fz9V2OeeZX04UxIN1xlSJE3WEpHettIOddLz1172A_vtjQ-zTG5uYq4xOS_OdjSmb-YPWrqI1CufsWc">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-조광일 - Acrobat 곡예사
+Han Yo Han 및 Swings - 호루라기(피처링: 나플라(nafla), 창모(CHANGMO))
 
-**Albums**: Acrobat 곡예사
+**Albums**: 호루라기
 
-Last updated at 2020. 7. 17. 오전 10:37:14
+Last updated at 2020. 7. 17. 오전 10:38:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
