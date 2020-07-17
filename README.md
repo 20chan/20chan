@@ -6,7 +6,7 @@ Sodagreen - Violently Sad And Beautiful
 
 **Albums**: Violently Sad And Beautiful
 
-Last updated at 2020. 7. 17. 오전 11:11:28
+Last updated at 2020. 7. 17. 오전 11:12:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
