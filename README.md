@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000129101224-nncvns-t120x120.jpg">](https://soundcloud.com/louisthechild/itsstrange)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000104987790-fapimd-t120x120.jpg">](https://soundcloud.com/andruofficial/faded)
 
-Louis The Child - It's Strange (Ft. K.Flay)
+ANDRU. - FADED / ANDRU REMIX
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 14:31
+Last updated at 17/07/2020 14:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
