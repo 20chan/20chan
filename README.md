@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kezQwtykubRS-2XENms-V9fuUClpaLKfDkUjo-uOAN9Qk0-BKoVnSW1RQt7gqbIc2vsQccx8g6tgvZpO">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-조광일 - Acrobat 곡예사
+조광일 - KOREA
 
-**Albums**: Acrobat 곡예사
+**Albums**: 한국
 
-Last updated at 2020. 7. 17. 오전 10:42:12
+Last updated at 2020. 7. 17. 오전 10:43:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
