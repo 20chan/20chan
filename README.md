@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000010190535-p1ondm-t120x120.jpg">](https://soundcloud.com/atlanticrecords/jason-mraz-im-yours)
+[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000179925266-k08k86-t120x120.jpg">](https://soundcloud.com/polydorpress/gone-gone-gone-phillip)
 
-Atlantic Records - Jason Mraz - I'm Yours
+PolydorRecords - Gone, Gone, Gone - Phillip Phillips
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 17:11
+Last updated at 07/17/2020 17:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
