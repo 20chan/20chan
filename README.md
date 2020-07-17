@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2rSqxXTYIox46twhc2zC73tSPuzHz9XBx04tojSXQmXN4SK7NgYdwX5PgqcX7reoPG_3WrjnIu-hbm5G">](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-Ed Sheeran(에드 시런) - Best Part of Me(피처링: YEBBA)
+NOTD & Shy Martin - Keep You Mine
 
-**Albums**: No.6 Collaborations Project
+**Albums**: Keep You Mine
 
-Last updated at 2020. 7. 17. 오전 10:55:11
+Last updated at 2020. 7. 17. 오전 10:57:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
