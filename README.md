@@ -6,7 +6,7 @@ We Are The Night - Stones
 
 **Albums**: Midnight Fantasy
 
-Last updated at 2020. 7. 17. 오전 11:14:28
+Last updated at 2020. 7. 17. 오전 11:15:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
