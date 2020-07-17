@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000148366071-k21fyp-t120x120.jpg">](https://soundcloud.com/wewideawake/love-me-feat-jacob-banks-1)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000147448569-0wivwr-t120x120.jpg">](https://soundcloud.com/tyler-arteaga/paraphernalia)
 
-WiDE AWAKE - Love Me Feat. Jacob Banks
+Tyler - Paraphernalia
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 16:30
+Last updated at 17/07/2020 16:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
