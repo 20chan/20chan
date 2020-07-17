@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
 
-Green Day - Jesus of Suburbia
+My Chemical Romance - Welcome to the Black Parade
 
-**Albums**: American Idiot
+**Albums**: The Black Parade
 
-Last updated at 17/07/2020 12:59
+Last updated at 17/07/2020 13:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
