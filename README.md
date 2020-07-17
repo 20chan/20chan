@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/e8gMid5aTcJiSyHegEXfH9Lb1g8G9g7pSBPjnX8NuveenWFgwAJIgEpt_m2-A1wJW5ac0GngSEbI9aj4">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
 
-자우림 - 있지
+My Chemical Romance - Mama
 
-**Albums**: 자우림
+**Albums**: The Black Parade
 
-Last updated at 17/07/2020 12:21
+Last updated at 17/07/2020 12:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
