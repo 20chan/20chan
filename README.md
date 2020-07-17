@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_JNKqbO7nSJYdqIa-4RfkEeu-JYBx_QMeAzcC1WFSrRXt6Crslkr99bw0GpPPw00lJIJKEc43iHPX18">](https://music.youtube.com/channel/UCvfjizX8aIDWRKl9ff70qmQ)
 
-짙은 - 백야
+SAINt JHN - Roses
 
-**Albums**: 백야 - EP
+**Albums**: Collection One
 
-Last updated at 2020. 7. 17. 오전 11:53:28
+Last updated at 17/07/2020 12:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
