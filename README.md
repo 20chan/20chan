@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J25Tcd_lCkceX6MHE5CMrK2mH3IzVaNDhnkSRNuEWoplPpdYj5-mferr3vD2BXxvhn3QF0Bk-dwIXwrX">](https://music.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
 
-Green Day - Wake Me up When September Ends
+Lauv - Paris in the Rain
 
-**Albums**: American Idiot
+**Albums**: I met you when I was 18. (the playlist)
 
-Last updated at 17/07/2020 12:14
+Last updated at 17/07/2020 12:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
