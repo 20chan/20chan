@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000146962349-4ych0q-t120x120.jpg">](https://soundcloud.com/alisson-vieira-407587418/veorra-sinner)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000140341222-fp7lcq-t120x120.jpg">](https://soundcloud.com/andrew-rincon-969657416/bl3r-friends-family)
 
-Alisson Vieira - Veorra - Sinner
+Andrew Rincon - BL3R - Friends & Family
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 16:19
+Last updated at 17/07/2020 16:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
