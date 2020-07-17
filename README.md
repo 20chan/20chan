@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Yaf9iuEpgz4BKdYz1ppDTAZygwskCXce0EMK8kt8_tHctN-h3H_ppJ2kYNurJlMubN6GFTeiiEna64i3EA">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/A4rCF56VxTYbeB5qgu3HQRJS1O2W6cPnVRG_f883IzdVw_qxpm5pD-FWWtpeJytCu5J_UZRQtUmrwLOt">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Zitten - the things that disappear 사라져가는 것들
+Zitten - I'll Be There
 
-**Albums**: the things that disappear 사라져가는 것들
+**Albums**: Rain Or Shine (Original Television Soundtrack / Pt. 1)
 
-Last updated at 2020. 7. 17. 오전 11:45:28
+Last updated at 2020. 7. 17. 오전 11:46:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
