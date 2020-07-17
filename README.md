@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mlMNQUOQhp9ah9tRUEDHlsPps3HmZ5UMIjnflZdzVcJl7ng_2_-q3ey7-OfQioz3FoH0cTty5lO07TPm">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5BzzWC7JgspEJy6VL8tZVKST-1zfZH2XiAsIkKbkCqHNsyp0_zNBnOl6IoBANcBRznL9R6WC28zbXjg">](https://music.youtube.com/channel/UC5J__UU0Y7ZAVluolcIjrbw)
 
-짙은 - Feel Alright
+Panic! At The Disco - This Is Gospel
 
-**Albums**: Wonderland
+**Albums**: Too Weird To Live, Too Rare To Die!
 
-Last updated at 17/07/2020 12:34
+Last updated at 17/07/2020 12:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
