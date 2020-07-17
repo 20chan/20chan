@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A4rCF56VxTYbeB5qgu3HQRJS1O2W6cPnVRG_f883IzdVw_qxpm5pD-FWWtpeJytCu5J_UZRQtUmrwLOt">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Zitten - I'll Be There
+짙은 - 백야
 
-**Albums**: Rain Or Shine (Original Television Soundtrack / Pt. 1)
+**Albums**: 백야 - EP
 
-Last updated at 2020. 7. 17. 오전 11:49:28
+Last updated at 2020. 7. 17. 오전 11:50:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
