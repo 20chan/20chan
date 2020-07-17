@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J25Tcd_lCkceX6MHE5CMrK2mH3IzVaNDhnkSRNuEWoplPpdYj5-mferr3vD2BXxvhn3QF0Bk-dwIXwrX">](https://music.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/e8gMid5aTcJiSyHegEXfH9Lb1g8G9g7pSBPjnX8NuveenWFgwAJIgEpt_m2-A1wJW5ac0GngSEbI9aj4">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-Lauv - Paris in the Rain
+자우림 - 있지
 
-**Albums**: I met you when I was 18. (the playlist)
+**Albums**: 자우림
 
-Last updated at 17/07/2020 12:18
+Last updated at 17/07/2020 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
