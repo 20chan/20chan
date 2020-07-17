@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000143137784-b6hqbl-t120x120.jpg">](https://soundcloud.com/nocopyrightsounds/foria-break-away-ncs-release)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000221160458-yh4h1a-t120x120.jpg">](https://soundcloud.com/marshmellomusic/movingon)
 
-NCS - Foria - Break Away [NCS Release]
+marshmello - Marshmello - Moving On (Original Mix)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:40
+Last updated at 17/07/2020 15:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
