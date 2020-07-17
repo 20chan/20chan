@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000171534452-maskpp-t120x120.jpg">](https://soundcloud.com/kygo/piano-jam)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000051272448-1ma0pn-t120x120.jpg">](https://soundcloud.com/martingarrix/martin-garrix-animals-original)
 
-Kygo - Piano Jam
+Martin Garrix - Martin Garrix - Animals (Original Mix) OUT NOW!
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 16:54
+Last updated at 07/17/2020 16:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
