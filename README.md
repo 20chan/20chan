@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000198407999-86lt6e-t120x120.jpg">](https://soundcloud.com/candylanddjs/hold)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000180586363-6zc0fi-t120x120.jpg">](https://soundcloud.com/thisismiro/an-elegy-for-innocence)
 
-Candyland - Elephante - Hold (Candyland Remix)
+Miro - An Elegy For Innocence
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:20
+Last updated at 17/07/2020 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
