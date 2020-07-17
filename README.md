@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mlMNQUOQhp9ah9tRUEDHlsPps3HmZ5UMIjnflZdzVcJl7ng_2_-q3ey7-OfQioz3FoH0cTty5lO07TPm">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-짙은 - 고래
+짙은 - Feel Alright
 
-**Albums**: 백야 - EP
+**Albums**: Wonderland
 
-Last updated at 2020. 7. 17. 오전 11:37:28
+Last updated at 2020. 7. 17. 오전 11:38:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
