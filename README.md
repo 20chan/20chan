@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000012560643-t526va-t120x120.jpg">](https://soundcloud.com/m83/midnight-city)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000216191979-2hslnz-t120x120.jpg">](https://soundcloud.com/worsethanthis/stop-messin-me-up-when-im-tryna-summon-bahamut)
 
-M83 - Midnight City
+a l e x - stop messin me up when im tryna summon bahamut
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:14
+Last updated at 17/07/2020 15:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
