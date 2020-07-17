@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000128892724-4sypwn-t120x120.jpg">](https://soundcloud.com/trapmusic/prismo-senses)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000146962349-4ych0q-t120x120.jpg">](https://soundcloud.com/alisson-vieira-407587418/veorra-sinner)
 
-Pantheon: Anarchy - Prismo - Senses
+Alisson Vieira - Veorra - Sinner
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 16:15
+Last updated at 17/07/2020 16:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
