@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000162741334-9pxh3m-t120x120.jpg">](https://soundcloud.com/marshmellomusic/alone)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000173856749-yd3we5-t120x120.jpg">](https://soundcloud.com/martingarrix/itnol)
 
-marshmello - Alone (Original Mix)
+Martin Garrix - Martin Garrix & Bebe Rexha - In The Name Of Love
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 17:22
+Last updated at 07/17/2020 17:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
