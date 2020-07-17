@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BNv7OJkE8vtDUCPFkXHCUj1yKW5EmD9OyrCCIOnlU1HYs9j_E9k5ep08eKnXJhijiMgRDUCe0kgz2JOrlw">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
 
-SURL (설) - Dry Flower
+SURL (설) - Cilla
 
-**Albums**: I Know
+**Albums**: Cilla
 
-Last updated at 2020. 7. 17. 오전 11:08:28
+Last updated at 2020. 7. 17. 오전 11:09:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
