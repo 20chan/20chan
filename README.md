@@ -6,7 +6,7 @@ Gryffin - Out of My Mind
 
 **Albums**: Gravity
 
-Last updated at 2020. 7. 17. 오전 11:04:11
+Last updated at 2020. 7. 17. 오전 11:05:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
