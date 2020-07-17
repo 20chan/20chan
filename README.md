@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000030316712-tau1u9-t120x120.jpg">](https://soundcloud.com/francescomarzona/coldplay-viva-la-vida)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000010190535-p1ondm-t120x120.jpg">](https://soundcloud.com/atlanticrecords/jason-mraz-im-yours)
 
-francescomarzona - Coldplay - Viva la vida
+Atlantic Records - Jason Mraz - I'm Yours
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 17:03
+Last updated at 07/17/2020 17:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
