@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000140341222-fp7lcq-t120x120.jpg">](https://soundcloud.com/andrew-rincon-969657416/bl3r-friends-family)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000117732237-gbnv8f-t120x120.jpg">](https://soundcloud.com/eslamok99/ivarelli-fast-and-sad)
 
-Andrew Rincon - BL3R - Friends & Family
+Eslam Osama - Ivarelli - Fast And Sad
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 16:24
+Last updated at 17/07/2020 16:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
