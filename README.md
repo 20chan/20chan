@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mlMNQUOQhp9ah9tRUEDHlsPps3HmZ5UMIjnflZdzVcJl7ng_2_-q3ey7-OfQioz3FoH0cTty5lO07TPm">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Yaf9iuEpgz4BKdYz1ppDTAZygwskCXce0EMK8kt8_tHctN-h3H_ppJ2kYNurJlMubN6GFTeiiEna64i3EA">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-짙은 - Feel Alright
+Zitten - the things that disappear 사라져가는 것들
 
-**Albums**: Wonderland
+**Albums**: the things that disappear 사라져가는 것들
 
-Last updated at 2020. 7. 17. 오전 11:41:28
+Last updated at 2020. 7. 17. 오전 11:42:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
