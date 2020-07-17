@@ -6,7 +6,7 @@ Green Day - 21 Guns
 
 **Albums**: 21st Century Breakdown
 
-Last updated at 17/07/2020 12:38
+Last updated at 17/07/2020 12:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
