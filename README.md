@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RPbBuR-vdTpRxVytQl7VxHHZSAe-L-a-jAxt7j497656LhZFoiaZBXEHwVVx-bvd3AUL8n_Nx57d5Uk">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/36rLDKq-Kt0d6wjnYld_L3UM-b4i5t_Fbvnc7GJuy0Gn88wDIHWiDclMPxL4KPxtmrt2oPoWoD-XxtPu">](https://music.youtube.com/channel/UCjyywPk0JsVpB6ZsHuMj6Eg)
 
-Stephen - Play Me Like A Violin
+Ollie - Stuck
 
-**Albums**: Play Me Like A Violin
+**Albums**: Stuck
 
-Last updated at 17/07/2020 14:22
+Last updated at 17/07/2020 14:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
