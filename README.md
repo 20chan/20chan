@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PXlUYnxE7KN8Odw_tUxkdNIbBaOIOTwyoVPgtIEN5s6dmDoGc-AYtDbIxxtwOXwQ0RPOxE2TMbsb3s45">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kknRLRdwe1RiRjPn1b6StOfvG1gsp5w01RjEbQmZwV6vG89BEPB6hsIPVOEFkUb-pIzgwwovm6yu8snz">](https://music.youtube.com/channel/UCGEfxrwIPBuRqxeh-3JUSkg)
 
-한요한 - 록시땅
+Billy Joel(빌리 조엘) - Piano Man
 
-**Albums**: 걱정마
+**Albums**: Rock Classics Of The '70s
 
-Last updated at 2020. 7. 16. 오후 6:49:41
+Last updated at 2020. 7. 17. 오전 10:23:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
