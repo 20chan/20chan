@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000237833145-nm7ay0-t120x120.jpg">](https://soundcloud.com/marshmellomusic/silence)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000144735296-rqpqnq-t120x120.jpg">](https://soundcloud.com/opia-official/falling)
 
-marshmello - Marshmello - Silence Ft. Khalid
+Opia - Falling
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 14:42
+Last updated at 17/07/2020 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
