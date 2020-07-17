@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000168290249-k3il0r-t120x120.jpg">](https://soundcloud.com/monstercat/puppet-foria-im-here)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000143137784-b6hqbl-t120x120.jpg">](https://soundcloud.com/nocopyrightsounds/foria-break-away-ncs-release)
 
-Monstercat - Puppet & Foria - I'm Here
+NCS - Foria - Break Away [NCS Release]
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:35
+Last updated at 17/07/2020 15:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
