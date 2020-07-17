@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000218940751-s5ihpt-t120x120.jpg">](https://soundcloud.com/lowlypalace/mercy-x-caught-fire-feat-ashley-lawless)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000216213949-yv2upx-t120x120.jpg">](https://soundcloud.com/lowlypalace/mickey-valen-wildcard-feat-feli-ferraro)
 
-Lowly. - Mercy X - Caught Fire (feat. Ashley Lawless)
+Lowly. - Mickey Valen - Wildcard (feat. Feli Ferraro)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:29
+Last updated at 17/07/2020 15:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
