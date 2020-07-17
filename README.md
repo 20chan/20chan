@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Zitten - Sunflower
+짙은 - 백야
 
-**Albums**: diaspora : 흩어진 사람들 [EP]
+**Albums**: 백야 - EP
 
-Last updated at 2020. 7. 17. 오전 11:29:28
+Last updated at 2020. 7. 17. 오전 11:30:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
