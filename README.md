@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000217214334-vz2jqb-t120x120.jpg">](https://soundcloud.com/skyhighbeatss/its-just-a-blur)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000012560643-t526va-t120x120.jpg">](https://soundcloud.com/m83/midnight-city)
 
-Sky.High - It's just a blur
+M83 - Midnight City
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:11
+Last updated at 17/07/2020 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
