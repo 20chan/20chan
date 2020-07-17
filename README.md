@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000504106245-oc4edn-t120x120.jpg">](https://soundcloud.com/egzod/better-with-you)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000259752467-gl7e3v-t120x120.jpg">](https://soundcloud.com/halosbeats/track-4)
 
-Egzod - Better With You
+h a l o s - without u
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 14:57
+Last updated at 17/07/2020 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
