@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000117139997-3mdwrl-t120x120.jpg">](https://soundcloud.com/lo-freq-1/reality-feat-janieck-devy)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000187593871-q5ggwo-t120x120.jpg">](https://soundcloud.com/thelifteddjs/mr-sandman-ft-ashliann)
 
-Lost Frequencies - Reality (Feat. Janieck Devy)
+The Lifted - Mr Sandman ft. Ashliann
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:57
+Last updated at 17/07/2020 15:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
