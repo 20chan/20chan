@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000051272448-1ma0pn-t120x120.jpg">](https://soundcloud.com/martingarrix/martin-garrix-animals-original)
+[<img align="left" width="100" src="https://i1.sndcdn.com/avatars-000030316712-tau1u9-t120x120.jpg">](https://soundcloud.com/francescomarzona/coldplay-viva-la-vida)
 
-Martin Garrix - Martin Garrix - Animals (Original Mix) OUT NOW!
+francescomarzona - Coldplay - Viva la vida
 
 **Albums**: undefined
 
-Last updated at 07/17/2020 16:59
+Last updated at 07/17/2020 17:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
