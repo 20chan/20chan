@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tXR2yAvSYOLB6YGLCHARbVl6PzN6Pm9IsMmdw6e4W0X-D-zdDTMBawIXt-uN9rnawjsUuj1gvFJfCh3W">](https://music.youtube.com/channel/UCwXtV-tuXm-CCc495AyZp6w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Swanky Tunes & Going Deeper - Be Okay (feat. Boogshe)
+Gryffin - Out of My Mind
 
-**Albums**: Be Okay
+**Albums**: Gravity
 
-Last updated at 2020. 7. 17. 오전 11:02:11
+Last updated at 2020. 7. 17. 오전 11:03:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
