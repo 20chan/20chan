@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_JNKqbO7nSJYdqIa-4RfkEeu-JYBx_QMeAzcC1WFSrRXt6Crslkr99bw0GpPPw00lJIJKEc43iHPX18">](https://music.youtube.com/channel/UCvfjizX8aIDWRKl9ff70qmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HVv1bsaPtpsbpwRaQ7T3RZbO5ZWZVBSB5RNdUpD0PrUlCydFGk82DtA_IHCY7GQUm_3aJG6nHdINaBE">](https://music.youtube.com/channel/UC4FxRR1ZZcap_CY6fTQUU3g)
 
-SAINt JHN - Roses
+Jeremy Zucker - desire
 
-**Albums**: Collection One
+**Albums**: summer,
 
-Last updated at 17/07/2020 12:08
+Last updated at 17/07/2020 12:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
