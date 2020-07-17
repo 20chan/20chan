@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000130555477-szlvv7-t120x120.jpg">](https://soundcloud.com/spinnin-deep/felix-jaehn-ft-lost-frequencies-linying-eagle-eyes-lucas-steve-rmx-preview-out-oct-19)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000117139997-3mdwrl-t120x120.jpg">](https://soundcloud.com/lo-freq-1/reality-feat-janieck-devy)
 
-Spinnin' Deep - Felix Jaehn ft. Lost Frequencies & Linying - Eagle Eyes (Lucas & Steve Remix) [Out Now]
+Lost Frequencies - Reality (Feat. Janieck Devy)
 
 **Albums**: undefined
 
-Last updated at 17/07/2020 15:54
+Last updated at 17/07/2020 15:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
