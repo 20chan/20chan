@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tXR2yAvSYOLB6YGLCHARbVl6PzN6Pm9IsMmdw6e4W0X-D-zdDTMBawIXt-uN9rnawjsUuj1gvFJfCh3W">](https://music.youtube.com/channel/UCwXtV-tuXm-CCc495AyZp6w)
 
-NOTD & Shy Martin - Keep You Mine
+Swanky Tunes & Going Deeper - Be Okay (feat. Boogshe)
 
-**Albums**: Keep You Mine
+**Albums**: Be Okay
 
-Last updated at 2020. 7. 17. 오전 10:59:11
+Last updated at 2020. 7. 17. 오전 11:00:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
