@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000085940738-2313fo-t120x120.jpg">](https://soundcloud.com/candylanddjs/gold-candyland-revoke-remix-1)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DDejkGQYQQpxbhXHoZfJ3XivBc1ke5Q3c-mAHngNnr9C7_5az3uyA8famHNxnATUJJTDsypbA82G8up6VA">](https://music.youtube.com/channel/UCKo2HYwW-g0RPJ8zvU0CcUg)
 
-Candyland - Adventure Club - Gold (Candyland & REVOKE Remix)
+Adventure Club - Gold (feat. Yuna)
 
-**Albums**: undefined
+**Albums**: Calling All Heroes
 
-Last updated at 17/07/2020 14:49
+Last updated at 17/07/2020 14:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
