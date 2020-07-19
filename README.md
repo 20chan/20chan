@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IXdAUZbpvXQ_-_K1s-uf-qW0DXD6SSng-qN6duNuLCe24j6y4YcUI6nnArceCcja0GGcAPHzWrhFdV_Q">](https://music.youtube.com/channel/UC73ZTK8-vehBJlyS9zNNq7w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yZys3FO6bm6PRDgntkPUjE4PH4wHtxBhH752YN6F-T1nlhNLSsUcqvF_5V3FyLVkzQFoFPIX4ODFqO__">](https://music.youtube.com/channel/UCArljIU3tkZSK5k_ZF_jxWg)
 
-Kyunghwa Jung - 지상에서 영원으로
+YB - 너를 보내고
 
-**Albums**: Present
+**Albums**: 한국 Rock 다시 부르기
 
-Last updated at 07/19/2020 14:35
+Last updated at 07/19/2020 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
