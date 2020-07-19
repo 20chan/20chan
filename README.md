@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IWEYL3SUl_KVYG0TL_hshhNOW6hYaLb91H6BptQBR0rhiWCPdYQc3eEr0Diz8h5nM6kWS0vGC-buF3iu">](https://music.youtube.com/channel/UC2vRVbXNlYveFjIqS5tQ5nQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uW2dilDYaVTDOOWOLwxbjMM23NcHT3X2bwWet0-ACmHX4ZyENyk6dGFVkjNHORPiG9krEmRj3c4s7K8">](https://music.youtube.com/channel/UCy4OagZ0FoUk0K5HRu3__Qg)
 
-서문탁 - 사랑, 결코 시들지 않는
+YB - 박하사탕
 
-**Albums**: 서문탁 베스트 스튜디오 라이브 콘서트
+**Albums**: Un Urbanite
 
-Last updated at 07/19/2020 14:47
+Last updated at 07/19/2020 14:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
