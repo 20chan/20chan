@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tyKzasvYUGESVVNrq-qNbZ604iqRfvJiHuQiSnMF4UQ8Mu6ygqPbouKA7mRgQ1Urlt8KSrRfa8e3ybXB">](https://music.youtube.com/channel/UCt8k_kQhznbNhi-TJUVQqsg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5O4FboEe8AK9kVFjJyFzELB8IOgdarvnSTl2PerEGgNb6q_DnGnd5rslw-xygY8Ok_Q4_2pVHOqXgSw">](https://music.youtube.com/channel/UCZ93eUfYG94KWlCWGO3laDQ)
 
-Kungs - Don't You Know (Radio Edit) (feat. Jamie N Commons)
+Klingande - RIVA (Restart the Game) [UK Radio Edit] (Single Edit) (feat. Broken Back)
 
-**Albums**: Layers
+**Albums**: RIVA (Restart The Game) (Single Edit)
 
-Last updated at 07/19/2020 15:15
+Last updated at 07/19/2020 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
