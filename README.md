@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yZys3FO6bm6PRDgntkPUjE4PH4wHtxBhH752YN6F-T1nlhNLSsUcqvF_5V3FyLVkzQFoFPIX4ODFqO__">](https://music.youtube.com/channel/UCArljIU3tkZSK5k_ZF_jxWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1ZwZK0YNgU8xxQIhsW_rBRxmE0xasmGPE-Suj9VFa6UGF-gWHaOP4oh0-eFrWugpaIjnbYXCJlWIvG6j">](https://music.youtube.com/channel/UCpBTwa4c2Z-YXugFFQF6NcA)
 
-YB - 너를 보내고
+박기영 및 조유진 - 나에게로의 초대 (이상한 나라의 앨리스, 하트다 하트여왕)
 
-**Albums**: 한국 Rock 다시 부르기
+**Albums**: 복면가왕 89회 (Live Version)
 
-Last updated at 07/19/2020 14:39
+Last updated at 07/19/2020 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
