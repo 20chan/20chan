@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uW2dilDYaVTDOOWOLwxbjMM23NcHT3X2bwWet0-ACmHX4ZyENyk6dGFVkjNHORPiG9krEmRj3c4s7K8">](https://music.youtube.com/channel/UCy4OagZ0FoUk0K5HRu3__Qg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dtg-ykg6epLX4oUDyVfXJl194YyvrxG9KxHKRGwYfJSHl92TI44KvBLlSMBARaNeqzKkfA2nRWPlgIs">](https://music.youtube.com/channel/UCSD2j7LUIEz6PMN0NyW6IGw)
 
-YB - 박하사탕
+베이커맷 - Baianá
 
-**Albums**: Un Urbanite
+**Albums**: Baianá
 
-Last updated at 07/19/2020 14:52
+Last updated at 07/19/2020 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
