@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000010190535-p1ondm-t50x50.jpg">](https://soundcloud.com/atlanticrecords/jason-mraz-im-yours)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J">](https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA)
 
-Atlantic Records - Jason Mraz - I'm Yours
+NF - When I Grow Up
 
-**Albums**: undefined
+**Albums**: The Search
 
-Last updated at 07/19/2020 15:41
+Last updated at 07/19/2020 15:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
