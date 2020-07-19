@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-MzISK-eGDFrf35bdW0m0wYnfjhuWPzy6cKJngYAQ8ejd6U-IFCKKaEMa3NBB0FfuOmaOb665FLfRw8">](https://music.youtube.com/channel/UCsrT8DPh6mmEnmykZ2_QwFQ)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000173856749-yd3we5-t50x50.jpg">](https://soundcloud.com/martingarrix/itnol)
 
-PNAU - Changes
+Martin Garrix - Martin Garrix & Bebe Rexha - In The Name Of Love
 
-**Albums**: Changa
+**Albums**: undefined
 
-Last updated at 07/19/2020 15:22
+Last updated at 07/19/2020 15:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
