@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J">](https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E3J-qjxgo0Yumxq7JFNmT2ih57nuZSvSaAyAqf914XoA_XVi0YKaS_c8daa5wNB9KkS-2dMpunGUXEF9Lg">](https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA)
 
-NF - When I Grow Up
+NF - Outcast
 
-**Albums**: The Search
+**Albums**: Perception
 
-Last updated at 07/19/2020 15:42
+Last updated at 07/19/2020 15:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
