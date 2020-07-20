@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SqlnN5t9ftyZjj4AxXYIXwAK5c7CRtgD7oSHHeBWzW2cl7079VllQjoTH5D5rPrGChgQKqk5DlQuRwdN">](https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Jvcki Wai, Coogie, Paloalto & The Quiett - Fadeaway
+창모 CHANGMO - One More Rollie (feat. Keem Hyo Eun & Hash Swan)
 
-**Albums**: Fadeaway
+**Albums**: Gettin Money Moment
 
-Last updated at 07/20/2020 11:48
+Last updated at 07/20/2020 11:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
