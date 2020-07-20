@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPy_ZSLiRa8e6jn-2D9qV7OaxghRHUCDFSmJhvyUqlwFtYn9CtGBDuPfPwJH5LoqgFMBHDp0ow2rY9QB">](https://music.youtube.com/channel/UCxdjAtOEGsnjvPlgqKbi5jw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2tVo4wzeIZp713873Nf0kC-XFl2-7OGaWiPPXIdQcvbW60ckARocPuaOnOBQh-Rj75Mf-dHoMgQP-H8">](https://music.youtube.com/channel/UCyD3XWRK9ko-izf2nBSFitw)
 
-DEUX - In the Summer
+Post Malone - Better Now
 
-**Albums**: Forever
+**Albums**: beerbongs & bentleys
 
-Last updated at 07/20/2020 21:20
+Last updated at 07/20/2020 21:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
