@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dief5zyohb4cWNb4HDmvIY79yngdFfWZcwQ22mIx9TOQHFCZyKwprPxPQg97yeJjd5J7eXCZrHAZnFGK">](https://music.youtube.com/channel/UCAof2o3TDjIhQGnGvieez9w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i6wvb5JaiXIg_RwVzDm-ibthHAgr35GHRjYlELetocwmmzJPedgv3X2W_F1A5Sb3d2UNGxgJJnbkFDNG">](https://music.youtube.com/channel/UCZIe_W2c-I5nwOiMI6YD_GA)
 
-Nea - Some Say
+Gummibär - I Am Your Gummy Bear (The Gummy Bear Song)
 
-**Albums**: Some Say
+**Albums**: I Am Your Gummy Bear
 
-Last updated at 07/20/2020 11:05
+Last updated at 07/20/2020 11:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
