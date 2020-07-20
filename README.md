@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
 
-버즈 - 가시
+델리스파이스 (DELISPICE) - 고백
 
-**Albums**: Buzz Effect
+**Albums**: Espresso
 
-Last updated at 07/20/2020 17:21
+Last updated at 07/20/2020 17:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
