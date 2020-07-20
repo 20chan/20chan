@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7WuCPt_wzSaUJ8aNSmY4tzjMnx9Yyc-GFdD67nrgk4IUzdTz0B80JP9aoHP0_a-Xo0rx9PtxBKx7Xay9">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-XXXTENTACION - the remedy for a broken heart (why am I so in love)
+Han Yo Han - 400km (feat. Kid Milli)
 
-**Albums**: ?
+**Albums**: Spirit Bomb
 
-Last updated at 07/20/2020 19:08
+Last updated at 07/20/2020 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
