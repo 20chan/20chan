@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/e8gMid5aTcJiSyHegEXfH9Lb1g8G9g7pSBPjnX8NuveenWFgwAJIgEpt_m2-A1wJW5ac0GngSEbI9aj4">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/u7Oa37M5a5FF0a8TrwdeHfz86G-MPZAM5lPobeDTgia-JCP-Dd7qGCFBCC0l2RJWzv5caTHRhjQ7y-d5">](https://music.youtube.com/channel/UCgerUw6uCKCZIYvD5sz5ZNg)
 
-자우림 - 있지
+6LACK - PRBLMS
 
-**Albums**: 자우림
+**Albums**: FREE 6LACK (Bonus Track Version)
 
-Last updated at 07/20/2020 20:49
+Last updated at 07/20/2020 20:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
