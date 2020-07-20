@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jVlP4dLrER8uH_2ojkYfV4jSRhoNquKmAlMUYNaHjT1GjgN3bOXR8-4R1-T1AG-d4DXdZvx_mtNaTLmu">](https://music.youtube.com/channel/UCDnqbjv0zR9Bs8go3Blaijg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW0lRQG6Chm3nfZZ3WGHZxWJCxaVDiXVLR7GaW5MuE-ubL5TaUpteJl6B6t1TNooiy59xDBe9TPMnY3P">](https://music.youtube.com/channel/UC7zqpkW36n0w00kI_ghv3Ow)
 
-민수 (Minsu) & 윤지영 (Yoon Ji Young) - 그녀 SHE
+dosii - Moon
 
-**Albums**: 그녀 SHE
+**Albums**: dosii
 
-Last updated at 07/20/2020 16:43
+Last updated at 07/20/2020 16:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
