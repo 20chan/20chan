@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/doY5TbsprL9nU0VHBrBYACPspr7h8ayzT7f7KB_9KLG-y0vxao3GbWyAqmJnTGlCrp5RPtVpw-sCFt0">](https://music.youtube.com/channel/UCLhEkkNFkGjOUI77xhqUcTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0Hw76NVqyxU59umdxTdtJtS-Zz3LGGWFB4l0kScIKaxaYqr1zD0rJCoI3UGm-Wjbgy1phyqkO-Wc-ASK">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
 
-김광석 (Kim Kwang Seok) - 서른 즈음에 (About Thirty)
+XXXTENTACION - Look At Me!
 
-**Albums**: 김광석 네번째 (Kim Kwang Seok 4th)
+**Albums**: Look At Me!
 
-Last updated at 07/20/2020 11:42
+Last updated at 07/20/2020 11:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
