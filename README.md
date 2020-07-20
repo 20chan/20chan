@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w4eJMPRASjXtrIg_tPmn2z_SkKd-Z2KlAojst-xgOcOjI5qzkaDTBlt9ZpmuyngY-L3NDYZLszz9ViX4">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pTHoc6VSltO-Yl0wiGGKN5XcrnH_paqmaA93_H4Y2W482xi55wej9E6EgXydwxoHwGqlBepJnAjXusLc">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-Zitten - 잘 지내자, 우리
+Cool - All for You
 
-**Albums**: 사랑의 단상 Chapter 5. The Letter From Nowhere
+**Albums**: COOL 5
 
-Last updated at 07/20/2020 14:46
+Last updated at 07/20/2020 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
