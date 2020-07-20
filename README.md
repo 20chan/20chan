@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-버즈 - 가시
+The Quiett - Han gang gang (Megamix)
 
-**Albums**: Buzz Effect
+**Albums**: Han gang gang (Megamix)
 
-Last updated at 07/20/2020 13:27
+Last updated at 07/20/2020 13:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
