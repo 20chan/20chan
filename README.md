@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i6wvb5JaiXIg_RwVzDm-ibthHAgr35GHRjYlELetocwmmzJPedgv3X2W_F1A5Sb3d2UNGxgJJnbkFDNG">](https://music.youtube.com/channel/UCZIe_W2c-I5nwOiMI6YD_GA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-Gummibär - I Am Your Gummy Bear (The Gummy Bear Song)
+The Cross - 백설공주를 사랑한 난장이
 
-**Albums**: I Am Your Gummy Bear
+**Albums**: Rush
 
-Last updated at 07/20/2020 11:12
+Last updated at 07/20/2020 11:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
