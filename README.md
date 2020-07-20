@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VthitUDdH9Nw5_kTaM73y6RiRNhuqlBi9oNxhrMNmhpbV_h6qDK9eFdUt4_UggMkbgxj00wOk7hLq3A">](https://music.youtube.com/channel/UCqCbbJe8cN5sxiZ2N1V2UOg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/e8gMid5aTcJiSyHegEXfH9Lb1g8G9g7pSBPjnX8NuveenWFgwAJIgEpt_m2-A1wJW5ac0GngSEbI9aj4">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-Naomi Scott - Speechless (Full)
+자우림 - 있지
 
-**Albums**: Aladdin (Original Motion Picture Soundtrack)
+**Albums**: 자우림
 
-Last updated at 07/20/2020 20:45
+Last updated at 07/20/2020 20:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
