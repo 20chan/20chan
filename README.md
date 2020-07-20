@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iKnVi5g3MrSwYjWEu5kCXCcdvEiApraq5Upl-2pmv3txO3XI0USfYBCc78ICqxuszdgz5cDLTThqVUG5IQ">](https://music.youtube.com/channel/UCGPIAHT_xtPHkY6jY1y4rRQ)
 
-The Quiett - Prime Time (Remix) (feat. A Boogie wit da Hoodie)
+twlv, Uneducated Kid, YUZION & SUPERBEE - Dingo X Yng & Rich Records (Part 1) - trotrap 트로트랩
 
-**Albums**: Q Day Remixes
+**Albums**: Dingo X Yng & Rich Records (Part 1) - trotrap 트로트랩
 
-Last updated at 07/20/2020 19:55
+Last updated at 07/20/2020 19:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
