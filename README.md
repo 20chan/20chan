@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW0lRQG6Chm3nfZZ3WGHZxWJCxaVDiXVLR7GaW5MuE-ubL5TaUpteJl6B6t1TNooiy59xDBe9TPMnY3P">](https://music.youtube.com/channel/UC7zqpkW36n0w00kI_ghv3Ow)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-dosii - starstarstar
+더 크로스 - 희망
 
-**Albums**: dosii
+**Albums**: Melody Quus
 
-Last updated at 07/20/2020 16:46
+Last updated at 07/20/2020 16:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
