@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lh8TxMh_ryyPOSInRhIGVlL3BddHMU1BWClPiuNcKhstMXC99wbGyUBcG8Tzm81M8uKVpPGIsmV63Bkr">](https://music.youtube.com/channel/UCAppgBOv04CnMBZlWf-nRiA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oZZtbdOqSj7TgHBdYluN2Ro58l6dSNwoUHr9SeHQy1YiMfI5RtvJ6wL9TtTISTHJ9XQJlFSmCzh0VNLf">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-GALNERYUS - HUNTING FOR YOUR DREAM (Single Version)
+シド - ホソイコエ
 
-**Albums**: HUNTING FOR YOUR DREAM (TYPE-B)
+**Albums**: Hosoikoe
 
-Last updated at 07/20/2020 10:49
+Last updated at 07/20/2020 10:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
