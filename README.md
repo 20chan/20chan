@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c6553NquTdnb4ZMJ6yUA9mDOzubmqNxsIHp1S032KM02mPggsJr-1fk-t4Q5ZVtlIPCF4hceT0YWK747">](https://music.youtube.com/channel/UCWcmyip0QpiHbWxm0P16ccg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-더 클래식 The Classic - 여우야(女雨夜) Lady in the Rainy Night
+The Quiett - Prime Time (Remix) (feat. A Boogie wit da Hoodie)
 
-**Albums**: The Classic 2
+**Albums**: Q Day Remixes
 
-Last updated at 07/20/2020 19:50
+Last updated at 07/20/2020 19:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
