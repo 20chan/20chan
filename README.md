@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
 
-My Chemical Romance - Welcome to the Black Parade
+자두 (The Jadu) - 김밥 (Gimbap)
 
-**Albums**: The Black Parade
+**Albums**: 자두 3집 - The Jadu 3
 
-Last updated at 07/20/2020 17:04
+Last updated at 07/20/2020 17:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
