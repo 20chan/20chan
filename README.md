@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ayIjXBsv08m4ge-Ft-HxwSMEzJcZN_alKQM_9UGY9akvE1M16peWoKun3n9s25yIyMt2__uPYERb5v6DPQ">](https://music.youtube.com/channel/UC7LwDo1k9K68iCmGhlfgjYw)
 
-Green Day - Holiday / Boulevard of Broken Dreams
+Jon Bellion - Woke The F*ck Up
 
-**Albums**: American Idiot
+**Albums**: The Human Condition
 
-Last updated at 07/20/2020 17:53
+Last updated at 07/20/2020 18:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
