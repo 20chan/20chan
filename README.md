@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fidizaRk8eUqccr3FrcptbFQbOsi4m57TgNZ_1mam-_YNdQvEkmvZyaPKWTYYdZ7DjkKCx0byxmcw7Vd">](https://music.youtube.com/channel/UCoO40PGRZLLymjlFuncg_hg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
 
-KANA-BOON - Silhouette
+The Black Skirts - Who do you love
 
-**Albums**: Time
+**Albums**: TEAM BABY
 
-Last updated at 07/20/2020 19:39
+Last updated at 07/20/2020 19:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
