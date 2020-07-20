@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hyKD7EeheHHX375e5LsOpGkIzhQdayMRhwj5jWwRKaiCT5fGyGU_smgW6wBwsDAokuB2wm73etVsow">](https://music.youtube.com/channel/UCqh8SsLh7Uv8yU2YNXJ4wSg)
 
-Leellamarz - AMBITION (feat. ASH ISLAND, KEEM HYO-EUN, Hash Swan & CHANGMO)
+Andmesh - Cinta Luar Biasa
 
-**Albums**: MARZ 2 AMBITION
+**Albums**: Cinta Luar Biasa
 
-Last updated at 07/20/2020 11:27
+Last updated at 07/20/2020 11:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
