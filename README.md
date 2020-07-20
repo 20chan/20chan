@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/doY5TbsprL9nU0VHBrBYACPspr7h8ayzT7f7KB_9KLG-y0vxao3GbWyAqmJnTGlCrp5RPtVpw-sCFt0">](https://music.youtube.com/channel/UCLhEkkNFkGjOUI77xhqUcTA)
 
-The Cross - 떠나가요, 떠나지마요
+김광석 (Kim Kwang Seok) - 서른 즈음에 (About Thirty)
 
-**Albums**: Rush
+**Albums**: 김광석 네번째 (Kim Kwang Seok 4th)
 
-Last updated at 07/20/2020 11:37
+Last updated at 07/20/2020 11:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
