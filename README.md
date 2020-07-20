@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI">](https://music.youtube.com/channel/UClYV6hHlupm_S_ObS1W-DYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
 
-The Weeknd - Blinding Lights
+자두 (The Jadu) - 김밥 (Gimbap)
 
-**Albums**: Blinding Lights
+**Albums**: 자두 3집 - The Jadu 3
 
-Last updated at 07/20/2020 21:09
+Last updated at 07/20/2020 21:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
