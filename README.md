@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Cwu_6ZFCpWxd3nCp8J3DWEzMlZWR0PSLrpY-DESYcw5ZAyhE5EW_rNp4YNGG6B0WpXEANiKUD5eSoiO1RA">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-Han Yo Han - 400km (feat. Kid Milli)
+Jaurim - Shining
 
-**Albums**: Spirit Bomb
+**Albums**: Ashes To Ashes
 
-Last updated at 07/20/2020 19:10
+Last updated at 07/20/2020 19:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
