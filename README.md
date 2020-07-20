@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwR8jr3rqrANnex4aLDG1askb5jay1vSRmKpPneHx_Dvr0N9-xhlMbTXFsU2b2sPtBJ-50ss9oL4uyZF">](https://music.youtube.com/channel/UCoEdj_6p3v5aBp8WqrJ0zIg)
 
-창모 (CHANGMO) - Selfmade Orange (feat. SUPERBEE)
+Wengie - Deja Vu
 
-**Albums**: Dnsg
+**Albums**: Deja Vu
 
-Last updated at 07/20/2020 17:38
+Last updated at 07/20/2020 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
