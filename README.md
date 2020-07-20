@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lno70Lu1p3AGX5-yFrgJ3dh4YBLCUwf3DK-tsDiq-BNyin6DDMBkJsuY1DsT6DiMZixPwfawKQJnAv3l">](https://music.youtube.com/channel/UCDrj9lIddd4uU4_XsH_ZyBw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V7QOylWmzZtvehy7le_aRcV0GzhUQESVFW7Haid4ZL6oaLskDnFN5OiFEkvALccZtUF_KskSdmJXhi0">](https://music.youtube.com/channel/UC8-EI2rTBYgkZl5kB_b-2Pw)
 
-Yun Ddan Ddan - The Night I Miss You 니가 보고싶은 밤
+JANNABI - for lovers who hesitate
 
-**Albums**: The Night I Miss You 니가 보고싶은 밤
+**Albums**: LEGEND
 
-Last updated at 07/20/2020 18:31
+Last updated at 07/20/2020 18:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
