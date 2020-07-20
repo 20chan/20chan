@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CCTnmGrAgt7_K0U6NmBsKNH8BBjOD7ezapFab96WmGGvSPX2jQA8aom1l3TO1pDmBVLgMp6gu7-1mGuBqQ">](https://music.youtube.com/channel/UCE1GxC20CwQK-T7Fsl_XKsQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ghhPy2HlLiIPAPtdnoLKggw8Od5mPBPNNsTq5C3LzQZJIpiangQBaCmz7YSJAYF25kNsP7ApvtNRhH4">](https://music.youtube.com/channel/UCvNGvMSDassu8fTA9Vwdzxg)
 
-Bank - I Can't Have You
+UVERworld - Core Pride
 
-**Albums**: Gift
+**Albums**: All Time Best
 
-Last updated at 07/20/2020 14:37
+Last updated at 07/20/2020 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
