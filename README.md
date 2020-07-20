@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0SVMgXNh9DWvq3l9m7TN7qpBUqHRTrqGFj7CxxjOw2emrxjzCRMwpQEQfAqZ1njnmOVj2zYan4dCsNhZ">](https://music.youtube.com/channel/UChzgSkV7TXUAHDwsZGlFosA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F2C2xbu8Yg6klSwsbuBdqkMjYrvgGMZTQ6fyKxQKU87zqbGmWGRYEITYDTtlNfF-3O7lMwwSYkXoiUlZ">](https://music.youtube.com/channel/UCAtLPtdf3NxaabgXCqYehoQ)
 
-GOTCHAROCKA - Brilliant days
+Aqua Timez - Mask
 
-**Albums**: SCREAMY
+**Albums**: 10th Anniversary Best Blue
 
-Last updated at 07/20/2020 10:31
+Last updated at 07/20/2020 10:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
