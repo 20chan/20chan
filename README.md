@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rz6SKjMvpUJeyflamaA1hBW_Se0fRoeZPjGiH2Kbn4noJENMV2hOpCuF141YRLmLXzeM280iATAXkVRL">](https://music.youtube.com/browse/MPREb_RFWwqxNxZ9x)
 
-Zitten - Sunflower
+동물원 - 널 사랑하겠어
 
-**Albums**: diaspora : 흩어진 사람들 [EP]
+**Albums**: 널 사랑하겠어
 
-Last updated at 07/20/2020 13:58
+Last updated at 07/20/2020 14:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
