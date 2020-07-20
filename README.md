@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bQN1pzwS0hNcc7SOlFhDj9xb6ny4xEwEwecESPsz8ZljpVWtgbZUlhEG_irUd-JXRuLypLjeAl7i-LA5UA">](https://music.youtube.com/channel/UChrC_0Daukw-snrRaGCsyRQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fidizaRk8eUqccr3FrcptbFQbOsi4m57TgNZ_1mam-_YNdQvEkmvZyaPKWTYYdZ7DjkKCx0byxmcw7Vd">](https://music.youtube.com/channel/UCoO40PGRZLLymjlFuncg_hg)
 
-이문세 - 그녀의 웃음소리뿐
+KANA-BOON - Silhouette
 
-**Albums**: 이문세 Memories
+**Albums**: Time
 
-Last updated at 07/20/2020 19:32
+Last updated at 07/20/2020 19:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
