@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1ZwZK0YNgU8xxQIhsW_rBRxmE0xasmGPE-Suj9VFa6UGF-gWHaOP4oh0-eFrWugpaIjnbYXCJlWIvG6j">](https://music.youtube.com/channel/UCpBTwa4c2Z-YXugFFQF6NcA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CCTnmGrAgt7_K0U6NmBsKNH8BBjOD7ezapFab96WmGGvSPX2jQA8aom1l3TO1pDmBVLgMp6gu7-1mGuBqQ">](https://music.youtube.com/channel/UCE1GxC20CwQK-T7Fsl_XKsQ)
 
-Park Ki Young & 조유진 - 나에게로의 초대 (이상한 나라의 앨리스, 하트다 하트여왕)
+Bank - I Can't Have You
 
-**Albums**: Mask Singer 89th (Live Version)
+**Albums**: Gift
 
-Last updated at 07/20/2020 14:33
+Last updated at 07/20/2020 14:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
