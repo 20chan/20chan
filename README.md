@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2tVo4wzeIZp713873Nf0kC-XFl2-7OGaWiPPXIdQcvbW60ckARocPuaOnOBQh-Rj75Mf-dHoMgQP-H8">](https://music.youtube.com/channel/UCyD3XWRK9ko-izf2nBSFitw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Post Malone - Better Now
+Zitten - Sunflower
 
-**Albums**: beerbongs & bentleys
+**Albums**: diaspora : 흩어진 사람들 [EP]
 
-Last updated at 07/20/2020 21:26
+Last updated at 07/20/2020 21:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
