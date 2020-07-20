@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J5rDWMNXFOerFbVMRj_T9Hfk-DyeNzS8k78oWEiwfNujtuDLYvBXK6o8n65dPUguPYD_UotfaXbQZNxH">](https://music.youtube.com/channel/UChqpu_SK_JuQBwahc8vGgzg)
 
-버즈 - 가시
+nafla - Wu
 
-**Albums**: Buzz Effect
+**Albums**: Wu
 
-Last updated at 07/20/2020 15:34
+Last updated at 07/20/2020 15:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
