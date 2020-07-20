@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DEuWG6yDA15tirxBfwthmkppPaUNnzP6rOMtf6cKy1CXRipTi_A9o4wYKMeqFr_oDEj9-WEMw4DDjg">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3uQNVSoxDuJJXNuJ7NIl2e_9thz8p9xGa51oTn4EkMauMcpxCelt9knWEPbOkn18_KUtVxS1A3HuvVpI">](https://music.youtube.com/channel/UCRwsyexzM3j9YLjTb3HjseQ)
 
-Jaurim - 스물다섯, 스물하나
+Toy - 프랑지파니 (Vocal 유희열)
 
-**Albums**: Goodbye, grief.
+**Albums**: Thank You
 
-Last updated at 07/20/2020 16:51
+Last updated at 07/20/2020 16:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
