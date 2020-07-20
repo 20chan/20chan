@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J5rDWMNXFOerFbVMRj_T9Hfk-DyeNzS8k78oWEiwfNujtuDLYvBXK6o8n65dPUguPYD_UotfaXbQZNxH">](https://music.youtube.com/channel/UChqpu_SK_JuQBwahc8vGgzg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/33Pvz0SQcDPfaeNuXU0tHHdPBWsOnzW6dGOcgAo7eL5GPmL9SjVr48GL9w84c-73pqTnqA8HtCdBR8k">](https://music.youtube.com/channel/UC4YQ3qL9E3SoonZtWeguHKg)
 
-nafla - Wu
+Broccoli you too - Can't Soothe by Love
 
-**Albums**: Wu
+**Albums**: Graduation
 
-Last updated at 07/20/2020 15:38
+Last updated at 07/20/2020 15:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
