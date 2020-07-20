@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">](https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ttaLKBKJCZdF-3HLVMORYdSAwdqF_60ShFLSzQisQfxhrO1QX-3sHaT2aXhZggjf5dm3TM9Ob19Y0p5p">](https://music.youtube.com/channel/UCkHCFYazoDQyBdOopGGQnwg)
 
-루피(Loopy) - NoNo (feat. Simon Dominic)
+BoA - 아틀란티스 소녀 Atlantis Princess
 
-**Albums**: Show Me the Money 777 Semi Final
+**Albums**: Atlantis Princess - The 3rd Album
 
-Last updated at 07/20/2020 12:49
+Last updated at 07/20/2020 12:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
