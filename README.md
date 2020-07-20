@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iZkj4cYVaKJNmg0bghKY7_n-mNnE9J0WU1VM7zrJYWhTArRomwlgk56qMk75dlGjUQ9nTzXrc72RSiwQ">](https://music.youtube.com/channel/UCPToBSRixHEzdqSNzLvGR9g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
 
-Yoon Do Hyun - I Guess I Loved You
+CHEMISTRY - Period
 
-**Albums**: Difference
+**Albums**: Chemistry 2001-2011
 
-Last updated at 07/20/2020 12:28
+Last updated at 07/20/2020 12:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
