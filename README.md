@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CH4f7dIGzvkFl7shRJN1-DDTbqH6eEXc7rc_CPtWPx9WJBbbHemI4QfaSKZEmcdR_6tN_VquooyQjv4">](https://music.youtube.com/channel/UCZS4DqLXMHyZ0iQLv_yjL9Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPy_ZSLiRa8e6jn-2D9qV7OaxghRHUCDFSmJhvyUqlwFtYn9CtGBDuPfPwJH5LoqgFMBHDp0ow2rY9QB">](https://music.youtube.com/channel/UCxdjAtOEGsnjvPlgqKbi5jw)
 
-Shin Yong Jae - First Line
+DEUX - In the Summer
 
-**Albums**: Dear
+**Albums**: Forever
 
-Last updated at 07/20/2020 21:16
+Last updated at 07/20/2020 21:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
