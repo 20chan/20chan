@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGbXXbne-I2W-HgYTEl2YZAHviNg63jxWZtnAA_vA86zqToVmIp4se86HYnEZb_r_o7_FqT83ekI-QfSTw">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9YmMIW8WWyshK1EnCzU3RDouxk11Brb4q0Z1NL6hXW5I2izItsVa6qDzOuV5h7QmAnul3DNBcfjhbDrr">](https://music.youtube.com/channel/UCQ6eto8FjpD7mut_F23ctpw)
 
-새소년 SE SO NEON - NAN CHUN
+林ゆうき - You Say Run
 
-**Albums**: NAN CHUN
+**Albums**: TVアニメ「僕のヒーローアカデミア」サウンドトラックセレクション 2016-2018
 
-Last updated at 07/20/2020 20:16
+Last updated at 07/20/2020 20:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
