@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Han Yo Han - 400km (feat. Kid Milli)
+Zitten - Sunflower
 
-**Albums**: Spirit Bomb
+**Albums**: diaspora : 흩어진 사람들 [EP]
 
-Last updated at 07/20/2020 13:55
+Last updated at 07/20/2020 13:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
