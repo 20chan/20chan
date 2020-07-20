@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jpTlSzJGvFLAp7_HW_mkwoxvgvuimF_HBEvzNX9z-_MQpllJ1pmlW0m4zhLUCVx7hz_-usHKs-y37M4">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVJUhwTnPJmt3sYY2jaxdS-DAN7tn7FIHZj6DjcWGb6-gnQC7F_ZpINNWfCIDC7UgZ-ShBQNNJ1UwzZOhg">](https://music.youtube.com/channel/UCLhEkkNFkGjOUI77xhqUcTA)
 
-Han Yo Han - Broken Pieces (feat. ASH ISLAND)
+김광석 (Kim Kwang Seok) - 잊어야 한다는 마음으로 (With the Heart to Forget You)
 
-**Albums**: Broken Pieces
+**Albums**: 김광석 3번째 노래모음 (Kim Kwang Seok 3rd Song Collection)
 
-Last updated at 07/20/2020 13:43
+Last updated at 07/20/2020 13:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
