@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rz6SKjMvpUJeyflamaA1hBW_Se0fRoeZPjGiH2Kbn4noJENMV2hOpCuF141YRLmLXzeM280iATAXkVRL">](https://music.youtube.com/browse/MPREb_RFWwqxNxZ9x)
 
-Green Day - Jesus of Suburbia
+동물원 - 널 사랑하겠어
 
-**Albums**: American Idiot
+**Albums**: 널 사랑하겠어
 
-Last updated at 07/20/2020 15:05
+Last updated at 07/20/2020 15:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
