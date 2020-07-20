@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iZkj4cYVaKJNmg0bghKY7_n-mNnE9J0WU1VM7zrJYWhTArRomwlgk56qMk75dlGjUQ9nTzXrc72RSiwQ">](https://music.youtube.com/channel/UCPToBSRixHEzdqSNzLvGR9g)
 
-Green Day - Wake Me up When September Ends
+Yoon Do Hyun - I Guess I Loved You
 
-**Albums**: American Idiot
+**Albums**: Difference
 
-Last updated at 07/20/2020 17:44
+Last updated at 07/20/2020 17:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
