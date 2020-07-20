@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mlMNQUOQhp9ah9tRUEDHlsPps3HmZ5UMIjnflZdzVcJl7ng_2_-q3ey7-OfQioz3FoH0cTty5lO07TPm">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-짙은 - Feel Alright
+CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo-Eun - BAND
 
-**Albums**: Wonderland
+**Albums**: BAND
 
-Last updated at 07/20/2020 12:01
+Last updated at 07/20/2020 12:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
