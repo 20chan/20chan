@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iKnVi5g3MrSwYjWEu5kCXCcdvEiApraq5Upl-2pmv3txO3XI0USfYBCc78ICqxuszdgz5cDLTThqVUG5IQ">](https://music.youtube.com/channel/UCGPIAHT_xtPHkY6jY1y4rRQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YHJg9sNZI3PPxz4zJfZkZraN83dMvizp3oU6Ql24uqdCQXqy6ayNubdBnsmJTfQeOt2dK2lwOGvL087pQQ">](https://music.youtube.com/channel/UCgX9AAxncWN0z8B_HKtAXvA)
 
-twlv, Uneducated Kid, YUZION & SUPERBEE - Dingo X Yng & Rich Records (Part 1) - trotrap 트로트랩
+JINUSEAN - 말해줘(Tell Me)
 
-**Albums**: Dingo X Yng & Rich Records (Part 1) - trotrap 트로트랩
+**Albums**: JINUSEAN
 
-Last updated at 07/20/2020 19:59
+Last updated at 07/20/2020 20:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
