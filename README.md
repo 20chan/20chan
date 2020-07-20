@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y61SlU66iiQSjwwdrnPb7LiwPhHFLaFRg0NwCDYsYWIJTaU3IqZQH_T3UefPp82lEIO2OugLHMgbPCz3NA">](https://music.youtube.com/channel/UCf5SvK7Dzo77UI92toPgqjA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dief5zyohb4cWNb4HDmvIY79yngdFfWZcwQ22mIx9TOQHFCZyKwprPxPQg97yeJjd5J7eXCZrHAZnFGK">](https://music.youtube.com/channel/UCAof2o3TDjIhQGnGvieez9w)
 
-Sing Street - Drive It Like You Stole It
+Nea - Some Say
 
-**Albums**: Sing Street (Original Motion Picture Soundtrack)
+**Albums**: Some Say
 
-Last updated at 07/20/2020 11:03
+Last updated at 07/20/2020 11:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
