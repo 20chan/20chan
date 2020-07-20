@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZWk2AoaKqe4PbapxIZbDwizAnEg4wsp3u58czL-_DXEQavlYjwovp34LsV3l3-hc8a4hvx45bt1xKc">](https://music.youtube.com/channel/UCpmx2BTCQ51R5MfoR6AAnsg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_PnZP6AWF5NJ9bJH4Cm__43gliAAZmaDfW_QTqJe0QebBZWUyWDYy4CLuY3KfSa0rQhbNJ-Qgz1AQI">](https://music.youtube.com/channel/UC7-TE_bf3aypItpP7o7_nbg)
 
-SPYAIR - Sakuramitsutsuki
+Standing Egg - 오래된 노래
 
-**Albums**: MILLION
+**Albums**: Old Song
 
-Last updated at 07/20/2020 12:15
+Last updated at 07/20/2020 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
