@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7WuCPt_wzSaUJ8aNSmY4tzjMnx9Yyc-GFdD67nrgk4IUzdTz0B80JP9aoHP0_a-Xo0rx9PtxBKx7Xay9">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c6553NquTdnb4ZMJ6yUA9mDOzubmqNxsIHp1S032KM02mPggsJr-1fk-t4Q5ZVtlIPCF4hceT0YWK747">](https://music.youtube.com/channel/UCWcmyip0QpiHbWxm0P16ccg)
 
-XXXTENTACION - NUMB
+더 클래식 The Classic - 여우야(女雨夜) Lady in the Rainy Night
 
-**Albums**: ?
+**Albums**: The Classic 2
 
-Last updated at 07/20/2020 19:47
+Last updated at 07/20/2020 19:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
