@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rz6SKjMvpUJeyflamaA1hBW_Se0fRoeZPjGiH2Kbn4noJENMV2hOpCuF141YRLmLXzeM280iATAXkVRL">](https://music.youtube.com/browse/MPREb_RFWwqxNxZ9x)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/euUzeo6XMFrPxXXqtVOn97TN1mVLl7s5Z2MYlx8bt406ikRdjg7Mrokl5WaYU--mxKVMfaDC-4WyU6aV">](https://music.youtube.com/channel/UCIv6yaqXwAXo1ZuIYSnGhGg)
 
-동물원 - 널 사랑하겠어
+CHO JUNG SEOK - Aloha
 
-**Albums**: 널 사랑하겠어
+**Albums**: HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3
 
-Last updated at 07/20/2020 14:03
+Last updated at 07/20/2020 14:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
