@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qdtclXTJszgE0fXXf0byNWTshVE0dcgKJOUMerTK4HE1EsYu95nJpGDNSD7udInvx3vBtHOKe32iJlrn">](https://music.youtube.com/channel/UCnsThEFPrzFw2VtFZM9iB8Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/euUzeo6XMFrPxXXqtVOn97TN1mVLl7s5Z2MYlx8bt406ikRdjg7Mrokl5WaYU--mxKVMfaDC-4WyU6aV">](https://music.youtube.com/channel/UCIv6yaqXwAXo1ZuIYSnGhGg)
 
-Lost Sky - Dreams Pt. II (feat. Sara Skinner)
+CHO JUNG SEOK - Aloha
 
-**Albums**: Dreams Pt. II
+**Albums**: HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3
 
-Last updated at 07/20/2020 16:29
+Last updated at 07/20/2020 16:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
