@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_PnZP6AWF5NJ9bJH4Cm__43gliAAZmaDfW_QTqJe0QebBZWUyWDYy4CLuY3KfSa0rQhbNJ-Qgz1AQI">](https://music.youtube.com/channel/UC7-TE_bf3aypItpP7o7_nbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kdoVqVZLeiHGOluQobjDwQd5fGFab3ipJpAKTcvickA7j9PTFBxG1rMYuBs8UtsgOdCo0nydZlcv1gk">](https://music.youtube.com/channel/UCGHwV23Qm-EDLJ_R7id-dsQ)
 
-Standing Egg - 오래된 노래
+88rising - Midsummer Madness
 
-**Albums**: Old Song
+**Albums**: Head In The Clouds
 
-Last updated at 07/20/2020 12:19
+Last updated at 07/20/2020 12:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
