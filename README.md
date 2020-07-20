@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kdoVqVZLeiHGOluQobjDwQd5fGFab3ipJpAKTcvickA7j9PTFBxG1rMYuBs8UtsgOdCo0nydZlcv1gk">](https://music.youtube.com/channel/UCGHwV23Qm-EDLJ_R7id-dsQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iZkj4cYVaKJNmg0bghKY7_n-mNnE9J0WU1VM7zrJYWhTArRomwlgk56qMk75dlGjUQ9nTzXrc72RSiwQ">](https://music.youtube.com/channel/UCPToBSRixHEzdqSNzLvGR9g)
 
-88rising - Midsummer Madness
+Yoon Do Hyun - I Guess I Loved You
 
-**Albums**: Head In The Clouds
+**Albums**: Difference
 
-Last updated at 07/20/2020 12:23
+Last updated at 07/20/2020 12:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
