@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jzWzczBCIGtCkvUB4I3FdyP_Ur9fLDZBzgSw_XHsqYQN90SFoxbC7ApLJrry0lEuaQ3GSKxOPZaloTvqPg">](https://music.youtube.com/channel/UCSb4zqM7ZlvvrySnqLA3dlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-XYLØ - Afterlife
+Han Yo Han - 400km (feat. Kid Milli)
 
-**Albums**: America EP
+**Albums**: Spirit Bomb
 
-Last updated at 07/20/2020 18:04
+Last updated at 07/20/2020 18:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
