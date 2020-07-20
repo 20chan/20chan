@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lh8TxMh_ryyPOSInRhIGVlL3BddHMU1BWClPiuNcKhstMXC99wbGyUBcG8Tzm81M8uKVpPGIsmV63Bkr">](https://music.youtube.com/channel/UCAppgBOv04CnMBZlWf-nRiA)
 
-CHEMISTRY - Period
+GALNERYUS - HUNTING FOR YOUR DREAM (Single Version)
 
-**Albums**: Chemistry 2001-2011
+**Albums**: HUNTING FOR YOUR DREAM (TYPE-B)
 
-Last updated at 07/20/2020 10:45
+Last updated at 07/20/2020 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
