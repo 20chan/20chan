@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGbXXbne-I2W-HgYTEl2YZAHviNg63jxWZtnAA_vA86zqToVmIp4se86HYnEZb_r_o7_FqT83ekI-QfSTw">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
 
-The Black Skirts - EVERYTHING
+새소년 SE SO NEON - NAN CHUN
 
-**Albums**: TEAM BABY
+**Albums**: NAN CHUN
 
-Last updated at 07/20/2020 20:11
+Last updated at 07/20/2020 20:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
