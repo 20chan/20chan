@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k6hGWm9bXstwB3Wp6W8pY0RYCWkxKWpeOvNap5FgYwmbjUW-cwIcAx441Re-83ERnt7SWI44QO162vY">](https://music.youtube.com/channel/UC2u2CnOiwvF-0GvAfQPU0RA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-뮤직페이스 - 나를외치다
+HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
 
-**Albums**: 최고인기발라드가요베스트 6
+**Albums**: Helicopter
 
-Last updated at 07/20/2020 18:55
+Last updated at 07/20/2020 19:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
