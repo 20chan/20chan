@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iQa1a6lQqp0mKjubLcJmuaFIFHpt5PinrBfoW1os9lKthT4VP163zz0JejiXsnuUcLPnIKNiOeJyNAnJ">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-더 크로스 - 난장이가 쏘아올린 작은 공
+SID - Rain
 
-**Albums**: Melody Quus
+**Albums**: Dead Stock
 
-Last updated at 07/20/2020 16:21
+Last updated at 07/20/2020 16:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
