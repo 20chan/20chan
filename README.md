@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iQa1a6lQqp0mKjubLcJmuaFIFHpt5PinrBfoW1os9lKthT4VP163zz0JejiXsnuUcLPnIKNiOeJyNAnJ">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qdtclXTJszgE0fXXf0byNWTshVE0dcgKJOUMerTK4HE1EsYu95nJpGDNSD7udInvx3vBtHOKe32iJlrn">](https://music.youtube.com/channel/UCnsThEFPrzFw2VtFZM9iB8Q)
 
-SID - Rain
+Lost Sky - Dreams Pt. II (feat. Sara Skinner)
 
-**Albums**: Dead Stock
+**Albums**: Dreams Pt. II
 
-Last updated at 07/20/2020 16:24
+Last updated at 07/20/2020 16:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
