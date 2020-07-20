@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9vOgCIITrilqWvQ67NI94ob_xvHEbVeT-hrGkTAi5zXHHdLm4487YTJtV4pXItckRASUgjZsQAnANYBfA">](https://music.youtube.com/channel/UCFeCzD2Fqr3jlMcGTt0Jnlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qYUIJqGHau65DnU0zO-XWKut_vUx5hzj4F_ryV6LNefz1hEXUJi275htJzMHKc4K_QU9llFuS_fL9vqIAA">](https://music.youtube.com/channel/UChtfWZpRHhdgwBKIKEzhgUQ)
 
-NIKI - I Like U
+김윤아 - Going Home
 
-**Albums**: I Like U
+**Albums**: 315360
 
-Last updated at 07/20/2020 20:24
+Last updated at 07/20/2020 20:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
