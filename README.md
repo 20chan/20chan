@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fVe0ioost2Vls_l_I-OhJv8mxmdzMDt6TsYzU3QJQgOFGGAGVYP1EcVSfJJBsA6w_y7IrD2dUf9fw0Je">](https://music.youtube.com/channel/UCOcgYC2yYTjUGKLSpWWTt4Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0SVMgXNh9DWvq3l9m7TN7qpBUqHRTrqGFj7CxxjOw2emrxjzCRMwpQEQfAqZ1njnmOVj2zYan4dCsNhZ">](https://music.youtube.com/channel/UChzgSkV7TXUAHDwsZGlFosA)
 
-Gero - Ivory
+GOTCHAROCKA - Brilliant days
 
-**Albums**: one
+**Albums**: SCREAMY
 
-Last updated at 07/20/2020 10:24
+Last updated at 07/20/2020 10:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
