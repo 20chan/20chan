@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9wxHRergVQXDQnuRjGBoMWG43IWk4n9YVJyQuW6AM6QoijgJhCf7CaPXAC8ESZ_dQkGfWlaf1nK5XFs">](https://music.youtube.com/channel/UCX63EN7MeI3_ThgKMzV4ZXQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-카더가든 Car, the garden - Home Sweet Home
+Green Day - Holiday / Boulevard of Broken Dreams
 
-**Albums**: APARTMENT
+**Albums**: American Idiot
 
-Last updated at 07/20/2020 12:59
+Last updated at 07/20/2020 13:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
