@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/u7Oa37M5a5FF0a8TrwdeHfz86G-MPZAM5lPobeDTgia-JCP-Dd7qGCFBCC0l2RJWzv5caTHRhjQ7y-d5">](https://music.youtube.com/channel/UCgerUw6uCKCZIYvD5sz5ZNg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/j0puntq0kco3ZVF3Q7Hz78EEzV9_aiEb1F6x1kK9C3PUxv01u_xIfpAFP-dNKLMjyNij-b3lcEzxSvFEtQ">](https://music.youtube.com/channel/UCSE_XZwp_fY2lzjtRzbYPog)
 
-6LACK - PRBLMS
+Kwak Jin Eon - In front of city hall at the subway station
 
-**Albums**: FREE 6LACK (Bonus Track Version)
+**Albums**: HOSPITAL PLAYLIST (Original Television Soundtrack)
 
-Last updated at 07/20/2020 20:52
+Last updated at 07/20/2020 20:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
