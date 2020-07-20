@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r1AfbsSYtAbc6cU0VeCqzemZlLCYB1IQq0l3tlO6X3IylxewGS7NZmcnt94HA8Bygmn7iRInSpe9TOJtyg">](https://music.youtube.com/channel/UC4c6GaQhs34eruKQCnyzVMg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lcMO0OUvGkMv7wY-F-qwcV-_FAb5KQbknZ8VQOoOeAIeg9Lpgw0ho4RQ7U-nfJJAyDy4n4wjC9QosIg">](https://music.youtube.com/channel/UCneQ7UWyu9USLDgMya6T7IA)
 
-더 넛츠 - 사랑의 바보
+The Killers - Mr. Brightside
 
-**Albums**: 더 넛츠 1집
+**Albums**: Hot Fuss
 
-Last updated at 07/20/2020 13:19
+Last updated at 07/20/2020 13:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
