@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vMijWKIl8DbUGydreBz5Fh_SXvOjKYHQcKvo89C0T81mi7Wjh2MZAoP1CBqYYxjbG1tEf84AD2IyTd8umQ">](https://music.youtube.com/channel/UC3M2IkAU3VrLfyMtVjp8pPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mlMNQUOQhp9ah9tRUEDHlsPps3HmZ5UMIjnflZdzVcJl7ng_2_-q3ey7-OfQioz3FoH0cTty5lO07TPm">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-김건모 - Wrongful Meeting
+짙은 - Feel Alright
 
-**Albums**: 잘못된 만남
+**Albums**: Wonderland
 
-Last updated at 07/20/2020 11:57
+Last updated at 07/20/2020 12:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
