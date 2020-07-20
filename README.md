@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZWk2AoaKqe4PbapxIZbDwizAnEg4wsp3u58czL-_DXEQavlYjwovp34LsV3l3-hc8a4hvx45bt1xKc">](https://music.youtube.com/channel/UCpmx2BTCQ51R5MfoR6AAnsg)
 
-CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo-Eun - BAND
+SPYAIR - Sakuramitsutsuki
 
-**Albums**: BAND
+**Albums**: MILLION
 
-Last updated at 07/20/2020 12:05
+Last updated at 07/20/2020 12:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
