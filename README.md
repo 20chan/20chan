@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/POLnmINdcp9J6gsyi3lg2CIYdSmdEe1KRSMWuGaq0VPLAKDUsdwHsk77zjH3fwJQPpjK_zjO-ZGsOqA">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
 
-짙은 - 백야
+공일오비 (015B) & O.WHEN - 세월의 흔적 다 버리고
 
-**Albums**: 백야 - EP
+**Albums**: 015B Anthology Pt. 3
 
-Last updated at 07/20/2020 18:36
+Last updated at 07/20/2020 18:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
