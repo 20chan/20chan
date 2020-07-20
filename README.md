@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9mA1S2xg38Rgb-CWP_R1YdUwEPnZ9EKZD6Gn6P0nxrCSv6TkbZwwRWF3uga8gF6N5PtxjvwZGSMZu3u">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fVe0ioost2Vls_l_I-OhJv8mxmdzMDt6TsYzU3QJQgOFGGAGVYP1EcVSfJJBsA6w_y7IrD2dUf9fw0Je">](https://music.youtube.com/channel/UCOcgYC2yYTjUGKLSpWWTt4Q)
 
-SID - Cafe de Bossa
+Gero - Ivory
 
-**Albums**: M&W
+**Albums**: one
 
-Last updated at 07/20/2020 10:20
+Last updated at 07/20/2020 10:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
