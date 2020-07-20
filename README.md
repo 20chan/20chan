@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3II47qHdJmSW_QmT0luHoBVpVWDP9Tmr1IN9JDehH8W90XdW46wfLKev9PXcykfZaf_Na_w_z0DahZlS">](https://music.youtube.com/channel/UCus5f127n0MD39axVpPcNAA)
 
-Green Day - Holiday / Boulevard of Broken Dreams
+Lemaitre - Closer (feat. Jennie A.)
 
-**Albums**: American Idiot
+**Albums**: 1749
 
-Last updated at 07/20/2020 15:55
+Last updated at 07/20/2020 16:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
