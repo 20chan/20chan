@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/POLnmINdcp9J6gsyi3lg2CIYdSmdEe1KRSMWuGaq0VPLAKDUsdwHsk77zjH3fwJQPpjK_zjO-ZGsOqA">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/T4Zt2jibS8ufgFJufIqMC-cEsAYuMjsdbWJ-KQsNVhrq04gBISpsynj0wcOLPb_kv8HZB6ZCGFyVZNVs">](https://music.youtube.com/channel/UCBU-ueko7Acq5XFg-Y1Zapg)
 
-공일오비 (015B) & O.WHEN - 세월의 흔적 다 버리고
+김사월 Kim Sawol - Someone 누군가에게
 
-**Albums**: 015B Anthology Pt. 3
+**Albums**: Romance 로맨스
 
-Last updated at 07/20/2020 18:40
+Last updated at 07/20/2020 18:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
