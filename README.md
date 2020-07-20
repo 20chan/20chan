@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGbXXbne-I2W-HgYTEl2YZAHviNg63jxWZtnAA_vA86zqToVmIp4se86HYnEZb_r_o7_FqT83ekI-QfSTw">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
 
-새소년 SE SO NEON - NAN CHUN
+My Chemical Romance - Famous Last Words
 
-**Albums**: NAN CHUN
+**Albums**: The Black Parade
 
-Last updated at 07/20/2020 13:11
+Last updated at 07/20/2020 13:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
