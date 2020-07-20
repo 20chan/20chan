@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zKbX2JV0JdUf87t6_iA6keYhHBLGgyMYG7qai-WhuahIR2jw_yERaCPdBWh8q4iRkN6oEeLHIGDCsGNPow">](https://music.youtube.com/channel/UCC7tLkKIDdakbSN6Z1n4TbA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
 
-Redbone - Come and Get Your Love
+버즈 - 가시
 
-**Albums**: Wovoka
+**Albums**: Buzz Effect
 
-Last updated at 07/20/2020 17:16
+Last updated at 07/20/2020 17:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
