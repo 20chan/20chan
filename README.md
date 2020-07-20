@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2XtsplBvOwlmYd0F7_y7R04swa0IjoXcH90wNw7QwwwxGYf3YAxg72t0qObvvCnjacF4nChe8rpWpJE">](https://music.youtube.com/channel/UCK2kzYT3yR6LV_Pji5TDrgA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-30 Seconds To Mars - The Kill [Bury Me] (Edit)
+짙은 - 백야
 
-**Albums**: The Kill (Bury Me) [Live @ VH1.com]
+**Albums**: 백야 - EP
 
-Last updated at 07/20/2020 16:12
+Last updated at 07/20/2020 16:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
