@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vMijWKIl8DbUGydreBz5Fh_SXvOjKYHQcKvo89C0T81mi7Wjh2MZAoP1CBqYYxjbG1tEf84AD2IyTd8umQ">](https://music.youtube.com/channel/UC3M2IkAU3VrLfyMtVjp8pPA)
 
-창모 CHANGMO - One More Rollie (feat. Keem Hyo Eun & Hash Swan)
+김건모 - Wrongful Meeting
 
-**Albums**: Gettin Money Moment
+**Albums**: 잘못된 만남
 
-Last updated at 07/20/2020 11:52
+Last updated at 07/20/2020 11:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
