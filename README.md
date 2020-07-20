@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qYUIJqGHau65DnU0zO-XWKut_vUx5hzj4F_ryV6LNefz1hEXUJi275htJzMHKc4K_QU9llFuS_fL9vqIAA">](https://music.youtube.com/channel/UChtfWZpRHhdgwBKIKEzhgUQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
 
-김윤아 - Going Home
+델리스파이스 (DELISPICE) - 고백
 
-**Albums**: 315360
+**Albums**: Espresso
 
-Last updated at 07/20/2020 20:28
+Last updated at 07/20/2020 20:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
