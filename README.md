@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yPWujAgoNIVE7lwDctX3qgw27S4yFvXfVWDCrdopiFbd5U7AItejzx26GUgRNxWt0K7xqg2FLXN_Bokx">](https://music.youtube.com/channel/UC8Du0rASQFHx7CxziS4OuIA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
 
-TK from Ling tosite sigure - Unravel
+Leellamarz - AMBITION (feat. ASH ISLAND, KEEM HYO-EUN, Hash Swan & CHANGMO)
 
-**Albums**: Fantastic Magic
+**Albums**: MARZ 2 AMBITION
 
-Last updated at 07/20/2020 11:23
+Last updated at 07/20/2020 11:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
