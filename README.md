@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/F2C2xbu8Yg6klSwsbuBdqkMjYrvgGMZTQ6fyKxQKU87zqbGmWGRYEITYDTtlNfF-3O7lMwwSYkXoiUlZ">](https://music.youtube.com/channel/UCAtLPtdf3NxaabgXCqYehoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9mA1S2xg38Rgb-CWP_R1YdUwEPnZ9EKZD6Gn6P0nxrCSv6TkbZwwRWF3uga8gF6N5PtxjvwZGSMZu3u">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-Aqua Timez - Mask
+SID - Ito
 
-**Albums**: 10th Anniversary Best Blue
+**Albums**: M&W
 
-Last updated at 07/20/2020 10:36
+Last updated at 07/20/2020 10:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
