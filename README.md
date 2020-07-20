@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">](https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7WuCPt_wzSaUJ8aNSmY4tzjMnx9Yyc-GFdD67nrgk4IUzdTz0B80JP9aoHP0_a-Xo0rx9PtxBKx7Xay9">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
 
-Huckleberry P - One of Them (feat. EK & JUSTHIS)
+XXXTENTACION - the remedy for a broken heart (why am I so in love)
 
-**Albums**: One of Them
+**Albums**: ?
 
-Last updated at 07/20/2020 19:03
+Last updated at 07/20/2020 19:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
