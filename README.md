@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gSjSpiwhol20w2GLjYSR81AOBvdo1UiLRBeu8RbVuRZjtHh6yipa22c26_TZK2Jm7_BGi4FApSXFIZo2VA">](https://music.youtube.com/channel/UCedvOgsKFzcK3hA5taf3KoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_PnZP6AWF5NJ9bJH4Cm__43gliAAZmaDfW_QTqJe0QebBZWUyWDYy4CLuY3KfSa0rQhbNJ-Qgz1AQI">](https://music.youtube.com/channel/UC7-TE_bf3aypItpP7o7_nbg)
 
-Eminem - Godzilla (feat. Juice WRLD)
+Standing Egg - 오래된 노래
 
-**Albums**: Music To Be Murdered By
+**Albums**: Old Song
 
-Last updated at 07/20/2020 18:11
+Last updated at 07/20/2020 18:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
