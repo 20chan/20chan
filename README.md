@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rz6SKjMvpUJeyflamaA1hBW_Se0fRoeZPjGiH2Kbn4noJENMV2hOpCuF141YRLmLXzeM280iATAXkVRL">](https://music.youtube.com/browse/MPREb_RFWwqxNxZ9x)
 
-짙은 - 백야
+동물원 - 널 사랑하겠어
 
-**Albums**: 백야 - EP
+**Albums**: 널 사랑하겠어
 
-Last updated at 07/20/2020 16:13
+Last updated at 07/20/2020 16:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
