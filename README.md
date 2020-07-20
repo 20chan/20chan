@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pTHoc6VSltO-Yl0wiGGKN5XcrnH_paqmaA93_H4Y2W482xi55wej9E6EgXydwxoHwGqlBepJnAjXusLc">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-Cool - All for You
+Green Day - Wake Me up When September Ends
 
-**Albums**: COOL 5
+**Albums**: American Idiot
 
-Last updated at 07/20/2020 14:51
+Last updated at 07/20/2020 14:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
