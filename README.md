@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVJUhwTnPJmt3sYY2jaxdS-DAN7tn7FIHZj6DjcWGb6-gnQC7F_ZpINNWfCIDC7UgZ-ShBQNNJ1UwzZOhg">](https://music.youtube.com/channel/UCLhEkkNFkGjOUI77xhqUcTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pxhSDZi1iY7B3nWbEgG1ysRfGmWPAs3cg4J94gsUa5L0hZquFzlJM4Coz927MOqq2W9qsPw8NUu7supv">](https://music.youtube.com/channel/UCUUPndfCXVm8-srwV6dzXcg)
 
-김광석 (Kim Kwang Seok) - 잊어야 한다는 마음으로 (With the Heart to Forget You)
+HYUKOH - TOMBOY
 
-**Albums**: 김광석 3번째 노래모음 (Kim Kwang Seok 3rd Song Collection)
+**Albums**: 23
 
-Last updated at 07/20/2020 13:46
+Last updated at 07/20/2020 13:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
