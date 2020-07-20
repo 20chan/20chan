@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwR8jr3rqrANnex4aLDG1askb5jay1vSRmKpPneHx_Dvr0N9-xhlMbTXFsU2b2sPtBJ-50ss9oL4uyZF">](https://music.youtube.com/channel/UCoEdj_6p3v5aBp8WqrJ0zIg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-Wengie - Deja Vu
+Green Day - Wake Me up When September Ends
 
-**Albums**: Deja Vu
+**Albums**: American Idiot
 
-Last updated at 07/20/2020 17:42
+Last updated at 07/20/2020 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
