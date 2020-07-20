@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFmAlvSzHnGy5focJlJBOKNDCL0PTUV1G9bLecKgcmb5RuD3F98zgaEzTMFW84uAjECT1MSbYWtgoAZs">](https://music.youtube.com/channel/UCrNP86xe_TTQaUrKR7XXB1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Broken Valentine - 알루미늄
+Zitten - Sunflower
 
-**Albums**: Aluminium
+**Albums**: diaspora : 흩어진 사람들 [EP]
 
-Last updated at 07/20/2020 18:19
+Last updated at 07/20/2020 18:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
