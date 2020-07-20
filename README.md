@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lno70Lu1p3AGX5-yFrgJ3dh4YBLCUwf3DK-tsDiq-BNyin6DDMBkJsuY1DsT6DiMZixPwfawKQJnAv3l">](https://music.youtube.com/channel/UCDrj9lIddd4uU4_XsH_ZyBw)
 
-Zitten - Sunflower
+Yun Ddan Ddan - The Night I Miss You 니가 보고싶은 밤
 
-**Albums**: diaspora : 흩어진 사람들 [EP]
+**Albums**: The Night I Miss You 니가 보고싶은 밤
 
-Last updated at 07/20/2020 18:26
+Last updated at 07/20/2020 18:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
