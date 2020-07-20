@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P0lB05kUpHEDq0lMZg_haw8J05AqleCTeki89lrYN-Aus9zff95zZ161WdTtHsWLP1ejH0O2f0TJ28VX">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2XtsplBvOwlmYd0F7_y7R04swa0IjoXcH90wNw7QwwwxGYf3YAxg72t0qObvvCnjacF4nChe8rpWpJE">](https://music.youtube.com/channel/UCK2kzYT3yR6LV_Pji5TDrgA)
 
-Zitten - Sunflower
+30 Seconds To Mars - The Kill [Bury Me] (Edit)
 
-**Albums**: diaspora : 흩어진 사람들 [EP]
+**Albums**: The Kill (Bury Me) [Live @ VH1.com]
 
-Last updated at 07/20/2020 16:07
+Last updated at 07/20/2020 16:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
