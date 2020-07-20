@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">](https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ)
 
-HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
+Huckleberry P - One of Them (feat. EK & JUSTHIS)
 
-**Albums**: Helicopter
+**Albums**: One of Them
 
-Last updated at 07/20/2020 19:00
+Last updated at 07/20/2020 19:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
