@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-짙은 - 백야
+Green Day - Holiday / Boulevard of Broken Dreams
 
-**Albums**: 백야 - EP
+**Albums**: American Idiot
 
-Last updated at 07/20/2020 15:46
+Last updated at 07/20/2020 15:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
