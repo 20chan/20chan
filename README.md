@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_PnZP6AWF5NJ9bJH4Cm__43gliAAZmaDfW_QTqJe0QebBZWUyWDYy4CLuY3KfSa0rQhbNJ-Qgz1AQI">](https://music.youtube.com/channel/UC7-TE_bf3aypItpP7o7_nbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bQN1pzwS0hNcc7SOlFhDj9xb6ny4xEwEwecESPsz8ZljpVWtgbZUlhEG_irUd-JXRuLypLjeAl7i-LA5UA">](https://music.youtube.com/channel/UChrC_0Daukw-snrRaGCsyRQ)
 
-Standing Egg - 오래된 노래
+이문세 - 그녀의 웃음소리뿐
 
-**Albums**: Old Song
+**Albums**: 이문세 Memories
 
-Last updated at 07/20/2020 19:27
+Last updated at 07/20/2020 19:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
