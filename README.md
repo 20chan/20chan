@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ghhPy2HlLiIPAPtdnoLKggw8Od5mPBPNNsTq5C3LzQZJIpiangQBaCmz7YSJAYF25kNsP7ApvtNRhH4">](https://music.youtube.com/channel/UCvNGvMSDassu8fTA9Vwdzxg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w4eJMPRASjXtrIg_tPmn2z_SkKd-Z2KlAojst-xgOcOjI5qzkaDTBlt9ZpmuyngY-L3NDYZLszz9ViX4">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-UVERworld - Core Pride
+Zitten - 잘 지내자, 우리
 
-**Albums**: All Time Best
+**Albums**: 사랑의 단상 Chapter 5. The Letter From Nowhere
 
-Last updated at 07/20/2020 14:42
+Last updated at 07/20/2020 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
