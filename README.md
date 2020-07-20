@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pxhSDZi1iY7B3nWbEgG1ysRfGmWPAs3cg4J94gsUa5L0hZquFzlJM4Coz927MOqq2W9qsPw8NUu7supv">](https://music.youtube.com/channel/UCUUPndfCXVm8-srwV6dzXcg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
 
-HYUKOH - TOMBOY
+The Black Skirts - EVERYTHING
 
-**Albums**: 23
+**Albums**: TEAM BABY
 
-Last updated at 07/20/2020 20:07
+Last updated at 07/20/2020 20:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
