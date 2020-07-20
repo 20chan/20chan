@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3uQNVSoxDuJJXNuJ7NIl2e_9thz8p9xGa51oTn4EkMauMcpxCelt9knWEPbOkn18_KUtVxS1A3HuvVpI">](https://music.youtube.com/channel/UCRwsyexzM3j9YLjTb3HjseQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VthitUDdH9Nw5_kTaM73y6RiRNhuqlBi9oNxhrMNmhpbV_h6qDK9eFdUt4_UggMkbgxj00wOk7hLq3A">](https://music.youtube.com/channel/UCqCbbJe8cN5sxiZ2N1V2UOg)
 
-Toy - 프랑지파니 (Vocal 유희열)
+Naomi Scott - Speechless (Full)
 
-**Albums**: Thank You
+**Albums**: Aladdin (Original Motion Picture Soundtrack)
 
-Last updated at 07/20/2020 20:41
+Last updated at 07/20/2020 20:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
