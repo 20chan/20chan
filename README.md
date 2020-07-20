@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/V7QOylWmzZtvehy7le_aRcV0GzhUQESVFW7Haid4ZL6oaLskDnFN5OiFEkvALccZtUF_KskSdmJXhi0">](https://music.youtube.com/channel/UC8-EI2rTBYgkZl5kB_b-2Pw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-JANNABI - for lovers who hesitate
+짙은 - 백야
 
-**Albums**: LEGEND
+**Albums**: 백야 - EP
 
-Last updated at 07/20/2020 18:35
+Last updated at 07/20/2020 18:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
