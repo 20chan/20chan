@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DEuWG6yDA15tirxBfwthmkppPaUNnzP6rOMtf6cKy1CXRipTi_A9o4wYKMeqFr_oDEj9-WEMw4DDjg">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-더 크로스 - 희망
+Jaurim - 스물다섯, 스물하나
 
-**Albums**: Melody Quus
+**Albums**: Goodbye, grief.
 
-Last updated at 07/20/2020 16:47
+Last updated at 07/20/2020 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
