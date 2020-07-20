@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rz6SKjMvpUJeyflamaA1hBW_Se0fRoeZPjGiH2Kbn4noJENMV2hOpCuF141YRLmLXzeM280iATAXkVRL">](https://music.youtube.com/browse/MPREb_RFWwqxNxZ9x)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-동물원 - 널 사랑하겠어
+더 크로스 - 난장이가 쏘아올린 작은 공
 
-**Albums**: 널 사랑하겠어
+**Albums**: Melody Quus
 
-Last updated at 07/20/2020 16:17
+Last updated at 07/20/2020 16:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
