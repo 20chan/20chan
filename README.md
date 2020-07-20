@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l-ojnPMnlb3ZXc27ZHrTiChNIvZK_BOMKq7UVVSL5XJ9d5pf2Gm1IreggTMcq1U2h-6CYcILElhnT-6qHg">](https://music.youtube.com/channel/UCqeKxDJotVkhsRT0ye3n-Mw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yPWujAgoNIVE7lwDctX3qgw27S4yFvXfVWDCrdopiFbd5U7AItejzx26GUgRNxWt0K7xqg2FLXN_Bokx">](https://music.youtube.com/channel/UC8Du0rASQFHx7CxziS4OuIA)
 
-Kiha & The Faces - 풍문으로 들었소
+TK from Ling tosite sigure - Unravel
 
-**Albums**: 범죄와의 전쟁: 나쁜놈들 전성시대 (Original Motion Picture Soundtrack)
+**Albums**: Fantastic Magic
 
-Last updated at 07/20/2020 11:20
+Last updated at 07/20/2020 11:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
