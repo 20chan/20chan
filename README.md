@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9YmMIW8WWyshK1EnCzU3RDouxk11Brb4q0Z1NL6hXW5I2izItsVa6qDzOuV5h7QmAnul3DNBcfjhbDrr">](https://music.youtube.com/channel/UCQ6eto8FjpD7mut_F23ctpw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9vOgCIITrilqWvQ67NI94ob_xvHEbVeT-hrGkTAi5zXHHdLm4487YTJtV4pXItckRASUgjZsQAnANYBfA">](https://music.youtube.com/channel/UCFeCzD2Fqr3jlMcGTt0Jnlg)
 
-林ゆうき - You Say Run
+NIKI - I Like U
 
-**Albums**: TVアニメ「僕のヒーローアカデミア」サウンドトラックセレクション 2016-2018
+**Albums**: I Like U
 
-Last updated at 07/20/2020 20:20
+Last updated at 07/20/2020 20:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
