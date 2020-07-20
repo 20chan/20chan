@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gSjSpiwhol20w2GLjYSR81AOBvdo1UiLRBeu8RbVuRZjtHh6yipa22c26_TZK2Jm7_BGi4FApSXFIZo2VA">](https://music.youtube.com/channel/UCedvOgsKFzcK3hA5taf3KoQ)
 
-Han Yo Han - 400km (feat. Kid Milli)
+Eminem - Godzilla (feat. Juice WRLD)
 
-**Albums**: Spirit Bomb
+**Albums**: Music To Be Murdered By
 
-Last updated at 07/20/2020 18:08
+Last updated at 07/20/2020 18:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
