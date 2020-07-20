@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qrzvprdJr4I-sekjc2oBqyGT5q6bFmhC-cvj8KMkmOFwXZWZHcP8DBe6tale7smHJ73ipRPFDAX8Oyc">](https://music.youtube.com/channel/UC5FYAw7pRrtyqrHkHwp1nIQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/klsRHfHUTsqcEmCKu4N-2VZZ6TJhAVKPPhOe9NXmSX84MZfqA4LxUwGrRtqu5udooDTqRWkZH4zBUaQ">](https://music.youtube.com/channel/UC4EEjKqvAi92Lp8twJYzMyg)
 
-HONNE - Warm on a Cold Night
+88rising - La La Lost You
 
-**Albums**: Warm on a Cold Night (Deluxe)
+**Albums**: Head In The Clouds II
 
-Last updated at 07/20/2020 19:20
+Last updated at 07/20/2020 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
