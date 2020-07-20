@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/33Pvz0SQcDPfaeNuXU0tHHdPBWsOnzW6dGOcgAo7eL5GPmL9SjVr48GL9w84c-73pqTnqA8HtCdBR8k">](https://music.youtube.com/channel/UC4YQ3qL9E3SoonZtWeguHKg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Broccoli you too - Can't Soothe by Love
+짙은 - 백야
 
-**Albums**: Graduation
+**Albums**: 백야 - EP
 
-Last updated at 07/20/2020 15:41
+Last updated at 07/20/2020 15:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
