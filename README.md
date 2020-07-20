@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9mA1S2xg38Rgb-CWP_R1YdUwEPnZ9EKZD6Gn6P0nxrCSv6TkbZwwRWF3uga8gF6N5PtxjvwZGSMZu3u">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
 
-SID - Ito
+CHEMISTRY - Period
 
-**Albums**: M&W
+**Albums**: Chemistry 2001-2011
 
-Last updated at 07/20/2020 10:41
+Last updated at 07/20/2020 10:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
