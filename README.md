@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qrzvprdJr4I-sekjc2oBqyGT5q6bFmhC-cvj8KMkmOFwXZWZHcP8DBe6tale7smHJ73ipRPFDAX8Oyc">](https://music.youtube.com/channel/UC5FYAw7pRrtyqrHkHwp1nIQ)
 
-Kid Milli - WHY DO FUCKBOIS HANG OUT ON THE NET
+HONNE - Warm on a Cold Night
 
-**Albums**: AI, THE PLAYLIST
+**Albums**: Warm on a Cold Night (Deluxe)
 
-Last updated at 07/20/2020 19:17
+Last updated at 07/20/2020 19:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
