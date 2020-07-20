@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/klsRHfHUTsqcEmCKu4N-2VZZ6TJhAVKPPhOe9NXmSX84MZfqA4LxUwGrRtqu5udooDTqRWkZH4zBUaQ">](https://music.youtube.com/channel/UC4EEjKqvAi92Lp8twJYzMyg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
 
-88rising - Indigo
+My Chemical Romance - Welcome to the Black Parade
 
-**Albums**: Head In The Clouds II
+**Albums**: The Black Parade
 
-Last updated at 07/20/2020 17:01
+Last updated at 07/20/2020 17:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
