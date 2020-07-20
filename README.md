@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVJUhwTnPJmt3sYY2jaxdS-DAN7tn7FIHZj6DjcWGb6-gnQC7F_ZpINNWfCIDC7UgZ-ShBQNNJ1UwzZOhg">](https://music.youtube.com/channel/UCLhEkkNFkGjOUI77xhqUcTA)
 
-Han Yo Han - 400km (feat. Kid Milli)
+김광석 (Kim Kwang Seok) - 잊어야 한다는 마음으로 (With the Heart to Forget You)
 
-**Albums**: Spirit Bomb
+**Albums**: 김광석 3번째 노래모음 (Kim Kwang Seok 3rd Song Collection)
 
-Last updated at 07/20/2020 15:18
+Last updated at 07/20/2020 15:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
