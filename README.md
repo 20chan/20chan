@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lcMO0OUvGkMv7wY-F-qwcV-_FAb5KQbknZ8VQOoOeAIeg9Lpgw0ho4RQ7U-nfJJAyDy4n4wjC9QosIg">](https://music.youtube.com/channel/UCneQ7UWyu9USLDgMya6T7IA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
 
-The Killers - Mr. Brightside
+버즈 - 가시
 
-**Albums**: Hot Fuss
+**Albums**: Buzz Effect
 
-Last updated at 07/20/2020 13:24
+Last updated at 07/20/2020 13:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
