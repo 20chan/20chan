@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E3J-qjxgo0Yumxq7JFNmT2ih57nuZSvSaAyAqf914XoA_XVi0YKaS_c8daa5wNB9KkS-2dMpunGUXEF9Lg">](https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dtg-ykg6epLX4oUDyVfXJl194YyvrxG9KxHKRGwYfJSHl92TI44KvBLlSMBARaNeqzKkfA2nRWPlgIs">](https://music.youtube.com/channel/UCSD2j7LUIEz6PMN0NyW6IGw)
 
-NF - Outcast
+Bakermat - Baianá
 
-**Albums**: Perception
+**Albums**: Baianá
 
-Last updated at 07/19/2020 15:45
+Last updated at 07/20/2020 10:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
