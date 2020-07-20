@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UVvDEAu9jAgjbTxezO5VPg2Kx_uLoQCMlqaRkgyyW0n33pygsYu2Cx0XHKZzuJIIGcrR-bEaU_kdJkTi">](https://music.youtube.com/channel/UCX63EN7MeI3_ThgKMzV4ZXQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hMz06I4EUoKap36OEV1wunRT5T3Kr2TGP1GzefdP5dLVKt-92Fr0zq53SlQypCk3joTj4QhBn_AIAzs">](https://music.youtube.com/channel/UC1yfXDUlpfEncDnLUMekHhQ)
 
-Car the garden - Till the End of Time
+Nell - The Day Before
 
-**Albums**: THE FAN TOP5
+**Albums**: Slip Away
 
-Last updated at 07/20/2020 18:48
+Last updated at 07/20/2020 18:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
