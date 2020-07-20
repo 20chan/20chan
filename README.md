@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW0lRQG6Chm3nfZZ3WGHZxWJCxaVDiXVLR7GaW5MuE-ubL5TaUpteJl6B6t1TNooiy59xDBe9TPMnY3P">](https://music.youtube.com/channel/UC7zqpkW36n0w00kI_ghv3Ow)
 
-조광일 - Acrobat 곡예사
+dosii - Moon
 
-**Albums**: Acrobat 곡예사
+**Albums**: dosii
 
-Last updated at 07/20/2020 16:36
+Last updated at 07/20/2020 16:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
