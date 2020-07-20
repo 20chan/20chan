@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CH4f7dIGzvkFl7shRJN1-DDTbqH6eEXc7rc_CPtWPx9WJBbbHemI4QfaSKZEmcdR_6tN_VquooyQjv4">](https://music.youtube.com/channel/UCZS4DqLXMHyZ0iQLv_yjL9Q)
 
-자두 (The Jadu) - 김밥 (Gimbap)
+Shin Yong Jae - First Line
 
-**Albums**: 자두 3집 - The Jadu 3
+**Albums**: Dear
 
-Last updated at 07/20/2020 21:12
+Last updated at 07/20/2020 21:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
