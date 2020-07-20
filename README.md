@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3uQNVSoxDuJJXNuJ7NIl2e_9thz8p9xGa51oTn4EkMauMcpxCelt9knWEPbOkn18_KUtVxS1A3HuvVpI">](https://music.youtube.com/channel/UCRwsyexzM3j9YLjTb3HjseQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/klsRHfHUTsqcEmCKu4N-2VZZ6TJhAVKPPhOe9NXmSX84MZfqA4LxUwGrRtqu5udooDTqRWkZH4zBUaQ">](https://music.youtube.com/channel/UC4EEjKqvAi92Lp8twJYzMyg)
 
-Toy - 프랑지파니 (Vocal 유희열)
+88rising - Indigo
 
-**Albums**: Thank You
+**Albums**: Head In The Clouds II
 
-Last updated at 07/20/2020 16:56
+Last updated at 07/20/2020 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
