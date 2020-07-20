@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r1AfbsSYtAbc6cU0VeCqzemZlLCYB1IQq0l3tlO6X3IylxewGS7NZmcnt94HA8Bygmn7iRInSpe9TOJtyg">](https://music.youtube.com/channel/UC4c6GaQhs34eruKQCnyzVMg)
 
-My Chemical Romance - Famous Last Words
+더 넛츠 - 사랑의 바보
 
-**Albums**: The Black Parade
+**Albums**: 더 넛츠 1집
 
-Last updated at 07/20/2020 13:15
+Last updated at 07/20/2020 13:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
