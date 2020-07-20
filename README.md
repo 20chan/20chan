@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGbXXbne-I2W-HgYTEl2YZAHviNg63jxWZtnAA_vA86zqToVmIp4se86HYnEZb_r_o7_FqT83ekI-QfSTw">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
 
-Green Day - Holiday / Boulevard of Broken Dreams
+새소년 SE SO NEON - NAN CHUN
 
-**Albums**: American Idiot
+**Albums**: NAN CHUN
 
-Last updated at 07/20/2020 13:02
+Last updated at 07/20/2020 13:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
