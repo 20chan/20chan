@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0Hw76NVqyxU59umdxTdtJtS-Zz3LGGWFB4l0kScIKaxaYqr1zD0rJCoI3UGm-Wjbgy1phyqkO-Wc-ASK">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SqlnN5t9ftyZjj4AxXYIXwAK5c7CRtgD7oSHHeBWzW2cl7079VllQjoTH5D5rPrGChgQKqk5DlQuRwdN">](https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ)
 
-XXXTENTACION - Look At Me!
+Jvcki Wai, Coogie, Paloalto & The Quiett - Fadeaway
 
-**Albums**: Look At Me!
+**Albums**: Fadeaway
 
-Last updated at 07/20/2020 11:46
+Last updated at 07/20/2020 11:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
