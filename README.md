@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">](https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA)
 
-HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
+루피(Loopy) - NoNo (feat. Simon Dominic)
 
-**Albums**: Helicopter
+**Albums**: Show Me the Money 777 Semi Final
 
-Last updated at 07/20/2020 12:47
+Last updated at 07/20/2020 12:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
