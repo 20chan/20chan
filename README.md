@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jpTlSzJGvFLAp7_HW_mkwoxvgvuimF_HBEvzNX9z-_MQpllJ1pmlW0m4zhLUCVx7hz_-usHKs-y37M4">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">](https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ)
 
-Han Yo Han - Broken Pieces (feat. ASH ISLAND)
+Huckleberry P - One of Them (feat. EK & JUSTHIS)
 
-**Albums**: Broken Pieces
+**Albums**: One of Them
 
-Last updated at 07/20/2020 15:26
+Last updated at 07/20/2020 15:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
