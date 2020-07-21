@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aM2MIyqR_Du9zi36fkvwTSgpRJf5aFIpRQNfv-cePHoGn67FP3WhFvVR6n4D92lKFKNiQUsbA1tOALRrdQ">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QtI62t0Ig96nqJkbGXtaDgyO7o6Lb7zfeEEyb_avqerN_NeOgMvRyi6DQI4L2I7BqdrMDp6ndlpmhzg5">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-amazarashi - Life Is Beautiful
+Aimer - Egao
 
-**Albums**: Sekaishuusoku Niichiichiroku
+**Albums**: Sleepless Nights
 
-Last updated at 07/21/2020 12:57
+Last updated at 07/21/2020 13:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
