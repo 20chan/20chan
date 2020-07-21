@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Qiq_9MIKJQ0PwdyB0kh1S0zyquFYNiDWYeeLVAL_-SqDXreTvADG_hZvPd2h1tlGdmMsX2yG0zf89vYAw">](https://music.youtube.com/channel/UCSiSpxjEegde82yrh3FXqUw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Of6c8A0iOKTsDTmCxMIMU0ubTTh-n-taCHYMHSur8p4Hz5skOGsEUNlHbayaj-HXs4dk3sxS0qiNLodu">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-上北 健 - ミスト
+amazarashi - Tarareba
 
-**Albums**: ミスト
+**Albums**: Sora Ni Utaeba - EP
 
-Last updated at 07/21/2020 12:31
+Last updated at 07/21/2020 12:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
