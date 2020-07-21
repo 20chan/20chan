@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VuyVvPoVWNoWsVwNEviga2n9faIIFvfI7OJNHZ8mYH8t6sEjSLFOdPB1TgKsWCbfgZXw_ZUAhUYW9LuF">](https://music.youtube.com/channel/UCTP45_DE3fMLujU8sZ-MBzw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-ITZY - WANNABE
+SID - Rain
 
-**Albums**: It'z Me
+**Albums**: Rain
 
-Last updated at 07/20/2020 21:34
+Last updated at 07/21/2020 10:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
