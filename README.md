@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-더 크로스 - 희망
+더 크로스 - 난장이가 쏘아올린 작은 공
 
 **Albums**: Melody Quus
 
-Last updated at 07/21/2020 18:23
+Last updated at 07/21/2020 18:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
