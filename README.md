@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QtI62t0Ig96nqJkbGXtaDgyO7o6Lb7zfeEEyb_avqerN_NeOgMvRyi6DQI4L2I7BqdrMDp6ndlpmhzg5">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5UJCY_L6xZb9v66ta0By769L89ntruL5VtthTfmjWTSrP3tNFd4X308j7TaxlfEqVjtqlq80hOc9eMIjJA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-Aimer - Egao
+amazarashi - Mudai (Unplugged)
 
-**Albums**: Sleepless Nights
+**Albums**: Amazarashi Senbunnoichiyamonogatari Starlight
 
-Last updated at 07/21/2020 13:03
+Last updated at 07/21/2020 13:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
