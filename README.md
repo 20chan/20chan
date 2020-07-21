@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ICLpxjM9xuY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcKEQEcWrgrqw5ClCim59gA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/2L3Y4WaO1NY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC6crVQ5uz9pzRkvqHF8xvXA)
 
-Wax - Lucky
+Koyote - 2004/06/18 koyote 코요태 불꽃 Spark　【신지 김종민 빽가】
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 16:16
+Last updated at 07/21/2020 16:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
