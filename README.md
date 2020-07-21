@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7WpNCZ6gKjIun2v-olS2qZ60UPyRxFrsmwKsbkZjjQWnAP9_TPh8byG2wKgP-k88bNckED1VUywSqyn4xg">](https://music.youtube.com/channel/UCjlifcVO6r-V5RSh3eB1lLg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5UJCY_L6xZb9v66ta0By769L89ntruL5VtthTfmjWTSrP3tNFd4X308j7TaxlfEqVjtqlq80hOc9eMIjJA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-supercell - Ginirohikosen
+amazarashi - Natsuwo Matte Imashita (Unplugged)
 
-**Albums**: Giniro Hikousen
+**Albums**: Amazarashi Senbunnoichiyamonogatari Starlight
 
-Last updated at 07/21/2020 13:48
+Last updated at 07/21/2020 13:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
