@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HxjNKPYtDDzCq0QRkrXbnBjXU5MfBAzJqDeyex8bsdjs4J1L4Urmf55WJ9tXGRF_MKGZFoX45Ha5UJMuA">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0SVMgXNh9DWvq3l9m7TN7qpBUqHRTrqGFj7CxxjOw2emrxjzCRMwpQEQfAqZ1njnmOVj2zYan4dCsNhZ">](https://music.youtube.com/channel/UChzgSkV7TXUAHDwsZGlFosA)
 
-SID - Soumatou
+GOTCHAROCKA - Brilliant days
 
-**Albums**: V.I.P
+**Albums**: SCREAMY
 
-Last updated at 07/21/2020 11:07
+Last updated at 07/21/2020 11:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
