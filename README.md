@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qZqVVSDH-pXyUgICxRYV6ZwUDIypxGxe07rQLK9lq8YQanjsRtggl9SYQKOpTzsbX2mU2Nreo4ka4Ftp">](https://music.youtube.com/channel/UCSp8TEAV3jhZUbpxhzFA-fQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vwTJ1L28yYzXaKQoVHcqOwqbCpY8rYZbvJ4ERnfRoxTBp71MmjZoBRbvVcCUNyOxdBwry7f3iVwCvqbnAQ">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-Porno Graffitti - Animarossa
+SID - Itsuka
 
-**Albums**: Trigger
+**Albums**: Itsuka
 
-Last updated at 07/21/2020 11:16
+Last updated at 07/21/2020 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
