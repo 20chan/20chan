@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mYlY90jWxals18CXrttB9DNW9iNg9vnIYEYsOM45GtrXINoSDs-1ZMIjZheKEtSS_cEZ3gHsutvkeUHi">](https://music.youtube.com/channel/UCQieMH6MxNuf7t1-zJZYjdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mi3mXrU__1jxmWLM1EWc3KJEI2vtZIjozTMO7XKxz7SsYX3ONUzi8-Ed2vYSCFiwl_JLDNTtQS3Rla6Ptw">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
 
-KEN KAMIKITA - BLUETOWN
+Kenshi Yonezu - Vivi
 
-**Albums**: TIDE
+**Albums**: diorama
 
-Last updated at 07/21/2020 12:49
+Last updated at 07/21/2020 12:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
