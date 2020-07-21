@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/lwGLtxPwboM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMpr3n_MFdPE780mKcVbLyw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ghAvJMxE1qo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXP8o4Xcws36pgpFNlGGBeg)
 
-Maya Official - MAYA(마야) - 그 흔한 반지도 뮤직비디오 Official M/V
+Sebastián Yatra & Reik - Un Año
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 18:11
+Last updated at 07/21/2020 18:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
