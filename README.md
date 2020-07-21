@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aaBHQUg2GbFLmTJk4UltkcuNP6ypwiQWEJr7XXg5W3RQXxxMmENKMDAnyRY7LehRgZysg4KlpjbwxqGL">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-짙은 - 백야
+HAN YO HAN - BABY I'M A ROCKSTAR (feat. Kim Seungmin & NO:EL)
 
-**Albums**: 백야 - EP
+**Albums**: Dragon Bike
 
-Last updated at 07/21/2020 14:15
+Last updated at 07/21/2020 14:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
