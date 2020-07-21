@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_9d38TA4rpa-izDxHszq_dU34dQu5syAl_RxkG7PVHmT6GfyfONVYrDq-2eTK6OOheELrbbKJpa5sjsT">](https://music.youtube.com/channel/UCiiDdOusxyYPGG-GVv0ys_Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
 
-FictionJunction - From the Edge (feat. LiSA)
+CHEMISTRY - Period
 
-**Albums**: From the Edge
+**Albums**: Chemistry 2001-2011
 
-Last updated at 07/21/2020 10:54
+Last updated at 07/21/2020 11:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
