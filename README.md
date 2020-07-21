@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Mt64LEHk8qU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6crVQ5uz9pzRkvqHF8xvXA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RzUiAIRS-ew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGmhljrNpnueQ96szX8ec4A)
 
-Koyote - Nonsense
+김현정 - Kim Hyun Jung(김현정) - 자유선언
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 16:27
+Last updated at 07/21/2020 16:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
