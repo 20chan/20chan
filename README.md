@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/N9ygEiWpM5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe55Gy-hFDvLZp8C8BZhBnw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/g29Uez75tNM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCqolymr8zonJzC08v2wXNrQ)
 
-Nightblue Music - Deaf Kev - Samurai
+Kyra - Noapoll 8 - On My Own
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 14:24
+Last updated at 07/21/2020 14:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
