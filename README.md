@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9mA1S2xg38Rgb-CWP_R1YdUwEPnZ9EKZD6Gn6P0nxrCSv6TkbZwwRWF3uga8gF6N5PtxjvwZGSMZu3u">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_9d38TA4rpa-izDxHszq_dU34dQu5syAl_RxkG7PVHmT6GfyfONVYrDq-2eTK6OOheELrbbKJpa5sjsT">](https://music.youtube.com/channel/UCiiDdOusxyYPGG-GVv0ys_Q)
 
-SID - Cafe de Bossa
+FictionJunction - From the Edge (feat. LiSA)
 
-**Albums**: M&W
+**Albums**: From the Edge
 
-Last updated at 07/21/2020 10:50
+Last updated at 07/21/2020 10:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
