@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0SVMgXNh9DWvq3l9m7TN7qpBUqHRTrqGFj7CxxjOw2emrxjzCRMwpQEQfAqZ1njnmOVj2zYan4dCsNhZ">](https://music.youtube.com/channel/UChzgSkV7TXUAHDwsZGlFosA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qZqVVSDH-pXyUgICxRYV6ZwUDIypxGxe07rQLK9lq8YQanjsRtggl9SYQKOpTzsbX2mU2Nreo4ka4Ftp">](https://music.youtube.com/channel/UCSp8TEAV3jhZUbpxhzFA-fQ)
 
-GOTCHAROCKA - Brilliant days
+Porno Graffitti - Animarossa
 
-**Albums**: SCREAMY
+**Albums**: Trigger
 
-Last updated at 07/21/2020 11:11
+Last updated at 07/21/2020 11:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
