@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h92tuFZiWbfXTCaGFNexM25rChrSdWLaekcgnUfx5O1VxvVuQBSEE7dL8P2moTRtxrcw5n9hExB6G5QI">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mYlY90jWxals18CXrttB9DNW9iNg9vnIYEYsOM45GtrXINoSDs-1ZMIjZheKEtSS_cEZ3gHsutvkeUHi">](https://music.youtube.com/channel/UCQieMH6MxNuf7t1-zJZYjdA)
 
-amazarashi - Seizennsetsu
+KEN KAMIKITA - Tsuki Ga Kirei
 
-**Albums**: Nee Mama Anatano Iutoori
+**Albums**: TIDE
 
-Last updated at 07/21/2020 13:22
+Last updated at 07/21/2020 13:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
