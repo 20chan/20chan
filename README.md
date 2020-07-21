@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dWBuktM9was9qvpLzozrrfk5HPC9tQhDvmJQv-uBOqHqR1Z1zaKWCDEfozQtGD_PqGGymg_lbnd8U6ITBg">](https://music.youtube.com/channel/UCmL-4sm0Ams0tONo5RCgb8g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1mOrsCTzHPE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmMD9zL1jv8DcE2PbkedupQ)
 
-Florina - Va va vis
+ENIGMA - 솔레노이드-강요[2003년 제27회 MBC 대학가요제 대상]
 
-**Albums**: Va va vis
+**Albums**: undefined
 
-Last updated at 07/21/2020 17:50
+Last updated at 07/21/2020 17:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
