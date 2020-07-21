@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HslenQhH2JxoIiAyYBvkxfd7LTzyiuNN0aO1jpYoBrtH3dQf_7ZztP9NCtf028UfEDom1O6ukaGhNrM">](https://music.youtube.com/channel/UCoJ5v05U1UnmpWt00wJW2aQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vZyME8YUJp042QSMYGC-K_wZORM3fRIzuXcr4v36vZ2rNiwlNH09RDlLOfEtg-L9F54nyU0Pg1I46smx_w">](https://music.youtube.com/channel/UCyBSCPJQM-Ux6lHSASQHQdA)
 
-Elgate - Shine (feat. Spektrem)
+LFZ - Popsicle
 
-**Albums**: Shine
+**Albums**: Popsicle
 
-Last updated at 07/21/2020 14:49
+Last updated at 07/21/2020 14:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
