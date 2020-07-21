@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CIb8oR4FNeHVFYZC1SJaQIJWfeEZMv32tOi5_Xj7K5GL85MdIqU41LIF-oVwk74vUu6baWZhC3ABE3tc">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5UJCY_L6xZb9v66ta0By769L89ntruL5VtthTfmjWTSrP3tNFd4X308j7TaxlfEqVjtqlq80hOc9eMIjJA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-Aimer - Fuyu No Diamond
+amazarashi - Sakura (Unplugged)
 
-**Albums**: Yuki No Furu Machi / Fuyu No Diamond
+**Albums**: Amazarashi Senbunnoichiyamonogatari Starlight
 
-Last updated at 07/21/2020 14:01
+Last updated at 07/21/2020 14:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
