@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Wm1IqlM0Oo0EfSK7gTxI2HuoJFTgs33qEXs9kfT5RA8TSHHOlGF2BaPhzaEFjBd4E_sUcS7UhA35ZXog">](https://music.youtube.com/channel/UCvNGvMSDassu8fTA9Vwdzxg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x5J4JJ_8rWOOaEBoAX3A742TorQ08XCPeiHifZ-Of1X4ObJ09TfRH_N8tAAR2SCCe7ceQiZJvD01s_EJ">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-UVERworld - Kanashimi Ha Kitto
+amazarashi - Play Goodbye
 
-**Albums**: Last
+**Albums**: Play Goodbye
 
-Last updated at 07/21/2020 11:43
+Last updated at 07/21/2020 11:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
