@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lgGaB79rr6lh4W45UucbfcdiglCJkt6SLcH93THWJVc1p7NBYvdGWqwwIc18kSaRazkX-XOq_dSPcYzTTg">](https://music.youtube.com/channel/UCI4j7Ojnqah6z5_OY-_20wg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3HxjNKPYtDDzCq0QRkrXbnBjXU5MfBAzJqDeyex8bsdjs4J1L4Urmf55WJ9tXGRF_MKGZFoX45Ha5UJMuA">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-Ling tosite sigure - Abnormalize
+SID - Soumatou
 
-**Albums**: i'mperfect
+**Albums**: V.I.P
 
-Last updated at 07/21/2020 11:03
+Last updated at 07/21/2020 11:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
