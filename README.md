@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0HJoqI2tHxH4OMvXI6NYxeiDujgIqbbRT8ktQYIOHriNf1LUfC5MpiE9_pzvAq6GN0_QcpqVzJf4_ll_Vg">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Qiq_9MIKJQ0PwdyB0kh1S0zyquFYNiDWYeeLVAL_-SqDXreTvADG_hZvPd2h1tlGdmMsX2yG0zf89vYAw">](https://music.youtube.com/channel/UCSiSpxjEegde82yrh3FXqUw)
 
-Aimer - Choucho Musubi
+上北 健 - ミスト
 
-**Albums**: Choucho Musubi
+**Albums**: ミスト
 
-Last updated at 07/21/2020 12:26
+Last updated at 07/21/2020 12:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
