@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XfejbDf1KKu1eZgJnCszfIRDYQc7kZ3M5dDeBc7qfQFrP8I9lT_nMvoiaIl5jCDCP-jJgEWCeYe6fnA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7WpNCZ6gKjIun2v-olS2qZ60UPyRxFrsmwKsbkZjjQWnAP9_TPh8byG2wKgP-k88bNckED1VUywSqyn4xg">](https://music.youtube.com/channel/UCjlifcVO6r-V5RSh3eB1lLg)
 
-amazarashi - Konomachide Ikiteiru
+supercell - Ginirohikosen
 
-**Albums**: Message Bottle
+**Albums**: Giniro Hikousen
 
-Last updated at 07/21/2020 13:42
+Last updated at 07/21/2020 13:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
