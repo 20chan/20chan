@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/DqgkryLfgJI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9UTBXS_XpBCUIcOG7fwM8A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l9PNIPssAQGM1G8GCptccMm6EJPskOMkFDQWPnpUPUDahHqss9XMjeOYvx_IKxOyaulOf692G00XQiCdjg">](https://music.youtube.com/channel/UCFuWaBiK62OOIKuOpbE1JcQ)
 
-UKF - Nanoo - Supernova
+DEAF KEV - Invincible
 
-**Albums**: undefined
+**Albums**: Invincible
 
-Last updated at 07/21/2020 14:36
+Last updated at 07/21/2020 14:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
