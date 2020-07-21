@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZT4FuuyuOw1hdvZmktXFkrPXMtrbyaRJ-IHKNkLZ8sF_TAaE6JqSyY2yM-IUWq2B8TT31WDBN2HziYjJeQ">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h92tuFZiWbfXTCaGFNexM25rChrSdWLaekcgnUfx5O1VxvVuQBSEE7dL8P2moTRtxrcw5n9hExB6G5QI">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-Aimer - Hana No Uta
+amazarashi - Seizennsetsu
 
-**Albums**: One / Hana No Uta / Rokutouseino Yoru Magic Blue Version
+**Albums**: Nee Mama Anatano Iutoori
 
-Last updated at 07/21/2020 13:16
+Last updated at 07/21/2020 13:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
