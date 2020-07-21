@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/avuhx1G0CwY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs7xDuJ_OjDL5Am0Ui_5FOA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jMHFqeCUquk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3M2IkAU3VrLfyMtVjp8pPA)
 
-BB - Heaven&apos;s Land Star&apos;s Land
+Kim Gun Mo - Wrongful Encounter
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 15:20
+Last updated at 07/21/2020 15:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
