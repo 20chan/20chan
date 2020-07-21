@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iiVCJGAX2W0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/L91FnpuHjuHSgEthbbnWmCwMdEC92UBdw5HlGxDpwPabZZPYeHTlrFK2NzKSXJlkIubb_hq6EpRnaKxi">](https://music.youtube.com/channel/UC4EEjKqvAi92Lp8twJYzMyg)
 
-Trap Nation - Philter - Revolver (Linko Remix)
+88rising - I Love You 3000 II
 
-**Albums**: undefined
+**Albums**: Head In The Clouds II
 
-Last updated at 07/21/2020 17:38
+Last updated at 07/21/2020 17:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
