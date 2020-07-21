@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1mOrsCTzHPE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmMD9zL1jv8DcE2PbkedupQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7MbRq0mZIwI0Bb1N3HSYzQwQlptqgpm-qSAHuKHIbl53LZfA5tcNAnuw0WI2boz7xedK5A3p9HnV5OmbbQ">](https://music.youtube.com/channel/UCZunBEOpJkPrt7IaS63dBLw)
 
-ENIGMA - 솔레노이드-강요[2003년 제27회 MBC 대학가요제 대상]
+김장수 & 우순실 - 바다에 누워
 
-**Albums**: undefined
+**Albums**: 2019 대학가요제
 
-Last updated at 07/21/2020 17:53
+Last updated at 07/21/2020 17:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
