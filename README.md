@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mYlY90jWxals18CXrttB9DNW9iNg9vnIYEYsOM45GtrXINoSDs-1ZMIjZheKEtSS_cEZ3gHsutvkeUHi">](https://music.youtube.com/channel/UCQieMH6MxNuf7t1-zJZYjdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VjXHs1xOBi4latSn54f6uXd9DxNiTw8AhJnGl5XYUzHOZB6bG38RcLLUf5OT5s46vKmgEqjOSUtSSWPo">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-KEN KAMIKITA - Tsuki Ga Kirei
+amazarashi - Kanashimi Hitotsumo Nokosanaide
 
-**Albums**: TIDE
+**Albums**: Chihou Toshi No Memento Mori
 
-Last updated at 07/21/2020 13:28
+Last updated at 07/21/2020 13:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
