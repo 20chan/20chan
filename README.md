@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lbiChUn0X-z5LW8SW1ywDJXpHzzvWW52qhp6qpBMWeAhy9PEoYbPSB0u5pUvEBi3FWKQSmHmbmmF8A4">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/73sPvB9OMHVy_vutTwak-j42_DNW5bmJaHVmJwSouy6yqT3tNHJ_er5Wo60JviefJcFivMq27s5bRbHU">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-SID - Futsuu No Kiseki
+amazarashi - Bokuga Shinouto Omottanoha
 
-**Albums**: Nomad
+**Albums**: Kyomubyou
 
-Last updated at 07/21/2020 11:53
+Last updated at 07/21/2020 11:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
