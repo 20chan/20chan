@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mi3mXrU__1jxmWLM1EWc3KJEI2vtZIjozTMO7XKxz7SsYX3ONUzi8-Ed2vYSCFiwl_JLDNTtQS3Rla6Ptw">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aM2MIyqR_Du9zi36fkvwTSgpRJf5aFIpRQNfv-cePHoGn67FP3WhFvVR6n4D92lKFKNiQUsbA1tOALRrdQ">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-Kenshi Yonezu - Vivi
+amazarashi - Life Is Beautiful
 
-**Albums**: diorama
+**Albums**: Sekaishuusoku Niichiichiroku
 
-Last updated at 07/21/2020 12:53
+Last updated at 07/21/2020 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
