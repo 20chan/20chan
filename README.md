@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Of6c8A0iOKTsDTmCxMIMU0ubTTh-n-taCHYMHSur8p4Hz5skOGsEUNlHbayaj-HXs4dk3sxS0qiNLodu">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rWJdV23bZ9A8zQowB-NaGLcxRq_vuzQlMCnCpKxwLoze2dVZmaGj5OlsIbwVCiqVMUvjVWOP4pA8C6S7Uw">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-amazarashi - Tarareba
+Aimer - Stars in the Rain
 
-**Albums**: Sora Ni Utaeba - EP
+**Albums**: Daydream
 
-Last updated at 07/21/2020 12:37
+Last updated at 07/21/2020 12:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
