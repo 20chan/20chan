@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vZyME8YUJp042QSMYGC-K_wZORM3fRIzuXcr4v36vZ2rNiwlNH09RDlLOfEtg-L9F54nyU0Pg1I46smx_w">](https://music.youtube.com/channel/UCyBSCPJQM-Ux6lHSASQHQdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GP4OXVlzlgroD4DHFgVFZhRDq9pAeP8MM9sDAV_Fx9KBUq72d5g9eAIjTADrA3Q__VYJ5bC3Ivj3Glo">](https://music.youtube.com/channel/UCh6GMTlXgeHnwDHaIQ_ThAA)
 
-LFZ - Popsicle
+Tobu - Hope
 
-**Albums**: Popsicle
+**Albums**: Ultimate Electronic Gaming Mix
 
-Last updated at 07/21/2020 14:53
+Last updated at 07/21/2020 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
