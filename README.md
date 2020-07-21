@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JITcmdDLjoyZyLb4ILnk3aEySwsMiYCf9jTwbIQ5D3R47zk8mSjesCjIhduGsQZ1clF6kja72oGvp-zF">](https://music.youtube.com/channel/UCSiSpxjEegde82yrh3FXqUw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XfejbDf1KKu1eZgJnCszfIRDYQc7kZ3M5dDeBc7qfQFrP8I9lT_nMvoiaIl5jCDCP-jJgEWCeYe6fnA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-上北健 - Katami
+amazarashi - Konomachide Ikiteiru
 
-**Albums**: Archē
+**Albums**: Message Bottle
 
-Last updated at 07/21/2020 13:38
+Last updated at 07/21/2020 13:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
