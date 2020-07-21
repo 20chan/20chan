@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xy3KoIfXgwX1zSWADUZRtnvxM2r1zjnXU9-fqqxJMT3Ms2VQ10_R8XsKAHScsaXPA9fClXVvfacs5xEKSA">](https://music.youtube.com/channel/UCdZLr2GYlZMZOQDPdH3J1Lw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aPUCNSuEsng/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCiw-KqXDwRZIGe07bBesVgg)
 
-Clean Bandit - Symphony (feat. Zara Larsson)
+heidi. & Kim Do Hee - Jin-e
 
-**Albums**: What Is Love? (Deluxe Edition)
+**Albums**: undefined
 
-Last updated at 07/21/2020 15:15
+Last updated at 07/21/2020 15:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
