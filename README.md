@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7FDfaGF4Y-c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPnYz3jHGNaT7fb4J97IM-w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ZBovcIKD8ls/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-푸우꽃단지 - 마야 - 쿨~하게!
+Stephen - Stray Nights
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 18:04
+Last updated at 07/21/2020 18:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
