@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
 
-더 크로스 - 난장이가 쏘아올린 작은 공
+Conan Gray - Maniac
 
-**Albums**: Melody Quus
+**Albums**: Kid Krow
 
-Last updated at 07/21/2020 18:27
+Last updated at 07/21/2020 18:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
