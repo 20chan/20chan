@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jO6nwMDl8rGt7_VJPzcZOYAfxfinFN_ROYd59jgb5KoTfP8G2TUTQaNjZqy8mmI9sTlU3WN7kYvLR7A">](https://music.youtube.com/channel/UCcfl-DXH0_4fSECs4cpjhww)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HslenQhH2JxoIiAyYBvkxfd7LTzyiuNN0aO1jpYoBrtH3dQf_7ZztP9NCtf028UfEDom1O6ukaGhNrM">](https://music.youtube.com/channel/UCoJ5v05U1UnmpWt00wJW2aQ)
 
-Janji & Johnning - Heroes Tonight
+Elgate - Shine (feat. Spektrem)
 
-**Albums**: Heroes Tonight
+**Albums**: Shine
 
-Last updated at 07/21/2020 14:45
+Last updated at 07/21/2020 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
