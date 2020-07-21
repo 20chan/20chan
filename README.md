@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UD-iKDPGjj3w3Vggf5oIxttl-HzJzDraRRvj5zZfXGaGogUjzcT7WNL1zWFl0nSXqoBnEY-lWyYjRVs">](https://music.youtube.com/channel/UCOUH2Kcg3Lnz-GaM25xaROA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Wm1IqlM0Oo0EfSK7gTxI2HuoJFTgs33qEXs9kfT5RA8TSHHOlGF2BaPhzaEFjBd4E_sUcS7UhA35ZXog">](https://music.youtube.com/channel/UCvNGvMSDassu8fTA9Vwdzxg)
 
-Shoko Nakagawa - Ray of Light
+UVERworld - Kanashimi Ha Kitto
 
-**Albums**: Cosmic Inflation
+**Albums**: Last
 
-Last updated at 07/21/2020 11:39
+Last updated at 07/21/2020 11:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
