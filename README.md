@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7MbRq0mZIwI0Bb1N3HSYzQwQlptqgpm-qSAHuKHIbl53LZfA5tcNAnuw0WI2boz7xedK5A3p9HnV5OmbbQ">](https://music.youtube.com/channel/UCZunBEOpJkPrt7IaS63dBLw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nlw8ucckynxLz9ucfRdlUmuT7SczRs-rTxNX86Pw6J0750l7EqMaJPtB6WSPvKOOK2wSGcXGDn7M77fJ">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-김장수 & 우순실 - 바다에 누워
+더 크로스 - 사랑하니까
 
-**Albums**: 2019 대학가요제
+**Albums**: 눈물이야기 제 1탄 “사랑하니까”
 
-Last updated at 07/21/2020 17:57
+Last updated at 07/21/2020 18:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
