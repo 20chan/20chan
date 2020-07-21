@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l9PNIPssAQGM1G8GCptccMm6EJPskOMkFDQWPnpUPUDahHqss9XMjeOYvx_IKxOyaulOf692G00XQiCdjg">](https://music.youtube.com/channel/UCFuWaBiK62OOIKuOpbE1JcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jO6nwMDl8rGt7_VJPzcZOYAfxfinFN_ROYd59jgb5KoTfP8G2TUTQaNjZqy8mmI9sTlU3WN7kYvLR7A">](https://music.youtube.com/channel/UCcfl-DXH0_4fSECs4cpjhww)
 
-DEAF KEV - Invincible
+Janji & Johnning - Heroes Tonight
 
-**Albums**: Invincible
+**Albums**: Heroes Tonight
 
-Last updated at 07/21/2020 14:41
+Last updated at 07/21/2020 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
