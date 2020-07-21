@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5UJCY_L6xZb9v66ta0By769L89ntruL5VtthTfmjWTSrP3tNFd4X308j7TaxlfEqVjtqlq80hOc9eMIjJA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_tMvirkkD9csrlynd3gsf_SEbT7L00NU5OAzz2EJecLKZlSKPmFF_F1cptiL1RuNoYok8HlSVOIwHG4">](https://music.youtube.com/channel/UCj-s48Irk1pcgnqvYIh4Xuw)
 
-amazarashi - Ffurui Sf Eiga (Unplugged)
+Sayuri - Furaregaigirl
 
-**Albums**: Amazarashi Senbunnoichiyamonogatari Starlight
+**Albums**: Mikazukino Koukai
 
-Last updated at 07/21/2020 12:14
+Last updated at 07/21/2020 12:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
