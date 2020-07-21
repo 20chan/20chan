@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/jMHFqeCUquk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3M2IkAU3VrLfyMtVjp8pPA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/F_on-H8zrho/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl2-lzPjB4Lcc0v23bmitKA)
 
-Kim Gun Mo - Wrongful Encounter
+Baek Z Young - 부담
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 15:28
+Last updated at 07/21/2020 15:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
