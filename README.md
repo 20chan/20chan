@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VjXHs1xOBi4latSn54f6uXd9DxNiTw8AhJnGl5XYUzHOZB6bG38RcLLUf5OT5s46vKmgEqjOSUtSSWPo">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JITcmdDLjoyZyLb4ILnk3aEySwsMiYCf9jTwbIQ5D3R47zk8mSjesCjIhduGsQZ1clF6kja72oGvp-zF">](https://music.youtube.com/channel/UCSiSpxjEegde82yrh3FXqUw)
 
-amazarashi - Kanashimi Hitotsumo Nokosanaide
+上北健 - Katami
 
-**Albums**: Chihou Toshi No Memento Mori
+**Albums**: Archē
 
-Last updated at 07/21/2020 13:32
+Last updated at 07/21/2020 13:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
