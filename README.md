@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/73sPvB9OMHVy_vutTwak-j42_DNW5bmJaHVmJwSouy6yqT3tNHJ_er5Wo60JviefJcFivMq27s5bRbHU">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ELf-hDtBvcdhG2eWU8S9h2OdtYNq8zmtkE2LwIkizppipv-INx1c6pLY4Ms7PBBiGI01xMDJbmEVUtw">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-amazarashi - Bokuga Shinouto Omottanoha
+amazarashi - Namae
 
-**Albums**: Kyomubyou
+**Albums**: Speed To Masatsu
 
-Last updated at 07/21/2020 11:57
+Last updated at 07/21/2020 12:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
