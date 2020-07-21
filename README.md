@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_tMvirkkD9csrlynd3gsf_SEbT7L00NU5OAzz2EJecLKZlSKPmFF_F1cptiL1RuNoYok8HlSVOIwHG4">](https://music.youtube.com/channel/UCj-s48Irk1pcgnqvYIh4Xuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0HJoqI2tHxH4OMvXI6NYxeiDujgIqbbRT8ktQYIOHriNf1LUfC5MpiE9_pzvAq6GN0_QcpqVzJf4_ll_Vg">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-Sayuri - Furaregaigirl
+Aimer - Choucho Musubi
 
-**Albums**: Mikazukino Koukai
+**Albums**: Choucho Musubi
 
-Last updated at 07/21/2020 12:20
+Last updated at 07/21/2020 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
