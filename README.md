@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ELf-hDtBvcdhG2eWU8S9h2OdtYNq8zmtkE2LwIkizppipv-INx1c6pLY4Ms7PBBiGI01xMDJbmEVUtw">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/A3lzQQllCoBbxqLtQSfpOH1cR9mSjtpXOwROSBNCHIewx-f9OoqtTZzsPGOfJ3fZ9Vz_ulKjnF3cS7rd">](https://music.youtube.com/channel/UC73u6zwX_OFpzDjujzLs53g)
 
-amazarashi - Namae
+Keyakizaka46 - Kuroi Hitsuji
 
-**Albums**: Speed To Masatsu
+**Albums**: Kuroi Hitsuji (Special Edition)
 
-Last updated at 07/21/2020 12:03
+Last updated at 07/21/2020 12:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
