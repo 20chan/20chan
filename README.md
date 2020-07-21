@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GP4OXVlzlgroD4DHFgVFZhRDq9pAeP8MM9sDAV_Fx9KBUq72d5g9eAIjTADrA3Q__VYJ5bC3Ivj3Glo">](https://music.youtube.com/channel/UCh6GMTlXgeHnwDHaIQ_ThAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2qASM-fGX5p1VoJW63eYJZQysvvsW_5EmUJVeaX0qxrbPpb-iQtOeZf2RoQgKITwoo_bH5ZMp28MzRA">](https://music.youtube.com/channel/UCLyjcsFWLEe624nc5EB9nzg)
 
-Tobu - Hope
+Kontinuum - First Rain
 
-**Albums**: Ultimate Electronic Gaming Mix
+**Albums**: First Rain
 
-Last updated at 07/21/2020 14:58
+Last updated at 07/21/2020 15:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
