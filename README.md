@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zu5did6sjuNeGw3vf4iSxsMyEJ4lc6rPysVMJOtH800aklaNsc-b06fz_w5BhgXSLRL9RJZ_F9o_yck">](https://music.youtube.com/channel/UC_hqZWcuNgQnRTulFy6BN7w)
 
-짙은 - 백야
+Sodagreen - Violently Sad And Beautiful
 
-**Albums**: 백야 - EP
+**Albums**: Violently Sad And Beautiful
 
-Last updated at 07/21/2020 17:20
+Last updated at 07/21/2020 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
