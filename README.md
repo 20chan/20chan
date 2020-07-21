@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DTND-2OiE24Dms9e2YOrPewavM3soaBeAdusJ7cA7PhVNJ-Xl5K9V0M6CtUa4FnmynvQpArsY5sFXeU">](https://music.youtube.com/channel/UCh6GMTlXgeHnwDHaIQ_ThAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-Tobu & Itro - Cloud 9
+Maroon 5 - Memories
 
-**Albums**: Progressive Power Album
+**Albums**: Memories
 
-Last updated at 07/21/2020 15:06
+Last updated at 07/21/2020 15:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
