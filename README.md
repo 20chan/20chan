@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5UJCY_L6xZb9v66ta0By769L89ntruL5VtthTfmjWTSrP3tNFd4X308j7TaxlfEqVjtqlq80hOc9eMIjJA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZT4FuuyuOw1hdvZmktXFkrPXMtrbyaRJ-IHKNkLZ8sF_TAaE6JqSyY2yM-IUWq2B8TT31WDBN2HziYjJeQ">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
 
-amazarashi - Mudai (Unplugged)
+Aimer - Hana No Uta
 
-**Albums**: Amazarashi Senbunnoichiyamonogatari Starlight
+**Albums**: One / Hana No Uta / Rokutouseino Yoru Magic Blue Version
 
-Last updated at 07/21/2020 13:09
+Last updated at 07/21/2020 13:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
