@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lgGaB79rr6lh4W45UucbfcdiglCJkt6SLcH93THWJVc1p7NBYvdGWqwwIc18kSaRazkX-XOq_dSPcYzTTg">](https://music.youtube.com/channel/UCI4j7Ojnqah6z5_OY-_20wg)
 
-CHEMISTRY - Period
+Ling tosite sigure - Abnormalize
 
-**Albums**: Chemistry 2001-2011
+**Albums**: i'mperfect
 
-Last updated at 07/21/2020 11:00
+Last updated at 07/21/2020 11:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
