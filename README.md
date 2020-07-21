@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Maroon 5 - Memories
+The Chainsmokers & Coldplay - Something Just Like This
 
-**Albums**: Memories
+**Albums**: Something Just Like This
 
-Last updated at 07/21/2020 15:08
+Last updated at 07/21/2020 15:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
