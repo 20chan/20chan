@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x5J4JJ_8rWOOaEBoAX3A742TorQ08XCPeiHifZ-Of1X4ObJ09TfRH_N8tAAR2SCCe7ceQiZJvD01s_EJ">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lbiChUn0X-z5LW8SW1ywDJXpHzzvWW52qhp6qpBMWeAhy9PEoYbPSB0u5pUvEBi3FWKQSmHmbmmF8A4">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-amazarashi - Play Goodbye
+SID - Futsuu No Kiseki
 
-**Albums**: Play Goodbye
+**Albums**: Nomad
 
-Last updated at 07/21/2020 11:49
+Last updated at 07/21/2020 11:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
