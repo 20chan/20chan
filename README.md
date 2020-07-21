@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rWJdV23bZ9A8zQowB-NaGLcxRq_vuzQlMCnCpKxwLoze2dVZmaGj5OlsIbwVCiqVMUvjVWOP4pA8C6S7Uw">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mYlY90jWxals18CXrttB9DNW9iNg9vnIYEYsOM45GtrXINoSDs-1ZMIjZheKEtSS_cEZ3gHsutvkeUHi">](https://music.youtube.com/channel/UCQieMH6MxNuf7t1-zJZYjdA)
 
-Aimer - Stars in the Rain
+KEN KAMIKITA - BLUETOWN
 
-**Albums**: Daydream
+**Albums**: TIDE
 
-Last updated at 07/21/2020 12:43
+Last updated at 07/21/2020 12:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
