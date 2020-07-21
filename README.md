@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A3lzQQllCoBbxqLtQSfpOH1cR9mSjtpXOwROSBNCHIewx-f9OoqtTZzsPGOfJ3fZ9Vz_ulKjnF3cS7rd">](https://music.youtube.com/channel/UC73u6zwX_OFpzDjujzLs53g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5UJCY_L6xZb9v66ta0By769L89ntruL5VtthTfmjWTSrP3tNFd4X308j7TaxlfEqVjtqlq80hOc9eMIjJA">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-Keyakizaka46 - Kuroi Hitsuji
+amazarashi - Ffurui Sf Eiga (Unplugged)
 
-**Albums**: Kuroi Hitsuji (Special Edition)
+**Albums**: Amazarashi Senbunnoichiyamonogatari Starlight
 
-Last updated at 07/21/2020 12:09
+Last updated at 07/21/2020 12:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
