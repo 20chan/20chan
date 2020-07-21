@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9mA1S2xg38Rgb-CWP_R1YdUwEPnZ9EKZD6Gn6P0nxrCSv6TkbZwwRWF3uga8gF6N5PtxjvwZGSMZu3u">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UD-iKDPGjj3w3Vggf5oIxttl-HzJzDraRRvj5zZfXGaGogUjzcT7WNL1zWFl0nSXqoBnEY-lWyYjRVs">](https://music.youtube.com/channel/UCOUH2Kcg3Lnz-GaM25xaROA)
 
-SID - Ito
+Shoko Nakagawa - Ray of Light
 
-**Albums**: M&W
+**Albums**: Cosmic Inflation
 
-Last updated at 07/21/2020 11:34
+Last updated at 07/21/2020 11:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
