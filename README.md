@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvppojuK0tqpx47W2jJgNuHBRPP3MDItC-bdLoT4wGtvw-o2cUsW57fZcMPhY-XH1KQmIDUDgs0-JgZb">](https://music.youtube.com/channel/UC9y5zNTG8Zfkn9I2m2cdG1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WFppSCeaPUG8wHlE3muUmk3uEYc0ixMb0-_DXv3YoFLYVuilTD8yEYykMK5XCwqWunF_l9oTLauqzRo0GQ">](https://music.youtube.com/channel/UC2H7T-NCJUD9uAvLZI8qHOw)
 
-Sung Si-kyung - 거리에서
+Yada - An Already Sad Love
 
-**Albums**: The Ballads
+**Albums**: Wear To Hearing
 
-Last updated at 07/27/2020 18:05
+Last updated at 07/27/2020 18:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
