@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skel9XjT7czr6zAH_Ezs7zKHoB9ZpXZkaWRa5Qb9xuR9eLUeps-r1CctaB7F77yQqZOatTNvB7L4HEFZ">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqUChJrezGmTQ2x4_-Xj28XFlUVDIqEC2f_lEugI5EYRInPjlDyzBK1G5zwdlIEuBm3wDlJEu2O7F90Z">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-Coldplay - The Scientist
+Maroon 5 - Payphone (feat. Wiz Khalifa)
 
-**Albums**: A Rush of Blood to the Head
+**Albums**: Overexposed
 
-Last updated at 07/27/2020 19:10
+Last updated at 07/27/2020 19:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
