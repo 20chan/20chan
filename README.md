@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/DasR7r64dAE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUNPLtdXn-fcajhJaPJWYvA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/bf_VkU90zPU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCURtrWpOJfJIFYXWlLF7yvQ)
 
-Sky PARK - 신승훈 그후로 오랫동안
+Jo Ha-moon - This night once again
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 12:37
+Last updated at 07/27/2020 12:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
