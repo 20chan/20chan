@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FrPId047QbNpFZfEtUJQDTC2-MGkgo4JPzasmIkdvFLjbQGNppcmRdOFXo6c3swTP_iP-ozTXhu8OBRSOw">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dIcj3KTm61Ywru3aoQzO-6bOCYiPQXuTEpcAwq3BY6UaT9L_4uzhbsuQPBIKxgsJbI3SWshwmq_xFvc">](https://music.youtube.com/channel/UCeBYRgPhy8kcRmIGQWKuqdQ)
 
-Coldplay - O
+Selena Gomez & Marshmello - Wolves
 
-**Albums**: Ghost Stories
+**Albums**: Wolves
 
-Last updated at 07/27/2020 19:44
+Last updated at 07/27/2020 19:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
