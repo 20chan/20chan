@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
 
-The Chainsmokers - This Feeling (feat. Kelsea Ballerini)
+Jonas Blue - Rise (feat. Jack & Jack)
 
-**Albums**: Sick Boy
+**Albums**: Blue
 
-Last updated at 07/27/2020 19:30
+Last updated at 07/27/2020 19:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
