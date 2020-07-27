@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hL-lijONWFI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC15RxtWItJt1mukU7vPbDbw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/B8DEBwvkfbM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCii32Rr4rHZd86v2NpSUGqQ)
 
-Harumaki Gohan - The Promise (HarumakiGohanVocal ver)
+wotaku - Sibyl
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 15:55
+Last updated at 07/27/2020 15:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
