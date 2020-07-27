@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8r06lo6qidc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8r06lo6qidc)
 
-SID - Rain
+FAR OUT - Origin
 
-**Albums**: Rain
+**Albums**: undefined
 
-Last updated at 07/27/2020 10:09
+Last updated at 07/27/2020 10:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
