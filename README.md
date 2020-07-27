@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGbXXbne-I2W-HgYTEl2YZAHviNg63jxWZtnAA_vA86zqToVmIp4se86HYnEZb_r_o7_FqT83ekI-QfSTw">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DDISb6NsDRB5L1KlQdJJEExVXQo_0FVgc8yZa4F3Hs9aNwTV81MxXMKQYKSwxrcAo6sAx11pQPVTkEoE">](https://music.youtube.com/channel/UC_4iUINR2jMqWdaWkT-FHDQ)
 
-새소년 SE SO NEON - NAN CHUN
+김현성 - Heaven
 
-**Albums**: NAN CHUN
+**Albums**: Soulmate
 
-Last updated at 07/27/2020 17:39
+Last updated at 07/27/2020 17:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
