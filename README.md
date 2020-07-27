@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
 
-Imagine Dragons - Birds
+Marshmello & Bastille - Happier
 
-**Albums**: Origins (Deluxe)
+**Albums**: Happier
 
-Last updated at 07/27/2020 19:36
+Last updated at 07/27/2020 19:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
