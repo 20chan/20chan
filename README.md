@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/F7Wc6FcgpmY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCR-pnxKwNpAw0HLRF4Wdcfw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
 
-일기예보 - 인형의 꿈
+Choi Hosub - When Time Passes
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 12:20
+Last updated at 07/27/2020 12:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
