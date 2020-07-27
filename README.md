@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4dbtOUXJaHo-EiTfFL-aJLWyghAOa-WGsBkByeJSzF2s7UBFJd-iOx5b2da2D9RsafJo2baOL4trJl0">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-THORNAPPLE(쏜애플) - Galaxy(은하)
+The Chainsmokers & Coldplay - Something Just Like This
 
-**Albums**: Enlightenment(계몽)
+**Albums**: Something Just Like This
 
-Last updated at 07/27/2020 18:14
+Last updated at 07/27/2020 18:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
