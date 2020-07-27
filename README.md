@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/C3sTnpaLChw0nsyf73UqmZt4kGrD3EQm7xtNv4GPXcNwOaZZLXm2QsXgh1dyGya_0beN36xnSDVJzopVTg">](https://music.youtube.com/channel/UCH7Bls-MaKHRZAjRC4n1eJw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/My1QVMpGzMwQmF6IprATeayjl5J_11wsN5xUvRTpNtBfQYjff1oTCw0Yf3pIFr5MPmEnWL-_wAUM89lTRA">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-Dareharu 달의하루 - Karma 염라
+IU - Through the Night
 
-**Albums**: Karma 염라
+**Albums**: Through the Night
 
-Last updated at 07/27/2020 17:24
+Last updated at 07/27/2020 17:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
