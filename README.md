@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/oUevY6uH4Qg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCkltfvjVoojq0BGRt4pmlig)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-煮ル果実 - ∴flower『トラフィック・ジャム』【Official】
+Pinocchio P - All I Need Are Things I Like
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:20
+Last updated at 07/27/2020 16:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
