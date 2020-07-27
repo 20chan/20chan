@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvppojuK0tqpx47W2jJgNuHBRPP3MDItC-bdLoT4wGtvw-o2cUsW57fZcMPhY-XH1KQmIDUDgs0-JgZb">](https://music.youtube.com/channel/UC9y5zNTG8Zfkn9I2m2cdG1A)
 
-The Black Skirts - Who do you love
+Sung Si-kyung - 거리에서
 
-**Albums**: TEAM BABY
+**Albums**: The Ballads
 
-Last updated at 07/27/2020 18:01
+Last updated at 07/27/2020 18:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
