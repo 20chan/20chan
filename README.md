@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-Avicii - Wake Me Up
+Maroon 5 - Memories
 
-**Albums**: True
+**Albums**: Memories
 
-Last updated at 07/27/2020 18:42
+Last updated at 07/27/2020 18:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
