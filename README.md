@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yZys3FO6bm6PRDgntkPUjE4PH4wHtxBhH752YN6F-T1nlhNLSsUcqvF_5V3FyLVkzQFoFPIX4ODFqO__">](https://music.youtube.com/channel/UCArljIU3tkZSK5k_ZF_jxWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ucCHp0gCeUhbjcfor8h8MfVGylba2tHjaaB-BWD12fwB90rs2fV7MTnvWUWE4MfKBlCpWI3mJL6UHsac">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
 
-YB - 너를 보내고
+THORNAPPLE - Gills 아가미
 
-**Albums**: 한국 Rock 다시 부르기
+**Albums**: I Often Stammer and Forget the Way to Sleep 난 자꾸 말을 더듬고 잠드는 법도 잊었네 (Remaster)
 
-Last updated at 07/27/2020 16:59
+Last updated at 07/27/2020 17:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
