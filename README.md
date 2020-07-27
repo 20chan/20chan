@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Jonas Blue - Rise (feat. Jack & Jack)
+Imagine Dragons - Birds
 
-**Albums**: Blue
+**Albums**: Origins (Deluxe)
 
-Last updated at 07/27/2020 19:33
+Last updated at 07/27/2020 19:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
