@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qMo9b7aVBiA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcZ9No71pKWWEcgsKcypHwg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/199jU2C2sqs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-Bojp0-8paBNrOyaUO8H1A)
 
-Jang Hye-lee - 내게 남은 사랑을 드릴께요
+8282FF - 펄스 - 난 얘기하고 넌 웃어주고
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 15:14
+Last updated at 07/27/2020 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
