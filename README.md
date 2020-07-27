@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Mzl4UaeQDhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN9hBQWOKBVyG3jOcq3GhlA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/S5FjHH4CKKE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCqdbkI5Tp1Ha8oi3FD0v70w)
 
-어린왕자TV - Tube (튜브) - Karasuno Memories (유리잔의 추억). 캔 - 내생에 봄날은 간다 원곡(가사첨부).
+Trivecta & Fagin - Leave It All Behind
 
 **Albums**: undefined
 
-Last updated at 07/21/2020 19:00
+Last updated at 07/27/2020 10:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
