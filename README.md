@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqUChJrezGmTQ2x4_-Xj28XFlUVDIqEC2f_lEugI5EYRInPjlDyzBK1G5zwdlIEuBm3wDlJEu2O7F90Z">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XLVJNg0MlKj6ttdVgDHHriwB9d5NqunPC9sV7Q-Z-Z-N_v9299Crl78qfVV2rV4db2Cwd64Vjbg-y9XV">](https://music.youtube.com/channel/UCQ-ygxSFSlq-O2zGnXxELXQ)
 
-Maroon 5 - Payphone (feat. Wiz Khalifa)
+Charlie Puth - Attention
 
-**Albums**: Overexposed
+**Albums**: Voicenotes
 
-Last updated at 07/27/2020 19:15
+Last updated at 07/27/2020 19:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
