@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aqUChJrezGmTQ2x4_-Xj28XFlUVDIqEC2f_lEugI5EYRInPjlDyzBK1G5zwdlIEuBm3wDlJEu2O7F90Z">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Maroon 5 - One More Night
+The Chainsmokers - This Feeling (feat. Kelsea Ballerini)
 
-**Albums**: Overexposed
+**Albums**: Sick Boy
 
-Last updated at 07/27/2020 19:26
+Last updated at 07/27/2020 19:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
