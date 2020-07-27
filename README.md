@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wlkshfEx8cQrIqRainQHKwGrwEzY-4obSpPASsmCt7diYTglmRHNVlTXSMBPSY9-LRM8xp_1jyTOIXA">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/R4gwn2gaVGx-GxyczlLmpi1FQJzk5brbVYuKHLxyAi6v2sSwWDvJ2vuP_wJ-osFxbv3zaj_D5hxhcWDp">](https://music.youtube.com/browse/MPREb_h4m8XB1kAhK)
 
-Paul Kim - Me After You
+장혜리 - 내게 남은 사랑을 드릴께요
 
-**Albums**: Me After You
+**Albums**: 내 기억속의 발라드
 
-Last updated at 07/27/2020 17:07
+Last updated at 07/27/2020 17:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
