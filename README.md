@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/jHvgdslDts4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VaDxHKkldDM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCr3iPMohZiaer4iSXTePmWA)
 
-pops8090 - 조정현 - 슬픈 바다 (1989年)
+K2 - To Her Lover… (Instrumental)
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 15:31
+Last updated at 07/27/2020 15:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
