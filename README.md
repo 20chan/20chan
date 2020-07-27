@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ucCHp0gCeUhbjcfor8h8MfVGylba2tHjaaB-BWD12fwB90rs2fV7MTnvWUWE4MfKBlCpWI3mJL6UHsac">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wlkshfEx8cQrIqRainQHKwGrwEzY-4obSpPASsmCt7diYTglmRHNVlTXSMBPSY9-LRM8xp_1jyTOIXA">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
 
-THORNAPPLE - Gills 아가미
+Paul Kim - Me After You
 
-**Albums**: I Often Stammer and Forget the Way to Sleep 난 자꾸 말을 더듬고 잠드는 법도 잊었네 (Remaster)
+**Albums**: Me After You
 
-Last updated at 07/27/2020 17:02
+Last updated at 07/27/2020 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
