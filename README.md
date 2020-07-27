@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KaGutcDeXlnIhQnUF4Gljnhd6zGDh-xHL1lTeKMPlc6GSgXbU0y4EkpkCPsIx-Lvx0FlZkV7J7VgPM1O">](https://music.youtube.com/channel/UCNCerJDpVYGXiJktXYSBaNA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
 
-얀 - 그래서 그대는
+The Black Skirts - Who do you love
 
-**Albums**: Yarn's Best Vol. 1
+**Albums**: TEAM BABY
 
-Last updated at 07/27/2020 17:56
+Last updated at 07/27/2020 18:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
