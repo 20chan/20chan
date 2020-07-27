@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/_T9GVajKeOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6zDox8Bunezuztd3sOm5WQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mVjyVppveGY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mVjyVppveGY)
 
-青谷 - 卑屈の脳内 / 青谷feat.重音テト
+Yuu Miyashita & 煮ル果実 - Wozwald
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:07
+Last updated at 07/27/2020 16:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
