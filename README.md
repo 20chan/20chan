@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGbXXbne-I2W-HgYTEl2YZAHviNg63jxWZtnAA_vA86zqToVmIp4se86HYnEZb_r_o7_FqT83ekI-QfSTw">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
 
-델리스파이스 (DELISPICE) - 고백
+새소년 SE SO NEON - NAN CHUN
 
-**Albums**: Espresso
+**Albums**: NAN CHUN
 
-Last updated at 07/27/2020 17:33
+Last updated at 07/27/2020 17:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
