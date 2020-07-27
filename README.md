@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GrfflUmMPhk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/tThD_vYEhck/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
 
-Zitten - Sunflower
+10cm - 10cm / 십센치 Perfect (Acoustic Live)
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:37
+Last updated at 07/27/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
