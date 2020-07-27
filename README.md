@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qMo9b7aVBiA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcZ9No71pKWWEcgsKcypHwg)
 
-Choi Hosub - When Time Passes
+Jang Hye-lee - 내게 남은 사랑을 드릴께요
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 15:11
+Last updated at 07/27/2020 15:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
