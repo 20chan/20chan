@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xpDEOr2TeqEn1QpXosXhqtj149FzNnTgAG3oqPnpTxTbQk-oceO90Sz4Axq0s4Jp_QLGQha_um6_EG3WGQ">](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K4Du4P4k1jnellG3UqVcLGMk_oHffqIpEgXJCZtK6HSbS1xquCLjkbSypVVOK-0gNZbuLhTK4omRnfjU">](https://music.youtube.com/channel/UCZ0Aezmtk-S2l8A9Ln-2lKw)
 
-Ed Sheeran - Castle on the Hill
+Calvin Harris - Summer
 
-**Albums**: ÷ (Deluxe)
+**Albums**: Motion
 
-Last updated at 07/27/2020 18:19
+Last updated at 07/27/2020 18:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
