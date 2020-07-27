@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mVjyVppveGY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mVjyVppveGY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/GSpwTvYgFrM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
 
-Yuu Miyashita & 煮ル果実 - Wozwald
+Pinocchio P - What's Inside
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:11
+Last updated at 07/27/2020 16:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
