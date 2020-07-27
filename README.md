@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9rzfBD_-p0FtfPmPl6TfztXCCozZe142oy1MokdY6kO6zTiu4Y0ieKj3H0s8EqRxoRyv4234VR68Ax3Ebg">](https://music.youtube.com/channel/UCZ0Aezmtk-S2l8A9Ln-2lKw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6HgAfOC__ISWR-0MCYy3RL7wPz-e0ssySBB1Gh8Rs2cbM_Ymjoq42qLAwpvfOh9sxAGxeHHJjb2DZTya">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
 
-Calvin Harris - I Need Your Love (feat. Ellie Goulding)
+Marshmello - Here With Me (feat. CHVRCHES)
 
-**Albums**: 18 Months
+**Albums**: Here With Me
 
-Last updated at 07/27/2020 19:52
+Last updated at 07/27/2020 19:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
