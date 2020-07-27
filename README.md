@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/88htymbxrAQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDnqbjv0zR9Bs8go3Blaijg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aPJJSMMrelM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7-TE_bf3aypItpP7o7_nbg)
 
-MINSU - 민수는 혼란스럽다 Minsu Is Confused
+Standing Egg - From the Star
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:46
+Last updated at 07/27/2020 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
