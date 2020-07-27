@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R4gwn2gaVGx-GxyczlLmpi1FQJzk5brbVYuKHLxyAi6v2sSwWDvJ2vuP_wJ-osFxbv3zaj_D5hxhcWDp">](https://music.youtube.com/browse/MPREb_h4m8XB1kAhK)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4KBvDJeUNA-xkN0cSSzIqv7J5eQ-ufYbPBy2yHX3zyspJbzBTxuv6mRtW7NTdpa4obsX_4d3bk_7UcM">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
 
-장혜리 - 내게 남은 사랑을 드릴께요
+THORNAPPLE - The taste of pomegranate 석류의 맛
 
-**Albums**: 내 기억속의 발라드
+**Albums**: Capital Disease 서울병
 
-Last updated at 07/27/2020 17:12
+Last updated at 07/27/2020 17:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
