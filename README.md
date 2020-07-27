@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4KBvDJeUNA-xkN0cSSzIqv7J5eQ-ufYbPBy2yHX3zyspJbzBTxuv6mRtW7NTdpa4obsX_4d3bk_7UcM">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/C3sTnpaLChw0nsyf73UqmZt4kGrD3EQm7xtNv4GPXcNwOaZZLXm2QsXgh1dyGya_0beN36xnSDVJzopVTg">](https://music.youtube.com/channel/UCH7Bls-MaKHRZAjRC4n1eJw)
 
-THORNAPPLE - The taste of pomegranate 석류의 맛
+Dareharu 달의하루 - Karma 염라
 
-**Albums**: Capital Disease 서울병
+**Albums**: Karma 염라
 
-Last updated at 07/27/2020 17:16
+Last updated at 07/27/2020 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
