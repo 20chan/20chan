@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/S5FjHH4CKKE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCqdbkI5Tp1Ha8oi3FD0v70w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-Trivecta & Fagin - Leave It All Behind
+SID - Rain
 
-**Albums**: undefined
+**Albums**: Rain
 
-Last updated at 07/27/2020 10:03
+Last updated at 07/27/2020 10:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
