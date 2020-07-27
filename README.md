@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Avicii - Hey Brother
+Imagine Dragons - Bad Liar
 
-**Albums**: True
+**Albums**: Origins
 
-Last updated at 07/27/2020 18:30
+Last updated at 07/27/2020 18:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
