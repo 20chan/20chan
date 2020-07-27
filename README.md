@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DDISb6NsDRB5L1KlQdJJEExVXQo_0FVgc8yZa4F3Hs9aNwTV81MxXMKQYKSwxrcAo6sAx11pQPVTkEoE">](https://music.youtube.com/channel/UC_4iUINR2jMqWdaWkT-FHDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-R7_pwLxBXZHLqrNb0sFtaQrko8wu4mR6v7E4617QgRV6RBZeuWZwttVa4Xmsm7pGxuLIc1ZUmYJW1Yi">](https://music.youtube.com/channel/UCncmhEMto4MiCLj5kyaV3ag)
 
-김현성 - Heaven
+Jeon Yuna - Even If I Love You
 
-**Albums**: Soulmate
+**Albums**: Even If I Love You
 
-Last updated at 07/27/2020 17:43
+Last updated at 07/27/2020 17:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
