@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3d1AsbcPbWM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCP66nhY0Nk12HQOPTUlvrpA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yZys3FO6bm6PRDgntkPUjE4PH4wHtxBhH752YN6F-T1nlhNLSsUcqvF_5V3FyLVkzQFoFPIX4ODFqO__">](https://music.youtube.com/channel/UCArljIU3tkZSK5k_ZF_jxWg)
 
-SunwoojungA - 쌤쌤 Sam Sam
+YB - 너를 보내고
 
-**Albums**: undefined
+**Albums**: 한국 Rock 다시 부르기
 
-Last updated at 07/27/2020 16:58
+Last updated at 07/27/2020 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
