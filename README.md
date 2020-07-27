@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skel9XjT7czr6zAH_Ezs7zKHoB9ZpXZkaWRa5Qb9xuR9eLUeps-r1CctaB7F77yQqZOatTNvB7L4HEFZ">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
 
-The Chainsmokers - Roses (feat. ROZES)
+Coldplay - The Scientist
 
-**Albums**: Bouquet
+**Albums**: A Rush of Blood to the Head
 
-Last updated at 07/27/2020 19:06
+Last updated at 07/27/2020 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
