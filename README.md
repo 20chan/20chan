@@ -1,8 +1,8 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8r06lo6qidc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8r06lo6qidc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5ZjeYHvwfck/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-FAR OUT - Origin
+Trap Nation - MSTRMND - Battlefield
 
 **Albums**: undefined
 
