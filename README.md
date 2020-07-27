@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrOc6ZlrJs6_nVI0Hys35bQX-dewXE2xhY1Qe8cjakVzSEiv9Jfne1V8H-5vV5lQBIxWuGz6jVFfqTdH">](https://music.youtube.com/channel/UCFGwp4FHyvU1pJv9w6Jcx8w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bPQAXtxg9kp3_2RPlgtnezp5opZgYFUGQNTnZLEd_131df6T3Nht7Jo3Tx44WwseRUYPe8OeApHM88S50A">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-The Script - Superheroes
+Avicii - The Days
 
-**Albums**: No Sound Without Silence
+**Albums**: The Days / Nights (EP)
 
-Last updated at 07/27/2020 18:54
+Last updated at 07/27/2020 18:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
