@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/vn51sqnrbwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=vn51sqnrbwE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/_T9GVajKeOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6zDox8Bunezuztd3sOm5WQ)
 
-sasakure.UK - sasakure.UK - 1st Avenue Cosmonaut feat. sorako / 一番街コスモナウト feat. そらこ
+青谷 - 卑屈の脳内 / 青谷feat.重音テト
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:03
+Last updated at 07/27/2020 16:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
