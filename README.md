@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XLVJNg0MlKj6ttdVgDHHriwB9d5NqunPC9sV7Q-Z-Z-N_v9299Crl78qfVV2rV4db2Cwd64Vjbg-y9XV">](https://music.youtube.com/channel/UCQ-ygxSFSlq-O2zGnXxELXQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
 
-Charlie Puth - Attention
+Jonas Blue - Perfect Strangers
 
-**Albums**: Voicenotes
+**Albums**: Blue
 
-Last updated at 07/27/2020 19:19
+Last updated at 07/27/2020 19:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
