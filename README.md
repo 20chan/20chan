@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6fC0bRTWcV5IQmVm4P_4QoHkygZUV2c6Ay1k4oINYjg6LsgilNAzS5PxKQ7H_s3YGHtXE6W-26Z1nWc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-NOTD & Shy Martin - Keep You Mine
+Gryffin & Bipolar Sunshine - Whole Heart
 
-**Albums**: Keep You Mine
+**Albums**: Whole Heart
 
-Last updated at 07/27/2020 10:30
+Last updated at 07/27/2020 10:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
