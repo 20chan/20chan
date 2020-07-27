@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bPQAXtxg9kp3_2RPlgtnezp5opZgYFUGQNTnZLEd_131df6T3Nht7Jo3Tx44WwseRUYPe8OeApHM88S50A">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zNbE3SfaWnIXl6PREd_Pwb6xtWYZHqCf297APAF9c_in8aoUO7s0Qbu62EGfB4jXPzGBc3C5hBlrSDZh">](https://music.youtube.com/channel/UCl5p1gD46TZVsoQmM8VZ2gQ)
 
-Avicii - The Days
+Swedish House Mafia - Don't You Worry Child (Radio Edit) (feat. John Martin)
 
-**Albums**: The Days / Nights (EP)
+**Albums**: Don't You Worry Child
 
-Last updated at 07/27/2020 18:58
+Last updated at 07/27/2020 19:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
