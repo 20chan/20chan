@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GSpwTvYgFrM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/oUevY6uH4Qg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCkltfvjVoojq0BGRt4pmlig)
 
-Pinocchio P - What's Inside
+煮ル果実 - ∴flower『トラフィック・ジャム』【Official】
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:16
+Last updated at 07/27/2020 16:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
