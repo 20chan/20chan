@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aPJJSMMrelM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7-TE_bf3aypItpP7o7_nbg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3d1AsbcPbWM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCP66nhY0Nk12HQOPTUlvrpA)
 
-Standing Egg - From the Star
+SunwoojungA - 쌤쌤 Sam Sam
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:51
+Last updated at 07/27/2020 16:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
