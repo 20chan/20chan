@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HfJNSWOG-vhnfCTzB17othxHyeVN5Bo5pwnIsWyb-863XiKiOA-UXY0urwSNjc6IYgWBoynU7udgrw2E">](https://music.youtube.com/channel/UC6VwktUsQQDCkHG1h6YftAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Justin Timberlake - CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Avicii - Wake Me Up
 
-**Albums**: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+**Albums**: True
 
-Last updated at 07/27/2020 18:39
+Last updated at 07/27/2020 18:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
