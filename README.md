@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/bf_VkU90zPU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCURtrWpOJfJIFYXWlLF7yvQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l_orhAUQXeE/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Jo Ha-moon - This night once again
+pops8090 - 박학기 - 향기로운 추억 (1989年)
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 12:41
+Last updated at 07/27/2020 12:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
