@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mYHJPb9PuUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/a30L5zpRxoQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHdEh1-tnKz_nFLeFgEFGhA)
 
-Pinocchio P - All I Need Are Things I Like
+Yoh Kamiyama - 鉛の冠
 
 **Albums**: undefined
 
-Last updated at 07/27/2020 16:24
+Last updated at 07/27/2020 16:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
