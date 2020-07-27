@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sPzA1fVffNOSbB4q4alBgIgE0A6xAsGhYN1L8q_YCKaXgYmDSOj7koS9Ae0fRK4B9olfkoqFlYd7KfLJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KaGutcDeXlnIhQnUF4Gljnhd6zGDh-xHL1lTeKMPlc6GSgXbU0y4EkpkCPsIx-Lvx0FlZkV7J7VgPM1O">](https://music.youtube.com/channel/UCNCerJDpVYGXiJktXYSBaNA)
 
-Zitten - 곁에 (Early Recording Version)
+얀 - 그래서 그대는
 
-**Albums**: We Will Be Together : Pastel Season Edition
+**Albums**: Yarn's Best Vol. 1
 
-Last updated at 07/27/2020 17:52
+Last updated at 07/27/2020 17:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
