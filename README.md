@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zNbE3SfaWnIXl6PREd_Pwb6xtWYZHqCf297APAF9c_in8aoUO7s0Qbu62EGfB4jXPzGBc3C5hBlrSDZh">](https://music.youtube.com/channel/UCl5p1gD46TZVsoQmM8VZ2gQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Swedish House Mafia - Don't You Worry Child (Radio Edit) (feat. John Martin)
+The Chainsmokers - Roses (feat. ROZES)
 
-**Albums**: Don't You Worry Child
+**Albums**: Bouquet
 
-Last updated at 07/27/2020 19:02
+Last updated at 07/27/2020 19:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
