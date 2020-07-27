@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6fC0bRTWcV5IQmVm4P_4QoHkygZUV2c6Ay1k4oINYjg6LsgilNAzS5PxKQ7H_s3YGHtXE6W-26Z1nWc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-Gryffin & Bipolar Sunshine - Whole Heart
+Loote - Longer Than I Thought (feat. Joe Jonas)
 
-**Albums**: Whole Heart
+**Albums**: single.
 
-Last updated at 07/27/2020 10:33
+Last updated at 07/27/2020 10:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
