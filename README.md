@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K4Du4P4k1jnellG3UqVcLGMk_oHffqIpEgXJCZtK6HSbS1xquCLjkbSypVVOK-0gNZbuLhTK4omRnfjU">](https://music.youtube.com/channel/UCZ0Aezmtk-S2l8A9Ln-2lKw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nMcblDwd_mA-R05w8QKqSazNCGkNaLMr3c4AKa3JX-zI5JzRSSJHO0Boi4DkEYu2_P-HJXyg2j-pQ9S">](https://music.youtube.com/channel/UCzqz_ksRu_WkIzmivMdIS7A)
 
-Calvin Harris - Summer
+benny blanco, Halsey & Khalid - Eastside
 
-**Albums**: Motion
+**Albums**: Eastside
 
-Last updated at 07/27/2020 18:23
+Last updated at 07/27/2020 18:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
