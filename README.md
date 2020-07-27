@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WFppSCeaPUG8wHlE3muUmk3uEYc0ixMb0-_DXv3YoFLYVuilTD8yEYykMK5XCwqWunF_l9oTLauqzRo0GQ">](https://music.youtube.com/channel/UC2H7T-NCJUD9uAvLZI8qHOw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4dbtOUXJaHo-EiTfFL-aJLWyghAOa-WGsBkByeJSzF2s7UBFJd-iOx5b2da2D9RsafJo2baOL4trJl0">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
 
-Yada - An Already Sad Love
+THORNAPPLE(쏜애플) - Galaxy(은하)
 
-**Albums**: Wear To Hearing
+**Albums**: Enlightenment(계몽)
 
-Last updated at 07/27/2020 18:10
+Last updated at 07/27/2020 18:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
