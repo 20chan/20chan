@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-R7_pwLxBXZHLqrNb0sFtaQrko8wu4mR6v7E4617QgRV6RBZeuWZwttVa4Xmsm7pGxuLIc1ZUmYJW1Yi">](https://music.youtube.com/channel/UCncmhEMto4MiCLj5kyaV3ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sPzA1fVffNOSbB4q4alBgIgE0A6xAsGhYN1L8q_YCKaXgYmDSOj7koS9Ae0fRK4B9olfkoqFlYd7KfLJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Jeon Yuna - Even If I Love You
+Zitten - 곁에 (Early Recording Version)
 
-**Albums**: Even If I Love You
+**Albums**: We Will Be Together : Pastel Season Edition
 
-Last updated at 07/27/2020 17:48
+Last updated at 07/27/2020 17:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
