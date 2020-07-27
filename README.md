@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FrPId047QbNpFZfEtUJQDTC2-MGkgo4JPzasmIkdvFLjbQGNppcmRdOFXo6c3swTP_iP-ozTXhu8OBRSOw">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
 
-Marshmello & Bastille - Happier
+Coldplay - O
 
-**Albums**: Happier
+**Albums**: Ghost Stories
 
-Last updated at 07/27/2020 19:40
+Last updated at 07/27/2020 19:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
