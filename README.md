@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OENS67fdBl4jZ5azZnltf6cE350fONI29kYGskXBsIhRJmskeFztww0m1RV-aXyF9W7N-OlK7etyUW2y">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrOc6ZlrJs6_nVI0Hys35bQX-dewXE2xhY1Qe8cjakVzSEiv9Jfne1V8H-5vV5lQBIxWuGz6jVFfqTdH">](https://music.youtube.com/channel/UCFGwp4FHyvU1pJv9w6Jcx8w)
 
-The Chainsmokers - Closer (feat. Halsey)
+The Script - Superheroes
 
-**Albums**: Closer
+**Albums**: No Sound Without Silence
 
-Last updated at 07/27/2020 18:50
+Last updated at 07/27/2020 18:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
