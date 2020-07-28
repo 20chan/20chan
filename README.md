@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ZvSoboE8zKg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/tJDs3mrgo_Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGilIyFUzpmCNymTA3CADYQ)
 
-pops8090 - 박정수 - 그대 품에서 잠들었으면 (1991年)
+Fernando Alonso - 柏原芳恵 - ふたたび〜See you again (カラオケ字幕付き)
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 15:18
+Last updated at 07/28/2020 15:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
