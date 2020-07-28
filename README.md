@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nMcblDwd_mA-R05w8QKqSazNCGkNaLMr3c4AKa3JX-zI5JzRSSJHO0Boi4DkEYu2_P-HJXyg2j-pQ9S">](https://music.youtube.com/channel/UCzqz_ksRu_WkIzmivMdIS7A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4igiWMyX-TCOC4EwsL4hGJz4Z1QVSSLCrqAySMivS_UHkAjGQA7BqCf7iaaDQPSciW1T8xfDeDqP7iLzEA">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-benny blanco, Halsey & Khalid - Eastside
+Maroon 5 - Maps
 
-**Albums**: Eastside
+**Albums**: V (Asia Tour Edition)
 
-Last updated at 07/28/2020 10:20
+Last updated at 07/28/2020 10:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
