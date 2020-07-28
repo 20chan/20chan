@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pIjqBVxHyOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCYeMcKj7l6px8xmEGpdXAdw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jHvgdslDts4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Mono - You are Always
+pops8090 - 조정현 - 슬픈 바다 (1989年)
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 17:21
+Last updated at 07/28/2020 17:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
