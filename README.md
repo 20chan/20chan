@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pjZ3ooYFbidcJHFeha3iusYLn5n58HJ9uinY2tbyQo1LzjZAOmBascOjjnXXVac4gqSKFPRfYUYnPGq_Mw">](https://music.youtube.com/channel/UCYgBfjDPZWkVyrscgunnE2A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-RxV2D-2gcB0Z81QfzXYKNG05ePO-sudYLEroQzOcFiJjg3T80Yc2MU9Dif-7a2BY6o_PARngKP6bBmR">](https://music.youtube.com/channel/UCq6xagDeejJo60VPW1v96Gg)
 
-Green Zone - 준비없는 이별
+B612(비육일이) - 나만의 그대모습
 
-**Albums**: Previous and New Release
+**Albums**: B612(비육일이) 1집
 
-Last updated at 07/28/2020 17:59
+Last updated at 07/28/2020 18:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
