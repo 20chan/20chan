@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/6yWw-mnIS1E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCqm64m5IPrzOFIHETvcsa0A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Y5z1LPnJ3rQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClFEWp6KTzoOQKza4ucD2tA)
 
-Kim Dong-ryul & Lee So-eun - 기적
+Lee Sang-woo - 그녀를 만나는 곳 100m 전
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 17:07
+Last updated at 07/28/2020 17:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
