@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/199jU2C2sqs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-Bojp0-8paBNrOyaUO8H1A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/T7a8fCW3-8U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9gaV_U_U37Rk_NWJtHeUAw)
 
-8282FF - 펄스 - 난 얘기하고 넌 웃어주고
+차인복 - 석미경-물안개
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 17:37
+Last updated at 07/28/2020 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
