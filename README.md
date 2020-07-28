@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/2l6Vaok5ppo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dCUDxss2Xl7dkHvqgo4szmkW_N-0ZYlKF_Nh5RdltrzDLARCUoxvTPfMMWtm8VTJItCyk1EUPX1QLGR7">](https://music.youtube.com/channel/UCB0jUx1SVzaPu1QCVho9Ocw)
 
-southkoreanfolksongs - 사랑 Two -- 윤도현
+H.O.T. - 캔디 (Candy)
 
-**Albums**: undefined
+**Albums**: We Hate All Kinds of Violence...- The 1st Album
 
-Last updated at 07/28/2020 18:28
+Last updated at 07/28/2020 18:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
