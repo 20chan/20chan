@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/N-ySZ30yckJPupohKKs4YKCUY9_RHqXNQoW2gueKysKxF3plbJOhYSCIYkzE8Q77Kf6cTJlV15Q-zW-5rA">](https://music.youtube.com/channel/UCsZIVNwBqtPBX-41kO_rQzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
 
-Camila Cabello - Havana (feat. Young Thug)
+Coldplay - Adventure of a Lifetime
 
-**Albums**: Camila
+**Albums**: A Head Full of Dreams
 
-Last updated at 07/28/2020 10:33
+Last updated at 07/28/2020 10:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
