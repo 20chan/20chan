@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/channel/UCIaFw5VBEK8qaW6nRpx_qnw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Coldplay - Adventure of a Lifetime
+The Chainsmokers - Everybody Hates Me
 
-**Albums**: A Head Full of Dreams
+**Albums**: Sick Boy
 
-Last updated at 07/28/2020 10:37
+Last updated at 07/28/2020 10:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
