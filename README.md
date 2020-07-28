@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4igiWMyX-TCOC4EwsL4hGJz4Z1QVSSLCrqAySMivS_UHkAjGQA7BqCf7iaaDQPSciW1T8xfDeDqP7iLzEA">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8kcu_NLM8chRqindtOi4u22FAtGVTZz1D40tOuXOzg5Gw6BGGEpIWNgmO1OcHugkItDG0cPWYrutdi-a">](https://music.youtube.com/channel/UCl5p1gD46TZVsoQmM8VZ2gQ)
 
-Maroon 5 - Maps
+Swedish House Mafia - Don't You Worry Child (Radio Edit) (feat. John Martin)
 
-**Albums**: V (Asia Tour Edition)
+**Albums**: Until Now
 
-Last updated at 07/28/2020 10:23
+Last updated at 07/28/2020 10:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
