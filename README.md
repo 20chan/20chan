@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/kFcuKy3zsOE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGY7g-MxiE-MJqgDBbnOpAg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jq18ZmACk1omRhOb6rU8Cjsgqrw9Wz1eYXplGCIvXOlHsxHtaTIFB_-iNl_aoFLjbTQKf8eu06uwt62_8w">](https://music.youtube.com/channel/UCn8HautpfHcctdk1v0_7Bww)
 
-Hyun-i & Deok-i - 님 떠난 후
+T-ara - DAY BY DAY
 
-**Albums**: undefined
+**Albums**: DAY BY DAY
 
-Last updated at 07/28/2020 18:12
+Last updated at 07/28/2020 18:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
