@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/eq8r1ZTma08/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UFXwnl8b1oJ0iKFkHo8hu0YXFUUcMQHSYt4Bi5BwiuipcNZaIhH72GnU8xGjS3FAd9S7oVMsRNe_ftH6">](https://music.youtube.com/channel/UCogfCgW00mfDUo43P8QjldA)
 
-まふまふちゃんねる - 命に嫌われている。／まふまふ【歌ってみた】
+Marianas Trench - Desperate Measures
 
-**Albums**: undefined
+**Albums**: Ever After
 
 Last updated at 07/28/2020 19:00
 
