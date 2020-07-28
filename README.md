@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ysa2pqIy7ywUbSx55fIp6sG7EUUY8fr2rF0DB90wqMA6bnd4kuFJ5QdDHaf3L3Wl1RNuiip6j9FcFnNOCg">](https://music.youtube.com/channel/UCz7pQf9xfToiDxMeuyIiUow)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XnLiu9JAt_Z4GDTeLlVQ1EVgFXS1xdQcVRDeh83whiC5TQgmboVuQsKmQU0L8Bx7uhqpgrpfZnnl1HFZ">](https://music.youtube.com/channel/UC5FYAw7pRrtyqrHkHwp1nIQ)
 
-Trey Schafer - Wasabi
+HONNE - Day 1 ◑
 
-**Albums**: Wasabi
+**Albums**: Love Me / Love Me Not
 
-Last updated at 07/28/2020 10:46
+Last updated at 07/28/2020 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
