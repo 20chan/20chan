@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-RxV2D-2gcB0Z81QfzXYKNG05ePO-sudYLEroQzOcFiJjg3T80Yc2MU9Dif-7a2BY6o_PARngKP6bBmR">](https://music.youtube.com/channel/UCq6xagDeejJo60VPW1v96Gg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-kEesSXCzfY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4erWHsItoG037Y8zoLsk3A)
 
-B612(비육일이) - 나만의 그대모습
+sh2098 - 이문세 - 雨然(우연)
 
-**Albums**: B612(비육일이) 1집
+**Albums**: undefined
 
-Last updated at 07/28/2020 18:04
+Last updated at 07/28/2020 18:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
