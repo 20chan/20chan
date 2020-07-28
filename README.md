@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/H8dz85LLiSk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEPzoebyV-PyyX6TFxrVMRg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/199jU2C2sqs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-Bojp0-8paBNrOyaUO8H1A)
 
-eskimo813 - 떠나지마 전원석
+8282FF - 펄스 - 난 얘기하고 넌 웃어주고
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 17:35
+Last updated at 07/28/2020 17:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
