@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XnLiu9JAt_Z4GDTeLlVQ1EVgFXS1xdQcVRDeh83whiC5TQgmboVuQsKmQU0L8Bx7uhqpgrpfZnnl1HFZ">](https://music.youtube.com/channel/UC5FYAw7pRrtyqrHkHwp1nIQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w9bo5bLaqybEbtCn20WgF-CCtnS7F2kt1C1zv2nTkahuqBsYMJgc5LzwlxsfTVR4bPezQp-I5ZyoW2FJ">](https://music.youtube.com/channel/UCyvFbqTGEVjbtppSdGrHPoA)
 
-HONNE - Day 1 ◑
+MELOH - SMILE (Prod. WOOGIE) (feat. Boi B)
 
-**Albums**: Love Me / Love Me Not
+**Albums**: SignHere episode 2
 
-Last updated at 07/28/2020 10:49
+Last updated at 07/28/2020 10:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
