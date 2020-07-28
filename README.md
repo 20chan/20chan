@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/eX3gXdc6a6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pjZ3ooYFbidcJHFeha3iusYLn5n58HJ9uinY2tbyQo1LzjZAOmBascOjjnXXVac4gqSKFPRfYUYnPGq_Mw">](https://music.youtube.com/channel/UCYgBfjDPZWkVyrscgunnE2A)
 
-pops8090 - 조갑경 - 바보같은 미소 (1989年)
+Green Zone - 준비없는 이별
 
-**Albums**: undefined
+**Albums**: Previous and New Release
 
-Last updated at 07/28/2020 17:55
+Last updated at 07/28/2020 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
