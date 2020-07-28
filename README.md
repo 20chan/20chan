@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fzcQxRr1cSw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaga1OvXEMTL3jVr2cKFEkw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/cdK2Nxmfc5I/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCPb2qzvxFX_PHHfWHq0MR4g)
 
-Hearts & Colors - Lion
+000sleeping - 빛과 소금 - 그대 떠난 뒤.wmv
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 18:35
+Last updated at 07/28/2020 18:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
