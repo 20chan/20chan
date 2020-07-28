@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EZkdeDQBte0kLnUe3JmCU1b8rWf8o0sTECbSEDQ_XUB4odK9wc4at6n6VuEj2cN6o7TO_xVLL4E8qMiN8Q">](https://music.youtube.com/channel/UC7ajjd5Al0Zo5Cbf6SA-KFg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sUsAiafUHNo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4gijmjwPUPbKqAPHO813Vg)
 
-City Boys - By the Moon Lighted Window
+장석훈 - 2018. 10. 5 Seoul, KOR
 
-**Albums**: City Boys (By the Moonlight Window / My Love in a Novel)
+**Albums**: undefined
 
-Last updated at 07/28/2020 18:48
+Last updated at 07/28/2020 18:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
