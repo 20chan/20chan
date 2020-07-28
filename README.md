@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/tJDs3mrgo_Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGilIyFUzpmCNymTA3CADYQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eX3gXdc6a6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Fernando Alonso - 柏原芳恵 - ふたたび〜See you again (カラオケ字幕付き)
+pops8090 - 조갑경 - 바보같은 미소 (1989年)
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 15:23
+Last updated at 07/28/2020 16:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
