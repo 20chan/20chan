@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dCUDxss2Xl7dkHvqgo4szmkW_N-0ZYlKF_Nh5RdltrzDLARCUoxvTPfMMWtm8VTJItCyk1EUPX1QLGR7">](https://music.youtube.com/channel/UCB0jUx1SVzaPu1QCVho9Ocw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fzcQxRr1cSw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaga1OvXEMTL3jVr2cKFEkw)
 
-H.O.T. - 캔디 (Candy)
+Hearts & Colors - Lion
 
-**Albums**: We Hate All Kinds of Violence...- The 1st Album
+**Albums**: undefined
 
-Last updated at 07/28/2020 18:32
+Last updated at 07/28/2020 18:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
