@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-kEesSXCzfY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4erWHsItoG037Y8zoLsk3A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kFcuKy3zsOE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGY7g-MxiE-MJqgDBbnOpAg)
 
-sh2098 - 이문세 - 雨然(우연)
+Hyun-i & Deok-i - 님 떠난 후
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 18:08
+Last updated at 07/28/2020 18:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
