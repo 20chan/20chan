@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HfJNSWOG-vhnfCTzB17othxHyeVN5Bo5pwnIsWyb-863XiKiOA-UXY0urwSNjc6IYgWBoynU7udgrw2E">](https://music.youtube.com/channel/UC6VwktUsQQDCkHG1h6YftAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/N-ySZ30yckJPupohKKs4YKCUY9_RHqXNQoW2gueKysKxF3plbJOhYSCIYkzE8Q77Kf6cTJlV15Q-zW-5rA">](https://music.youtube.com/channel/UCsZIVNwBqtPBX-41kO_rQzQ)
 
-Justin Timberlake - CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Camila Cabello - Havana (feat. Young Thug)
 
-**Albums**: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+**Albums**: Camila
 
-Last updated at 07/28/2020 10:29
+Last updated at 07/28/2020 10:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
