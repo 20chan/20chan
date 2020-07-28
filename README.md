@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/cdK2Nxmfc5I/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCPb2qzvxFX_PHHfWHq0MR4g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VT_hLby9uSY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
 
-000sleeping - 빛과 소금 - 그대 떠난 뒤.wmv
+Lauv - Never Not
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 18:39
+Last updated at 07/28/2020 18:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
