@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sY7jG9fQhbO9aU7GyJLL1lnyewrB-FimsBdpYPOfKV4GcOka_WsQYfE6E6CBeFoCzE94ikIVf7qs8k4">](https://music.youtube.com/channel/UCunB7BiOZ7aN6v6TgCp5dRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ysa2pqIy7ywUbSx55fIp6sG7EUUY8fr2rF0DB90wqMA6bnd4kuFJ5QdDHaf3L3Wl1RNuiip6j9FcFnNOCg">](https://music.youtube.com/channel/UCz7pQf9xfToiDxMeuyIiUow)
 
-Christina Perri - A Thousand Years
+Trey Schafer - Wasabi
 
-**Albums**: A Thousand Years
+**Albums**: Wasabi
 
-Last updated at 07/28/2020 10:45
+Last updated at 07/28/2020 10:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
