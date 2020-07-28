@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/T7a8fCW3-8U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9gaV_U_U37Rk_NWJtHeUAw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9kNic7arqn8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUr_TZ2Pljcs5yZvdjHiMBQ)
 
-차인복 - 석미경-물안개
+정재욱 (JaeWook Jung) - Goodbye (Intro Cut Version)
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 17:42
+Last updated at 07/28/2020 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
