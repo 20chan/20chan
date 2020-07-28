@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/eX3gXdc6a6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/t4QUd0i2q4Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 조갑경 - 바보같은 미소 (1989年)
+pops8090 - 김혜림 - 날 위한 이별 (1994年)
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 16:50
+Last updated at 07/28/2020 16:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
