@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nMcblDwd_mA-R05w8QKqSazNCGkNaLMr3c4AKa3JX-zI5JzRSSJHO0Boi4DkEYu2_P-HJXyg2j-pQ9S">](https://music.youtube.com/channel/UCzqz_ksRu_WkIzmivMdIS7A)
 
-Jonas Blue - Rise (feat. Jack & Jack)
+benny blanco, Halsey & Khalid - Eastside
 
-**Albums**: Blue
+**Albums**: Eastside
 
-Last updated at 07/28/2020 10:16
+Last updated at 07/28/2020 10:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
