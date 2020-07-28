@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sY7jG9fQhbO9aU7GyJLL1lnyewrB-FimsBdpYPOfKV4GcOka_WsQYfE6E6CBeFoCzE94ikIVf7qs8k4">](https://music.youtube.com/channel/UCunB7BiOZ7aN6v6TgCp5dRA)
 
-The Chainsmokers - Everybody Hates Me
+Christina Perri - A Thousand Years
 
-**Albums**: Sick Boy
+**Albums**: A Thousand Years
 
-Last updated at 07/28/2020 10:41
+Last updated at 07/28/2020 10:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
