@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/FzUVuRMhRmU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8DSYw62oqk7k5fhWTO023Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eq8r1ZTma08/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg)
 
-zixuan - 천국 같은 너 - 유해준
+まふまふちゃんねる - 命に嫌われている。／まふまふ【歌ってみた】
 
 **Albums**: undefined
 
-Last updated at 07/28/2020 18:55
+Last updated at 07/28/2020 19:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
