@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/m-RC-W1DsnPWac0mwIV1_XrkbDs1q4_yVNvsvRlfrCvHpog0wIRd7qRQvpdw8Dh2NqQVLZ_SFf9mow4">](https://music.youtube.com/channel/UCDG5Gd2xB3sQwVcciOQlnwg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EDmNuVVUMJ89wJcS1rzWDwXScRy_yVQXWjjk5KDndK4e8po-q1h9yRRSu899Y3EEeR5VDLZRhbzZxZ-Y">](https://music.youtube.com/channel/UCJbz_RrCZoO1QRZ4UZwdoxQ)
 
-Colde - Control Me
+유미 - 별
 
-**Albums**: Control Me
+**Albums**: 미녀는 괴로워 Original Motion picture Soundtrack
 
-Last updated at 07/29/2020 20:08
+Last updated at 07/29/2020 20:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
