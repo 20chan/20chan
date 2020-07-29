@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uTYmUjsjFF2--3g_0K59axxB9x2lKWEzp8Y_ft3MH-Clpk58RX1mh-0V1WpXhDTV-uxk1yUgce4nGY4">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/awlnukgcXJADkF7pYGNYhi-mBaDeK6dozNsqKE2PtpSp-zFuEx35rKfsKAjbcwgK3suM9e7_YYhKQbqk0Q">](https://music.youtube.com/channel/UCv0CgZ-uiKXxmwJV2-NQnmQ)
 
-DYNAMIC DUO & Lena Park - SsSs(싱숭생숭)
+Lee Seongchul - Amateur
 
-**Albums**: SsSs
+**Albums**: Amateur
 
-Last updated at 07/29/2020 20:39
+Last updated at 07/29/2020 20:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
