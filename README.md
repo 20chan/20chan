@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/l1_cDipA620/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCqFY7sm9isBYsSsof9z6_Vg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1wyxscLilc8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCF78dV3viQJK_T2D09SsbLw)
 
-Rick and Morty, Jemaine Clement, & Ryan Elder - Goodbye Moonmen
+Agencja Muzyczna Polskiego Radia - Perfect - Odnawiam dusze (official video)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 16:14
+Last updated at 07/29/2020 16:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
