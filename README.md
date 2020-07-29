@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4dbtOUXJaHo-EiTfFL-aJLWyghAOa-WGsBkByeJSzF2s7UBFJd-iOx5b2da2D9RsafJo2baOL4trJl0">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hJU7Bllyq_7pzhZWDjfLE88p1Lomerr4LsrFIs4oDPEAyZZI4DlBU9jPORTeUS-Q7yXfmkLFIe8CQiyS">](https://music.youtube.com/channel/UCqNHUKcn3dEtWyuGZ5Gv9rw)
 
-THORNAPPLE(쏜애플) - A Day of Mercury(수성의 하루)
+DPR LIVE - Martini Blue
 
-**Albums**: Enlightenment(계몽)
+**Albums**: Her
 
-Last updated at 07/29/2020 18:21
+Last updated at 07/29/2020 18:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
