@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aM2MIyqR_Du9zi36fkvwTSgpRJf5aFIpRQNfv-cePHoGn67FP3WhFvVR6n4D92lKFKNiQUsbA1tOALRrdQ">](https://music.youtube.com/channel/UCYYblFFBpnZabWlpz9aAIPA)
 
-The Black Skirts - EVERYTHING
+amazarashi - Life Is Beautiful
 
-**Albums**: TEAM BABY
+**Albums**: Sekaishuusoku Niichiichiroku
 
-Last updated at 07/29/2020 14:50
+Last updated at 07/29/2020 14:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
