@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pTA0DSfrGZ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKucIcotC_GOPmYGdewF4PA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/O9djidzgyE0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUEvXLdpCtbzzDkcMI96llg)
 
-Chaos Chaos - Do You Feel It?
+DAZBEE official - 打上花火 -acoustic arrange- / ダズビー×ゐづ×模
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 12:57
+Last updated at 07/29/2020 13:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
