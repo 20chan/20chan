@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Uf8AP2Yhr9k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCd3TI79UTgYvVEq5lTnJ4uQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/c3doU7eKHsM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-MrRevillz - twocolors - Follow You (ft. Muringa)
+pops8090 - 구창모 - 희나리 (1985年)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 14:00
+Last updated at 07/29/2020 14:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
