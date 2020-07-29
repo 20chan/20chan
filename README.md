@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qj-08nSGK-4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpP5ZqQQp9yrjX0hSO1QTIg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Wzql7h77YZ8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCXof95M9SiaqPcVdmyyuKKg)
 
-발라드 모음 - Pop Music - 유튜브 심금을 울리는 발라드 명곡모음 ❤❤❤ 발라드 모음 2019 ❤❤❤
+노래듣고가 - 성시경, 박효신, 이석훈, 서인국, 빅스 - 크리스마스니까 1시간
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 14:27
+Last updated at 07/29/2020 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
