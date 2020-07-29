@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9_MlJlmTuh9X71D-A--SApjdeA7Kxd-dLgByACHnvcRMkn8U1MUPUPWeu7eNj-T0dDixmeM2DRhAE2gg">](https://music.youtube.com/channel/UCUgEe8gOnVrUXifs-56iw6w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hJU7Bllyq_7pzhZWDjfLE88p1Lomerr4LsrFIs4oDPEAyZZI4DlBU9jPORTeUS-Q7yXfmkLFIe8CQiyS">](https://music.youtube.com/channel/UCqNHUKcn3dEtWyuGZ5Gv9rw)
 
-Lee Hong Gi - BONFIRE (feat. DinDin)
+DPR LIVE - Martini Blue
 
-**Albums**: LEE HONG GI 2ND MINI ALBUM DO n DO
+**Albums**: Her
 
-Last updated at 07/29/2020 18:04
+Last updated at 07/29/2020 18:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
