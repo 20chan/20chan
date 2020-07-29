@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EA3OxN9nacCCCjtl6RGUYa1-OTVfJMf0KZLdqG7QNx7-3qkFyq-mHIHX3IHQ9G3TD-sjTkC8Kd6gWVWFnw">](https://music.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sdMfSswpkSKQrwMhM3ZPBaF6koZ3b1jrXCiu3665GX0zRu7l9FoSxvmBRsHbfsIrMbnZRzRG4zamf2ml">](https://music.youtube.com/channel/UCxD3Ujo39gqh5ljnZB30_9g)
 
-백예린 (Yerin Baek) - Square (2017)
+김완선 - 이젠 잊기로 해요
 
-**Albums**: Every letter I sent you.
+**Albums**: The Original
 
-Last updated at 07/29/2020 20:51
+Last updated at 07/29/2020 20:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
