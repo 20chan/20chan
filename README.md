@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/F9gtjTsWo1AYtQlzY3E-qC22ez2cRFnGWdofGy1QTNduQhr-M_Fdxfscqu2dLJU_4RubSUKns8wD244">](https://music.youtube.com/channel/UC2H7T-NCJUD9uAvLZI8qHOw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wIUMcQbTpURCgzDjdTPsN8FJJwSCvOF8FMHcPS6ECWfwq0i2qR-YPDyX0cnsclJ-Hf4TnUrlLnhsQf4H">](https://music.youtube.com/channel/UCuKY9FpJLJHnfRPFWDpd2nQ)
 
-Yada - Requiem
+Namolla Family - 사랑해요 (feat. Tae In & Kim Kyung Rok)
 
-**Albums**: Yada 2nd(Restructure)
+**Albums**: 나몰라패밀리
 
-Last updated at 07/29/2020 18:33
+Last updated at 07/29/2020 18:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
