@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4Js-XbNj6Tk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC1rviy5mA72NwlIHN9njWvA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9pt_Ewv73xd50YbARiX9isnKkLKRaPdfAooVQDOckxUNuWjyQniHGIekc6HBtT8m-Mn7QiPPP3DKp9F-">](https://music.youtube.com/channel/UCAiXJcqDrDKtKDIXV7NWhVg)
 
-zipperpig - Blonde Redhead - For the Damaged Coda
+CNBLUE - Sleepless Night
 
-**Albums**: undefined
+**Albums**: Can't Stop
 
-Last updated at 07/29/2020 10:44
+Last updated at 07/29/2020 10:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
