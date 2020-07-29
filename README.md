@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/j_YxykGggB_HMn99Fdkn5oW5IoTZC7NasoMugWZ9G3Zg_uA15IZ7qOHZsuZ1PDZpsGY0SspnAWklxgjA">](https://music.youtube.com/channel/UCmCEyc8UEi_IVs8nhfRkfRw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtRu-t4ne9aNHt-MdIAe9fk74dzEf-fpUhjisgkGrrcb3bs4UTKq0Yymv0kSGvaxQUh8TgP7I5rmEvc">](https://music.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
 
-KCM - 알아요
+YOUNHA - On A Rainy Day
 
-**Albums**: 연인
+**Albums**: STABLE MINDSET
 
-Last updated at 07/29/2020 21:06
+Last updated at 07/29/2020 21:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
