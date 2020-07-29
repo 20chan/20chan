@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7RMC60QEVRc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCi2bIyFtz-JdI-ou8kaqsqg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jaEm1-JCXio/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
 
-TRAP MUSIC NOW - Rick & Morty PICKLE RICK (Trap Remix)
+Lauv - I Like Me Better
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:49
+Last updated at 07/29/2020 13:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
