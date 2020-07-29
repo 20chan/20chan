@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Wcb8zEyntod6UBxW-CsnWwH_aISa40CE-MP7LXRaStN9bRwa6R9erS3kSX78tnwwKbkAbicUyuwd2dp">](https://music.youtube.com/channel/UCf4Cgf7VjmBnwWka8UxKgxg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l1_cDipA620/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCqFY7sm9isBYsSsof9z6_Vg)
 
-Dolphin Smiling - Goodbye Moonmen (From "Rick and Morty")
+Rick and Morty, Jemaine Clement, & Ryan Elder - Goodbye Moonmen
 
-**Albums**: Goodbye Moonmen (From "Rick and Morty")
+**Albums**: undefined
 
-Last updated at 07/29/2020 16:13
+Last updated at 07/29/2020 16:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
