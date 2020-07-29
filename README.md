@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/kcj7Y-GhYlM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrEoUhwiomqiaVQAfz0npkw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CwfoyVa980U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQ-ygxSFSlq-O2zGnXxELXQ)
 
-Aethersan 에테르상 - DJ Okawari - Flower Dance Acoustic Guitar
+Charlie Puth - How Long
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:23
+Last updated at 07/29/2020 13:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
