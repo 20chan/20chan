@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FCDzXJ_QATldu2JsOySJmAG6549uwUQrH-4rYV12Dq896rwpQD2IhoHCqWGl2LWqeM6Wei21elCMIqmp">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uTYmUjsjFF2--3g_0K59axxB9x2lKWEzp8Y_ft3MH-Clpk58RX1mh-0V1WpXhDTV-uxk1yUgce4nGY4">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
 
-EGOIST - saigonohanabira the meaning of love
+DYNAMIC DUO & Lena Park - SsSs(싱숭생숭)
 
-**Albums**: saigonohanabira the meaning of love
+**Albums**: SsSs
 
-Last updated at 07/29/2020 20:35
+Last updated at 07/29/2020 20:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
