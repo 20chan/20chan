@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CGp3UBCvlfHxfEp-N0NhUC1LlTBBF-Wbq5z4RaLeAeOmXB_CSwUg1DP-eustUtiljzkgJKM3O3sfnYM">](https://music.youtube.com/channel/UCUl68BC2ENDpgAtv6N-rImg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qAnUeB8SZaoNNY5-bhUZE6rOvvop1wJiXuE77HJxMYUEwbir2zDYVyE6lry11bIvtm7lZavP6eYL6n3P">](https://music.youtube.com/channel/UCHfN0CVqpYnN21BKuyWab7A)
 
-O3ohn - Down
+Star - I Think I
 
-**Albums**: [O]
+**Albums**: 별 Star
 
-Last updated at 07/29/2020 19:38
+Last updated at 07/29/2020 19:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
