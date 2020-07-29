@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B2vVoUzy4iFOt2phfpln7QT0S94ArA8ohiblzTHxjWU_wzYcnvt1wjB3dAqaLkBUXtE1w4f3MquCU2Y">](https://music.youtube.com/channel/UCZ_b8crvkkBTRgdfvb9rJPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ARzMxuYp7bQgzRfVlZDlkE8mH3QaK3mDkBMLT85u7ZK9b2ygqmYUAju4EiOA6oT2UzRqpcIY9pWFq54">](https://music.youtube.com/channel/UCXiAIGjJHAM1wd-LrzHx6hw)
 
-박미경 - Far Away
+Magolpy - Flying Girl
 
-**Albums**: 아담의 심리
+**Albums**: Magolpy Single Album (Flying Girl)
 
-Last updated at 07/29/2020 19:46
+Last updated at 07/29/2020 19:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
