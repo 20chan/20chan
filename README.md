@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1_OYDs4CnJk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 김정민 - 애인·愛人 (1996年)
+pops8090 - 조갑경&홍서범 - 내사랑 To You (1990年)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 14:13
+Last updated at 07/29/2020 14:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
