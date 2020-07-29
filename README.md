@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lpOAYQzsz-2XjaguV5XjxMScbbnGfZao3zOtteWTDlz8cWWcO5eNAfptmdtuqtkd8YK6zvP6eHuSECkK">](https://music.youtube.com/channel/UCpmx2BTCQ51R5MfoR6AAnsg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zqh1AE97SB3wkt_2_QNMOf6Es9NeBN6eAb8cJNN_8uTtNtj5d4OlCxrt7DJyRIxE0NTTKJCFWIWxr50">](https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA)
 
-SPYAIR - I Wanna Be...
+Loopy - Gear 2
 
-**Albums**: I Wanna Be...
+**Albums**: KING LOOPY
 
-Last updated at 07/29/2020 19:12
+Last updated at 07/29/2020 19:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
