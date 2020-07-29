@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LVEwL-sZzmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFIG7shUtug7QtyoaRgiGzA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pTA0DSfrGZ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKucIcotC_GOPmYGdewF4PA)
 
-Zonderling & Lost Frequencies - Crazy
+Chaos Chaos - Do You Feel It?
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 12:55
+Last updated at 07/29/2020 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
