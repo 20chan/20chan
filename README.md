@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/AS4q9yaWJkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eX3gXdc6a6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Kenshi Yonezu - ハチ MV「砂の惑星 feat.初音ミク」HACHI / DUNE ft.Miku Hatsune
+pops8090 - 조갑경 - 바보같은 미소 (1989年)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 14:08
+Last updated at 07/29/2020 14:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
