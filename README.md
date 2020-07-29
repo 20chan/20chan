@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0dkXaItUiyA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
 
-pops8090 - 최용준 - 아마도 그건 (1989年)
+le prince - 유리상자 - 아름다운 세상
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 14:18
+Last updated at 07/29/2020 14:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
