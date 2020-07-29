@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/s3C2jk5-tyg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzBGNIubo3Fl67ralGuRTkw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AhDHZS04O_4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-청포도 - 10cm _ 매트리스(Matress) 가사(Lyrics)
+pops8090 - 박혜경(더더) - It's You (1998年)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 10:31
+Last updated at 07/29/2020 10:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
