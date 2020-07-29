@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7qFF2v8VsaA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5J__UU0Y7ZAVluolcIjrbw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gCIFdJMl8S0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTtofgMFr7vN1LZIBSBRbqw)
 
-Panic! At The Disco - Emperor's New Clothes
+AFISHAL - Avicii - Without You (AFISHAL Remix) ARCADE GAME STYLE
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:06
+Last updated at 07/29/2020 13:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
