@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ggGUTTY9Qq1XuHzizFDzvS17UIGRzVMbQMQau6f7h-GpO_VBY0X25WfP_gI9H_bCAtvkiLu_ZWuCeBw">](https://music.youtube.com/channel/UCuqjtm5ybnZmfntdb2Aa-iw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FCDzXJ_QATldu2JsOySJmAG6549uwUQrH-4rYV12Dq896rwpQD2IhoHCqWGl2LWqeM6Wei21elCMIqmp">](https://music.youtube.com/channel/UCKZLPAAyImrkYnDVR0O2UXQ)
 
-Lucia(심규선) - Arari(아라리)
+EGOIST - saigonohanabira the meaning of love
 
-**Albums**: Fantasy Pieces(환상소곡집) Op.1
+**Albums**: saigonohanabira the meaning of love
 
-Last updated at 07/29/2020 20:30
+Last updated at 07/29/2020 20:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
