@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fTYhYsG9e20/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7RMC60QEVRc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCi2bIyFtz-JdI-ou8kaqsqg)
 
-Avicii & Sandro Cavazza - Without You
+TRAP MUSIC NOW - Rick & Morty PICKLE RICK (Trap Remix)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:46
+Last updated at 07/29/2020 13:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
