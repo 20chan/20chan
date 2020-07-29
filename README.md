@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QjT7q9hxDPM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNHaTdBRSisNm2HNGjvqhzw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/T3E9Wjbq44E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2E_VO4h28IAcipUCyFz7Fw)
 
-Jinjoo Lee - 하림-사랑이 다른 사랑으로 잊혀지네.wmv
+Gym Class Heroes - Stereo Hearts (feat. Adam Levine)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:09
+Last updated at 07/29/2020 11:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
