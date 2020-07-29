@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/U2XELiosoWw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXcpS6cYZTlLM0n3kEbm4Ow)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/cEjYmO5-dLk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK_PoxDo3D3y1gCp-kHBuQw)
 
-Paxx - Mili - Miracle Milk [Full Album]
+BUSKRS - Gabriel Royal - Remember Us
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:51
+Last updated at 07/29/2020 12:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
