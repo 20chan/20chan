@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VtRu-t4ne9aNHt-MdIAe9fk74dzEf-fpUhjisgkGrrcb3bs4UTKq0Yymv0kSGvaxQUh8TgP7I5rmEvc">](https://music.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2qp4gSDMiAHH9RY2WleATwnBrGhV_RQWgkzkysS2tLO6_wrOGIopTUeg-kZVL14wwXZMOMfYlZUMbVuH">](https://music.youtube.com/channel/UCsiG_7QqH8KFRlWck208boQ)
 
-YOUNHA - On A Rainy Day
+MC Snipier - 민초의 난
 
-**Albums**: STABLE MINDSET
+**Albums**: The Slave Hunters OST
 
-Last updated at 07/29/2020 21:11
+Last updated at 07/29/2020 21:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
