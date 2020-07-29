@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4dbtOUXJaHo-EiTfFL-aJLWyghAOa-WGsBkByeJSzF2s7UBFJd-iOx5b2da2D9RsafJo2baOL4trJl0">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_2CGX0p0-MhmHS8wixz9oRrzEIrZC_-yPoRgsn03-0OG9Dmu4LOnh0jDYd91g_dy3flOUGiNrO9yBgA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-THORNAPPLE(쏜애플) - A Day of Mercury(수성의 하루)
+HAN YO HAN - (Bonus Track) Lamborghini 2018
 
-**Albums**: Enlightenment(계몽)
+**Albums**: MUSASHI Ⅱ
 
-Last updated at 07/29/2020 17:37
+Last updated at 07/29/2020 17:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
