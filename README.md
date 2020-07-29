@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6LhjoTHqDLppkMNK-9qXNAoQ-WKN6Dx91oIZJ7HWF3xNecUxogE1veqetf1THFvrh8xuhYQur1t3FJM">](https://music.youtube.com/channel/UCnIdcO6wLeV_UpsZxnIRQcw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/soiMCSJ_K6fIID7LzOzugWAr71TTGOqhIxFSrF1qNbW_28PYi8UHY9NzxvkT2T3aHkX6yHb2Er3cWyp_">](https://music.youtube.com/channel/UCJr4RNay95K_7kYnI5KwreA)
 
-조정현 - 미련
+디셈버 - 혼자왔어요
 
-**Albums**: 그아픔까지사랑한거야
+**Albums**: A Story To The Sky
 
-Last updated at 07/29/2020 19:20
+Last updated at 07/29/2020 19:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
