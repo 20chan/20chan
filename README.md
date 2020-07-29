@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/BcqxLCWn-CE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Uf8AP2Yhr9k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCd3TI79UTgYvVEq5lTnJ4uQ)
 
-Lauv - I Like Me Better
+MrRevillz - twocolors - Follow You (ft. Muringa)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:57
+Last updated at 07/29/2020 14:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
