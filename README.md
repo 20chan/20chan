@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/AhDHZS04O_4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/W1PNvopXjbg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNGGEiVFYaAEuTf7MLu8hnw)
 
-pops8090 - 박혜경(더더) - It's You (1998年)
+Timaeus1 - Deep Purple - Hush
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 10:34
+Last updated at 07/29/2020 10:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
