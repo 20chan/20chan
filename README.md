@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-VyMMLhWXsM-vu_F4W1zbfRAvQgKlrXkUIisZzgeqg4rskKWPFOI2GBspULLa0GbnxfQyIuFPNewL_A">](https://music.youtube.com/channel/UCM3FfEkGhmE07vydCY4LUMQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/m-RC-W1DsnPWac0mwIV1_XrkbDs1q4_yVNvsvRlfrCvHpog0wIRd7qRQvpdw8Dh2NqQVLZ_SFf9mow4">](https://music.youtube.com/channel/UCDG5Gd2xB3sQwVcciOQlnwg)
 
-milet - Tell me
+Colde - Control Me
 
-**Albums**: Prover Tell me
+**Albums**: Control Me
 
-Last updated at 07/29/2020 20:04
+Last updated at 07/29/2020 20:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
