@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/O9djidzgyE0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUEvXLdpCtbzzDkcMI96llg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7qFF2v8VsaA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5J__UU0Y7ZAVluolcIjrbw)
 
-DAZBEE official - 打上花火 -acoustic arrange- / ダズビー×ゐづ×模
+Panic! At The Disco - Emperor's New Clothes
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:01
+Last updated at 07/29/2020 13:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
