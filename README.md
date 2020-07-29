@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/NyTH_U88bK0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLvhr40dgoBcV4XBlOhauNw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4Js-XbNj6Tk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC1rviy5mA72NwlIHN9njWvA)
 
-워너뮤직코리아 (Warner Music Korea) - 숀 (SHAUN) - Way Back Home [Lyric Video]
+zipperpig - Blonde Redhead - For the Damaged Coda
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 10:42
+Last updated at 07/29/2020 10:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
