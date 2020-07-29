@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ATBDg8cfugQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu8vQutOTWIcOuHjwF6-8fQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l1_cDipA620/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCqFY7sm9isBYsSsof9z6_Vg)
 
-Wantaways - Relove Relax
+Rick and Morty, Jemaine Clement, & Ryan Elder - Goodbye Moonmen
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 16:38
+Last updated at 07/29/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
