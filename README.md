@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/wgzcssEPtX4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCHnW_mJLE7uMUcpj8WIBpGQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sMMqY9Zcx4w/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCspvdp8iYaXodTd87obnDtg)
 
-god - 촛불 하나
+lizziecha90 - 청혼 - 이소라
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:21
+Last updated at 07/29/2020 11:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
