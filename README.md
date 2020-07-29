@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n2UiLh2AhhVbMxtkkxPSVP1nudH9_5kZQqLUu1XVypIA_fNb1Bf6y7jHYb84Kvc7M5tceo6PpYodMck1YA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4dbtOUXJaHo-EiTfFL-aJLWyghAOa-WGsBkByeJSzF2s7UBFJd-iOx5b2da2D9RsafJo2baOL4trJl0">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
 
-HAN YO HAN - Casually (feat. Louie (Geeks))
+THORNAPPLE(쏜애플) - A Day of Mercury(수성의 하루)
 
-**Albums**: The Blade Dance
+**Albums**: Enlightenment(계몽)
 
-Last updated at 07/29/2020 17:33
+Last updated at 07/29/2020 17:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
