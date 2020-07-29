@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9pt_Ewv73xd50YbARiX9isnKkLKRaPdfAooVQDOckxUNuWjyQniHGIekc6HBtT8m-Mn7QiPPP3DKp9F-">](https://music.youtube.com/channel/UCAiXJcqDrDKtKDIXV7NWhVg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lfcaABzPqw8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCk3uxp2_gK4kVaL2hx42L2g)
 
-CNBLUE - Sleepless Night
+Wink Blink - IU - Raindrop [On_Screen_Lyrics]
 
-**Albums**: Can't Stop
+**Albums**: undefined
 
-Last updated at 07/29/2020 10:47
+Last updated at 07/29/2020 10:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
