@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-0IYQf3sIsvYEnyHQe83SNzdZJLIRCKA2LD8MvOloW5pPq2Qa-9ns4d2nQtH_fUmss7LrNHBpH1bugfw">](https://music.youtube.com/channel/UCXubAmRTePXslfoCZRwORJQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3lKAE8aEiOU4YJJgSI5xnn8R6xqe4_MLBg9pruzwXvRW_IW4MshDJ6H9B494voFfnYU5py7L1Q-yDr30">](https://music.youtube.com/channel/UCMq4mBpseBT4iR4i3aNpcUQ)
 
-MOL - See you again
+iamnot - Up All Night
 
-**Albums**: See you again
+**Albums**: Color
 
-Last updated at 07/29/2020 17:49
+Last updated at 07/29/2020 17:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
