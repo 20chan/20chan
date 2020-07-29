@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Wzql7h77YZ8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCXof95M9SiaqPcVdmyyuKKg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
 
-노래듣고가 - 성시경, 박효신, 이석훈, 서인국, 빅스 - 크리스마스니까 1시간
+The Black Skirts - EVERYTHING
 
-**Albums**: undefined
+**Albums**: TEAM BABY
 
-Last updated at 07/29/2020 14:49
+Last updated at 07/29/2020 14:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
