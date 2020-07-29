@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0dkXaItUiyA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qj-08nSGK-4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCpP5ZqQQp9yrjX0hSO1QTIg)
 
-le prince - 유리상자 - 아름다운 세상
+발라드 모음 - Pop Music - 유튜브 심금을 울리는 발라드 명곡모음 ❤❤❤ 발라드 모음 2019 ❤❤❤
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 14:24
+Last updated at 07/29/2020 14:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
