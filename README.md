@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/awlnukgcXJADkF7pYGNYhi-mBaDeK6dozNsqKE2PtpSp-zFuEx35rKfsKAjbcwgK3suM9e7_YYhKQbqk0Q">](https://music.youtube.com/channel/UCv0CgZ-uiKXxmwJV2-NQnmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8VYjYGEFXJ2ahuW_aTJK716nqKRt_zdH3G9VS6E7ptd5_bINWdlJn403v0llOHUqWdnfLGRjjtPvoyfsCg">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
 
-Lee Seongchul - Amateur
+서영은 (Seo Young Eun) - 웃는 거야
 
-**Albums**: Amateur
+**Albums**: Be My Sweet Heart
 
-Last updated at 07/29/2020 20:43
+Last updated at 07/29/2020 20:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
