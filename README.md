@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/65niALh646akmAD6eh9pmxvQR9_AOoG2jsNoqL2YBDprZDJ8GoSxpx22Kj2A19F1-0qvhZ4JJLZUYrQ">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ucCHp0gCeUhbjcfor8h8MfVGylba2tHjaaB-BWD12fwB90rs2fV7MTnvWUWE4MfKBlCpWI3mJL6UHsac">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
 
-BLOO - Downtown Baby
+THORNAPPLE - Gills 아가미
 
-**Albums**: Downtown Baby
+**Albums**: I Often Stammer and Forget the Way to Sleep 난 자꾸 말을 더듬고 잠드는 법도 잊었네 (Remaster)
 
-Last updated at 07/29/2020 17:19
+Last updated at 07/29/2020 17:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
