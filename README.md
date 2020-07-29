@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/W1PNvopXjbg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNGGEiVFYaAEuTf7MLu8hnw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/NyTH_U88bK0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLvhr40dgoBcV4XBlOhauNw)
 
-Timaeus1 - Deep Purple - Hush
+워너뮤직코리아 (Warner Music Korea) - 숀 (SHAUN) - Way Back Home [Lyric Video]
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 10:38
+Last updated at 07/29/2020 10:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
