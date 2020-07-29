@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/CY8E6N5Nzec/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CsG2PVYwZro/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
 
-Marshmello & Anne-Marie - FRIENDS
+le prince - 뜨거운 감자 - 고백
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:36
+Last updated at 07/29/2020 11:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
