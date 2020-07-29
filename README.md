@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4B6E0mijV5A/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCQAC6DTJqfZIie4HFprvDuw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JtPNH6VBBWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs2E8ZnFQyIXgIa885UV1iQ)
 
-Wax Fang - Majestic
+Murder by Death - Go to the Light
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 16:20
+Last updated at 07/29/2020 16:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
