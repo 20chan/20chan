@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-9RRUQUCHWRYo5GiyzyjnWW6Ktz6jhVLw7Emhpo2A608hLSbVzXVpVaAJUaDyQ9kRyyIcvoGEifpTws">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Mili - YUBIKIRI-GENMAN
+CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo-Eun - BAND
 
-**Albums**: Mag Mell
+**Albums**: BAND
 
-Last updated at 07/29/2020 17:10
+Last updated at 07/29/2020 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
