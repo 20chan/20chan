@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aaBHQUg2GbFLmTJk4UltkcuNP6ypwiQWEJr7XXg5W3RQXxxMmENKMDAnyRY7LehRgZysg4KlpjbwxqGL">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-HAN YO HAN - BABY I'M A ROCKSTAR (feat. Kim Seungmin & NO:EL)
+HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
 
-**Albums**: Dragon Bike
+**Albums**: Helicopter
 
-Last updated at 07/29/2020 17:28
+Last updated at 07/29/2020 17:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
