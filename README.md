@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yf-ILe_eg5gMCQOccrKP7dVmSGBHw2ZHpgIQ_cX5kSAWMjYdHQzn03gVvBS04pqrCbTTDzMTFPz-6Gta">](https://music.youtube.com/channel/UC2Rp4lvp4CBx7vtBnMzDN0w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CGp3UBCvlfHxfEp-N0NhUC1LlTBBF-Wbq5z4RaLeAeOmXB_CSwUg1DP-eustUtiljzkgJKM3O3sfnYM">](https://music.youtube.com/channel/UCUl68BC2ENDpgAtv6N-rImg)
 
-Corinne Bailey Rae - The Scientist
+O3ohn - Down
 
-**Albums**: Fifty Shades Darker (Original Motion Picture Soundtrack)
+**Albums**: [O]
 
-Last updated at 07/29/2020 19:35
+Last updated at 07/29/2020 19:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
