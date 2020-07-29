@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PXlUYnxE7KN8Odw_tUxkdNIbBaOIOTwyoVPgtIEN5s6dmDoGc-AYtDbIxxtwOXwQ0RPOxE2TMbsb3s45">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aaBHQUg2GbFLmTJk4UltkcuNP6ypwiQWEJr7XXg5W3RQXxxMmENKMDAnyRY7LehRgZysg4KlpjbwxqGL">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Han Yo Han - L'OCCITANE
+HAN YO HAN - BABY I'M A ROCKSTAR (feat. Kim Seungmin & NO:EL)
 
-**Albums**: Don't Worry
+**Albums**: Dragon Bike
 
-Last updated at 07/29/2020 18:13
+Last updated at 07/29/2020 18:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
