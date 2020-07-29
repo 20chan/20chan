@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/oFK717U4M4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUEvXLdpCtbzzDkcMI96llg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jsoT5rIdEP4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0AwIqrAIR_98iXdDvLzUNg)
 
-DAZBEE official - City Of Stars (라라랜드 : La La Land OST)／다즈비 x 사민 COVER
+Plum - Melodic Artist - [New Age] Plum - Rainbow Chaser
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:31
+Last updated at 07/29/2020 13:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
