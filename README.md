@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uoEAMagqBhRVo3XKcplhgS2z5h-XkNPsgSF1k6wTSQG_3sxSZZijhk0TT-3LKYIF6wyi-Fh7IdDDwH4">](https://music.youtube.com/channel/UCsYJTPdjnUFuBaV09tGDPOw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-URBAN ZAKAPA - Thursday Night (feat. Beenzino)
+Han Yo Han - Villain Out (feat. Gary)
 
-**Albums**: Thursday Night
+**Albums**: Exiv
 
-Last updated at 07/29/2020 17:58
+Last updated at 07/29/2020 18:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
