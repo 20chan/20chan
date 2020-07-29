@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/D8CynXKqF0y-vcqBq3BROUIn4JSeTQYpCHoPr1aGri4eQ9_zzEq_7TfqeR1he4NTK7UyRXuZ1HrDJZE">](https://music.youtube.com/channel/UCf8FKcy1n5t2awKmNs3ajRQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ggGUTTY9Qq1XuHzizFDzvS17UIGRzVMbQMQau6f7h-GpO_VBY0X25WfP_gI9H_bCAtvkiLu_ZWuCeBw">](https://music.youtube.com/channel/UCuqjtm5ybnZmfntdb2Aa-iw)
 
-Flautas Magicas Band - Se Busca
+Lucia(심규선) - Arari(아라리)
 
-**Albums**: El Mundo en Flauta
+**Albums**: Fantasy Pieces(환상소곡집) Op.1
 
-Last updated at 07/29/2020 20:26
+Last updated at 07/29/2020 20:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
