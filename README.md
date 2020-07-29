@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uX8yoT9ct6k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEWk2EtOmsgBNi8YZFjDKfw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/d27gTrPPAyk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHhKCdsmx9t-PSqlSfa-VKA)
 
-Jakubi - Couch Potato
+Sting - Englishman in New York
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:15
+Last updated at 07/29/2020 13:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
