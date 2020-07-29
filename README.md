@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4Q46xYqUwZQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCv76mBRf2VlY0nMoY9zC0cg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fTYhYsG9e20/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Pentakill - Legends Never Die
+Avicii & Sandro Cavazza - Without You
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:42
+Last updated at 07/29/2020 13:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
