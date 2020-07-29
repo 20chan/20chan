@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ARzMxuYp7bQgzRfVlZDlkE8mH3QaK3mDkBMLT85u7ZK9b2ygqmYUAju4EiOA6oT2UzRqpcIY9pWFq54">](https://music.youtube.com/channel/UCXiAIGjJHAM1wd-LrzHx6hw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0UOZlGpT_GsbyoSf8_t-k-8rnRlgX6V3ixSB4twwYvpXzDEK9TtJf5-F05CU1kaMfPQkOzcV4YUsGZfI">](https://music.youtube.com/channel/UC52foyTOtrijtOklggifo8g)
 
-Magolpy - Flying Girl
+Kim Bo Kyung & Punch - 지금 술 한잔 했어 Just Had A Drink
 
-**Albums**: Magolpy Single Album (Flying Girl)
+**Albums**: Just Had a Drink
 
-Last updated at 07/29/2020 19:50
+Last updated at 07/29/2020 19:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
