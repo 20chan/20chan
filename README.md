@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xHpX9HBzAszwqyQ_jD8TbsPxT7VjcbaQD1F8a8KzRYhc9iDtoZh82W9x93at3QPa43kiwrvKC12evxo">](https://music.youtube.com/channel/UCzl3Tmv2-5n37_phOVQSfiQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Wcb8zEyntod6UBxW-CsnWwH_aISa40CE-MP7LXRaStN9bRwa6R9erS3kSX78tnwwKbkAbicUyuwd2dp">](https://music.youtube.com/channel/UCf4Cgf7VjmBnwWka8UxKgxg)
 
-Alexander Jean - So Bad
+Dolphin Smiling - Goodbye Moonmen (From "Rick and Morty")
 
-**Albums**: Head High
+**Albums**: Goodbye Moonmen (From "Rick and Morty")
 
-Last updated at 07/29/2020 15:10
+Last updated at 07/29/2020 16:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
