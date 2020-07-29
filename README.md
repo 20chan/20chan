@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/cEjYmO5-dLk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK_PoxDo3D3y1gCp-kHBuQw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LVEwL-sZzmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFIG7shUtug7QtyoaRgiGzA)
 
-BUSKRS - Gabriel Royal - Remember Us
+Zonderling & Lost Frequencies - Crazy
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 12:51
+Last updated at 07/29/2020 12:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
