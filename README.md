@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/d27gTrPPAyk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHhKCdsmx9t-PSqlSfa-VKA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kcj7Y-GhYlM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrEoUhwiomqiaVQAfz0npkw)
 
-Sting - Englishman in New York
+Aethersan 에테르상 - DJ Okawari - Flower Dance Acoustic Guitar
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:18
+Last updated at 07/29/2020 13:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
