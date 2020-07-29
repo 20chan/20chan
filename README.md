@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gCIFdJMl8S0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTtofgMFr7vN1LZIBSBRbqw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uX8yoT9ct6k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEWk2EtOmsgBNi8YZFjDKfw)
 
-AFISHAL - Avicii - Without You (AFISHAL Remix) ARCADE GAME STYLE
+Jakubi - Couch Potato
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:10
+Last updated at 07/29/2020 13:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
