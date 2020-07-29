@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WqDlALmuUKhFCkvaOmXrads8wSp1W4Po6ClgYcyFzjVGNLLPsrVRM5C8esNgAMtJTnJnDwmRG73x1d_q">](https://music.youtube.com/channel/UCaOdcC_gxMhX058FLdtmKSQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
 
-모브닝 MOVNING - Falling With You 내가 있을게
+Woo - We Are (feat. Loco & GRAY)
 
-**Albums**: Falling With You 내가 있을게
+**Albums**: We Are
 
-Last updated at 07/29/2020 17:42
+Last updated at 07/29/2020 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
