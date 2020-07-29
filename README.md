@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/CRNg1OEuH_M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMOgdURr7d8pOVlc-alkfRg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CY8E6N5Nzec/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
 
-xKito Music - Annaland - Tokyo (Popeska Remix)
+Marshmello & Anne-Marie - FRIENDS
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:32
+Last updated at 07/29/2020 11:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
