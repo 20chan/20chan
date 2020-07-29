@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gIsWYDn9OQQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmcv3lKQlEhWZEHmHGRfXsQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pkcJEvMcnEg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrPe3hLA51968GwxHSZ1llw)
 
-LQWonderful - Sky.High - It's just a blur [Extended]
+Nirvana - Lithium
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:03
+Last updated at 07/29/2020 11:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
