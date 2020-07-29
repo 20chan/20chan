@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8VYjYGEFXJ2ahuW_aTJK716nqKRt_zdH3G9VS6E7ptd5_bINWdlJn403v0llOHUqWdnfLGRjjtPvoyfsCg">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EA3OxN9nacCCCjtl6RGUYa1-OTVfJMf0KZLdqG7QNx7-3qkFyq-mHIHX3IHQ9G3TD-sjTkC8Kd6gWVWFnw">](https://music.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
 
-서영은 (Seo Young Eun) - 웃는 거야
+백예린 (Yerin Baek) - Square (2017)
 
-**Albums**: Be My Sweet Heart
+**Albums**: Every letter I sent you.
 
-Last updated at 07/29/2020 20:47
+Last updated at 07/29/2020 20:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
