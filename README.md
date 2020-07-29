@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-0IYQf3sIsvYEnyHQe83SNzdZJLIRCKA2LD8MvOloW5pPq2Qa-9ns4d2nQtH_fUmss7LrNHBpH1bugfw">](https://music.youtube.com/channel/UCXubAmRTePXslfoCZRwORJQ)
 
-Woo - We Are (feat. Loco & GRAY)
+MOL - See you again
 
-**Albums**: We Are
+**Albums**: See you again
 
-Last updated at 07/29/2020 17:46
+Last updated at 07/29/2020 17:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
