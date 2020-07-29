@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0VSewJYD-cM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5EoGBCM2xteAubWpBayGeg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ATBDg8cfugQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu8vQutOTWIcOuHjwF6-8fQ)
 
-RPWL - Far Away from Home
+Wantaways - Relove Relax
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 16:33
+Last updated at 07/29/2020 16:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
