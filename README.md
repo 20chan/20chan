@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4dbtOUXJaHo-EiTfFL-aJLWyghAOa-WGsBkByeJSzF2s7UBFJd-iOx5b2da2D9RsafJo2baOL4trJl0">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-9RRUQUCHWRYo5GiyzyjnWW6Ktz6jhVLw7Emhpo2A608hLSbVzXVpVaAJUaDyQ9kRyyIcvoGEifpTws">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-THORNAPPLE(쏜애플) - A Day of Mercury(수성의 하루)
+Mili - YUBIKIRI-GENMAN
 
-**Albums**: Enlightenment(계몽)
+**Albums**: Mag Mell
 
-Last updated at 07/29/2020 17:05
+Last updated at 07/29/2020 17:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
