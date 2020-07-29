@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo-Eun - BAND
+The Chainsmokers & Coldplay - Something Just Like This
 
-**Albums**: BAND
+**Albums**: Something Just Like This
 
-Last updated at 07/29/2020 17:14
+Last updated at 07/29/2020 17:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
