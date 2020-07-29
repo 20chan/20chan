@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/65lCk7tYvs7iAaM11FBoRfHUgFNw5ppFL93XNY71kxYhFQFG96gNNBdeg6REkjduYNG6UWoGTeI2IQQ">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F9gtjTsWo1AYtQlzY3E-qC22ez2cRFnGWdofGy1QTNduQhr-M_Fdxfscqu2dLJU_4RubSUKns8wD244">](https://music.youtube.com/channel/UC2H7T-NCJUD9uAvLZI8qHOw)
 
-Crying Nut - 좋지 아니한가 Isn't That Good?
+Yada - Requiem
 
-**Albums**: Crying Nut 3 Singles
+**Albums**: Yada 2nd(Restructure)
 
-Last updated at 07/29/2020 18:28
+Last updated at 07/29/2020 18:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
