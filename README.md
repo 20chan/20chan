@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JtPNH6VBBWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs2E8ZnFQyIXgIa885UV1iQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6p6PcFFUm5I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCx90L12QXzc18AGYFRof-EA)
 
-Murder by Death - Go to the Light
+James Blake - Retrograde
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 16:25
+Last updated at 07/29/2020 16:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
