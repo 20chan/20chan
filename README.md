@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S1Y6U_uVWXt4YMxng2CaZ2Kyz3GvaP5WPTOxtVssoSozfG1eDM865ONUHyqNOr88h-_d35vMZIxsFpGM">](https://music.youtube.com/channel/UCKxlMavIvMyCK9gMO31n8ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lYgn6Qt6Ftg64ElXHo1LqsuYHu_a5da6M6P0EHXNczlLZ0vvOsfw7haTAeAUWazgllObyTdJ19OeOPS1pA">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
 
-홍경민 - After…
+새소년 Se So Neon - A Long Dream 긴 꿈
 
-**Albums**: Forever And A Day
+**Albums**: A Long Dream 긴 꿈
 
-Last updated at 07/29/2020 18:54
+Last updated at 07/29/2020 18:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
