@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sdMfSswpkSKQrwMhM3ZPBaF6koZ3b1jrXCiu3665GX0zRu7l9FoSxvmBRsHbfsIrMbnZRzRG4zamf2ml">](https://music.youtube.com/channel/UCxD3Ujo39gqh5ljnZB30_9g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/elQhjBfclsaX5IL9RDBjLlO_MEEQ_ppu5V2Z8gXLNHSwZQWcKNdoSNUu98HqOxWZ0M8ycEbgWP6GoQs0">](https://music.youtube.com/channel/UCPbQIkfmddWHWsSerMgdRFg)
 
-김완선 - 이젠 잊기로 해요
+신해철 - 힘겨워 하는 연인들을 위하여
 
-**Albums**: The Original
+**Albums**: Welcome To The Real World
 
-Last updated at 07/29/2020 20:55
+Last updated at 07/29/2020 21:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
