@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/teb5WJZMSowJfKZGbNsK7YyduJF-vsYXApVNkBHf-LQTVN6cqRW6ckb7hcAKAPKTrdf2l_MqNl8_ZvM">](https://music.youtube.com/channel/UCBjeXnGOQB8rkCA0TtnCWpQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x71EThnb6yF1NMrhmPnmuMQCQFllSU-V53Ldyd52Enzspc6aFKFIt7WTk68fhGj468Wd_TIvMsbaI1mJ8Q">](https://music.youtube.com/channel/UCKj1qkACphzGhWGTmOXSt_w)
 
-임재범 - 이밤이지나면
+Sam Kim - Breath
 
-**Albums**: 임재범1집
+**Albums**: It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2
 
-Last updated at 07/29/2020 18:45
+Last updated at 07/29/2020 18:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
