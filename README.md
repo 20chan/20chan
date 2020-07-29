@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/it-GeTZD1yM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCj4csW-8eCQ0VeAWtp74ZEg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aKHbqm-D62Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUUPndfCXVm8-srwV6dzXcg)
 
-GIFT - Goodbye (Live)
+HYUKOH - HYUKOH(혁오) - LOVE YA! M/V
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 10:55
+Last updated at 07/29/2020 10:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
