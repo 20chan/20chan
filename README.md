@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hPK8dCHS0rIIdt9U1_sW5D-TRMjsK0FqurBM4PEcMRenx4VfL5EH43b93dTzI76vjodRVsxDrYSntAsK">](https://music.youtube.com/channel/UCqgH-_qTwTENOeyQylLrb7A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lpOAYQzsz-2XjaguV5XjxMScbbnGfZao3zOtteWTDlz8cWWcO5eNAfptmdtuqtkd8YK6zvP6eHuSECkK">](https://music.youtube.com/channel/UCpmx2BTCQ51R5MfoR6AAnsg)
 
- 안치환 - 사람이 꽃보다 아름다워
+SPYAIR - I Wanna Be...
 
-**Albums**: desire
+**Albums**: I Wanna Be...
 
-Last updated at 07/29/2020 19:08
+Last updated at 07/29/2020 19:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
