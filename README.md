@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1wyxscLilc8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCF78dV3viQJK_T2D09SsbLw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4B6E0mijV5A/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCQAC6DTJqfZIie4HFprvDuw)
 
-Agencja Muzyczna Polskiego Radia - Perfect - Odnawiam dusze (official video)
+Wax Fang - Majestic
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 16:16
+Last updated at 07/29/2020 16:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
