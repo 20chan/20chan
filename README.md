@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_2CGX0p0-MhmHS8wixz9oRrzEIrZC_-yPoRgsn03-0OG9Dmu4LOnh0jDYd91g_dy3flOUGiNrO9yBgA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PXlUYnxE7KN8Odw_tUxkdNIbBaOIOTwyoVPgtIEN5s6dmDoGc-AYtDbIxxtwOXwQ0RPOxE2TMbsb3s45">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-HAN YO HAN - Bumper Car (feat. Young B & NO:EL)
+Han Yo Han - L'OCCITANE
 
-**Albums**: MUSASHI Ⅱ
+**Albums**: Don't Worry
 
-Last updated at 07/29/2020 18:10
+Last updated at 07/29/2020 18:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
