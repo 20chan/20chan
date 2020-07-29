@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9_MlJlmTuh9X71D-A--SApjdeA7Kxd-dLgByACHnvcRMkn8U1MUPUPWeu7eNj-T0dDixmeM2DRhAE2gg">](https://music.youtube.com/channel/UCUgEe8gOnVrUXifs-56iw6w)
 
-Han Yo Han - Villain Out (feat. Gary)
+Lee Hong Gi - BONFIRE (feat. DinDin)
 
-**Albums**: Exiv
+**Albums**: LEE HONG GI 2ND MINI ALBUM DO n DO
 
-Last updated at 07/29/2020 18:01
+Last updated at 07/29/2020 18:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
