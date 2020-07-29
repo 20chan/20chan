@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GKiz8SvAqsY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCH8297E24GJcGeRyoW2CpEw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/BcqxLCWn-CE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCWjoDY2SXJ5dvcdunWI6mjQ)
 
-Osirois Music - Undertale - His Theme (Orchestral Cover)
+Lauv - I Like Me Better
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 13:53
+Last updated at 07/29/2020 13:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
