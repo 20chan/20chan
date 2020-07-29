@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xDvh3FDA9jkiIUTrDamTk5rn21uG0XQeLmviXX6QUiXgnjGjKk1NVYmzrZ9xDQqQ9LUlaMiYTBzInSk">](https://music.youtube.com/channel/UCdiQtyxXoU4cQXA_wZZ_Yog)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QszJ_cBqUDr6KVPJ06aj4iTpOPL0Pe5R0XbHofcQOcApyRBUb1LlNcPo1ynSMJuNmXHDSzvxipBxd8CKCQ">](https://music.youtube.com/channel/UCqlSooKOpy5jYQGK8SF0EUg)
 
-이영현 - 체념 2009
+Jo Sung Mo - 너의 곁으로
 
-**Albums**: Take It
+**Albums**: Lovers in Paris (Original Television Soundtrack)
 
-Last updated at 07/29/2020 21:17
+Last updated at 07/29/2020 21:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
