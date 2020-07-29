@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hJU7Bllyq_7pzhZWDjfLE88p1Lomerr4LsrFIs4oDPEAyZZI4DlBU9jPORTeUS-Q7yXfmkLFIe8CQiyS">](https://music.youtube.com/channel/UCqNHUKcn3dEtWyuGZ5Gv9rw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_2CGX0p0-MhmHS8wixz9oRrzEIrZC_-yPoRgsn03-0OG9Dmu4LOnh0jDYd91g_dy3flOUGiNrO9yBgA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-DPR LIVE - Martini Blue
+HAN YO HAN - Bumper Car (feat. Young B & NO:EL)
 
-**Albums**: Her
+**Albums**: MUSASHI Ⅱ
 
-Last updated at 07/29/2020 18:07
+Last updated at 07/29/2020 18:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
