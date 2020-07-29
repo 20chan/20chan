@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/l1_cDipA620/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCqFY7sm9isBYsSsof9z6_Vg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Rick and Morty, Jemaine Clement, & Ryan Elder - Goodbye Moonmen
+짙은 - 백야
 
-**Albums**: undefined
+**Albums**: 백야 - EP
 
-Last updated at 07/29/2020 16:42
+Last updated at 07/29/2020 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
