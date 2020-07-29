@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lNng0suxEDdePfvKjJj7HlX7dmkex37Vejpe-cWgPSh__bHiN0VeuDAEJuO6GLi1IN3RnlBye4iSwOK4">](https://music.youtube.com/channel/UCMf9peLqN-v_PobnuvYtBuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/teb5WJZMSowJfKZGbNsK7YyduJF-vsYXApVNkBHf-LQTVN6cqRW6ckb7hcAKAPKTrdf2l_MqNl8_ZvM">](https://music.youtube.com/channel/UCBjeXnGOQB8rkCA0TtnCWpQ)
 
-Park Boram - Will Be Fine
+임재범 - 이밤이지나면
 
-**Albums**: Will Be Fine
+**Albums**: 임재범1집
 
-Last updated at 07/29/2020 18:42
+Last updated at 07/29/2020 18:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
