@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lYgn6Qt6Ftg64ElXHo1LqsuYHu_a5da6M6P0EHXNczlLZ0vvOsfw7haTAeAUWazgllObyTdJ19OeOPS1pA">](https://music.youtube.com/channel/UCZ1tXypKXk2vM1h4DtGWvbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KaGutcDeXlnIhQnUF4Gljnhd6zGDh-xHL1lTeKMPlc6GSgXbU0y4EkpkCPsIx-Lvx0FlZkV7J7VgPM1O">](https://music.youtube.com/channel/UCNCerJDpVYGXiJktXYSBaNA)
 
-새소년 Se So Neon - A Long Dream 긴 꿈
+얀 - 恨 (한)
 
-**Albums**: A Long Dream 긴 꿈
+**Albums**: Yarn's Best Vol. 1
 
-Last updated at 07/29/2020 18:58
+Last updated at 07/29/2020 19:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
