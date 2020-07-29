@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/d2kNq8arHFuoZGxkVxfeicmAmStUsviwtGrQjMRH_SfgLty7GFgb1Ykiu9bJ3I10Os3lS6w3dei4r5g">](https://music.youtube.com/channel/UCu3Ayq8Av6vuyo2j2GIt3Sg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/D8CynXKqF0y-vcqBq3BROUIn4JSeTQYpCHoPr1aGri4eQ9_zzEq_7TfqeR1he4NTK7UyRXuZ1HrDJZE">](https://music.youtube.com/channel/UCf8FKcy1n5t2awKmNs3ajRQ)
 
-이기찬 - 미인
+Flautas Magicas Band - Se Busca
 
-**Albums**: Para Ti
+**Albums**: El Mundo en Flauta
 
-Last updated at 07/29/2020 20:23
+Last updated at 07/29/2020 20:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
