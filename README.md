@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qAnUeB8SZaoNNY5-bhUZE6rOvvop1wJiXuE77HJxMYUEwbir2zDYVyE6lry11bIvtm7lZavP6eYL6n3P">](https://music.youtube.com/channel/UCHfN0CVqpYnN21BKuyWab7A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B2vVoUzy4iFOt2phfpln7QT0S94ArA8ohiblzTHxjWU_wzYcnvt1wjB3dAqaLkBUXtE1w4f3MquCU2Y">](https://music.youtube.com/channel/UCZ_b8crvkkBTRgdfvb9rJPA)
 
-Star - I Think I
+박미경 - Far Away
 
-**Albums**: 별 Star
+**Albums**: 아담의 심리
 
-Last updated at 07/29/2020 19:42
+Last updated at 07/29/2020 19:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
