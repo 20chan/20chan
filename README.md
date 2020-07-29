@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Rj6rMf1CKIXxyLSpR-liMgac0AR_zXZDSvtSMlqOGXTxN8ClXu_RX25PlZnFx46I7NvUhMAo9Rqb_tOe">](https://music.youtube.com/channel/UCMoOIXPN0yZ6W_s3VBp_olQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/35paU1KacMLi71tssZTFOyuAzIglYTRuU7E8IiuXF9LJmVNt_fZu5Ngmr4hyVNtP9wHZ8qjg_8MYzPOD">](https://music.youtube.com/channel/UCpBTwa4c2Z-YXugFFQF6NcA)
 
-As One - Lost Feeling
+Park Ki Young - Last Love
 
-**Albums**: Lost Feeling
+**Albums**: Park Kiyoung 2nd(Promise)
 
-Last updated at 07/29/2020 21:26
+Last updated at 07/29/2020 21:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
