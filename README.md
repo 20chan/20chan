@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3lKAE8aEiOU4YJJgSI5xnn8R6xqe4_MLBg9pruzwXvRW_IW4MshDJ6H9B494voFfnYU5py7L1Q-yDr30">](https://music.youtube.com/channel/UCMq4mBpseBT4iR4i3aNpcUQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uoEAMagqBhRVo3XKcplhgS2z5h-XkNPsgSF1k6wTSQG_3sxSZZijhk0TT-3LKYIF6wyi-Fh7IdDDwH4">](https://music.youtube.com/channel/UCsYJTPdjnUFuBaV09tGDPOw)
 
-iamnot - Up All Night
+URBAN ZAKAPA - Thursday Night (feat. Beenzino)
 
-**Albums**: Color
+**Albums**: Thursday Night
 
-Last updated at 07/29/2020 17:54
+Last updated at 07/29/2020 17:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
