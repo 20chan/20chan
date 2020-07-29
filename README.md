@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/WRz2MxhAdJo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AZaTEiqmWDY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbCoUV9aGY1AyyOegcuTOKw)
 
-Avicii - Without You (feat. Sandro Cavazza)
+Music For Your Soul - DJ Okawari - Peacock
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:43
+Last updated at 07/29/2020 11:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
