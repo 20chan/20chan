@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/T3E9Wjbq44E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2E_VO4h28IAcipUCyFz7Fw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QTqSbSWlFJs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCus5f127n0MD39axVpPcNAA)
 
-Gym Class Heroes - Stereo Hearts (feat. Adam Levine)
+Lemaitre - Control (feat. Jerry Folk)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:14
+Last updated at 07/29/2020 11:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
