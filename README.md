@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aKHbqm-D62Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUUPndfCXVm8-srwV6dzXcg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gIsWYDn9OQQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmcv3lKQlEhWZEHmHGRfXsQ)
 
-HYUKOH - HYUKOH(혁오) - LOVE YA! M/V
+LQWonderful - Sky.High - It's just a blur [Extended]
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 10:59
+Last updated at 07/29/2020 11:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
