@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/35paU1KacMLi71tssZTFOyuAzIglYTRuU7E8IiuXF9LJmVNt_fZu5Ngmr4hyVNtP9wHZ8qjg_8MYzPOD">](https://music.youtube.com/channel/UCpBTwa4c2Z-YXugFFQF6NcA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V6oxyJ4dVKwNSJI1MKRALz4GjuJrOaMPAU8CGUMf1bRE1Ud143Ri3O4h_Clu_aAPwFh1eAl9w4O_7jCr">](https://music.youtube.com/channel/UC3M2IkAU3VrLfyMtVjp8pPA)
 
-Park Ki Young - Last Love
+김건모 - Fall In Love
 
-**Albums**: Park Kiyoung 2nd(Promise)
+**Albums**: Soul Groove
 
-Last updated at 07/29/2020 21:30
+Last updated at 07/29/2020 21:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
