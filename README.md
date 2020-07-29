@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zqh1AE97SB3wkt_2_QNMOf6Es9NeBN6eAb8cJNN_8uTtNtj5d4OlCxrt7DJyRIxE0NTTKJCFWIWxr50">](https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6LhjoTHqDLppkMNK-9qXNAoQ-WKN6Dx91oIZJ7HWF3xNecUxogE1veqetf1THFvrh8xuhYQur1t3FJM">](https://music.youtube.com/channel/UCnIdcO6wLeV_UpsZxnIRQcw)
 
-Loopy - Gear 2
+조정현 - 미련
 
-**Albums**: KING LOOPY
+**Albums**: 그아픔까지사랑한거야
 
-Last updated at 07/29/2020 19:16
+Last updated at 07/29/2020 19:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
