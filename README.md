@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/lfcaABzPqw8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCk3uxp2_gK4kVaL2hx42L2g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/it-GeTZD1yM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCj4csW-8eCQ0VeAWtp74ZEg)
 
-Wink Blink - IU - Raindrop [On_Screen_Lyrics]
+GIFT - Goodbye (Live)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 10:51
+Last updated at 07/29/2020 10:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
