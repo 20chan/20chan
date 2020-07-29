@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/c3doU7eKHsM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AS4q9yaWJkI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw)
 
-pops8090 - 구창모 - 희나리 (1985年)
+Kenshi Yonezu - ハチ MV「砂の惑星 feat.初音ミク」HACHI / DUNE ft.Miku Hatsune
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 14:04
+Last updated at 07/29/2020 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
