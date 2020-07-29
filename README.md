@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UrQK_Qa8neXrc7GTIpIs9hm8jtzCJ0pMfANbKz_HqiSYFxl109DZu-iJRzPjSzNK9FU_xVWhBsolzzu4">](https://music.youtube.com/channel/UCsYJTPdjnUFuBaV09tGDPOw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yf-ILe_eg5gMCQOccrKP7dVmSGBHw2ZHpgIQ_cX5kSAWMjYdHQzn03gVvBS04pqrCbTTDzMTFPz-6Gta">](https://music.youtube.com/channel/UC2Rp4lvp4CBx7vtBnMzDN0w)
 
-Urban Zakapa - Beautiful My Love
+Corinne Bailey Rae - The Scientist
 
-**Albums**: HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 5
+**Albums**: Fifty Shades Darker (Original Motion Picture Soundtrack)
 
-Last updated at 07/29/2020 19:31
+Last updated at 07/29/2020 19:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
