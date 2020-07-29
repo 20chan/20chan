@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/CsG2PVYwZro/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/WRz2MxhAdJo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-le prince - 뜨거운 감자 - 고백
+Avicii - Without You (feat. Sandro Cavazza)
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:39
+Last updated at 07/29/2020 11:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
