@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QTqSbSWlFJs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCus5f127n0MD39axVpPcNAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wgzcssEPtX4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCHnW_mJLE7uMUcpj8WIBpGQ)
 
-Lemaitre - Control (feat. Jerry Folk)
+god - 촛불 하나
 
 **Albums**: undefined
 
-Last updated at 07/29/2020 11:18
+Last updated at 07/29/2020 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
