@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Uu91bfJXw3Sz4tDpWYTuMDtpwizvm_9g3Un2vDwdj3-4nNk2t9lBXG73Pvj8QU5pT_bzBJf3p8cPrKJ">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O_pSZD6g21ZhYVRHV4sD4v1FL9zsFHWupZpnz_2JXMOYPVN7RKqkbGTcYQuBMmiCSm_NO9HFn52Gaw0">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Honest (Tritonal Remix)
+The Chainsmokers - The Rookie
 
-**Albums**: Honest (Remixes)
+**Albums**: The Rookie
 
-Last updated at 07/30/2020 20:25
+Last updated at 07/30/2020 20:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
