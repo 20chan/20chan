@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hYoZP1ObZi9fTxvK8JUFceTivoneMjQ2orereNkhGQFuW24rm5oPWVUWqZ10KbW_WaIywqX750FdAfwv4A">](https://music.youtube.com/channel/UCyFLp2WBpLae_p0j73_lGLA)
 
-Avicii - Wake Me Up
+Alesso - Heroes (we could be) (feat. Tove Lo)
 
-**Albums**: True
+**Albums**: Forever
 
-Last updated at 07/30/2020 17:10
+Last updated at 07/30/2020 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
