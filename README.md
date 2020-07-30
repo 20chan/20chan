@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xqzng3ZXR0AGmKdSMC0g4rfY7f3ov-uRg7139uOWpFMz8sarUnXmxTTgf-g_Mq3t8s9l1pEW7UJalIs">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - #SELFIE
+The Chainsmokers - Who Do You Love
 
-**Albums**: #SELFIE
+**Albums**: World War Joy...Takeaway
 
-Last updated at 07/30/2020 18:08
+Last updated at 07/30/2020 18:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
