@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/65niALh646akmAD6eh9pmxvQR9_AOoG2jsNoqL2YBDprZDJ8GoSxpx22Kj2A19F1-0qvhZ4JJLZUYrQ">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
 
-BLOO - Downtown Baby
+Leellamarz - Trip (feat. Hannah)
 
-**Albums**: Downtown Baby
+**Albums**: Violinist
 
-Last updated at 07/30/2020 11:03
+Last updated at 07/30/2020 11:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
