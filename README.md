@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ufhMs2yCPdEVfzVHqfkafLpwaTnuQ_FZejyFClFocb1I69Md_Rh0ph5BJJjzlPrcJStB32p0b_VzgGw">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
 
-The Chainsmokers - This Feeling (feat. Kelsea Ballerini)
+Martin Garrix & Dua Lipa - Scared To Be Lonely
 
-**Albums**: Sick Boy
+**Albums**: Scared to Be Lonely
 
-Last updated at 07/30/2020 16:48
+Last updated at 07/30/2020 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
