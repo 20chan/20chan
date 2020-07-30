@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ufhMs2yCPdEVfzVHqfkafLpwaTnuQ_FZejyFClFocb1I69Md_Rh0ph5BJJjzlPrcJStB32p0b_VzgGw">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVkZxZMH3ByBHnoMISDTVLD_wYx7GfBXeznsfHhkfew8EzAj-LKGa2yFn7vBW_5rMo33zVpKAEeK5LQE0g">](https://music.youtube.com/channel/UCi7x9i4t7_KUX2-gWLnMNkQ)
 
-Martin Garrix & Dua Lipa - Scared To Be Lonely
+MAGIC! - Rude
 
-**Albums**: Scared to Be Lonely
+**Albums**: Don't Kill the Magic
 
-Last updated at 07/30/2020 16:51
+Last updated at 07/30/2020 16:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
