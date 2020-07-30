@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/npvDYWrMZkyxEERuGS1ukrW3ZnDFQYc-cSQLJretKLD7WhHDDh6-SrkZAairFGVSSJ78B4Rbt8f_x9M">](https://music.youtube.com/channel/UCyqq-aiu3vEHuf5NhwmOJcw)
 
-Avicii - Waiting For Love
+Lana Del Rey & Cedric Gervais - Summertime Sadness (Cedric Gervais Remix / Radio Edit)
 
-**Albums**: Stories
+**Albums**: Summertime Sadness (Cedric Gervais remix)
 
-Last updated at 07/30/2020 20:57
+Last updated at 07/30/2020 21:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
