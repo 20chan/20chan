@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Sick Boy
+The Chainsmokers - Hope (feat. Winona Oak)
 
 **Albums**: Sick Boy
 
-Last updated at 07/30/2020 18:15
+Last updated at 07/30/2020 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
