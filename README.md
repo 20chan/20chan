@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A30ChGZocQDgGNlA2zuIvfAnXi8eSBC32Wc4j93nA3E8EPUdpZW1IrYDhfaFoZUIg1_WwQiumyH_q9Mi">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Let You Go (Radio Edit) (feat. Great Good Fine Ok)
+The Chainsmokers - Break Up Every Night
 
-**Albums**: Let You Go (Radio Edit)
+**Albums**: Memories...Do Not Open
 
-Last updated at 07/30/2020 20:01
+Last updated at 07/30/2020 20:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
