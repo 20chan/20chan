@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/65lCk7tYvs7iAaM11FBoRfHUgFNw5ppFL93XNY71kxYhFQFG96gNNBdeg6REkjduYNG6UWoGTeI2IQQ">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W6oXiS2z9cR6SPHMCTL3Zc8LoGLssTSeiF5SjwfTi5ZYx97NBOG8Clf5hRgTO5xJh4a7RNvjB6xvMmt9Qw">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
 
-Crying Nut - 좋지 아니한가 Isn't That Good?
+Crying Nut - 유원지의 밤 A Night at the Amusement Park
 
-**Albums**: Crying Nut 3 Singles
+**Albums**: Milk Cattle at the OK Corral
 
-Last updated at 07/30/2020 10:54
+Last updated at 07/30/2020 10:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
