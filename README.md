@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/A30ChGZocQDgGNlA2zuIvfAnXi8eSBC32Wc4j93nA3E8EPUdpZW1IrYDhfaFoZUIg1_WwQiumyH_q9Mi">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - New York City
+The Chainsmokers - Let You Go (Radio Edit) (feat. Great Good Fine Ok)
 
-**Albums**: Bouquet
+**Albums**: Let You Go (Radio Edit)
 
-Last updated at 07/30/2020 19:57
+Last updated at 07/30/2020 20:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
