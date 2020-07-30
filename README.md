@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QPAnvm2OXyE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHDA02xjyY0LdWulMDodi1Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mZKQlZw-TMo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4TeaHZY4-r8lImtOBqQAGg)
 
-Shion Channel - ブルーララバイ／明日香
+Shim Shin - I Love To Your Sadness
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 14:58
+Last updated at 07/30/2020 15:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
