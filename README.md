@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nq8VH9_dEjw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChzeqlFJ44PX_7BbGllQ3sQ)
 
-pops8090 - 김정민 - 애인·愛人 (1996年)
+노진숙 - 조관우 - 눈물
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 14:32
+Last updated at 07/30/2020 14:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
