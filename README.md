@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Paris
+The Chainsmokers - Closer (feat. Halsey)
 
-**Albums**: Memories...Do Not Open
+**Albums**: Collage EP
 
-Last updated at 07/30/2020 17:27
+Last updated at 07/30/2020 17:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
