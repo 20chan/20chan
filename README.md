@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UWWTXqaFxwg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/m8W0FSu9wS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 김정민 - 슬픈 언약식 (1995年)
+pops8090 - 이정봉 - 그녀를 위해 (1997年) MV
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:23
+Last updated at 07/30/2020 15:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
