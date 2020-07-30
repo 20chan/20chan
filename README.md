@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/prDPSyS2ttch9JJOEsCqsAwFHpTvrBzl1lkXBcUzBMEGFuwm4875V5fnJejbrQOaavghvHXLuwzYX14rHQ">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Push My Luck
+The Chainsmokers - Inside Out (feat. Charlee)
 
-**Albums**: World War Joy...Push My Luck
+**Albums**: Collage EP
 
-Last updated at 07/30/2020 19:00
+Last updated at 07/30/2020 19:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
