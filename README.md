@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cCVMFgp3G-y6KM2AsWnh07pC8ssWSXKFU4hBP5mqYoqslg3aK5Mu-WZEO43OQiWatSzwDGYwkW69Ggs">](https://music.youtube.com/channel/UC8VSaPhuiHkjobAgNpRqLIA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r8wQ0jqaMe_OUZAtWU36RSYduuxbbqH0coAcrWArcGRA2rep6JE3-GENc35Xna358oFcX61iEm4j-QOYxw">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Tiësto & The Chainsmokers - Split (Only U) (Original Mix)
+The Chainsmokers & Kygo - Family (Frank Walker Remix)
 
-**Albums**: Split (Only U) [Extended Mix]
+**Albums**: Family - The Remixes
 
-Last updated at 07/30/2020 19:17
+Last updated at 07/30/2020 19:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
