@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/f0WazFNxWXU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMdaNj7qRWfX_Gh14pUKHlQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/199jU2C2sqs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-Bojp0-8paBNrOyaUO8H1A)
 
-May - At Jongno
+8282FF - 펄스 - 난 얘기하고 넌 웃어주고
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 14:41
+Last updated at 07/30/2020 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
