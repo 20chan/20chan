@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CamSOyScuLsSvGBzPYnRoz4TEglxMxz1BUXviBqTj0WSfZrFtQoKzgji0dOgubtnghT0r4jUCN-yl9cO">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Good Intentions (feat. BullySongs)
+The Chainsmokers - Somebody (Naderi Remix)
 
-**Albums**: Bouquet
+**Albums**: Somebody - Remixes
 
-Last updated at 07/30/2020 20:34
+Last updated at 07/30/2020 20:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
