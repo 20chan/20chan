@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5VUQc2YRLns/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDnsBDfmMj-XrEPLv7U7Vvg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/laHBdYpIo98/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnvoQQVT3ahP_1rgle2SCiQ)
 
-I'm Walking - 떠나가는 배 - 정태춘 (가사)
+adagio0142 [아름느낌] - 작은연못 - 양희은
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:57
+Last updated at 07/30/2020 16:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
