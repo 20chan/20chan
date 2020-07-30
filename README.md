@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E3hiJa7ieYyoW0sRkcSIgqwwQQv4MawfTZBWvj1OBkRvFAtP3ps51VQnVSk4vIRCMVJCcsTt5TrTsYm1Cg">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Setting Fires
+The Chainsmokers - The Reaper (feat. Amy Shark)
 
-**Albums**: Collage EP
+**Albums**: World War Joy
 
-Last updated at 07/30/2020 18:50
+Last updated at 07/30/2020 18:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
