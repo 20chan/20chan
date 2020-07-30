@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jmQW4UBrW3xkqlkdWoBKYLD_iuLGEMxk94CJk5yRvrGIVDsFHSIUt3-VvnlQs67mUDRSFDOc1Gs8-7Cu">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-OneRepublic - Counting Stars
+Avicii - Waiting For Love
 
-**Albums**: Native
+**Albums**: Stories
 
-Last updated at 07/30/2020 20:53
+Last updated at 07/30/2020 20:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
