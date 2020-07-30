@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Gom9HOeH0IqtI0xf1OMjp99RUkVhesVCQRQ3kaiT_GnbCBgcEWqPDhYzz1rcouDay6tgC_1mCTtD5KiZ">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Kanye (feat. SirenXX)
+The Chainsmokers - Don't Say (feat. Emily Warren)
 
-**Albums**: Kanye
+**Albums**: Memories...Do Not Open
 
-Last updated at 07/30/2020 19:50
+Last updated at 07/30/2020 19:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
