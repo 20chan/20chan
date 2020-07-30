@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NXi8-6stvzwDzKgb47PQwodoXd1aJJNcDj_PLrV-ChoThceCDnXlDe3PdBOFHVlUZA-Y3_8yh-tre0yv">](https://music.youtube.com/channel/UCBNeAoPycNhoRuS01B9Kf5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FZK2bMKyHPuiZoT5I5S8b1PNgQxp3jBMj1hXM1pm-SplXQz_LYYupF1TF9YqUssQBhpEmhxuWO3sroO89g">](https://music.youtube.com/channel/UC9-2io8F6puEBsQZ8uCQ1qw)
 
-Hailee Steinfeld - Most Girls
+Cheat Codes - No Promises (feat. Demi Lovato)
 
-**Albums**: Girl Power
+**Albums**: No Promises
 
-Last updated at 07/30/2020 17:17
+Last updated at 07/30/2020 17:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
