@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Hope (feat. Winona Oak)
+The Chainsmokers - Side Effects (feat. Emily Warren)
 
 **Albums**: Sick Boy
 
-Last updated at 07/30/2020 18:18
+Last updated at 07/30/2020 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
