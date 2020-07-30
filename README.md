@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0H8h7uqrtrLdKjsLwS_0N3p_jt69cMp8NupBs3NzDgGv7CoVcgwrEUu-LQwbVgadjzYqbc5IZVtIFT3S">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Kills You Slowly
+The Chainsmokers - Don't Let Me Down (W&W Remix) (feat. Daya)
 
-**Albums**: World War Joy...Takeaway
+**Albums**: Don't Let Me Down (Remixes)
 
-Last updated at 07/30/2020 19:32
+Last updated at 07/30/2020 19:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
