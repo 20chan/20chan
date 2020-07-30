@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7JGDWKJfgxQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/FAucVNRx_mU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnAcxgRZ065f_eXK1o85c1w)
 
-XXXTENTACION - Everybody Dies In Their Nightmares
+XXXTENTACION - Jocelyn Flores
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 12:54
+Last updated at 07/30/2020 12:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
