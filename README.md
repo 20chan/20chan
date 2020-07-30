@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ewk01kS83aA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyZ44bCyqr7mjvrzfXUEL8A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UBZom7GKisI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPaPt2r_PykjQqkpI1LMrag)
 
-Justine Raimon Sanchez - 커피향 가득한 거리 - 신형원
+Dandelion - [ArtTrack] 민들레 - 난너에게
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:11
+Last updated at 07/30/2020 15:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
