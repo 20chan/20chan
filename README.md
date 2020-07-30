@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Marshmello & Bastille - Happier
+The Chainsmokers - Don't Let Me Down (feat. Daya)
 
-**Albums**: Happier
+**Albums**: Collage EP
 
-Last updated at 07/30/2020 17:03
+Last updated at 07/30/2020 17:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
