@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Mzl4UaeQDhA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN9hBQWOKBVyG3jOcq3GhlA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eX3gXdc6a6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-어린왕자TV - Tube (튜브) - Karasuno Memories (유리잔의 추억). 캔 - 내생에 봄날은 간다 원곡(가사첨부).
+pops8090 - 조갑경 - 바보같은 미소 (1989年)
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 12:58
+Last updated at 07/30/2020 13:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
