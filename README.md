@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wc2cR5DAiJmOT3XFiNciHIPJwEsYRScmv-xpq6Yq5zVfin8C6oBwaKCAAGiXrQJK_vMLRwKPIFlEryM">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
 
-Leellamarz - Trip (feat. Hannah)
+Crying Nut - 밤이 깊었네 Oh! What a Shiny Night
 
-**Albums**: Violinist
+**Albums**: Poor Hand Love Song
 
-Last updated at 07/30/2020 11:06
+Last updated at 07/30/2020 11:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
