@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/41lTR8qxQU0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1Wm7VoDxP3aLBdb3eAiKMA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/65lCk7tYvs7iAaM11FBoRfHUgFNw5ppFL93XNY71kxYhFQFG96gNNBdeg6REkjduYNG6UWoGTeI2IQQ">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
 
-낭스월드 - 노래방 인기차트 가요 TOP20 가사 (2020년 6월 7차) | K-POP ★ Singing Room Chart
+Crying Nut - 좋지 아니한가 Isn't That Good?
 
-**Albums**: undefined
+**Albums**: Crying Nut 3 Singles
 
-Last updated at 07/30/2020 10:23
+Last updated at 07/30/2020 10:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
