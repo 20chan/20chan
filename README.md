@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/T0aL1fFaI3KJ9cCA464TVKijD7QL_7Ay_qMekoRqSmnY_xW4b1pbbCMtpa54Z_1y1Dtd0Dz52N5cVvA">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
 
-Martin Garrix & Bebe Rexha - In the Name of Love
+Jonas Blue - Rise (feat. Jack & Jack)
 
-**Albums**: In the Name of Love
+**Albums**: Blue
 
-Last updated at 07/30/2020 16:18
+Last updated at 07/30/2020 16:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
