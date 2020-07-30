@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/m8W0FSu9wS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 이정봉 - 그녀를 위해 (1997年) MV
+pops8090 - 최용준 - 아마도 그건 (1989年)
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:28
+Last updated at 07/30/2020 15:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
