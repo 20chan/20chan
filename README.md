@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tgDKXG9pHrKFMGjwDM9waFSOs_KlSXF05uymprrGyHvLLg6KGl6U-O34pI2cNukVMatNft6lY-SyaEzHxQ">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jmQW4UBrW3xkqlkdWoBKYLD_iuLGEMxk94CJk5yRvrGIVDsFHSIUt3-VvnlQs67mUDRSFDOc1Gs8-7Cu">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
 
-Zedd - Clarity (feat. Foxes)
+OneRepublic - Counting Stars
 
-**Albums**: Clarity
+**Albums**: Native
 
-Last updated at 07/30/2020 20:48
+Last updated at 07/30/2020 20:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
