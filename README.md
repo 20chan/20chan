@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/laHBdYpIo98/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnvoQQVT3ahP_1rgle2SCiQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-yWqlS9EK-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-adagio0142 [아름느낌] - 작은연못 - 양희은
+pops8090 - 송골매 - 모두다 사랑하리 (1982年)
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 16:00
+Last updated at 07/30/2020 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
