@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gF6FE-QU6yE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5ZGlk0ye14-BJOwAsu64qQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/T0aL1fFaI3KJ9cCA464TVKijD7QL_7Ay_qMekoRqSmnY_xW4b1pbbCMtpa54Z_1y1Dtd0Dz52N5cVvA">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
 
-여러 음악 창고 - 조용필 - 꿈 (가사포함)
+Martin Garrix & Bebe Rexha - In the Name of Love
 
-**Albums**: undefined
+**Albums**: In the Name of Love
 
-Last updated at 07/30/2020 16:15
+Last updated at 07/30/2020 16:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
