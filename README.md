@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Jonas Blue - Rise (feat. Jack & Jack)
+The Chainsmokers - Call You Mine (feat. Bebe Rexha)
 
-**Albums**: Blue
+**Albums**: World War Joy...Takeaway
 
-Last updated at 07/30/2020 16:21
+Last updated at 07/30/2020 16:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
