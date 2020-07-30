@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fFUWZAaf2-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCS9BtEGw6LxrdJP4iu6bOUA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QPAnvm2OXyE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHDA02xjyY0LdWulMDodi1Q)
 
-이지연 - 그이유가내겐아픔이었네
+Shion Channel - ブルーララバイ／明日香
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 14:54
+Last updated at 07/30/2020 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
