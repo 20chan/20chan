@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/VGBtuIOXvww/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Fp2ZF36ZP0U/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 이문세 - 그녀의 웃음소리뿐 (1987年)
+pops8090 - 이승환 - 기다린날도 지워질날도 (1989年)
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:40
+Last updated at 07/30/2020 15:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
