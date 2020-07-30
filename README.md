@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ghAvJMxE1qo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXP8o4Xcws36pgpFNlGGBeg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-Sebastián Yatra & Reik - Un Año
+Alan Walker - Different World (feat. CORSAK)
 
-**Albums**: undefined
+**Albums**: Different World
 
-Last updated at 07/30/2020 12:19
+Last updated at 07/30/2020 12:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
