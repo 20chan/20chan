@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BB-BXnzAzQZkaUXAnaWW57iqrGUmEfDYpPwbttp5UahneSG_xDcHbXZWA5mcQGuCBG5UPJDoHGkriyx9wQ">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Don't Let Me Down (Illenium Remix) (feat. Daya)
+The Chainsmokers - Call You Mine (feat. Bebe Rexha)
 
-**Albums**: Don't Let Me Down (Remixes)
+**Albums**: World War Joy...Takeaway
 
-Last updated at 07/30/2020 17:50
+Last updated at 07/30/2020 17:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
