@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-The Chainsmokers - Don't Let Me Down (feat. Daya)
+Avicii - Wake Me Up
 
-**Albums**: Collage EP
+**Albums**: True
 
-Last updated at 07/30/2020 17:06
+Last updated at 07/30/2020 17:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
