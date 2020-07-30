@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BB-BXnzAzQZkaUXAnaWW57iqrGUmEfDYpPwbttp5UahneSG_xDcHbXZWA5mcQGuCBG5UPJDoHGkriyx9wQ">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Roses (feat. ROZES)
+The Chainsmokers - Don't Let Me Down (Illenium Remix) (feat. Daya)
 
-**Albums**: Bouquet
+**Albums**: Don't Let Me Down (Remixes)
 
-Last updated at 07/30/2020 17:46
+Last updated at 07/30/2020 17:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
