@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UTyTpFM31nSdO4f5IQcmUeN9mai2ujAlF_WH70ROBiBYleB-ns1wizrxB9AkT5PidBjI9ylGrcelnjvC">](https://music.youtube.com/channel/UCB0jUx1SVzaPu1QCVho9Ocw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5dOku7gM8Gc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC6qXIiajPfNRIUt596HBciA)
 
-H.O.T. - For 연가 (A Song For Lady)
+psjjun4u - 스윗소로우 사랑해
 
-**Albums**: Outside Castle -The 5th Album
+**Albums**: undefined
 
-Last updated at 07/29/2020 21:38
+Last updated at 07/30/2020 10:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
