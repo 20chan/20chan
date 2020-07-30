@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O_pSZD6g21ZhYVRHV4sD4v1FL9zsFHWupZpnz_2JXMOYPVN7RKqkbGTcYQuBMmiCSm_NO9HFn52Gaw0">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - The Rookie
+The Chainsmokers - Good Intentions (feat. BullySongs)
 
-**Albums**: The Rookie
+**Albums**: Bouquet
 
-Last updated at 07/30/2020 20:29
+Last updated at 07/30/2020 20:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
