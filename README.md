@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hYoZP1ObZi9fTxvK8JUFceTivoneMjQ2orereNkhGQFuW24rm5oPWVUWqZ10KbW_WaIywqX750FdAfwv4A">](https://music.youtube.com/channel/UCyFLp2WBpLae_p0j73_lGLA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NXi8-6stvzwDzKgb47PQwodoXd1aJJNcDj_PLrV-ChoThceCDnXlDe3PdBOFHVlUZA-Y3_8yh-tre0yv">](https://music.youtube.com/channel/UCBNeAoPycNhoRuS01B9Kf5g)
 
-Alesso - Heroes (we could be) (feat. Tove Lo)
+Hailee Steinfeld - Most Girls
 
-**Albums**: Forever
+**Albums**: Girl Power
 
-Last updated at 07/30/2020 17:14
+Last updated at 07/30/2020 17:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
