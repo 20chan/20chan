@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/v-cQvm6-rPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=v-cQvm6-rPw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fFUWZAaf2-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCS9BtEGw6LxrdJP4iu6bOUA)
 
-Do Won Kyung - If I love again
+이지연 - 그이유가내겐아픔이었네
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 14:50
+Last updated at 07/30/2020 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
