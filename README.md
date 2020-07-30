@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XLVJNg0MlKj6ttdVgDHHriwB9d5NqunPC9sV7Q-Z-Z-N_v9299Crl78qfVV2rV4db2Cwd64Vjbg-y9XV">](https://music.youtube.com/channel/UCQ-ygxSFSlq-O2zGnXxELXQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Charlie Puth - Attention
+The Chainsmokers - This Feeling (feat. Kelsea Ballerini)
 
-**Albums**: Voicenotes
+**Albums**: Sick Boy
 
-Last updated at 07/30/2020 16:45
+Last updated at 07/30/2020 16:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
