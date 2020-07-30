@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVkZxZMH3ByBHnoMISDTVLD_wYx7GfBXeznsfHhkfew8EzAj-LKGa2yFn7vBW_5rMo33zVpKAEeK5LQE0g">](https://music.youtube.com/channel/UCi7x9i4t7_KUX2-gWLnMNkQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-MAGIC! - Rude
+The Chainsmokers - Closer (feat. Halsey)
 
-**Albums**: Don't Kill the Magic
+**Albums**: Collage EP
 
-Last updated at 07/30/2020 16:55
+Last updated at 07/30/2020 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
