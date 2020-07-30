@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Ha9dcz-a-R4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCyFk7Mm-V8KdeKVFb4oc2jA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UWWTXqaFxwg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-nishinago - 사랑은 세상의 반(愛は人生の半分) / 민해경
+pops8090 - 김정민 - 슬픈 언약식 (1995年)
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:19
+Last updated at 07/30/2020 15:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
