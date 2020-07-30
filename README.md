@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Uu91bfJXw3Sz4tDpWYTuMDtpwizvm_9g3Un2vDwdj3-4nNk2t9lBXG73Pvj8QU5pT_bzBJf3p8cPrKJ">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Last Day Alive (feat. Florida Georgia Line)
+The Chainsmokers - Honest (Tritonal Remix)
 
-**Albums**: Memories...Do Not Open
+**Albums**: Honest (Remixes)
 
-Last updated at 07/30/2020 20:21
+Last updated at 07/30/2020 20:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
