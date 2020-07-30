@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-Alan Walker - Different World (feat. CORSAK)
+The Cross - 백설공주를 사랑한 난장이
 
-**Albums**: Different World
+**Albums**: Rush
 
-Last updated at 07/30/2020 12:23
+Last updated at 07/30/2020 12:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
