@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CamSOyScuLsSvGBzPYnRoz4TEglxMxz1BUXviBqTj0WSfZrFtQoKzgji0dOgubtnghT0r4jUCN-yl9cO">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/p0KU63RvrfJCGkhrQMPcO4BRkX2y_HmviSeMfN3D5291vXWwTVTy7c70er8kBV02yZD1MyA_yMIaFsU">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Somebody (Naderi Remix)
+The Chainsmokers - Erase (feat. Priyanka Chopra)
 
-**Albums**: Somebody - Remixes
+**Albums**: Erase
 
-Last updated at 07/30/2020 20:37
+Last updated at 07/30/2020 20:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
