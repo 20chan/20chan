@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Don't Let Me Down (feat. Daya)
+The Chainsmokers & Coldplay - Something Just Like This
 
-**Albums**: Collage EP
+**Albums**: Something Just Like This
 
-Last updated at 07/30/2020 17:35
+Last updated at 07/30/2020 17:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
