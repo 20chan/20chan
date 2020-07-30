@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E3hiJa7ieYyoW0sRkcSIgqwwQQv4MawfTZBWvj1OBkRvFAtP3ps51VQnVSk4vIRCMVJCcsTt5TrTsYm1Cg">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - See The Way (feat. Sabrina Claudio)
+The Chainsmokers - Bloodstream
 
-**Albums**: World War Joy
+**Albums**: Memories...Do Not Open
 
-Last updated at 07/30/2020 19:38
+Last updated at 07/30/2020 19:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
