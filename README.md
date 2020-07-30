@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FZK2bMKyHPuiZoT5I5S8b1PNgQxp3jBMj1hXM1pm-SplXQz_LYYupF1TF9YqUssQBhpEmhxuWO3sroO89g">](https://music.youtube.com/channel/UC9-2io8F6puEBsQZ8uCQ1qw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xiTH5O3GllttYZ8vNx3m2VoEOBVRidgc4HkrZO9DToQ2YLb-1R_7YsU7o2I3eivAACwNcstGg2prM48">](https://music.youtube.com/channel/UCZSxBlUEOKgXkzaj_VlBLlg)
 
-Cheat Codes - No Promises (feat. Demi Lovato)
+Ellie Goulding - Close To Me
 
-**Albums**: No Promises
+**Albums**: Brightest Blue
 
-Last updated at 07/30/2020 17:21
+Last updated at 07/30/2020 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
