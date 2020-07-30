@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nlw8ucckynxLz9ucfRdlUmuT7SczRs-rTxNX86Pw6J0750l7EqMaJPtB6WSPvKOOK2wSGcXGDn7M77fJ">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7FDfaGF4Y-c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPnYz3jHGNaT7fb4J97IM-w)
 
-더 크로스 - 사랑하니까
+푸우꽃단지 - 마야 - 쿨~하게!
 
-**Albums**: 눈물이야기 제 1탄 “사랑하니까”
+**Albums**: undefined
 
-Last updated at 07/30/2020 12:02
+Last updated at 07/30/2020 12:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
