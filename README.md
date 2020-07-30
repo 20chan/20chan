@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cCVMFgp3G-y6KM2AsWnh07pC8ssWSXKFU4hBP5mqYoqslg3aK5Mu-WZEO43OQiWatSzwDGYwkW69Ggs">](https://music.youtube.com/channel/UC8VSaPhuiHkjobAgNpRqLIA)
 
-The Chainsmokers - You Owe Me
+Tiësto & The Chainsmokers - Split (Only U) (Original Mix)
 
-**Albums**: Sick Boy
+**Albums**: Split (Only U) [Extended Mix]
 
-Last updated at 07/30/2020 19:14
+Last updated at 07/30/2020 19:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
