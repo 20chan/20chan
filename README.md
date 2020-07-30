@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XLVJNg0MlKj6ttdVgDHHriwB9d5NqunPC9sV7Q-Z-Z-N_v9299Crl78qfVV2rV4db2Cwd64Vjbg-y9XV">](https://music.youtube.com/channel/UCQ-ygxSFSlq-O2zGnXxELXQ)
 
-The Chainsmokers - Roses (feat. ROZES)
+Charlie Puth - Attention
 
-**Albums**: Bouquet
+**Albums**: Voicenotes
 
-Last updated at 07/30/2020 16:41
+Last updated at 07/30/2020 16:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
