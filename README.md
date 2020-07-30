@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5dOku7gM8Gc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC6qXIiajPfNRIUt596HBciA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/_6SE7qT1I5s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTPBE4JPSQz3WW1PZ5ENATg)
 
-psjjun4u - 스윗소로우 사랑해
+Lee Sun-hee - Destiny
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 10:14
+Last updated at 07/30/2020 10:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
