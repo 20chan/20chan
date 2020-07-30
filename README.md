@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uaP8_eC_VTw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCOpTFt95NxV5FRpWKpwXZNg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5VUQc2YRLns/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDnsBDfmMj-XrEPLv7U7Vvg)
 
-UnInvited Guest - 윙윙윙 - 박은옥(1978)
+I'm Walking - 떠나가는 배 - 정태춘 (가사)
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:55
+Last updated at 07/30/2020 15:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
