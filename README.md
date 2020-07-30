@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - My Type (feat. Emily Warren)
+The Chainsmokers - The One
 
 **Albums**: Memories...Do Not Open
 
-Last updated at 07/30/2020 19:25
+Last updated at 07/30/2020 19:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
