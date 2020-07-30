@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-yWqlS9EK-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1JAJV6aNuEs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1A0rmWg1bI_myf3BWXQ_Mw)
 
-pops8090 - 송골매 - 모두다 사랑하리 (1982年)
+Song Chang Sik - Seonunsa
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 16:05
+Last updated at 07/30/2020 16:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
