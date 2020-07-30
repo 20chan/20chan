@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xqzng3ZXR0AGmKdSMC0g4rfY7f3ov-uRg7139uOWpFMz8sarUnXmxTTgf-g_Mq3t8s9l1pEW7UJalIs">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - This Feeling (feat. Kelsea Ballerini)
+The Chainsmokers - #SELFIE
 
-**Albums**: Sick Boy
+**Albums**: #SELFIE
 
-Last updated at 07/30/2020 18:05
+Last updated at 07/30/2020 18:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
