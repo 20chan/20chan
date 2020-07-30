@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0XrkT1HY33sRP49r5-a9L7Sn9NkCeFbF8hD-aEjonvfZGMfoWywL7NcWlh1A-YEtm-6flLfmb1zsdCPh">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - Everybody Hates Me
+The Chainsmokers - Closer (T-Mass Remix) (feat. Halsey)
 
-**Albums**: Sick Boy
+**Albums**: Closer (Remixes)
 
-Last updated at 07/30/2020 18:34
+Last updated at 07/30/2020 18:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
