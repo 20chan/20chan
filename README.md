@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/66OlNXWKoCM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3dOAYKoEyUigeMDZjUtRvT6NO0TQsgGn-BXLB2qlVo3GA4B8hXrTJdWVnFry6B3i4UYntXIEsWrhWyk">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
 
-Stone Music Entertainment - 딕펑스(Dickpunks) - 고추잠자리(Red Dragonfly)
+10cm - 고추잠자리 Red Dragonfly
 
-**Albums**: undefined
+**Albums**: 2.0
 
-Last updated at 07/30/2020 15:53
+Last updated at 07/30/2020 15:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
