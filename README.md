@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UBZom7GKisI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPaPt2r_PykjQqkpI1LMrag)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Ha9dcz-a-R4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCyFk7Mm-V8KdeKVFb4oc2jA)
 
-Dandelion - [ArtTrack] 민들레 - 난너에게
+nishinago - 사랑은 세상의 반(愛は人生の半分) / 민해경
 
 **Albums**: undefined
 
-Last updated at 07/30/2020 15:15
+Last updated at 07/30/2020 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
