@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fpf6PCHgtIkDLN9if-l7gQuBveU11uUSLz_2DAyyvxr0y-gIe-LvQ96Lwa5ga45LG0K5bXbWmo7xhp6e">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Gom9HOeH0IqtI0xf1OMjp99RUkVhesVCQRQ3kaiT_GnbCBgcEWqPDhYzz1rcouDay6tgC_1mCTtD5KiZ">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - It Won’t Kill Ya (feat. Louane)
+The Chainsmokers - Kanye (feat. SirenXX)
 
-**Albums**: Louane
+**Albums**: Kanye
 
-Last updated at 07/30/2020 19:46
+Last updated at 07/30/2020 19:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
