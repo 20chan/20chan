@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-The Chainsmokers - All We Know (feat. Phoebe Ryan)
+The Chainsmokers - This Feeling (feat. Kelsea Ballerini)
 
-**Albums**: Collage EP
+**Albums**: Sick Boy
 
-Last updated at 07/30/2020 18:02
+Last updated at 07/30/2020 18:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
