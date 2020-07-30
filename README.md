@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZNzqPNNxCzwh4t8WoLvooz3vQ15F7JFc8xJmtorg8F1p-3mPEJALVwUJBMq4Yh4Pkt3tmJiBVT17E6h0">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tgDKXG9pHrKFMGjwDM9waFSOs_KlSXF05uymprrGyHvLLg6KGl6U-O34pI2cNukVMatNft6lY-SyaEzHxQ">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
 
-The Chainsmokers - Erase (Samantha Ronson Remix) (feat. Priyanka Chopra)
+Zedd - Clarity (feat. Foxes)
 
-**Albums**: Erase (Samantha Ronson Remix)
+**Albums**: Clarity
 
-Last updated at 07/30/2020 20:44
+Last updated at 07/30/2020 20:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
