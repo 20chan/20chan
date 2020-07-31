@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rki-p1o7MoYv-B7TpyyRAcmhJeHO06lkM4U1KLyJct2T19A4XyHlGzgtNoIfZ-2YHQ21pR3wUG-cV7E">](https://music.youtube.com/channel/UCEspIekCimNPvtnt_pGKG3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hnKeax2bQ11oPwTSJ8jIphRTEyncohsJnTFs0jUBsUJCO1Z7Q_sNiYnAVdqJVzGN1tSX-BSUdOtVqNPD">](https://music.youtube.com/channel/UC2Rp4lvp4CBx7vtBnMzDN0w)
 
-Toploader - Dancing in the Moonlight
+Corinne Bailey Rae - Put Your Records On
 
-**Albums**: Onka's Big Moka
+**Albums**: Corinne Bailey Rae
 
-Last updated at 07/31/2020 16:38
+Last updated at 07/31/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
