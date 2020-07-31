@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lSkFE_qfBJM66IZvW8H3TgZK_aNppTwwd5nIv9MexV-5hXfLBjZ4JxZYKOgh6858KpnDD9Z0YFDrTCn_">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
 
-Imagine Dragons - Birds
+BANNERS - Too Soon
 
-**Albums**: Origins (Deluxe)
+**Albums**: Where The Shadow Ends
 
-Last updated at 07/31/2020 15:14
+Last updated at 07/31/2020 15:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
