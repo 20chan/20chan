@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wlkshfEx8cQrIqRainQHKwGrwEzY-4obSpPASsmCt7diYTglmRHNVlTXSMBPSY9-LRM8xp_1jyTOIXA">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uBmbxzs6jPR6YKROjxMQ7vmVID_wTs2tsRSK269_S1td2fjsx4yIUyQpYCBaFfNP7E-0j1czlRwYXhTt">](https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ)
 
-Paul Kim - Me After You
+Dbo - I'm Moving On
 
-**Albums**: Me After You
+**Albums**: CIAO
 
-Last updated at 07/31/2020 18:01
+Last updated at 07/31/2020 18:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
