@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lSkFE_qfBJM66IZvW8H3TgZK_aNppTwwd5nIv9MexV-5hXfLBjZ4JxZYKOgh6858KpnDD9Z0YFDrTCn_">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fV7Oq6k5-TwoPRGe3U_WZ1Iv7R9-2QFogy4LTRJP_g4r_z7nr_Zkyu5ZW6CUpTFsxar0YvNhbFKzW28">](https://music.youtube.com/channel/UChPyJft6cxsuQeo9yzQ4PQQ)
 
-BANNERS - Too Soon
+AJR - Turning Out
 
-**Albums**: Where The Shadow Ends
+**Albums**: The Click
 
-Last updated at 07/31/2020 15:18
+Last updated at 07/31/2020 15:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
