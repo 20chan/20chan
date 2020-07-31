@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VM-My1aRiNz6VNnCrFb_dy22h3UXvyQad67Zp3_x97gRIxubS2CLqR2gwQPOK4KKSvwH6gIqKXK5st3V">](https://music.youtube.com/channel/UC0A2GKK4UdxtQTxpXYduHUg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Quinn XCII - U & Us
+Noah Kahan - Passenger
 
-**Albums**: From Michigan With Love
+**Albums**: Hurt Somebody
 
-Last updated at 07/31/2020 15:55
+Last updated at 07/31/2020 15:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
