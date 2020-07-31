@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DbSB9J3LvYVJK2g0w_7s11I5JG2IbsRBWC_PIImnlUjyIpFn_IrArDutdlxoS7K3ls8rpY1upbDymQau">](https://music.youtube.com/channel/UCFTEZcsMSOzX6tZOGwkS-xw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hpqiu4CgM2_C63eHUWPki4oAQGAz9igXoJUE51nbttwar57H0hv8hsx0i3UNe9YVR8Oy5LDUi03_e9lY">](https://music.youtube.com/channel/UCuvYmaUR4lpW7kWmgCUpfqA)
 
-James Morrison - Broken Strings (feat. Nelly Furtado)
+MIKA - Big Girl (You Are Beautiful)
 
-**Albums**: Songs For You, Truths For Me (International Exclusive Bundle)
+**Albums**: Life In Cartoon Motion (UK eDeluxe Album)
 
-Last updated at 07/31/2020 16:46
+Last updated at 07/31/2020 16:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
