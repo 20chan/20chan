@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AGd0SiA1sbbSZf-CClcVOhCDs8dnc2Sfd7jJHJx6U_kwRoDoiSC3eotbqK-d8vohQ8Nq8C0Iwzuzk43b">](https://music.youtube.com/channel/UCJw8VyO6e3v6S0327AsgwcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ayIjXBsv08m4ge-Ft-HxwSMEzJcZN_alKQM_9UGY9akvE1M16peWoKun3n9s25yIyMt2__uPYERb5v6DPQ">](https://music.youtube.com/channel/UC7LwDo1k9K68iCmGhlfgjYw)
 
-Pharrell - Frontin' (Club Mix) (feat. Jay-Z)
+Jon Bellion - All Time Low
 
-**Albums**: The Neptunes Present... Clones
+**Albums**: The Human Condition
 
-Last updated at 07/31/2020 10:40
+Last updated at 07/31/2020 10:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
