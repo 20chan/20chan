@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cvbV80eTsJZ5Qge3fXcNrxzBOSy7Wb--mzjvcCcNEBjondGgtFiuOSZqpmGhdg4VKvEAK-w46E-2Y8F-8w">](https://music.youtube.com/channel/UClHxZy_9ArA6rploIzcDReQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fV7Oq6k5-TwoPRGe3U_WZ1Iv7R9-2QFogy4LTRJP_g4r_z7nr_Zkyu5ZW6CUpTFsxar0YvNhbFKzW28">](https://music.youtube.com/channel/UChPyJft6cxsuQeo9yzQ4PQQ)
 
-Dermot Kennedy - What Have I Done
+AJR - Bud Like You
 
-**Albums**: Without Fear
+**Albums**: The Click
 
-Last updated at 07/31/2020 15:26
+Last updated at 07/31/2020 15:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
