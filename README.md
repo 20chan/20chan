@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9WLd3L2ZiMzaR8onVWqqhO03baIdG86Plyjl_5NbC-K9Hj_9Gs1rp6PvEMapPvyMwoVv9YTH8d_JgDKu2g">](https://music.youtube.com/channel/UCyYnxJIyBDCIkDIpE7lsUkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oJ3yCy1z09njgWrXzjTd4W41UCD1gPRLo5UBRzQwkJzDd0C6PfQrjc6b158xQTV3vgOXkonm2u91n1Bu">](https://music.youtube.com/channel/UCJw8VyO6e3v6S0327AsgwcQ)
 
-Robin Thicke, T.I. & Pharrell - Blurred Lines
+Pharrell Williams - Freedom
 
-**Albums**: Songs That Get Drunk Girls Excited
+**Albums**: Freedom
 
-Last updated at 07/31/2020 10:33
+Last updated at 07/31/2020 10:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
