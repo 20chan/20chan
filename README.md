@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wlkshfEx8cQrIqRainQHKwGrwEzY-4obSpPASsmCt7diYTglmRHNVlTXSMBPSY9-LRM8xp_1jyTOIXA">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
 
-Paul Kim - Traffic Light
+Paul Kim - Me After You
 
-**Albums**: Traffic Light
+**Albums**: Me After You
 
-Last updated at 07/31/2020 17:57
+Last updated at 07/31/2020 18:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
