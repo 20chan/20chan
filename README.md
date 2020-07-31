@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DV4TqSp7crlL93KMjN2bgKG8UZvQW1_Dwp98-oLhtELnfg8wYo_oxbY7tvPCZHekkG2WWKmd-NQFpc0r">](https://music.youtube.com/channel/UCcCfceEK2s7kYPDhLsHBg3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RG92soY11tCRckJuiLvwUF0YACEyBcC4m-GUre3ffB6afsGiRGJw1n-8CWtHkC7Q049HmyfU4aPGNtQ">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
 
-EDEN - sex (catching feelings)
+Billie Eilish - bad guy
 
-**Albums**: i think you think too much of me
+**Albums**: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 
-Last updated at 07/31/2020 14:43
+Last updated at 07/31/2020 14:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
