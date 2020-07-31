@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/s3mW88McCJzfDa-rCPSHsQoBIpCLzLPJoCXPscdxFtATDs_zAx3E9efsPJVm50bYKDDvaOnS-7WtIZ-3">](https://music.youtube.com/channel/UC5J__UU0Y7ZAVluolcIjrbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PKwfdn9TZLzCDJ1lZ7fDH7CKE2zGNDYPyn5wHOeKRQehqGIo7tNr99esmLBlVzrPGvUJIbLT06iBpT48Q">](https://music.youtube.com/channel/UCvVLbhrgq8TS_Yw3gkFIZUg)
 
-Panic! At The Disco - I Write Sins Not Tragedies
+grandson - Despicable
 
-**Albums**: A Fever You Can't Sweat Out
+**Albums**: a modern tragedy vol. 1
 
-Last updated at 07/31/2020 17:44
+Last updated at 07/31/2020 17:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
