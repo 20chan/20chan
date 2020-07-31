@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Y3RhP5uCc0RHVJm9kGGV8tXPagpJ4cU3smWGn5tmqjucgObNwP05fcNfv5DrmpQDR8NLU7ZDyeqUK45">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/owSnY-NluU6TbQ7PDePTTCZ00tfwSpsA7NjxE4HdP6KfdmIX1Oet7BvrwWmMzG9XJny2b3KHRM77ssQo">](https://music.youtube.com/channel/UCUC_Qp7oUMwi4BIN2XH6G7Q)
 
-BANNERS - Shine A Light
+Dean Lewis - Straight Back Down
 
-**Albums**: BANNERS
+**Albums**: A Place We Knew
 
-Last updated at 07/31/2020 16:03
+Last updated at 07/31/2020 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
