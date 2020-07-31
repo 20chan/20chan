@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
 
-버스커 버스커 (Busker Busker) - 소나기 (주르르루)
+Busker Busker - 여수 밤바다
 
-**Albums**: 버스커 버스커 1집 마무리 [Busker Busker 1st Wrap Up Album]
+**Albums**: Busker Busker 1st
 
-Last updated at 07/31/2020 18:13
+Last updated at 07/31/2020 18:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
