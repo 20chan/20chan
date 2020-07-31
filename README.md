@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Y3RhP5uCc0RHVJm9kGGV8tXPagpJ4cU3smWGn5tmqjucgObNwP05fcNfv5DrmpQDR8NLU7ZDyeqUK45">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
 
-Noah Kahan - Passenger
+BANNERS - Shine A Light
 
-**Albums**: Hurt Somebody
+**Albums**: BANNERS
 
-Last updated at 07/31/2020 15:59
+Last updated at 07/31/2020 16:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
