@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n1BU7liMVsgA5dZnk020PEoWyjjZECDqYR26DbV8osH6wJB2OPbw_8H13O-x7AwEK-4i_LJeHHQM6BFi">](https://music.youtube.com/channel/UCJw8VyO6e3v6S0327AsgwcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9WLd3L2ZiMzaR8onVWqqhO03baIdG86Plyjl_5NbC-K9Hj_9Gs1rp6PvEMapPvyMwoVv9YTH8d_JgDKu2g">](https://music.youtube.com/channel/UCyYnxJIyBDCIkDIpE7lsUkw)
 
-Pharrell Williams - Happy (From "Despicable Me 2")
+Robin Thicke, T.I. & Pharrell - Blurred Lines
 
-**Albums**: G I R L (Deluxe)
+**Albums**: Songs That Get Drunk Girls Excited
 
-Last updated at 07/31/2020 10:29
+Last updated at 07/31/2020 10:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
