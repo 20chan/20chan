@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EgTvWQw8OXlTSnTAb-7l01bDftQgQ39netrLXjJ6VIu39aTEtT9wP92VDRXXrrdBmHxTdV_ulTqfnEQ">](https://music.youtube.com/channel/UCTE7TdLSp9K2GacePon_WGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zcLHD4qCjaX0HCLhvxP4aJTnvOr744JGBUsyc-u6LIcdzZQYkKBQDph985SGmjMg4t3KYvuw71dbRc6M">](https://music.youtube.com/channel/UCus5f127n0MD39axVpPcNAA)
 
-Keane - Somewhere Only We Know
+Lemaitre - Higher (feat. Maty Noyes)
 
-**Albums**: Hopes And Fears
+**Albums**: Chapter One
 
-Last updated at 07/31/2020 15:36
+Last updated at 07/31/2020 15:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
