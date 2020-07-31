@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lkp2FiaU08bHQZ3QEzdAuii5oTfJB96wBlIXSY3IXt3WoDaIj1YTVJuRcUT4xNr0V6Mv2Nht-WdZ6llW">](https://music.youtube.com/channel/UC1h4afOERaF-xqOsSwBUHLQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/igQY2TFgzpk5K8mHQB3VKJtJ00LKrvVrfFnycWz32IRqRqffGCiyA-_FmB0R-OhTMgaCy5PTx-tYImZB">](https://music.youtube.com/channel/UCqcu4xFW9T7kYSll5ch7pvQ)
 
-Anson Seabra - Hindenburg Lover
+Bishop Briggs - River
 
-**Albums**: Hindenburg Lover
+**Albums**: Bishop Briggs
 
-Last updated at 07/31/2020 14:50
+Last updated at 07/31/2020 14:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
