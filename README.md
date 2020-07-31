@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fV7Oq6k5-TwoPRGe3U_WZ1Iv7R9-2QFogy4LTRJP_g4r_z7nr_Zkyu5ZW6CUpTFsxar0YvNhbFKzW28">](https://music.youtube.com/channel/UChPyJft6cxsuQeo9yzQ4PQQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KGDqMVvKwj8g1AZ8qqaXJe1w26n3sTeUl8vA4TWdzxH1aAHrt4HRauoEFs4DkD76zhaRLeoSsYCS6YoB">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-AJR - Bud Like You
+Alan Walker - Heading Home
 
-**Albums**: The Click
+**Albums**: Heading Home
 
-Last updated at 07/31/2020 15:29
+Last updated at 07/31/2020 15:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
