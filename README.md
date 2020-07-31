@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hnKeax2bQ11oPwTSJ8jIphRTEyncohsJnTFs0jUBsUJCO1Z7Q_sNiYnAVdqJVzGN1tSX-BSUdOtVqNPD">](https://music.youtube.com/channel/UC2Rp4lvp4CBx7vtBnMzDN0w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DbSB9J3LvYVJK2g0w_7s11I5JG2IbsRBWC_PIImnlUjyIpFn_IrArDutdlxoS7K3ls8rpY1upbDymQau">](https://music.youtube.com/channel/UCFTEZcsMSOzX6tZOGwkS-xw)
 
-Corinne Bailey Rae - Put Your Records On
+James Morrison - Broken Strings (feat. Nelly Furtado)
 
-**Albums**: Corinne Bailey Rae
+**Albums**: Songs For You, Truths For Me (International Exclusive Bundle)
 
-Last updated at 07/31/2020 16:42
+Last updated at 07/31/2020 16:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
