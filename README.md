@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cvbV80eTsJZ5Qge3fXcNrxzBOSy7Wb--mzjvcCcNEBjondGgtFiuOSZqpmGhdg4VKvEAK-w46E-2Y8F-8w">](https://music.youtube.com/channel/UClHxZy_9ArA6rploIzcDReQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QYnAn8fg5EbOmqR54eTL1WHOSgTWZ9oFFsveqwGoxSQjz6Wj_9gOHhUZnL-l85AmUw_fppUncfsVuxc">](https://music.youtube.com/channel/UCUpUktxwm02NUjE8fUvICSg)
 
-Dermot Kennedy - Power Over Me
+Trevor Myall - Pyro Heart
 
-**Albums**: Without Fear
+**Albums**: Pyro Heart
 
-Last updated at 07/31/2020 16:28
+Last updated at 07/31/2020 16:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
