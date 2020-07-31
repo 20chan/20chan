@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/d7bJNoH_IybM9ZOI9Q7uQrT-5rBpNwxXFb-DHysqjLzjlwr9NRCmOmwE3Hv61INMN9At6KCYBWVTxKD_">](https://music.youtube.com/channel/UCqR2ATuiV-PN2fWzuRYjcbg)
 
-Conan Gray - Maniac
+Fun. - We Are Young (feat. Janelle Monáe)
 
-**Albums**: Kid Krow
+**Albums**: Some Nights
 
-Last updated at 07/31/2020 15:03
+Last updated at 07/31/2020 15:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
