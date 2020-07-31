@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uTXAcGQ-ZjIi5wDzeOXftCqrHLFjGd5yrtaCNEUJoPhRm1Buwncq5VxPCEDxwvY9_yXy2K5r1tIc3fR0">](https://music.youtube.com/channel/UCUpUktxwm02NUjE8fUvICSg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cvbV80eTsJZ5Qge3fXcNrxzBOSy7Wb--mzjvcCcNEBjondGgtFiuOSZqpmGhdg4VKvEAK-w46E-2Y8F-8w">](https://music.youtube.com/channel/UClHxZy_9ArA6rploIzcDReQ)
 
-Trevor Myall - One Way Ticket
+Dermot Kennedy - Power Over Me
 
-**Albums**: One Way Ticket
+**Albums**: Without Fear
 
-Last updated at 07/31/2020 16:25
+Last updated at 07/31/2020 16:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
