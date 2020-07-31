@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
 
-Busker Busker - 가을밤
+Busker Busker - 처음엔 사랑이란게
 
 **Albums**: Busker Busker 2nd
 
-Last updated at 07/31/2020 18:45
+Last updated at 07/31/2020 18:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
