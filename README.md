@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jFZACcowODEQ9iAFSFNvCCQpO4Uz_3-4Tueb2pKbd8_Rr9kKGfAo4Pk5235evoVqdyZ3E2qtQ0PAta8">](https://music.youtube.com/channel/UC1boV3N53rCwCGI00FugnRQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtVCkxk49Uonw4GGIvpztgbZVu40A9mdvL0jT0gddoNLZBMAwjO4hpsu2sI7L9y6hvqBOofzQK3FEaeB">](https://music.youtube.com/channel/UCrbZcTv3iAHqMHWGbk0IYFA)
 
-Alec Benjamin - Water Fountain
+FINNEAS - Shelter
 
-**Albums**: Narrated For You
+**Albums**: Blood Harmony
 
-Last updated at 07/31/2020 16:18
+Last updated at 07/31/2020 16:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
