@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zcLHD4qCjaX0HCLhvxP4aJTnvOr744JGBUsyc-u6LIcdzZQYkKBQDph985SGmjMg4t3KYvuw71dbRc6M">](https://music.youtube.com/channel/UCus5f127n0MD39axVpPcNAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jmQW4UBrW3xkqlkdWoBKYLD_iuLGEMxk94CJk5yRvrGIVDsFHSIUt3-VvnlQs67mUDRSFDOc1Gs8-7Cu">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
 
-Lemaitre - Higher (feat. Maty Noyes)
+OneRepublic - Counting Stars
 
-**Albums**: Chapter One
+**Albums**: Native
 
-Last updated at 07/31/2020 15:40
+Last updated at 07/31/2020 15:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
