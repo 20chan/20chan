@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nKzUyGxMddXNZsWq-pyHg-49HVU4H4PL7P69DTihi3DWlqUtn5LNkLF0gae7qVhqUW7Ez7fyhakSZAfO">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jFZACcowODEQ9iAFSFNvCCQpO4Uz_3-4Tueb2pKbd8_Rr9kKGfAo4Pk5235evoVqdyZ3E2qtQ0PAta8">](https://music.youtube.com/channel/UC1boV3N53rCwCGI00FugnRQ)
 
-Imagine Dragons - I Bet My Life
+Alec Benjamin - Water Fountain
 
-**Albums**: Smoke + Mirrors
+**Albums**: Narrated For You
 
-Last updated at 07/31/2020 16:15
+Last updated at 07/31/2020 16:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
