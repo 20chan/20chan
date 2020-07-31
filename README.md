@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qvJL7K0v6TlxxqB6Bg1Pg11nnO6GECM8Xjf82dK8MmorfDTNoDHaVDnPQjIMn8A0R19KQUlSWsSv5eZWxw">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nKzUyGxMddXNZsWq-pyHg-49HVU4H4PL7P69DTihi3DWlqUtn5LNkLF0gae7qVhqUW7Ez7fyhakSZAfO">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Noah Kahan - Anyway
+Imagine Dragons - I Bet My Life
 
-**Albums**: Cape Elizabeth
+**Albums**: Smoke + Mirrors
 
-Last updated at 07/31/2020 16:10
+Last updated at 07/31/2020 16:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
