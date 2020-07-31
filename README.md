@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/igQY2TFgzpk5K8mHQB3VKJtJ00LKrvVrfFnycWz32IRqRqffGCiyA-_FmB0R-OhTMgaCy5PTx-tYImZB">](https://music.youtube.com/channel/UCqcu4xFW9T7kYSll5ch7pvQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Bishop Briggs - River
+Noah Kahan - Please
 
-**Albums**: Bishop Briggs
+**Albums**: Hurt Somebody
 
-Last updated at 07/31/2020 14:55
+Last updated at 07/31/2020 14:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
