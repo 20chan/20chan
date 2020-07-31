@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/owSnY-NluU6TbQ7PDePTTCZ00tfwSpsA7NjxE4HdP6KfdmIX1Oet7BvrwWmMzG9XJny2b3KHRM77ssQo">](https://music.youtube.com/channel/UCUC_Qp7oUMwi4BIN2XH6G7Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qvJL7K0v6TlxxqB6Bg1Pg11nnO6GECM8Xjf82dK8MmorfDTNoDHaVDnPQjIMn8A0R19KQUlSWsSv5eZWxw">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Dean Lewis - Straight Back Down
+Noah Kahan - Anyway
 
-**Albums**: A Place We Knew
+**Albums**: Cape Elizabeth
 
-Last updated at 07/31/2020 16:06
+Last updated at 07/31/2020 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
