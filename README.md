@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/RRKJiM9Njr8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/s3mW88McCJzfDa-rCPSHsQoBIpCLzLPJoCXPscdxFtATDs_zAx3E9efsPJVm50bYKDDvaOnS-7WtIZ-3">](https://music.youtube.com/channel/UC5J__UU0Y7ZAVluolcIjrbw)
 
-My Chemical Romance - Welcome to the Black Parade
+Panic! At The Disco - I Write Sins Not Tragedies
 
-**Albums**: undefined
+**Albums**: A Fever You Can't Sweat Out
 
-Last updated at 07/31/2020 17:41
+Last updated at 07/31/2020 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
