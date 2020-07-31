@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oJ3yCy1z09njgWrXzjTd4W41UCD1gPRLo5UBRzQwkJzDd0C6PfQrjc6b158xQTV3vgOXkonm2u91n1Bu">](https://music.youtube.com/channel/UCJw8VyO6e3v6S0327AsgwcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AGd0SiA1sbbSZf-CClcVOhCDs8dnc2Sfd7jJHJx6U_kwRoDoiSC3eotbqK-d8vohQ8Nq8C0Iwzuzk43b">](https://music.youtube.com/channel/UCJw8VyO6e3v6S0327AsgwcQ)
 
-Pharrell Williams - Freedom
+Pharrell - Frontin' (Club Mix) (feat. Jay-Z)
 
-**Albums**: Freedom
+**Albums**: The Neptunes Present... Clones
 
-Last updated at 07/31/2020 10:37
+Last updated at 07/31/2020 10:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
