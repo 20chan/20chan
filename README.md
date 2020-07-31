@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
 
-Busker Busker - 시원한 여자
+Busker Busker - 봄바람
 
-**Albums**: Busker Busker 2nd
+**Albums**: Busker Busker 1st
 
-Last updated at 07/31/2020 18:33
+Last updated at 07/31/2020 18:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
