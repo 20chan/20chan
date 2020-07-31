@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ayIjXBsv08m4ge-Ft-HxwSMEzJcZN_alKQM_9UGY9akvE1M16peWoKun3n9s25yIyMt2__uPYERb5v6DPQ">](https://music.youtube.com/channel/UC7LwDo1k9K68iCmGhlfgjYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qvJL7K0v6TlxxqB6Bg1Pg11nnO6GECM8Xjf82dK8MmorfDTNoDHaVDnPQjIMn8A0R19KQUlSWsSv5eZWxw">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Jon Bellion - All Time Low
+Noah Kahan - Anyway
 
-**Albums**: The Human Condition
+**Albums**: Cape Elizabeth
 
-Last updated at 07/31/2020 10:41
+Last updated at 07/31/2020 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
