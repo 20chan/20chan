@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7kF0IlqnI1lAElVUx4ULfon091DmlTE8qNCU6WH01hvrLWXY4zTDJ1LOttfs8mficB74ifppjS9Xonc">](https://music.youtube.com/channel/UCiF_SnCs6b4r2JWP9yMCX3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
 
-Sub Urban - Cradles
+Paul Kim - Traffic Light
 
-**Albums**: Cradles
+**Albums**: Traffic Light
 
-Last updated at 07/31/2020 17:49
+Last updated at 07/31/2020 17:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
