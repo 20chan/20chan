@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zcLHD4qCjaX0HCLhvxP4aJTnvOr744JGBUsyc-u6LIcdzZQYkKBQDph985SGmjMg4t3KYvuw71dbRc6M">](https://music.youtube.com/channel/UCus5f127n0MD39axVpPcNAA)
 
-Paul Kim - Traffic Light
+Lemaitre - Higher (feat. Maty Noyes)
 
-**Albums**: Traffic Light
+**Albums**: Chapter One
 
-Last updated at 07/31/2020 17:52
+Last updated at 07/31/2020 17:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
