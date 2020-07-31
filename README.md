@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uBmbxzs6jPR6YKROjxMQ7vmVID_wTs2tsRSK269_S1td2fjsx4yIUyQpYCBaFfNP7E-0j1czlRwYXhTt">](https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
 
-Dbo - Make It Right
+버스커 버스커 (Busker Busker) - 소나기 (주르르루)
 
-**Albums**: CIAO
+**Albums**: 버스커 버스커 1집 마무리 [Busker Busker 1st Wrap Up Album]
 
-Last updated at 07/31/2020 18:10
+Last updated at 07/31/2020 18:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
