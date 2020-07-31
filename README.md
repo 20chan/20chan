@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
 
-Busker Busker - 잘할 걸
+버스커 버스커 (Busker Busker) - 네온사인
 
-**Albums**: Busker Busker 2nd
+**Albums**: 버스커 버스커 1집 마무리 [Busker Busker 1st Wrap Up Album]
 
-Last updated at 07/31/2020 18:22
+Last updated at 07/31/2020 18:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
