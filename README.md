@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
 
-버스커 버스커 (Busker Busker) - 기다려주세요
+버스커 버스커 (Busker Busker) - 그댈 마주하는건 힘들어 (그마힘)
 
 **Albums**: 버스커 버스커 1집 마무리 [Busker Busker 1st Wrap Up Album]
 
-Last updated at 07/31/2020 18:53
+Last updated at 07/31/2020 18:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
