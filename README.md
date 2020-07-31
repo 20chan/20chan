@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/npvDYWrMZkyxEERuGS1ukrW3ZnDFQYc-cSQLJretKLD7WhHDDh6-SrkZAairFGVSSJ78B4Rbt8f_x9M">](https://music.youtube.com/channel/UCyqq-aiu3vEHuf5NhwmOJcw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n1BU7liMVsgA5dZnk020PEoWyjjZECDqYR26DbV8osH6wJB2OPbw_8H13O-x7AwEK-4i_LJeHHQM6BFi">](https://music.youtube.com/channel/UCJw8VyO6e3v6S0327AsgwcQ)
 
-Lana Del Rey & Cedric Gervais - Summertime Sadness (Cedric Gervais Remix / Radio Edit)
+Pharrell Williams - Happy (From "Despicable Me 2")
 
-**Albums**: Summertime Sadness (Cedric Gervais remix)
+**Albums**: G I R L (Deluxe)
 
-Last updated at 07/30/2020 21:01
+Last updated at 07/31/2020 10:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
