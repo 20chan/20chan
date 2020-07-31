@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EgTvWQw8OXlTSnTAb-7l01bDftQgQ39netrLXjJ6VIu39aTEtT9wP92VDRXXrrdBmHxTdV_ulTqfnEQ">](https://music.youtube.com/channel/UCTE7TdLSp9K2GacePon_WGA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4EL4njT8g98/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-Keane - Somewhere Only We Know
+Green Day - Macy’s Day Parade
 
-**Albums**: Hopes And Fears
+**Albums**: undefined
 
-Last updated at 07/31/2020 16:54
+Last updated at 07/31/2020 17:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
