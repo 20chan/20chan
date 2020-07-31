@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jmQW4UBrW3xkqlkdWoBKYLD_iuLGEMxk94CJk5yRvrGIVDsFHSIUt3-VvnlQs67mUDRSFDOc1Gs8-7Cu">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VM-My1aRiNz6VNnCrFb_dy22h3UXvyQad67Zp3_x97gRIxubS2CLqR2gwQPOK4KKSvwH6gIqKXK5st3V">](https://music.youtube.com/channel/UC0A2GKK4UdxtQTxpXYduHUg)
 
-OneRepublic - Counting Stars
+Quinn XCII - U & Us
 
-**Albums**: Native
+**Albums**: From Michigan With Love
 
-Last updated at 07/31/2020 15:44
+Last updated at 07/31/2020 15:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
