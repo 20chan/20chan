@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fV7Oq6k5-TwoPRGe3U_WZ1Iv7R9-2QFogy4LTRJP_g4r_z7nr_Zkyu5ZW6CUpTFsxar0YvNhbFKzW28">](https://music.youtube.com/channel/UChPyJft6cxsuQeo9yzQ4PQQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cvbV80eTsJZ5Qge3fXcNrxzBOSy7Wb--mzjvcCcNEBjondGgtFiuOSZqpmGhdg4VKvEAK-w46E-2Y8F-8w">](https://music.youtube.com/channel/UClHxZy_9ArA6rploIzcDReQ)
 
-AJR - Turning Out
+Dermot Kennedy - What Have I Done
 
-**Albums**: The Click
+**Albums**: Without Fear
 
-Last updated at 07/31/2020 15:22
+Last updated at 07/31/2020 15:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
