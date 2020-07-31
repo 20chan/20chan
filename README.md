@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PKwfdn9TZLzCDJ1lZ7fDH7CKE2zGNDYPyn5wHOeKRQehqGIo7tNr99esmLBlVzrPGvUJIbLT06iBpT48Q">](https://music.youtube.com/channel/UCvVLbhrgq8TS_Yw3gkFIZUg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7kF0IlqnI1lAElVUx4ULfon091DmlTE8qNCU6WH01hvrLWXY4zTDJ1LOttfs8mficB74ifppjS9Xonc">](https://music.youtube.com/channel/UCiF_SnCs6b4r2JWP9yMCX3g)
 
-grandson - Despicable
+Sub Urban - Cradles
 
-**Albums**: a modern tragedy vol. 1
+**Albums**: Cradles
 
-Last updated at 07/31/2020 17:45
+Last updated at 07/31/2020 17:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
