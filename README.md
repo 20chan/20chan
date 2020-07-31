@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtVCkxk49Uonw4GGIvpztgbZVu40A9mdvL0jT0gddoNLZBMAwjO4hpsu2sI7L9y6hvqBOofzQK3FEaeB">](https://music.youtube.com/channel/UCrbZcTv3iAHqMHWGbk0IYFA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uTXAcGQ-ZjIi5wDzeOXftCqrHLFjGd5yrtaCNEUJoPhRm1Buwncq5VxPCEDxwvY9_yXy2K5r1tIc3fR0">](https://music.youtube.com/channel/UCUpUktxwm02NUjE8fUvICSg)
 
-FINNEAS - Shelter
+Trevor Myall - One Way Ticket
 
-**Albums**: Blood Harmony
+**Albums**: One Way Ticket
 
-Last updated at 07/31/2020 16:22
+Last updated at 07/31/2020 16:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
