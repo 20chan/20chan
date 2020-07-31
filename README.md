@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RG92soY11tCRckJuiLvwUF0YACEyBcC4m-GUre3ffB6afsGiRGJw1n-8CWtHkC7Q049HmyfU4aPGNtQ">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lkp2FiaU08bHQZ3QEzdAuii5oTfJB96wBlIXSY3IXt3WoDaIj1YTVJuRcUT4xNr0V6Mv2Nht-WdZ6llW">](https://music.youtube.com/channel/UC1h4afOERaF-xqOsSwBUHLQ)
 
-Billie Eilish - bad guy
+Anson Seabra - Hindenburg Lover
 
-**Albums**: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+**Albums**: Hindenburg Lover
 
-Last updated at 07/31/2020 14:47
+Last updated at 07/31/2020 14:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
