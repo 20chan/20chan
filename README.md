@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DV4TqSp7crlL93KMjN2bgKG8UZvQW1_Dwp98-oLhtELnfg8wYo_oxbY7tvPCZHekkG2WWKmd-NQFpc0r">](https://music.youtube.com/channel/UCcCfceEK2s7kYPDhLsHBg3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-EDEN - drugs
+Imagine Dragons - Mouth Of The River
 
-**Albums**: i think you think too much of me
+**Albums**: Evolve
 
-Last updated at 08/03/2020 18:18
+Last updated at 08/03/2020 18:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
