@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GENAsAxh7Zk_6Y1Pazkqo406x2qCEcBGxoEl7SJ_OO95wbLi8x093Boy961ie9KEb9bwsmofLLviNiAIWA">](https://music.youtube.com/channel/UCgpBsaDW2n_6ruzht3wvP0A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Sam Smith - To Die For
+Avicii - Without You
 
-**Albums**: To Die For
+**Albums**: AVĪCI (01)
 
-Last updated at 08/03/2020 19:21
+Last updated at 08/03/2020 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
