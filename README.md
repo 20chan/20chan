@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtzwLew9W3Igam672B19Vp7Kotr_tjTSkEY4L4DNjAvIkfLOxs34jYaAUJ3cCd5SUIzHwJfPyDIlHl_N">](https://music.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
 
-Imagine Dragons - Mouth Of The River
+BLACKPINK - How You Like That
 
-**Albums**: Evolve
+**Albums**: How You Like That
 
-Last updated at 08/03/2020 18:23
+Last updated at 08/03/2020 18:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
