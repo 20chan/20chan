@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/w4MkGfPFljc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCjFkcqxFJjrzU9NIm_87NEQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/54ryIJDUHkk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKl2efw_DNR7PDxE5-RsIWA)
 
-itokosenseii - DJ Okawari - カノン ( Pachelbel's Canon )
+October - Tears - 악토버(OCTOBER)
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 14:30
+Last updated at 08/03/2020 14:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
