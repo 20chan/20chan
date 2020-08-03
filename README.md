@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/b5vTtmP-GHs/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCnXIM7zYjTSJnu4fJNppjBw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Es6Yiw4D27k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6o9vvG5IFx2sv7u0NEntdg)
 
-bubba1234e - DJ Okawari - Afterschool
+Calmbeats - Hazzy - Street Of Dreams
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 14:04
+Last updated at 08/03/2020 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
