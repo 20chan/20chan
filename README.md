@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R7q24DU3UqHbu_VqV7j4TTilo0OzAE8GaG-DLnLqOhA9P0jNEhLxkrChUtfBTO8chPrM49OEV6sHHrw">](https://music.youtube.com/channel/UCnK1mlWb6zp7AQfCpseJ4Qg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-MAX - Still New York (feat. Joey Bada$)
+Avicii - Tough Love (feat. Agnes & Vargas & Lagola)
 
-**Albums**: Still New York
+**Albums**: TIM
 
-Last updated at 08/03/2020 20:42
+Last updated at 08/03/2020 20:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
