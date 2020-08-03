@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/owSnY-NluU6TbQ7PDePTTCZ00tfwSpsA7NjxE4HdP6KfdmIX1Oet7BvrwWmMzG9XJny2b3KHRM77ssQo">](https://music.youtube.com/channel/UCUC_Qp7oUMwi4BIN2XH6G7Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Dean Lewis - Straight Back Down
+Avicii - Broken Arrows
 
-**Albums**: A Place We Knew
+**Albums**: Stories
 
-Last updated at 08/03/2020 20:35
+Last updated at 08/03/2020 20:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
