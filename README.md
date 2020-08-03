@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/NEcgF3dqGP8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsIVO6D0m7zzybvNTY9499g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/tJCq_77Xj2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVeETS7uZTAARqvv2zssZCw)
 
-SkylineHQ - Junge Junge Ft. Kyle Pearce - Beautiful Girl (Original Mix)
+Sensual Musique - Eklo - Let's Go Home
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 12:27
+Last updated at 08/03/2020 12:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
