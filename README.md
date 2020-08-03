@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tlueT9ucq-U40xBuxU3UPbti_j9Y7qC5TfyJJYCSFIQgiVK2mMGWILQJO28JTXi9sM0r6NwtXKtteoA">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-a_hisa - Pancake Fever
+Imagine Dragons - Burn Out
 
-**Albums**: Sweets Time
+**Albums**: Origins (Deluxe)
 
-Last updated at 08/03/2020 15:47
+Last updated at 08/03/2020 15:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
