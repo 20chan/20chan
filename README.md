@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JgDtwnUUyJ7-UWJqaSUWMPen-Lr67R26LrOBZOW0hdEcvVKbJ5wcR1dYIJDcI0ai0VT9RNBC3I2Mihs">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
 
-The Chainsmokers - Don't Let Me Down (feat. Daya)
+Martin Garrix - These Are The Times (feat. JRM)
 
-**Albums**: Collage EP
+**Albums**: These Are The Times
 
-Last updated at 08/03/2020 11:12
+Last updated at 08/03/2020 11:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
