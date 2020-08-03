@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/d7hEVUYJd6w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/w4MkGfPFljc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCjFkcqxFJjrzU9NIm_87NEQ)
 
-a_hisa - Bloomin' Lights
+itokosenseii - DJ Okawari - カノン ( Pachelbel's Canon )
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 14:25
+Last updated at 08/03/2020 14:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
