@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-XeugGNlntk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXJ1ipfHW3b5sAoZtwUuTGw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RuCZZtpfe-o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxH0sQJKG6Aq9-vFIPnDZ2A)
 
-Saints Of Serenity - Kafka Tamura - No Hope (Winterkind Remix)
+The Vibe Guide - Miskeyz - Under The Sun (Original Mix)
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 12:15
+Last updated at 08/03/2020 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
