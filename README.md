@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DV4TqSp7crlL93KMjN2bgKG8UZvQW1_Dwp98-oLhtELnfg8wYo_oxbY7tvPCZHekkG2WWKmd-NQFpc0r">](https://music.youtube.com/channel/UCcCfceEK2s7kYPDhLsHBg3g)
 
-Conan Gray - Maniac
+EDEN - Circles
 
-**Albums**: Kid Krow
+**Albums**: i think you think too much of me
 
-Last updated at 08/03/2020 16:45
+Last updated at 08/03/2020 16:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
