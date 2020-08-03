@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/17i9mDGHMXF_sqZW973g_tJK2YHTgjTZrl1QtDZG87OigsUr7VbLEabjq__iUIYV9I8SFUFbETblXMO4">](https://music.youtube.com/channel/UCkhjJ1ozo9YkGtZ2Vl-QpwA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GENAsAxh7Zk_6Y1Pazkqo406x2qCEcBGxoEl7SJ_OO95wbLi8x093Boy961ie9KEb9bwsmofLLviNiAIWA">](https://music.youtube.com/channel/UCgpBsaDW2n_6ruzht3wvP0A)
 
-Kygo - Stranger Things (feat. OneRepublic)
+Sam Smith - To Die For
 
-**Albums**: Kids in Love
+**Albums**: To Die For
 
-Last updated at 08/03/2020 19:17
+Last updated at 08/03/2020 19:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
