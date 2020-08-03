@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FjBbw7AgcolDeEEpBH5hbI-kT7sb0gNDEmn_ys69LasAg8WS7bK1IuhaDm2N2b7-m89c4ucKGYPtQRRy">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jmQW4UBrW3xkqlkdWoBKYLD_iuLGEMxk94CJk5yRvrGIVDsFHSIUt3-VvnlQs67mUDRSFDOc1Gs8-7Cu">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
 
-Alan Walker, Sabrina Carpenter & Farruko - On My Way (Da Tweekaz Remix)
+OneRepublic - If I Lose Myself
 
-**Albums**: On My Way
+**Albums**: Native
 
-Last updated at 08/03/2020 19:01
+Last updated at 08/03/2020 19:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
