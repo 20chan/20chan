@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xg0ivtIwypqIULUvU0GdmSHasX7_P6L5dfsjHmh9AA125EyN6jRC3mw8VjaFEgEjxJH-Hy02o8LTy8M">](https://music.youtube.com/channel/UC27jxefZWRB7dYSTZ2KgR3A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-윤지영 (Yoon Ji Young) - 언젠가 너와 나 a will (feat. Car, the Garden)
+Imagine Dragons - Birds
 
-**Albums**: 언젠가 너와 나 a will
+**Albums**: Origins (Deluxe)
 
-Last updated at 08/03/2020 16:53
+Last updated at 08/03/2020 16:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
