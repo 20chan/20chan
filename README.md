@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4JFvImNtUl6zwJqgtm-2haRDmEHvjH1XBtJ1e-dEj-jtG6nbEGj6cGkGCICrPh0gZC8XoLOMG562VUUN">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nKzUyGxMddXNZsWq-pyHg-49HVU4H4PL7P69DTihi3DWlqUtn5LNkLF0gae7qVhqUW7Ez7fyhakSZAfO">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Noah Kahan - False Confidence
+Imagine Dragons - The Fall
 
-**Albums**: Busyhead
+**Albums**: Smoke + Mirrors
 
-Last updated at 08/03/2020 17:55
+Last updated at 08/03/2020 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
