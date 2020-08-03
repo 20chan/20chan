@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dpL3daqHjKhn5vtFb4WHSaCZ3Gxd8yyJ3MPICuB0jpj5IRt5MNPthg2Qwb1wLErxlwlOnpGYRTfo6TCR">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Martin Garrix - Pizza
+Avicii - Never Leave Me (feat. Joe Janiak)
 
-**Albums**: Pizza
+**Albums**: TIM
 
-Last updated at 08/03/2020 11:05
+Last updated at 08/03/2020 11:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
