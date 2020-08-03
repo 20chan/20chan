@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ucCHp0gCeUhbjcfor8h8MfVGylba2tHjaaB-BWD12fwB90rs2fV7MTnvWUWE4MfKBlCpWI3mJL6UHsac">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sclTo5g_6hDDwlupSBInvQLOCnxnXYTTr7ZtweDru-p1LAKLIAdwNv7ei78mlMfCfOvCyFxwBxeYIib2ng">](https://music.youtube.com/channel/UCcCfceEK2s7kYPDhLsHBg3g)
 
-THORNAPPLE - Gills 아가미
+Eden - Gravity
 
-**Albums**: I Often Stammer and Forget the Way to Sleep 난 자꾸 말을 더듬고 잠드는 법도 잊었네 (Remaster)
+**Albums**: End Credits
 
-Last updated at 08/03/2020 18:05
+Last updated at 08/03/2020 18:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
