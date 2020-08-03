@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/crcX0HAQtexjejg2hmEf0dGJSQU77D95F5LVjnbT4uxOjPG-jcgXu7GnDp7Jdtv8dfP3PqmhK3i7frA">](https://music.youtube.com/channel/UC8txE2ZyN2Sh8XxH5OkHLSw)
 
-Avicii - Without You
+Nine Inch Nails - Hurt (Quiet)
 
-**Albums**: AVĪCI (01)
+**Albums**: The Downward Spiral (Deluxe Edition)
 
-Last updated at 08/03/2020 19:24
+Last updated at 08/03/2020 19:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
