@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/vBcUIDXPa0I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4USLDJfI1rPkkVlQE1FRew)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/PoKZlyaDAmQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa1Q2ic8wDlT1WH7LSO_4Sg)
 
-Mr_Kenzo - CFCF - Cometrue
+Eton Messy - Henry Krinkle - Stay (Justin Martin Remix)
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 12:02
+Last updated at 08/03/2020 12:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
