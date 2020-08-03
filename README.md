@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/J6LcGg2xnwk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCgdVpJTzVIyjz_i97myfQzw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/d7hEVUYJd6w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
 
-kwon7108 - 紅唇 Vanilla mood
+a_hisa - Bloomin' Lights
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 14:19
+Last updated at 08/03/2020 14:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
