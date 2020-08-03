@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/wOLiEu7275E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCxP6lNdvbkkn3KXc7aG1XfQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/b5vTtmP-GHs/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCnXIM7zYjTSJnu4fJNppjBw)
 
-Return to Zero - DJ Sly - いのちの名前～ジブリ・メドレー
+bubba1234e - DJ Okawari - Afterschool
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 14:00
+Last updated at 08/03/2020 14:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
