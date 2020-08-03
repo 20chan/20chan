@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6wCU4bl2p8oicqpgvIGDNurt-A4-5FZ8hrWY6UlrVuBGDpe4Dip72HuyWoivlTtz_9umh5D1pFZ59CEv">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mr4i0Pv3d4IQl4elzyPRmk5wxD97aPmLtqp1Bade-m8fkVu6KDLEqCLsXqwGpbDWek1apWStMt_9G0w">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Crying Nut - 서커스 매직 유랑단 Circus Magic Clowns
+Avicii - Wake Me Up (Avicii By Avicii)
 
-**Albums**: Circus Magic Clowns
+**Albums**: True: Avicii By Avicii
 
-Last updated at 08/03/2020 20:50
+Last updated at 08/03/2020 20:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
