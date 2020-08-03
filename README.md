@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nKzUyGxMddXNZsWq-pyHg-49HVU4H4PL7P69DTihi3DWlqUtn5LNkLF0gae7qVhqUW7Ez7fyhakSZAfO">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-The Chainsmokers - Everybody Hates Me
+Imagine Dragons - Dream
 
-**Albums**: Sick Boy
+**Albums**: Smoke + Mirrors
 
-Last updated at 08/03/2020 17:47
+Last updated at 08/03/2020 17:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
