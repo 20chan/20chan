@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nKzUyGxMddXNZsWq-pyHg-49HVU4H4PL7P69DTihi3DWlqUtn5LNkLF0gae7qVhqUW7Ez7fyhakSZAfO">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ucCHp0gCeUhbjcfor8h8MfVGylba2tHjaaB-BWD12fwB90rs2fV7MTnvWUWE4MfKBlCpWI3mJL6UHsac">](https://music.youtube.com/channel/UCVSu2xl5e0igBhVEgjPPqdA)
 
-Imagine Dragons - The Fall
+THORNAPPLE - Gills 아가미
 
-**Albums**: Smoke + Mirrors
+**Albums**: I Often Stammer and Forget the Way to Sleep 난 자꾸 말을 더듬고 잠드는 법도 잊었네 (Remaster)
 
-Last updated at 08/03/2020 17:59
+Last updated at 08/03/2020 18:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
