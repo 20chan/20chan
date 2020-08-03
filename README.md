@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/tJCq_77Xj2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVeETS7uZTAARqvv2zssZCw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Bg0SZzlOS5I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoGZbIIv7HZLb0y2COCCYYw)
 
-Sensual Musique - Eklo - Let's Go Home
+Deep As Hell. - Kelvin Jones - Call You Home (Faul & Wad Remix)
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 12:39
+Last updated at 08/03/2020 12:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
