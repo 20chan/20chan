@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZN00F-huuMDmhs4wRBcKA86OB0oS_OdwyAidd6nXf8HW2hhx13AUFCRMy_WQZX-Z1HCdEkSE0rwgjck">](https://music.youtube.com/channel/UCUUfPDP3PVb6YXN-dmZxgDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-이현우 - 슬픔속에그댈지워야만해
+Imagine Dragons - Rise Up
 
-**Albums**: 사랑할수없는너
+**Albums**: Evolve
 
-Last updated at 08/03/2020 17:00
+Last updated at 08/03/2020 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
