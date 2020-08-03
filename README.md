@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-The Chainsmokers - Don't Let Me Down (feat. Daya)
+Imagine Dragons - Next To Me
 
-**Albums**: Collage EP
+**Albums**: Evolve
 
-Last updated at 08/03/2020 16:29
+Last updated at 08/03/2020 16:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
