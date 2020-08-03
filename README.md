@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t7tMSD82FzxrQLGAFtIhoPUkTyWbxEY3otLoULBao2_X3U2VvlLlMwR_7iDvCjCeEQ-w60sU7bMbrcWt8A">](https://music.youtube.com/channel/UCIzsJBIyo8hhpFm1NK0uLgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-The Cinematic Orchestra - To Build A Home (feat. Patrick Watson)
+Avicii - Without You
 
-**Albums**: Ma Fleur
+**Albums**: AVĪCI (01)
 
-Last updated at 08/03/2020 10:45
+Last updated at 08/03/2020 10:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
