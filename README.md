@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/cYp-x2aa9NM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DFpya-3uJCdgAoCXsctvC1gVQe_NBgVoYXeGHou-Ypg1ZkQHKUhMek6WknARB_vPLxa-L5XGFojgglFl">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
 
-a_hisa - Suiren
+a_hisa - Rainy Waltz
 
-**Albums**: undefined
+**Albums**: shizuku
 
-Last updated at 08/03/2020 15:08
+Last updated at 08/03/2020 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
