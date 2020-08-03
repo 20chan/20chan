@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4XDZ1J16yN4J1u3Il4Se_CK9O6rW7YzQjLcULmKNYrkjIAI9hW02S6_I4RLrPC-7VA3bQwd_VI49TeQ">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Busker Busker - I Believe
+HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
 
-**Albums**: 슈퍼스타K 3 Top11 Part 7 [Super StarK 3 Top11 Part.7]
+**Albums**: Helicopter
 
-Last updated at 07/31/2020 19:01
+Last updated at 08/03/2020 10:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
