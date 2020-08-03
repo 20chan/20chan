@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DV4TqSp7crlL93KMjN2bgKG8UZvQW1_Dwp98-oLhtELnfg8wYo_oxbY7tvPCZHekkG2WWKmd-NQFpc0r">](https://music.youtube.com/channel/UCcCfceEK2s7kYPDhLsHBg3g)
 
-더 크로스 - 당신을 위하여
+EDEN - drugs
 
-**Albums**: Melody Quus
+**Albums**: i think you think too much of me
 
-Last updated at 08/03/2020 18:14
+Last updated at 08/03/2020 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
