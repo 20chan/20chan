@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zQGVnzxLTcqODLs_xHxMWbw2y3UeFax1gxL3WLmUAICggGXNRRfYGdc4TAAUilhiLZeo4RMcj2S1aR_CZA">](https://music.youtube.com/channel/UC9TynkEiIsDxKjtDZKmiUvw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bPQAXtxg9kp3_2RPlgtnezp5opZgYFUGQNTnZLEd_131df6T3Nht7Jo3Tx44WwseRUYPe8OeApHM88S50A">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Madeon - All My Friends
+Avicii - The Days
 
-**Albums**: Good Faith
+**Albums**: The Days / Nights (EP)
 
-Last updated at 08/03/2020 19:58
+Last updated at 08/03/2020 20:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
