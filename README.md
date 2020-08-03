@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Es6Yiw4D27k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6o9vvG5IFx2sv7u0NEntdg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/hf_-2DVXmQo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGVlcArCtAXifEZXvQXBDUA)
 
-Calmbeats - Hazzy - Street Of Dreams
+Wy-i Music - Wy-i × Sunrise feat. NAK - [Instrumental] (Howl's Moving Castle)
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 14:08
+Last updated at 08/03/2020 14:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
