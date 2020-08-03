@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/npg46gtNGL7kYhu4kjJVHTJ8DMaeNbSvUpJofGY8X5JDsAE_jtZGG9OWEKTvnOseCAdAoqm_qCGulqGC">](https://music.youtube.com/browse/MPREb_XlVYrMQ0mew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/N5nSp_hywhDY-qgrFVAx23FDb-2R5nLmwaAnGeJ_L3pLOvCcbKtqBNRYf58BwzV9ngyar0DXfEw0qcNAbg">](https://music.youtube.com/channel/UCOoeYFBb53aE2TvzhOiYv7Q)
 
-디제이 디오씨(DJ DOC) - Remember (그녀의 속눈썹은 길다)
+Sweetsorrow (스윗소로우) - I Love You
 
-**Albums**: 디제이 디오씨(DJ DOC) 3집(D제(除)2덕(德))
+**Albums**: Sweetics
 
-Last updated at 08/03/2020 19:38
+Last updated at 08/03/2020 19:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
