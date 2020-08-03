@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Bg0SZzlOS5I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoGZbIIv7HZLb0y2COCCYYw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mSlupRHRK4I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGZXYc32ri4D0gSLPf2pZXQ)
 
-Deep As Hell. - Kelvin Jones - Call You Home (Faul & Wad Remix)
+Armada Music - Clément Bcx - Miracle In The Middle Of My Heart (Official Music Video)
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 12:42
+Last updated at 08/03/2020 12:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
