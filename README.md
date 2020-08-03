@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cDiONIA_cqST8nTUOKxwHU8Bq26MWHIs1vPhnB_OVml_3M_C4kOKcjeyEh-Ft3VY7qnRFFk46ESRmGch">](https://music.youtube.com/channel/UCDnqbjv0zR9Bs8go3Blaijg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
 
-민수 Minsu - 섬 Islet
+Conan Gray - Maniac
 
-**Albums**: 섬 Islet
+**Albums**: Kid Krow
 
-Last updated at 08/03/2020 16:42
+Last updated at 08/03/2020 16:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
