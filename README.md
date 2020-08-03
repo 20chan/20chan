@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/2FswQIz19XE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5WMiuvjshLoZDC4vf0Zk4g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/NEcgF3dqGP8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsIVO6D0m7zzybvNTY9499g)
 
-filous & Damien Jurado - Ohio (filous Remix)
+SkylineHQ - Junge Junge Ft. Kyle Pearce - Beautiful Girl (Original Mix)
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 12:23
+Last updated at 08/03/2020 12:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
