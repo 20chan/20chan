@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/AZaTEiqmWDY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbCoUV9aGY1AyyOegcuTOKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uWe0fH2vACs/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCnXIM7zYjTSJnu4fJNppjBw)
 
-Music For Your Soul - DJ Okawari - Peacock
+bubba1234e - DJ Okawari - Minamo
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 12:55
+Last updated at 08/03/2020 13:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
