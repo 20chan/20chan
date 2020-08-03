@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jMjc69TnbRXpM-VcKAkFoRTxjY6--nUMGEPL3MQVxfl_3AAtsGb2fAO6RvqFEjeBumq52lqiro-wVPhT">](https://music.youtube.com/channel/UCzJ7PrO2pmCVGgSq18Fr0Dg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f7fD7vDytAT-e82XV7qfD-QseE4XrUzJOkGlgkiGIBCUWQYnKintKcmycF24utnTYqDvswVSll3XFdK7gQ">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
 
-Susumu Hirasawa - Parade
+BANNERS - Someone To You
 
-**Albums**: Paprika (Original Soundtrack Album)
+**Albums**: Empires On Fire
 
-Last updated at 08/03/2020 10:39
+Last updated at 08/03/2020 10:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
