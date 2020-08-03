@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GbcfcBe2jH71hwl_-erqevODt2lHnC7tYepEAWAxyXdkoo7jfze8yRJPFE1sZIR9Ocnpah9cTaD6S6QU4w">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cPTpGD3dTzJv-hq30ZKWVZerWG6wXfd-Qim6gfiEcrIj4sIkpFi35KoaZWjA5XyWHbEat-pS8-MeyEV3">](https://music.youtube.com/channel/UC9TynkEiIsDxKjtDZKmiUvw)
 
-Jang Beom June - Without You by My Side (A New Song Called Wedding March)
+Madeon - Pay No Mind (feat. Passion Pit)
 
-**Albums**: Jang Beom June 2nd Album
+**Albums**: Adventure (Deluxe)
 
-Last updated at 08/03/2020 21:05
+Last updated at 08/03/2020 21:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
