@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uWe0fH2vACs/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCnXIM7zYjTSJnu4fJNppjBw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/W0HN_PrPsYU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjPkm12yPLblkIbrO1o56xg)
 
-bubba1234e - DJ Okawari - Minamo
+Samu Music - 逆时针向NSZX - 最初【纯音乐】
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 13:47
+Last updated at 08/03/2020 13:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
