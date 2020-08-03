@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2JVoq_HA6uUdJv08zL1Ar8oroHJsvmAXZn3xxRwY2loKy1Uq3IkZHye-I_Ey4tB70lOi4NRNwh8Xuc9a">](https://music.youtube.com/channel/UCo5Hx6tOkjyWHmJDucjtB0A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tgDKXG9pHrKFMGjwDM9waFSOs_KlSXF05uymprrGyHvLLg6KGl6U-O34pI2cNukVMatNft6lY-SyaEzHxQ">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
 
-Ruel - Painkiller (feat. Denzel Curry)
+Zedd - Clarity (feat. Foxes)
 
-**Albums**: Painkiller
+**Albums**: Clarity
 
-Last updated at 08/03/2020 18:37
+Last updated at 08/03/2020 18:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
