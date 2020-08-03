@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/alWLsNVvCDvoRhwYELsityi5-_NdwKPQaSOqTD3Qjb4TY6YH0VyKhZWNGu91nEpgUEIVEeQFyFnimiws">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-Noah Kahan - Please
+IU - Blueming
 
-**Albums**: Hurt Somebody
+**Albums**: Love poem
 
-Last updated at 08/03/2020 20:10
+Last updated at 08/03/2020 20:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
