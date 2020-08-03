@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cDiONIA_cqST8nTUOKxwHU8Bq26MWHIs1vPhnB_OVml_3M_C4kOKcjeyEh-Ft3VY7qnRFFk46ESRmGch">](https://music.youtube.com/channel/UCDnqbjv0zR9Bs8go3Blaijg)
 
-Imagine Dragons - Walking The Wire
+민수 Minsu - 섬 Islet
 
-**Albums**: Evolve
+**Albums**: 섬 Islet
 
-Last updated at 08/03/2020 16:38
+Last updated at 08/03/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
