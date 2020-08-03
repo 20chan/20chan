@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_mmC0s_MAuFZzW9KtySNcv4th6OiStTCO4ejmN8FVEG01EQqrsXwT_r3xD8Ez8TVpXSKaGo1Qdbn5VA">](https://music.youtube.com/channel/UCJhUhrOkIaqMhc_SQGmBWmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Rick and Morty - Don't Look Back [From Rick and Morty: Season 4] (feat. Kotomi & Ryan Elder)
+Imagine Dragons - It's Time
 
-**Albums**: Don't Look Back [From Rick and Morty: Season 4]
+**Albums**: Night Visions
 
-Last updated at 08/03/2020 17:19
+Last updated at 08/03/2020 17:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
