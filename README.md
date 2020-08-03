@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW3r49XYQtD0Ezj_QF5_viBzGicH1lzZt30mupm9awfmZIYflE544gYdgO3xuwNtKeuNrf15bOyurnFf">](https://music.youtube.com/channel/UCvROWX-9lZzoVsiJEsG8wgg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zQGVnzxLTcqODLs_xHxMWbw2y3UeFax1gxL3WLmUAICggGXNRRfYGdc4TAAUilhiLZeo4RMcj2S1aR_CZA">](https://music.youtube.com/channel/UC9TynkEiIsDxKjtDZKmiUvw)
 
-Marcus Layton - For You (Radio Edit) (feat. Tin Sparrow)
+Madeon - All My Friends
 
-**Albums**: For You
+**Albums**: Good Faith
 
-Last updated at 08/03/2020 19:55
+Last updated at 08/03/2020 19:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
