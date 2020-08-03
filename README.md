@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IkomkTYa0RepVBkPzVCDsrHjePMmgl4L-Bef9lPz4KTujFxGAxJZxu7vPU2GfFFUId9_MjGDZyxD2x5-">](https://music.youtube.com/channel/UC27jxefZWRB7dYSTZ2KgR3A)
 
-Imagine Dragons - Bad Liar
+윤지영 (Yoon Ji Young) - 우우우린 wwwe
 
-**Albums**: Origins
+**Albums**: 우우우린 wwwe
 
-Last updated at 08/03/2020 16:02
+Last updated at 08/03/2020 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
