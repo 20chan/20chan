@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KGDqMVvKwj8g1AZ8qqaXJe1w26n3sTeUl8vA4TWdzxH1aAHrt4HRauoEFs4DkD76zhaRLeoSsYCS6YoB">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-The Chainsmokers - Call You Mine (feat. Bebe Rexha)
+Alan Walker - Heading Home
 
-**Albums**: World War Joy...Takeaway
+**Albums**: Heading Home
 
-Last updated at 08/03/2020 18:49
+Last updated at 08/03/2020 18:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
