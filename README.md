@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/TP9luRtEqjc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUIRrvexIhgFsdjRucxhQ5w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/vBcUIDXPa0I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4USLDJfI1rPkkVlQE1FRew)
 
-Jamie xx - Loud Places (feat. Romy)
+Mr_Kenzo - CFCF - Cometrue
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 11:57
+Last updated at 08/03/2020 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
