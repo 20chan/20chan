@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XLVJNg0MlKj6ttdVgDHHriwB9d5NqunPC9sV7Q-Z-Z-N_v9299Crl78qfVV2rV4db2Cwd64Vjbg-y9XV">](https://music.youtube.com/channel/UCQ-ygxSFSlq-O2zGnXxELXQ)
 
-HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
+Charlie Puth - Attention
 
-**Albums**: Helicopter
+**Albums**: Voicenotes
 
-Last updated at 08/03/2020 10:22
+Last updated at 08/03/2020 10:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
