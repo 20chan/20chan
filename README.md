@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DFpya-3uJCdgAoCXsctvC1gVQe_NBgVoYXeGHou-Ypg1ZkQHKUhMek6WknARB_vPLxa-L5XGFojgglFl">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2I0tjc1iBVfMaadRP50dr_Se7BxLybf3JLyNewnHPAuTDcOl_0HeSbpkb30OmovTWsn_l1sIOIXmYbBJVA">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
 
-a_hisa - Rainy Waltz
+a_hisa - Mint Parfait
 
-**Albums**: shizuku
+**Albums**: colors 4
 
-Last updated at 08/03/2020 15:12
+Last updated at 08/03/2020 15:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
