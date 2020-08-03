@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWRIZEQt8RmBPAW1VQEb3LNlbvzDb86RBPG7blyJWMvFN33OjvDteu6mDBScfFmCTA4xLcDshwkE9HQ">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SaL-edumQXCc-ezF3FHMwm4WqlaYFrAsRL5c7I8Xdt0AlxHn2Dnzj9TV5BxZe_1jhu6hallvgJUduMN7">](https://music.youtube.com/channel/UC3pumhFbD1nE7oVISQ_l8Sg)
 
-a_hisa - Grim
+a_hisa - Moon Rabbit
 
-**Albums**: colors 5
+**Albums**: Single Collection
 
-Last updated at 08/03/2020 15:37
+Last updated at 08/03/2020 15:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
