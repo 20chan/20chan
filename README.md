@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/owSnY-NluU6TbQ7PDePTTCZ00tfwSpsA7NjxE4HdP6KfdmIX1Oet7BvrwWmMzG9XJny2b3KHRM77ssQo">](https://music.youtube.com/channel/UCUC_Qp7oUMwi4BIN2XH6G7Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Dean Lewis - Hold Of Me
+The Chainsmokers - Don't Let Me Down (feat. Daya)
 
-**Albums**: A Place We Knew
+**Albums**: Collage EP
 
-Last updated at 08/03/2020 16:25
+Last updated at 08/03/2020 16:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
