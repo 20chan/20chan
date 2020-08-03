@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xZig5opDbPqlZgrl7mouCEM9zUttaZKATnkfdfd85tNRo0fxELg49g0A9bYMUfX6QtTJlZEob_iS14s">](https://music.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Younha - 비밀번호 486
+Imagine Dragons - Love
 
-**Albums**: 고백하기 좋은 날 (Special Edition)
+**Albums**: Origins
 
-Last updated at 08/03/2020 17:14
+Last updated at 08/03/2020 17:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
