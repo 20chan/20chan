@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Jonas Blue - Fast Car (feat. Dakota)
+Avicii - Ain't A Thing (feat. Bonn)
 
-**Albums**: Blue
+**Albums**: TIM
 
-Last updated at 08/03/2020 10:51
+Last updated at 08/03/2020 10:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
