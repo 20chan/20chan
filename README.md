@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jmQW4UBrW3xkqlkdWoBKYLD_iuLGEMxk94CJk5yRvrGIVDsFHSIUt3-VvnlQs67mUDRSFDOc1Gs8-7Cu">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4JFvImNtUl6zwJqgtm-2haRDmEHvjH1XBtJ1e-dEj-jtG6nbEGj6cGkGCICrPh0gZC8XoLOMG562VUUN">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-OneRepublic - If I Lose Myself
+Noah Kahan - Mess
 
-**Albums**: Native
+**Albums**: Busyhead
 
-Last updated at 08/03/2020 19:04
+Last updated at 08/03/2020 19:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
