@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KGDqMVvKwj8g1AZ8qqaXJe1w26n3sTeUl8vA4TWdzxH1aAHrt4HRauoEFs4DkD76zhaRLeoSsYCS6YoB">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fFO8LUveaTl9bn4tPNIppHuv1J1XpMeg9lIUKN6Jb20B360-Mis0kC4Q1CfpGkR7LTqZWLMYjLkR-66T">](https://music.youtube.com/channel/UCwNoBkSn4w8l4olCKDCTplQ)
 
-Alan Walker - Heading Home
+Vance Joy - Georgia
 
-**Albums**: Heading Home
+**Albums**: Dream Your Life Away (Special Edition)
 
-Last updated at 08/03/2020 18:53
+Last updated at 08/03/2020 18:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
