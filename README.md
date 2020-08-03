@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sReCDVyqAklp3pl7JAyZ6efrFRq0aR9IPH95ZODRVXco_jZSJqml8FZydDYYPbI9pHM967cPf2XOLm_Xzw">](https://music.youtube.com/channel/UCdFx6Sk-JUFmIH4LIxV9Kpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/owSnY-NluU6TbQ7PDePTTCZ00tfwSpsA7NjxE4HdP6KfdmIX1Oet7BvrwWmMzG9XJny2b3KHRM77ssQo">](https://music.youtube.com/channel/UCUC_Qp7oUMwi4BIN2XH6G7Q)
 
-Hollow Coves - Patience
+Dean Lewis - Straight Back Down
 
-**Albums**: Moments
+**Albums**: A Place We Knew
 
-Last updated at 08/03/2020 20:30
+Last updated at 08/03/2020 20:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
