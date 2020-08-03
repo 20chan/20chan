@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/W0HN_PrPsYU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjPkm12yPLblkIbrO1o56xg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7PKDiWU2WHY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCxWe9TODrX0FBR6Gh0KOdCg)
 
-Samu Music - 逆时针向NSZX - 最初【纯音乐】
+ytk g - Children of The Earth / Ayur
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 13:50
+Last updated at 08/03/2020 13:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
