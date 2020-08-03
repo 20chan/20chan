@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sReCDVyqAklp3pl7JAyZ6efrFRq0aR9IPH95ZODRVXco_jZSJqml8FZydDYYPbI9pHM967cPf2XOLm_Xzw">](https://music.youtube.com/channel/UCdFx6Sk-JUFmIH4LIxV9Kpg)
 
-Paul Kim - Traffic Light
+Hollow Coves - Patience
 
-**Albums**: Traffic Light
+**Albums**: Moments
 
-Last updated at 08/03/2020 20:26
+Last updated at 08/03/2020 20:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
