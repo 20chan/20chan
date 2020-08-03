@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GDRZJc6rEjqlCbqqHH7DLqwkHi9mcSQMP3nzZURPN1_jXGcr5fepGZx04uU_jiuM6XAaeIdry9BGuPo">](https://music.youtube.com/channel/UCUt2uP6O_UBJp4aBx5KjQjA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GbcfcBe2jH71hwl_-erqevODt2lHnC7tYepEAWAxyXdkoo7jfze8yRJPFE1sZIR9Ocnpah9cTaD6S6QU4w">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
 
-Porter Robinson & Madeon - Shelter
+Jang Beom June - Without You by My Side (A New Song Called Wedding March)
 
-**Albums**: Shelter
+**Albums**: Jang Beom June 2nd Album
 
-Last updated at 08/03/2020 21:01
+Last updated at 08/03/2020 21:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
