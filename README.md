@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SKwhZaa_EL7u1fw9w_MlT5WGZWn-vh8cr9am0_9y3XvvpeIof93vYZ978kw5eLtDE3Ioxrun6HbxfLlo">](https://music.youtube.com/channel/UClHxZy_9ArA6rploIzcDReQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Nw5rfoKHjsqmqxaGMZ2HL2I8f0MOy-xKo3pcSO7BQ77e1s50N9X4mPHUxUUK-1r7mSvfI_8a4QsPG6CZtg">](https://music.youtube.com/channel/UCdS-U2PcmohOBkzYenZfTcQ)
 
-Dermot Kennedy - Power Over Me
+Zion.T - No Make Up
 
-**Albums**: Dermot Kennedy
+**Albums**: No Make Up
 
-Last updated at 08/03/2020 19:32
+Last updated at 08/03/2020 19:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
