@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fFO8LUveaTl9bn4tPNIppHuv1J1XpMeg9lIUKN6Jb20B360-Mis0kC4Q1CfpGkR7LTqZWLMYjLkR-66T">](https://music.youtube.com/channel/UCwNoBkSn4w8l4olCKDCTplQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FjBbw7AgcolDeEEpBH5hbI-kT7sb0gNDEmn_ys69LasAg8WS7bK1IuhaDm2N2b7-m89c4ucKGYPtQRRy">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-Vance Joy - Georgia
+Alan Walker, Sabrina Carpenter & Farruko - On My Way (Da Tweekaz Remix)
 
-**Albums**: Dream Your Life Away (Special Edition)
+**Albums**: On My Way
 
-Last updated at 08/03/2020 18:56
+Last updated at 08/03/2020 19:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
