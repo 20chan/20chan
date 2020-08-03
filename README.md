@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/R7q24DU3UqHbu_VqV7j4TTilo0OzAE8GaG-DLnLqOhA9P0jNEhLxkrChUtfBTO8chPrM49OEV6sHHrw">](https://music.youtube.com/channel/UCnK1mlWb6zp7AQfCpseJ4Qg)
 
-Avicii - Broken Arrows
+MAX - Still New York (feat. Joey Bada$)
 
-**Albums**: Stories
+**Albums**: Still New York
 
-Last updated at 08/03/2020 20:38
+Last updated at 08/03/2020 20:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
