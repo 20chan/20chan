@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DV4TqSp7crlL93KMjN2bgKG8UZvQW1_Dwp98-oLhtELnfg8wYo_oxbY7tvPCZHekkG2WWKmd-NQFpc0r">](https://music.youtube.com/channel/UCcCfceEK2s7kYPDhLsHBg3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xg0ivtIwypqIULUvU0GdmSHasX7_P6L5dfsjHmh9AA125EyN6jRC3mw8VjaFEgEjxJH-Hy02o8LTy8M">](https://music.youtube.com/channel/UC27jxefZWRB7dYSTZ2KgR3A)
 
-EDEN - Circles
+윤지영 (Yoon Ji Young) - 언젠가 너와 나 a will (feat. Car, the Garden)
 
-**Albums**: i think you think too much of me
+**Albums**: 언젠가 너와 나 a will
 
-Last updated at 08/03/2020 16:48
+Last updated at 08/03/2020 16:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
