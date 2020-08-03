@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_mmC0s_MAuFZzW9KtySNcv4th6OiStTCO4ejmN8FVEG01EQqrsXwT_r3xD8Ez8TVpXSKaGo1Qdbn5VA">](https://music.youtube.com/channel/UCJhUhrOkIaqMhc_SQGmBWmg)
 
-Imagine Dragons - Love
+Rick and Morty - Don't Look Back [From Rick and Morty: Season 4] (feat. Kotomi & Ryan Elder)
 
-**Albums**: Origins
+**Albums**: Don't Look Back [From Rick and Morty: Season 4]
 
-Last updated at 08/03/2020 17:16
+Last updated at 08/03/2020 17:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
