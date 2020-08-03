@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FYP38UWo3bJADD2Eq4km-Z2tLWXqKUK8xdEUw54epg9lQdSSlmvMzFg-CPmximDS6BaTghO365gJ_mDg">](https://music.youtube.com/channel/UCru0TzfCGnjxkRJO1ixwSOw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/17i9mDGHMXF_sqZW973g_tJK2YHTgjTZrl1QtDZG87OigsUr7VbLEabjq__iUIYV9I8SFUFbETblXMO4">](https://music.youtube.com/channel/UCkhjJ1ozo9YkGtZ2Vl-QpwA)
 
-Lena Park - In dreams
+Kygo - Stranger Things (feat. OneRepublic)
 
-**Albums**: Op. 4
+**Albums**: Kids in Love
 
-Last updated at 08/03/2020 19:11
+Last updated at 08/03/2020 19:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
