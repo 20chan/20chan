@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/crcX0HAQtexjejg2hmEf0dGJSQU77D95F5LVjnbT4uxOjPG-jcgXu7GnDp7Jdtv8dfP3PqmhK3i7frA">](https://music.youtube.com/channel/UC8txE2ZyN2Sh8XxH5OkHLSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SKwhZaa_EL7u1fw9w_MlT5WGZWn-vh8cr9am0_9y3XvvpeIof93vYZ978kw5eLtDE3Ioxrun6HbxfLlo">](https://music.youtube.com/channel/UClHxZy_9ArA6rploIzcDReQ)
 
-Nine Inch Nails - Hurt (Quiet)
+Dermot Kennedy - Power Over Me
 
-**Albums**: The Downward Spiral (Deluxe Edition)
+**Albums**: Dermot Kennedy
 
-Last updated at 08/03/2020 19:27
+Last updated at 08/03/2020 19:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
