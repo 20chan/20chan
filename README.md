@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8SOJQYLeJGKsDdhsVVI7NaPCYEx3RGIXVAJM4Nrec3QSzAbgYsWeHhvp3vote8FgO_VwJH9BWBNXu3c6">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
 
-Imagine Dragons - Next To Me
+Conan Gray - Checkmate
 
-**Albums**: Evolve
+**Albums**: Kid Krow
 
-Last updated at 08/03/2020 16:32
+Last updated at 08/03/2020 16:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
