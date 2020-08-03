@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1LNyyd0JXKM/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC27-dg6i17EzjxHZ1rbF7tg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/J6LcGg2xnwk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCgdVpJTzVIyjz_i97myfQzw)
 
-Cheng Han Wu - DJ Okawari - Bluebird Story (feat. Jumelles)
+kwon7108 - 紅唇 Vanilla mood
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 14:16
+Last updated at 08/03/2020 14:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
