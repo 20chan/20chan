@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7PKDiWU2WHY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCxWe9TODrX0FBR6Gh0KOdCg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wOLiEu7275E/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCxP6lNdvbkkn3KXc7aG1XfQ)
 
-ytk g - Children of The Earth / Ayur
+Return to Zero - DJ Sly - いのちの名前～ジブリ・メドレー
 
 **Albums**: undefined
 
-Last updated at 08/03/2020 13:55
+Last updated at 08/03/2020 14:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
