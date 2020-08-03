@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtzwLew9W3Igam672B19Vp7Kotr_tjTSkEY4L4DNjAvIkfLOxs34jYaAUJ3cCd5SUIzHwJfPyDIlHl_N">](https://music.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-BLACKPINK - How You Like That
+Imagine Dragons - Boomerang
 
-**Albums**: How You Like That
+**Albums**: Origins
 
-Last updated at 08/03/2020 18:27
+Last updated at 08/03/2020 18:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
