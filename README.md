@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sclTo5g_6hDDwlupSBInvQLOCnxnXYTTr7ZtweDru-p1LAKLIAdwNv7ei78mlMfCfOvCyFxwBxeYIib2ng">](https://music.youtube.com/channel/UCcCfceEK2s7kYPDhLsHBg3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-Eden - Gravity
+더 크로스 - 당신을 위하여
 
-**Albums**: End Credits
+**Albums**: Melody Quus
 
-Last updated at 08/03/2020 18:10
+Last updated at 08/03/2020 18:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
