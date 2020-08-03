@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Busker Busker - 여수 밤바다
+Imagine Dragons - Nothing Left To Say / Rocks (Medley)
 
-**Albums**: Busker Busker 1st
+**Albums**: Night Visions
 
-Last updated at 08/03/2020 17:34
+Last updated at 08/03/2020 17:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
