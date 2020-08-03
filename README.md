@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
 
-The Black Skirts - Who do you love
+Paul Kim - Traffic Light
 
-**Albums**: TEAM BABY
+**Albums**: Traffic Light
 
-Last updated at 08/03/2020 20:22
+Last updated at 08/03/2020 20:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
