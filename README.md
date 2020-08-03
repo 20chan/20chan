@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Avicii - Never Leave Me (feat. Joe Janiak)
+The Chainsmokers - Don't Let Me Down (feat. Daya)
 
-**Albums**: TIM
+**Albums**: Collage EP
 
-Last updated at 08/03/2020 11:09
+Last updated at 08/03/2020 11:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
