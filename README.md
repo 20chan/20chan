@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ledm7Xl5tAu7WKYoR7jz-GRHzsxoquhvvA1l0dLYb_eT0MrANZPJBmNfH1tBc-LvNFLJSK4gVShqY9s">](https://music.youtube.com/channel/UCOnjfbg3ooksS-Mxse2Gc5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qvJL7K0v6TlxxqB6Bg1Pg11nnO6GECM8Xjf82dK8MmorfDTNoDHaVDnPQjIMn8A0R19KQUlSWsSv5eZWxw">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Willyecho - Everything or Nothing
+Noah Kahan - Maine
 
-**Albums**: Everything or Nothing
+**Albums**: Cape Elizabeth
 
-Last updated at 08/04/2020 14:31
+Last updated at 08/04/2020 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
