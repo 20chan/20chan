@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MyjxHP_M5Gj6glDTCuNyNcX6F4MUUAWxCXeT10fSgbaMed8IHg6soqiMLjif_n92j_eDQxZoRMMV_Iaw">](https://music.youtube.com/channel/UCG_7ydxEUqxJlIL9_Uy-Z4Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Seafret - Wildfire
+Noah Kahan - Hurt Somebody
 
-**Albums**: Tell Me It's Real (Expanded Edition)
+**Albums**: Hurt Somebody
 
-Last updated at 08/04/2020 17:58
+Last updated at 08/04/2020 18:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
