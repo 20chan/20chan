@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1RRoMWMXfbaDq3UdlPpSIfweeMHMhQkRLIjhe-l0q4VVMhmL8bRUrhOwCJwo21sOVcgIcmlHYzl4pwuvWA">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Martin Garrix - Don't Look Down (feat. Usher)
+Avicii - Peace Of Mind (feat. Vargas & Lagola, Lagola & Vargas)
 
-**Albums**: Don't Look Down
+**Albums**: TIM
 
-Last updated at 08/04/2020 16:06
+Last updated at 08/04/2020 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
