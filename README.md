@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ujxqBkHU3Ps/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHBtaCGjuuNyJAAcbv5ESXw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JaTxVDqN-Y8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtKxftzY_vOqs58bF7ZjXsQ)
 
-Autumnal Pink - 小峠 舞 (C-CLAYS) To the Limit [月時計　～ ルナ・ダイアル]
+momomyai - Miku & Rin - The Lost Lovers (ロストワンの号哭 x 裏表ラバーズ)
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:40
+Last updated at 08/04/2020 13:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
