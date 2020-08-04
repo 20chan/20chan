@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3Mo1sEJN47c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSm5OTQukjcXyY1pBFVoKVw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/x7VkyIBK6rU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmoIM2c1E_5dI7-ZDnFXJkQ)
 
-Ģirts Linkums - Undead Corporation - 紅染の鬼が哭く - Yoru Naku Usagi wa Yume wo Miru [192kpbs]
+Sully Orchestration - BAD APPLE!! - EPIC ORCHESTRAL COVER (Japanese Ver. 日本版)
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:49
+Last updated at 08/04/2020 12:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
