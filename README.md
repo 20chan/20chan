@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Avicii - Without You
+Avicii - Ain't A Thing (feat. Bonn)
 
-**Albums**: AVĪCI (01)
+**Albums**: TIM
 
-Last updated at 08/04/2020 15:37
+Last updated at 08/04/2020 15:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
