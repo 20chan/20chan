@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xOz-T3NPtLA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu_VALQYVq3Xzmt5pgh2msw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ESx_hy1n7HA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
 
-Adauchi S. - 【東方Vocalアレンジ】 EastNewSound - 緋色月下、狂咲ノ絶　-1st Anniversary Remix-
+Mili - world.execute (me) ;
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:00
+Last updated at 08/04/2020 12:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
