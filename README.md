@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ziLVXafR0wH8BB1iDfPV3uL-Lpg3bn4TT_57pUTon81xoGZA9KYcALjpF9qd-Uk35fX6gjkoI6b-vM4">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h_wGw-elowbt7A9MS5Qldqs2oHzV3qKs8K0-q58F59EGJKqQeiGc1w6T6S_Lo2Xtbx3YZjl75QvrEhVPZg">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
 
-Martin Garrix & Matisse & Sadko - Mistaken (feat. Alex Aris)
+OneRepublic - Let's Hurt Tonight (BUNT. Remix)
 
-**Albums**: Mistaken
+**Albums**: Let's Hurt Tonight (BUNT. Remix)
 
-Last updated at 08/04/2020 16:16
+Last updated at 08/04/2020 16:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
