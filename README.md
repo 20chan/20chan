@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Avicii - Waiting For Love
+Noah Kahan - Please
 
-**Albums**: Stories
+**Albums**: Hurt Somebody
 
-Last updated at 08/04/2020 18:19
+Last updated at 08/04/2020 18:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
