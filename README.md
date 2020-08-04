@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JaTxVDqN-Y8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCtKxftzY_vOqs58bF7ZjXsQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wefOI4tnW08/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCycjmrRpDoLY0p_rHeLDCRw)
 
-momomyai - Miku & Rin - The Lost Lovers (ロストワンの号哭 x 裏表ラバーズ)
+Yo Kaze - 【オリジナル DnB】World's End, Girl's Rondo 【Asterisk】
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:44
+Last updated at 08/04/2020 13:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
