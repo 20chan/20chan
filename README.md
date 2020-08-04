@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h_wGw-elowbt7A9MS5Qldqs2oHzV3qKs8K0-q58F59EGJKqQeiGc1w6T6S_Lo2Xtbx3YZjl75QvrEhVPZg">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0">](https://music.youtube.com/channel/UCJ-YZiz-gucyqHRqOU4h_bQ)
 
-OneRepublic - Let's Hurt Tonight (BUNT. Remix)
+Matisse & Sadko & SMBDY - Fade Away
 
-**Albums**: Let's Hurt Tonight (BUNT. Remix)
+**Albums**: Fade Away
 
-Last updated at 08/04/2020 17:10
+Last updated at 08/04/2020 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
