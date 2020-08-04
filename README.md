@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pZ3nf_uVVydRTySVvPik5euXg1GsZvwPJseKVLZJhmfsJA_3Z1c04Mmp5KUtQIBut9hUP1TSTECXyElA">](https://music.youtube.com/channel/UC01xW-IhmfD-c3Nsvkh-kMQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Gazzo - Sun Turns Cold (Radio Edit) (feat. Chase Rice)
+Avicii - Without You
 
-**Albums**: Sun Turns Cold (Radio Edit)
+**Albums**: AVĪCI (01)
 
-Last updated at 08/04/2020 16:57
+Last updated at 08/04/2020 17:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
