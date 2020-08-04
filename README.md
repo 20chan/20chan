@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-TV0DSBqIc0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCYSy1Bu9lSicjbqTdb4RSqQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LLNdqKq3c5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuKWnqGUu17b6zCj1_vU4cQ)
 
-「永遠」EIENMUSIC - Hanatan - Tengaku
+Shaya Kagi - 【東方ボーカル】 Lost in the Abyss 【FELT】【Subbed】
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:17
+Last updated at 08/04/2020 13:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
