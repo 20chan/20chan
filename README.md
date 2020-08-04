@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/358VKElmVdAaa_-nruzxHhz3bBE1GGtRM_EjfOeNOakV_s4u0ot2PvFxhPAzmQuD9-j66T7M8pevKaYC">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_AcH90bJX5FteB-XZ_JFkY18BJHcbHLDQCgkfLYMK-lyabWEWtSCxgQDwkegaWj2GnZJbJGlAW-qL6If">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Jonas Blue - Rise (feat. Jack & Jack)
+The Chainsmokers - Roses (feat. ROZES)
 
-**Albums**: Blue
+**Albums**: Bouquet
 
-Last updated at 08/04/2020 16:47
+Last updated at 08/04/2020 16:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
