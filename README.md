@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0">](https://music.youtube.com/channel/UCJ-YZiz-gucyqHRqOU4h_bQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Matisse & Sadko & SMBDY - Fade Away
+Avicii - Never Leave Me (feat. Joe Janiak)
 
-**Albums**: Fade Away
+**Albums**: TIM
 
-Last updated at 08/04/2020 17:14
+Last updated at 08/04/2020 17:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
