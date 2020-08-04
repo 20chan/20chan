@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4JFvImNtUl6zwJqgtm-2haRDmEHvjH1XBtJ1e-dEj-jtG6nbEGj6cGkGCICrPh0gZC8XoLOMG562VUUN">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Y3RhP5uCc0RHVJm9kGGV8tXPagpJ4cU3smWGn5tmqjucgObNwP05fcNfv5DrmpQDR8NLU7ZDyeqUK45">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
 
-Noah Kahan - False Confidence
+BANNERS - Shine A Light
 
-**Albums**: Busyhead
+**Albums**: BANNERS
 
-Last updated at 08/04/2020 14:17
+Last updated at 08/04/2020 14:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
