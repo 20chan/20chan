@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ScSW9C3DF18/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdyY6sFMuQA1ZEaih0XvvCA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QC50ABNVexg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzeXtGfstqeyVlBarK5py6w)
 
-googoo888 - [1080P Full風] Luka Luka★Night Fever ルカルカ★ナイトフィーバー 巡音ルカ Project DIVA English lyrics romaji subtitles
+Hijiri Bee - [東方Electro] Feline Groove - ナイト・オブ・ナイツ (Cranky Remix)
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 14:03
+Last updated at 08/04/2020 14:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
