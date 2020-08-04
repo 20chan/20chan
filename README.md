@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ESx_hy1n7HA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-wNqHVYS82PF4mkaQb0Alg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CsdkIwLK-L8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC2d5oXT7RMgyMIcw-3e43aQ)
 
-Mili - world.execute (me) ;
+Mumble Etc. - ZUN - U.N. Owen Was Her? & Flowering Night (Koa Remix)
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:06
+Last updated at 08/04/2020 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
