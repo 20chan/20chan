@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Oa9uCkXt9qsuMVJRRPjaLsGV0dn2R7MMMOkI4lQHFmhdlmMzEkUgG8DSeBRduvUrdCraarkDUVSrrWGpwA">](https://music.youtube.com/channel/UCcucrfDVx-WyEtb8mQIKj0A)
 
-Avicii - Gonna Love Ya
+Axwell /\ Ingrosso - Sun Is Shining
 
-**Albums**: Stories
+**Albums**: More Than You Know
 
-Last updated at 08/04/2020 16:38
+Last updated at 08/04/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
