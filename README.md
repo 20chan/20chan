@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8jJZA-O_B78/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCGbu2mX09B2nlvuQokbRSFQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3Mo1sEJN47c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSm5OTQukjcXyY1pBFVoKVw)
 
-IAmTehChibeh - UN Owen Was Her- Full version
+Ģirts Linkums - Undead Corporation - 紅染の鬼が哭く - Yoru Naku Usagi wa Yume wo Miru [192kpbs]
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:44
+Last updated at 08/04/2020 12:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
