@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pZ3nf_uVVydRTySVvPik5euXg1GsZvwPJseKVLZJhmfsJA_3Z1c04Mmp5KUtQIBut9hUP1TSTECXyElA">](https://music.youtube.com/channel/UC01xW-IhmfD-c3Nsvkh-kMQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Gazzo - Sun Turns Cold (Radio Edit) (feat. Chase Rice)
+Avicii - Peace Of Mind (feat. Vargas & Lagola, Lagola & Vargas)
 
-**Albums**: Sun Turns Cold (Radio Edit)
+**Albums**: TIM
 
-Last updated at 08/04/2020 17:24
+Last updated at 08/04/2020 17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
