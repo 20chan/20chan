@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hG6ZNNWLb6U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmGMR_bG6xx9AAiPbxTr_RQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/az2Q7pjClYM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmGMR_bG6xx9AAiPbxTr_RQ)
 
-Phoenix Kappashiro - 【東方Vocal／Traditional Rock】 SAMURAI GHOST GIRL, KILL! KILL! 「Akatsuki Records」 【Subbed】
+Phoenix Kappashiro - 【東方Vocal／Traditional Rock】 祭符「神遊びの唄」 「凋叶棕」【ENG Subs】
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:06
+Last updated at 08/04/2020 13:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
