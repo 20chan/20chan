@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qACwKmS4xX12Y6dfPEanBpmpcrtmxXisWamlsFaJ9UQoleuRiv5P90mRi3ibwMzur14z8AXAPd80ueA7jg">](https://music.youtube.com/channel/UCBSzNBOfhhze08n3B04TYAw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4MhCNDu-7eH1nNjQZAAsrqDmITTo4eS9oNMmsXxLJAR_3aiXrdIRDq63Q6qxShMlqjYnwPYMDf73MTgozg">](https://music.youtube.com/channel/UCuPY6msZGySMzTpKLjyeO8g)
 
-The Gray Havens - Not Home Yet
+Calum Scott - Give Me Something
 
-**Albums**: She Waits
+**Albums**: Only Human (Deluxe)
 
-Last updated at 08/04/2020 14:42
+Last updated at 08/04/2020 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
