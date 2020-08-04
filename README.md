@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Oa9uCkXt9qsuMVJRRPjaLsGV0dn2R7MMMOkI4lQHFmhdlmMzEkUgG8DSeBRduvUrdCraarkDUVSrrWGpwA">](https://music.youtube.com/channel/UCcucrfDVx-WyEtb8mQIKj0A)
 
-Avicii - Friend Of Mine (feat. Vargas & Lagola, Lagola & Vargas)
+Axwell /\ Ingrosso - Something New
 
-**Albums**: AVĪCI (01)
+**Albums**: More Than You Know
 
-Last updated at 08/04/2020 16:25
+Last updated at 08/04/2020 16:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
