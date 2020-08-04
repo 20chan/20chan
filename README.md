@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aB9NGX0VMmQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcGa1_ye4ElPYuAbKMiawZA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ScSW9C3DF18/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdyY6sFMuQA1ZEaih0XvvCA)
 
-Linkstarzelda - [Touhou]- Rumia's Theme: Apparitions Stalk the Night ~ Remix
+googoo888 - [1080P Full風] Luka Luka★Night Fever ルカルカ★ナイトフィーバー 巡音ルカ Project DIVA English lyrics romaji subtitles
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:59
+Last updated at 08/04/2020 14:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
