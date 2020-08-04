@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cZoRQOcekd4gQ1Ds0wr0sFJ-Wj30-MVLejildQBHkIrj6Vmz0-GdEKHeHnnV84OJuOgDQFW2lVuKhtDO0Q">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/17i9mDGHMXF_sqZW973g_tJK2YHTgjTZrl1QtDZG87OigsUr7VbLEabjq__iUIYV9I8SFUFbETblXMO4">](https://music.youtube.com/channel/UCkhjJ1ozo9YkGtZ2Vl-QpwA)
 
-Martin Garrix & Brooks - Byte
+Kygo - Remind Me to Forget
 
-**Albums**: Byte
+**Albums**: Kids in Love
 
-Last updated at 08/04/2020 15:47
+Last updated at 08/04/2020 15:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
