@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mbq-tS0t3I9rS1LrTrQ33nzum9ayxP_KpyH3J24qpKwuYqVe66RtwKA_yfrqku7qkkbmPvCe1VHMvwat">](https://music.youtube.com/channel/UCcucrfDVx-WyEtb8mQIKj0A)
 
-Avicii - Fades Away (feat. Noonie Bao)
+Axwell /\ Ingrosso - More Than You Know
 
-**Albums**: TIM
+**Albums**: More Than You Know
 
-Last updated at 08/04/2020 16:32
+Last updated at 08/04/2020 16:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
