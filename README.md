@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/T5KrugIEt8Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClGm4dxaLMmb2MkNueaoCaw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ujxqBkHU3Ps/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHBtaCGjuuNyJAAcbv5ESXw)
 
-Tenshi Hinanawi - 【東方Violin／Rock】 U.N. Owen Was Her? 「TAMUSIC」
+Autumnal Pink - 小峠 舞 (C-CLAYS) To the Limit [月時計　～ ルナ・ダイアル]
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:36
+Last updated at 08/04/2020 13:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
