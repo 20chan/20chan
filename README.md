@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtVCkxk49Uonw4GGIvpztgbZVu40A9mdvL0jT0gddoNLZBMAwjO4hpsu2sI7L9y6hvqBOofzQK3FEaeB">](https://music.youtube.com/channel/UCrbZcTv3iAHqMHWGbk0IYFA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-FINNEAS - Shelter
+Avicii - Without You
 
-**Albums**: Blood Harmony
+**Albums**: AVĪCI (01)
 
-Last updated at 08/04/2020 18:55
+Last updated at 08/04/2020 18:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
