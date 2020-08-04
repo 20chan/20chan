@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-Noah Kahan - Hurt Somebody
+NOTD & Shy Martin - Keep You Mine
 
-**Albums**: Hurt Somebody
+**Albums**: Keep You Mine
 
-Last updated at 08/04/2020 18:02
+Last updated at 08/04/2020 18:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
