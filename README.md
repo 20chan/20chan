@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Oa9uCkXt9qsuMVJRRPjaLsGV0dn2R7MMMOkI4lQHFmhdlmMzEkUgG8DSeBRduvUrdCraarkDUVSrrWGpwA">](https://music.youtube.com/channel/UCcucrfDVx-WyEtb8mQIKj0A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pZ3nf_uVVydRTySVvPik5euXg1GsZvwPJseKVLZJhmfsJA_3Z1c04Mmp5KUtQIBut9hUP1TSTECXyElA">](https://music.youtube.com/channel/UC01xW-IhmfD-c3Nsvkh-kMQ)
 
-Axwell /\ Ingrosso - Something New
+Gazzo - Sun Turns Cold (Radio Edit) (feat. Chase Rice)
 
-**Albums**: More Than You Know
+**Albums**: Sun Turns Cold (Radio Edit)
 
-Last updated at 08/04/2020 17:20
+Last updated at 08/04/2020 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
