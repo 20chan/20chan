@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mbq-tS0t3I9rS1LrTrQ33nzum9ayxP_KpyH3J24qpKwuYqVe66RtwKA_yfrqku7qkkbmPvCe1VHMvwat">](https://music.youtube.com/channel/UCcucrfDVx-WyEtb8mQIKj0A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Axwell /\ Ingrosso - More Than You Know
+Avicii - Gonna Love Ya
 
-**Albums**: More Than You Know
+**Albums**: Stories
 
-Last updated at 08/04/2020 16:35
+Last updated at 08/04/2020 16:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
