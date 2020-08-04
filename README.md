@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pw2WQjqKpVM/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCX1-YnrDOb_O3QErFRW47qA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zwZ89IZG5WA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8aAh6M71RjYzvvQkvL_gcA)
 
-PineappleDisciple - Kaguya's Theme - Lunatic Princess
+Sean Flynn - 【Yuikonnu & Ayaponzu＊】 Super Nuko World
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 14:10
+Last updated at 08/04/2020 14:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
