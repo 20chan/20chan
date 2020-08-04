@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8hkkBPIHqgqnbiRXkAl2u3JA_5IbL0lBkGvphpAwrIfDkcbcqrbZl9y7L1UTlctoBnq7vuzWEMQ7wnHG">](https://music.youtube.com/channel/UCl8wKLayvefKijEYe9yLKVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Kisma - Shine Over Me (feat. Shira)
+Avicii - Ain't A Thing (feat. Bonn)
 
-**Albums**: Shine Over Me
+**Albums**: TIM
 
-Last updated at 08/04/2020 17:03
+Last updated at 08/04/2020 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
