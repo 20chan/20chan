@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/OcgVcDMPQuE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClGm4dxaLMmb2MkNueaoCaw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UVgXESPF630/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4XlDx6E6MezYJ1iSI0jYYQ)
 
-Tenshi Hinanawi - 【東方Vocal】 Bad Apple!! feat.nomico (Tracy vs. Astronomical Remix) 「Alstroemeria Records」 【Subbed】
+ExiMaster - The Embodiment of Scarlet Devil ~ Boss Themes Rock Arrangement
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 11:44
+Last updated at 08/04/2020 11:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
