@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/x7VkyIBK6rU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmoIM2c1E_5dI7-ZDnFXJkQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sGYLIlCQWtw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCx7IooUYRipwOIVJSK0e5ug)
 
-Sully Orchestration - BAD APPLE!! - EPIC ORCHESTRAL COVER (Japanese Ver. 日本版)
+Mayumi Sugihara - 【艦これボーカル】 帝國交響楽団 - 燃え落ちる誇り -Counter raid Another D- 【Subbed】
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:53
+Last updated at 08/04/2020 13:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
