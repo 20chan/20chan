@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cPTpGD3dTzJv-hq30ZKWVZerWG6wXfd-Qim6gfiEcrIj4sIkpFi35KoaZWjA5XyWHbEat-pS8-MeyEV3">](https://music.youtube.com/channel/UC9TynkEiIsDxKjtDZKmiUvw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aiC5bdaEdaU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrZsKQXXq652czHn8XmOIEw)
 
-Madeon - Pay No Mind (feat. Passion Pit)
+Chill City - Snakehips - Days With You (Fwdslxsh Remix)
 
-**Albums**: Adventure (Deluxe)
+**Albums**: undefined
 
-Last updated at 08/03/2020 21:08
+Last updated at 08/04/2020 11:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
