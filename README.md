@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/17i9mDGHMXF_sqZW973g_tJK2YHTgjTZrl1QtDZG87OigsUr7VbLEabjq__iUIYV9I8SFUFbETblXMO4">](https://music.youtube.com/channel/UCkhjJ1ozo9YkGtZ2Vl-QpwA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Kygo - Remind Me to Forget
+Avicii - Never Leave Me (feat. Joe Janiak)
 
-**Albums**: Kids in Love
+**Albums**: TIM
 
-Last updated at 08/04/2020 15:51
+Last updated at 08/04/2020 15:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
