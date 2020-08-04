@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qvJL7K0v6TlxxqB6Bg1Pg11nnO6GECM8Xjf82dK8MmorfDTNoDHaVDnPQjIMn8A0R19KQUlSWsSv5eZWxw">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aDCqJZok0l6O0GowCaNOc7-ye9fHPRdFDP0OeAgSz4qRWsdyPMy6R8nvY0_p2ookyVJNGnRHHaSeAh_pJA">](https://music.youtube.com/channel/UC2gztFYz4ZeVOqBxweElY_w)
 
-Noah Kahan - Maine
+Chef'Special - All My Life
 
-**Albums**: Cape Elizabeth
+**Albums**: Amigo
 
-Last updated at 08/04/2020 14:35
+Last updated at 08/04/2020 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
