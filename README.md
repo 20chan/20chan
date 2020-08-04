@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VvLkHZKyg0K8PxB_sj8BPMxoYTfyL0KCaBhH8_PuXSFs5l7k4X6rFYaDYj8dZKWI4aM0bLT0jy7ZEVYh">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Martin Garrix & Dean Lewis - Used To Love
+Imagine Dragons - Walking The Wire
 
-**Albums**: Used To Love
+**Albums**: Evolve
 
-Last updated at 08/04/2020 18:44
+Last updated at 08/04/2020 18:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
