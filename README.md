@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
 
-The Black Skirts - EVERYTHING
+Woo - We Are (feat. Loco & GRAY)
 
-**Albums**: TEAM BABY
+**Albums**: We Are
 
-Last updated at 08/04/2020 18:08
+Last updated at 08/04/2020 18:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
