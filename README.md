@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0">](https://music.youtube.com/channel/UCJ-YZiz-gucyqHRqOU4h_bQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1RRoMWMXfbaDq3UdlPpSIfweeMHMhQkRLIjhe-l0q4VVMhmL8bRUrhOwCJwo21sOVcgIcmlHYzl4pwuvWA">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
 
-Matisse & Sadko & SMBDY - Fade Away
+Martin Garrix - Don't Look Down (feat. Usher)
 
-**Albums**: Fade Away
+**Albums**: Don't Look Down
 
-Last updated at 08/04/2020 16:02
+Last updated at 08/04/2020 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
