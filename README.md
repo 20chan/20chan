@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h_wGw-elowbt7A9MS5Qldqs2oHzV3qKs8K0-q58F59EGJKqQeiGc1w6T6S_Lo2Xtbx3YZjl75QvrEhVPZg">](https://music.youtube.com/channel/UCrrbm1toLPud8fFIisPuxpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-OneRepublic - Let's Hurt Tonight (BUNT. Remix)
+Avicii - Friend Of Mine (feat. Vargas & Lagola, Lagola & Vargas)
 
-**Albums**: Let's Hurt Tonight (BUNT. Remix)
+**Albums**: AVĪCI (01)
 
-Last updated at 08/04/2020 16:21
+Last updated at 08/04/2020 16:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
