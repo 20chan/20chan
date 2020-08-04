@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UVgXESPF630/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4XlDx6E6MezYJ1iSI0jYYQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xOz-T3NPtLA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCu_VALQYVq3Xzmt5pgh2msw)
 
-ExiMaster - The Embodiment of Scarlet Devil ~ Boss Themes Rock Arrangement
+Adauchi S. - 【東方Vocalアレンジ】 EastNewSound - 緋色月下、狂咲ノ絶　-1st Anniversary Remix-
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 11:51
+Last updated at 08/04/2020 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
