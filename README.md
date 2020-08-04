@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LNI-VX76xU8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCobQWeFdIl30jL22LhgVlXw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YD99D5jrLF8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmGMR_bG6xx9AAiPbxTr_RQ)
 
-Yar Kirillov - 【東方ボーカル】 「死奏憐音、玲瓏ノ終」 【EastNewSound】 【Subbed】 og6hmAwbJj8
+Phoenix Kappashiro - 【東方Trance】 Dead or Alive 「Amateras Records」
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:16
+Last updated at 08/04/2020 12:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
