@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hr_klCWOQzU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrUgB4Tn-5QQmyzeWE_8hYw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/DemPPPfDxnc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClGm4dxaLMmb2MkNueaoCaw)
 
-EastNewSound - 滲色血界、月狂ノ獄
+Tenshi Hinanawi - 【東方Orchestral／Symphonic】 U.N.オーエンは彼女なのか？ 「Melodic Taste」
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:27
+Last updated at 08/04/2020 12:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
