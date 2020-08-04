@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
 
-NOTD & Shy Martin - Keep You Mine
+The Black Skirts - EVERYTHING
 
-**Albums**: Keep You Mine
+**Albums**: TEAM BABY
 
-Last updated at 08/04/2020 18:05
+Last updated at 08/04/2020 18:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
