@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lSkFE_qfBJM66IZvW8H3TgZK_aNppTwwd5nIv9MexV-5hXfLBjZ4JxZYKOgh6858KpnDD9Z0YFDrTCn_">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ledm7Xl5tAu7WKYoR7jz-GRHzsxoquhvvA1l0dLYb_eT0MrANZPJBmNfH1tBc-LvNFLJSK4gVShqY9s">](https://music.youtube.com/channel/UCOnjfbg3ooksS-Mxse2Gc5g)
 
-BANNERS - No One Knows Us (feat. Carly Paige)
+Willyecho - Everything or Nothing
 
-**Albums**: Where The Shadow Ends
+**Albums**: Everything or Nothing
 
-Last updated at 08/04/2020 14:28
+Last updated at 08/04/2020 14:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
