@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/wefOI4tnW08/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCycjmrRpDoLY0p_rHeLDCRw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/SiVRrPT95nY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwKDMXEb7BwQynxcNYgwqew)
 
-Yo Kaze - 【オリジナル DnB】World's End, Girl's Rondo 【Asterisk】
+YZYX - ME!ME!ME! Vocaloid Remake (feat. Hatsune Miku, VY1V4, GUMI) [+ Instrumental]
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:47
+Last updated at 08/04/2020 13:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
