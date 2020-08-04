@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QC50ABNVexg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzeXtGfstqeyVlBarK5py6w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pw2WQjqKpVM/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCX1-YnrDOb_O3QErFRW47qA)
 
-Hijiri Bee - [東方Electro] Feline Groove - ナイト・オブ・ナイツ (Cranky Remix)
+PineappleDisciple - Kaguya's Theme - Lunatic Princess
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 14:07
+Last updated at 08/04/2020 14:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
