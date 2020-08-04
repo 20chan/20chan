@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4MhCNDu-7eH1nNjQZAAsrqDmITTo4eS9oNMmsXxLJAR_3aiXrdIRDq63Q6qxShMlqjYnwPYMDf73MTgozg">](https://music.youtube.com/channel/UCuPY6msZGySMzTpKLjyeO8g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zEekZfRiz4Mn5a0YpmLS1nr3ubJCnNlRkfz5FWzFAiqEwPvK1aVh9BfJUlO05TAOjVSdCGEJMRm0yY02">](https://music.youtube.com/channel/UCdQICt_YIo4FEOaLtTOi4RA)
 
-Calum Scott - Give Me Something
+The Score - Higher (Stripped)
 
-**Albums**: Only Human (Deluxe)
+**Albums**: ATLAS (Deluxe)
 
-Last updated at 08/04/2020 14:46
+Last updated at 08/04/2020 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
