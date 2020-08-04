@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Oa9uCkXt9qsuMVJRRPjaLsGV0dn2R7MMMOkI4lQHFmhdlmMzEkUgG8DSeBRduvUrdCraarkDUVSrrWGpwA">](https://music.youtube.com/channel/UCcucrfDVx-WyEtb8mQIKj0A)
 
-Avicii - Never Leave Me (feat. Joe Janiak)
+Axwell /\ Ingrosso - Something New
 
-**Albums**: TIM
+**Albums**: More Than You Know
 
-Last updated at 08/04/2020 17:17
+Last updated at 08/04/2020 17:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
