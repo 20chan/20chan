@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/SiVRrPT95nY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwKDMXEb7BwQynxcNYgwqew)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aB9NGX0VMmQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcGa1_ye4ElPYuAbKMiawZA)
 
-YZYX - ME!ME!ME! Vocaloid Remake (feat. Hatsune Miku, VY1V4, GUMI) [+ Instrumental]
+Linkstarzelda - [Touhou]- Rumia's Theme: Apparitions Stalk the Night ~ Remix
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:53
+Last updated at 08/04/2020 13:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
