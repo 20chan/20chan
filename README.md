@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/9lNZ_Rnr7Jc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPZeEvYtEm9LXWQbu049kDw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/OcgVcDMPQuE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClGm4dxaLMmb2MkNueaoCaw)
 
-luigiman09 - Bad Apple!! - Full Version w/video [Lyrics in Romaji, Translation in English]
+Tenshi Hinanawi - 【東方Vocal】 Bad Apple!! feat.nomico (Tracy vs. Astronomical Remix) 「Alstroemeria Records」 【Subbed】
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 11:39
+Last updated at 08/04/2020 11:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
