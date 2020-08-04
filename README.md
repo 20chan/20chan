@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J3evxN1lXjG1QkWzoCWHaYDSYvRc4XH9IO9niYM2UD1xYVe5yqoP6FD4i9RzKSluUIHrg1kqiAeZljfY">](https://music.youtube.com/channel/UC4dW20H96zkAdeWVg62r6-A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Galantis - Bones (feat. OneRepublic)
+Avicii - Fades Away (feat. Noonie Bao)
 
-**Albums**: Church
+**Albums**: TIM
 
-Last updated at 08/04/2020 17:42
+Last updated at 08/04/2020 17:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
