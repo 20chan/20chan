@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z0Piw6xWbl7nl5swNnXTSnwILM1FErCmAYAI9HXjeTPy8xSetHyrnWY1HACt5aT1i2tP7VopJdeICj_p">](https://music.youtube.com/channel/UC9TtDYU2xYw98fHJS2l6Egw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Jonas Blue - Mama (feat. William Singe)
+Avicii - Waiting For Love
 
-**Albums**: Mama
+**Albums**: Stories
 
-Last updated at 08/04/2020 18:16
+Last updated at 08/04/2020 18:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
