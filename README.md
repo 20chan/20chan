@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aDCqJZok0l6O0GowCaNOc7-ye9fHPRdFDP0OeAgSz4qRWsdyPMy6R8nvY0_p2ookyVJNGnRHHaSeAh_pJA">](https://music.youtube.com/channel/UC2gztFYz4ZeVOqBxweElY_w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qACwKmS4xX12Y6dfPEanBpmpcrtmxXisWamlsFaJ9UQoleuRiv5P90mRi3ibwMzur14z8AXAPd80ueA7jg">](https://music.youtube.com/channel/UCBSzNBOfhhze08n3B04TYAw)
 
-Chef'Special - All My Life
+The Gray Havens - Not Home Yet
 
-**Albums**: Amigo
+**Albums**: She Waits
 
-Last updated at 08/04/2020 14:39
+Last updated at 08/04/2020 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
