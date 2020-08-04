@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/YD99D5jrLF8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCmGMR_bG6xx9AAiPbxTr_RQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/hr_klCWOQzU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrUgB4Tn-5QQmyzeWE_8hYw)
 
-Phoenix Kappashiro - 【東方Trance】 Dead or Alive 「Amateras Records」
+EastNewSound - 滲色血界、月狂ノ獄
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:22
+Last updated at 08/04/2020 12:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
