@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/CsdkIwLK-L8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC2d5oXT7RMgyMIcw-3e43aQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LNI-VX76xU8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCobQWeFdIl30jL22LhgVlXw)
 
-Mumble Etc. - ZUN - U.N. Owen Was Her? & Flowering Night (Koa Remix)
+Yar Kirillov - 【東方ボーカル】 「死奏憐音、玲瓏ノ終」 【EastNewSound】 【Subbed】 og6hmAwbJj8
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 12:10
+Last updated at 08/04/2020 12:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
