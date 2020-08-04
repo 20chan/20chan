@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LLNdqKq3c5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuKWnqGUu17b6zCj1_vU4cQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/WROcJK3ZHGc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFSQs6wnnipQrexnq46ofqg)
 
-Shaya Kagi - 【東方ボーカル】 Lost in the Abyss 【FELT】【Subbed】
+HueDeidi - [HQ] Yousei Teikoku - Kokou no Sousei
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:22
+Last updated at 08/04/2020 13:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
