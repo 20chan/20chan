@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zwZ89IZG5WA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8aAh6M71RjYzvvQkvL_gcA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4JFvImNtUl6zwJqgtm-2haRDmEHvjH1XBtJ1e-dEj-jtG6nbEGj6cGkGCICrPh0gZC8XoLOMG562VUUN">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Sean Flynn - 【Yuikonnu & Ayaponzu＊】 Super Nuko World
+Noah Kahan - False Confidence
 
-**Albums**: undefined
+**Albums**: Busyhead
 
-Last updated at 08/04/2020 14:16
+Last updated at 08/04/2020 14:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
