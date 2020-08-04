@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/WROcJK3ZHGc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFSQs6wnnipQrexnq46ofqg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eJeeAoKkcC0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCgGIOW72cjfiv96S76QunQA)
 
-HueDeidi - [HQ] Yousei Teikoku - Kokou no Sousei
+Terruble - t+pazolite - Censored!! (Full ver)
 
 **Albums**: undefined
 
-Last updated at 08/04/2020 13:27
+Last updated at 08/04/2020 13:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
