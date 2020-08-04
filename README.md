@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dpL3daqHjKhn5vtFb4WHSaCZ3Gxd8yyJ3MPICuB0jpj5IRt5MNPthg2Qwb1wLErxlwlOnpGYRTfo6TCR">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0">](https://music.youtube.com/channel/UCJ-YZiz-gucyqHRqOU4h_bQ)
 
-Martin Garrix - Pizza
+Matisse & Sadko & SMBDY - Fade Away
 
-**Albums**: Pizza
+**Albums**: Fade Away
 
-Last updated at 08/04/2020 15:58
+Last updated at 08/04/2020 16:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
