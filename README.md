@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gOPA2Fcvqpw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCCMHydgZGoqFABXh7zohmKg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AygjEvjnp6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCplVlOrQIRYkL2gob7LrI0w)
 
-제로 - 우타이테 월피스 카터 노래 모음
+Aki - ♬새벽감성 차오르는 우타이테 모음♬ (마지막영상 X 재업O)
 
 **Albums**: undefined
 
-Last updated at 08/05/2020 16:59
+Last updated at 08/05/2020 18:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
