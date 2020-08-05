@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sa7D8TMPY1ReKhYrhEaxzIUPWISx7x3mXB3T7VJAlsfG_Wz0UwKaNOpRhkOjcTlmCjfvULE8pEMY-HWm">](https://music.youtube.com/channel/UCp_Hh63-lUJIMdL_eYJNn7w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gCC7ME9Jic58LsAg0LJdCbObRS12Axa-cvKt3vooqGnT7BtWTZIY7SVCPDRd181nJ_sDYQSWfIy0DkI6">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
 
-OOHYO - Dandelion (full ver.)
+검정치마 (The Black Skirts) - Blood and thirst (king of hurts)
 
-**Albums**: Dandelion
+**Albums**: THIRSTY
 
-Last updated at 08/05/2020 11:42
+Last updated at 08/05/2020 11:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
