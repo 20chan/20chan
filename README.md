@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/YjuXsQS6-MM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK5jxXtNAeUv_oRtYCUx6ww)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4ZlXlgLhWA0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAOABD0HZx3PJMCWxiVNz8g)
 
-완소나 - 【2시간】 작업용/게임용/신나는 일본노래(애니.우타이테) 추천♪ - 6 -
+노래모음 채널 - 우타이테 월피스카터 모음 #1
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 01:51
+Last updated at 08/06/2020 03:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
