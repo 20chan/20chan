@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gCC7ME9Jic58LsAg0LJdCbObRS12Axa-cvKt3vooqGnT7BtWTZIY7SVCPDRd181nJ_sDYQSWfIy0DkI6">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/b6FvmK0abtrbWtVkWIRI00krbB1SZNqz05Ta3nkitgiYq7ukg6IGQs9Sf3ZxEe3K7pgeu-b8ejBmdH15">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-검정치마 (The Black Skirts) - Blood and thirst (king of hurts)
+짙은 - Sunshine
 
-**Albums**: THIRSTY
+**Albums**: SAVe tHE AiR GREEN CONCERT
 
-Last updated at 08/05/2020 11:48
+Last updated at 08/05/2020 11:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
