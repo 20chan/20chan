@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4ZlXlgLhWA0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCAOABD0HZx3PJMCWxiVNz8g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ZiyVXbTShGI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLvH0zUVRjU34t6Ekf8-UeA)
 
-노래모음 채널 - 우타이테 월피스카터 모음 #1
+Rudolf - ['그저 전설'] 하나땅 - Hanatan 우타이테/일본노래 메들리 모음집 #11 (1080p,Pv)
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 03:50
+Last updated at 08/06/2020 04:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
