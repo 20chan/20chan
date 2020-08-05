@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/AygjEvjnp6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCplVlOrQIRYkL2gob7LrI0w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mTeRqWDbBTs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbDYnNcDL6ksIxDXW1BfvOQ)
 
-Aki - ♬새벽감성 차오르는 우타이테 모음♬ (마지막영상 X 재업O)
+Utaite Music - [3시간] 자면서 듣기에는 무리일 듯 인정합니다
 
 **Albums**: undefined
 
-Last updated at 08/05/2020 18:59
+Last updated at 08/05/2020 20:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
