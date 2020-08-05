@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KsQ4eyoI7w0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCx780MVOwG4TEuIYu83515A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YjuXsQS6-MM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK5jxXtNAeUv_oRtYCUx6ww)
 
-편왕 - 사냥하면서 들으려고 만든 우타이테 모음(osu곡 다수 포함)[엄선,레전드]
+완소나 - 【2시간】 작업용/게임용/신나는 일본노래(애니.우타이테) 추천♪ - 6 -
 
 **Albums**: undefined
 
-Last updated at 08/05/2020 23:51
+Last updated at 08/06/2020 01:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
