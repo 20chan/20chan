@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mTeRqWDbBTs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbDYnNcDL6ksIxDXW1BfvOQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KsQ4eyoI7w0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCx780MVOwG4TEuIYu83515A)
 
-Utaite Music - [3시간] 자면서 듣기에는 무리일 듯 인정합니다
+편왕 - 사냥하면서 들으려고 만든 우타이테 모음(osu곡 다수 포함)[엄선,레전드]
 
 **Albums**: undefined
 
-Last updated at 08/05/2020 20:54
+Last updated at 08/05/2020 23:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
