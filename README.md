@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b6FvmK0abtrbWtVkWIRI00krbB1SZNqz05Ta3nkitgiYq7ukg6IGQs9Sf3ZxEe3K7pgeu-b8ejBmdH15">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NxhQGI8yhhdYNpNrXsdSZQJLVTwulgYQdjFynEQB4Et9Rx3b0rAKTCM5QKHTAc6f0xyfvrFAkvJRzPU6">](https://music.youtube.com/channel/UCBIeVlt0jyBuRJ6r5GJFSmw)
 
-짙은 - Sunshine
+Joonil Jung - 고백 (Confession)
 
-**Albums**: SAVe tHE AiR GREEN CONCERT
+**Albums**: 보고싶었어요 (I Missed You)
 
-Last updated at 08/05/2020 11:54
+Last updated at 08/05/2020 11:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
