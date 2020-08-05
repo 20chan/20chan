@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dD6CdfjkxIRVt3y2-HE3J_UCzYV7ptev8J5ygymFdkM3HaaxLrstI5gdPKM1WTFV9Oa7v6x1x0CxPBw">](https://music.youtube.com/channel/UC4YQ3qL9E3SoonZtWeguHKg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c-R6RvJil4XQE1W2gcNhiXicb4GMe7umB3ah7x0QC73fT2i_vdM31rTgFJ_dPEkmloYv-fgzendRmRap">](https://music.youtube.com/channel/UCR90rtDqmA4FV1bVnD6o0nQ)
 
-Broccoli you too - Song Is Universal
+The Black Skirts - Who do you love
 
-**Albums**: No More Encore.
+**Albums**: TEAM BABY
 
-Last updated at 08/05/2020 12:02
+Last updated at 08/05/2020 12:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
