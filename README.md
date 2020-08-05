@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8UVNT4wvIGY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcrR-Or3AH2RKJqOntiD_Tw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gpG9QRV9gTk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe5SlSvnHTsnmBBXoFYXXGg)
 
-Gotye - Somebody That I Used to Know (feat. Kimbra)
+KALEO - I Can't Go on Without You
 
 **Albums**: undefined
 
-Last updated at 08/05/2020 16:53
+Last updated at 08/05/2020 16:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
