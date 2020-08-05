@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gpG9QRV9gTk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe5SlSvnHTsnmBBXoFYXXGg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gOPA2Fcvqpw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCCMHydgZGoqFABXh7zohmKg)
 
-KALEO - I Can't Go on Without You
+제로 - 우타이테 월피스 카터 노래 모음
 
 **Albums**: undefined
 
-Last updated at 08/05/2020 16:57
+Last updated at 08/05/2020 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
