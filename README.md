@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w4eJMPRASjXtrIg_tPmn2z_SkKd-Z2KlAojst-xgOcOjI5qzkaDTBlt9ZpmuyngY-L3NDYZLszz9ViX4">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFmAlvSzHnGy5focJlJBOKNDCL0PTUV1G9bLecKgcmb5RuD3F98zgaEzTMFW84uAjECT1MSbYWtgoAZs">](https://music.youtube.com/channel/UCrNP86xe_TTQaUrKR7XXB1A)
 
-Zitten - 잘 지내자, 우리
+Broken Valentine - 알루미늄
 
-**Albums**: 사랑의 단상 Chapter 5. The Letter From Nowhere
+**Albums**: Aluminium
 
-Last updated at 08/05/2020 11:32
+Last updated at 08/05/2020 11:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
