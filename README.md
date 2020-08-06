@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YEPQi3gLP6XK0robu_i8bT9HoXUO65dAtJOl7neucPs5cPhnXuZ9zYg-tk_Qfl8sXBp2Tq1jaESTLxUqfQ">](https://music.youtube.com/channel/UCZXQ531DbJ0mDpV0vAkNk4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_qnfu1HZ0RrVLcG0zmm1rsa69uRHX64WDP5O-SIVb_ShYlhy36PF3olOVgZs2Ni1Hw-PaxpjIxs_X_Rj">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
 
-Shota Shimizu - Love Story
+SEKAI NO OWARI - Maboroshi no Inochi
 
-**Albums**: Umbrella
+**Albums**: EARTH
 
-Last updated at 08/06/2020 14:53
+Last updated at 08/06/2020 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
