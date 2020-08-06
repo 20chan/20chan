@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/leZ4Keq4aecC5hw0FfwOTj2PRE5TjcQOvDLczIsT7BQTVQsgLmZxFNoCbBcxzTLCUaxqpPCX4HJDPkcq">](https://music.youtube.com/channel/UCjjXNVQndGgIP7OXv13eLYQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tgDKXG9pHrKFMGjwDM9waFSOs_KlSXF05uymprrGyHvLLg6KGl6U-O34pI2cNukVMatNft6lY-SyaEzHxQ">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
 
-Roy Kim - 그리움만 쌓이네 (로맨틱 흑기사)
+Zedd - Follow You Down (feat. Bright Lights)
 
-**Albums**: Mask Singer 68th (Live Version)
+**Albums**: Clarity
 
-Last updated at 08/06/2020 11:30
+Last updated at 08/06/2020 11:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
