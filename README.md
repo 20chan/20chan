@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PBlZv_B1hw7AL7GzAgrE2Lhh0FNm2i0DLpc4xwZZCBaEte-hOBlc2-Gd_mLKT9dA-Fkn9nOC5rjUrTi0">](https://music.youtube.com/channel/UCAW5wJsp0k0Cjt1CY857Y1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UOp5jCUYK99AmMZTK9mlj-DYCostY5R1LmZ-hWmKFv6ut6nV98VL9m7APfh5_aqWIUFAI-mRiibs0lx3">](https://music.youtube.com/channel/UCklQuH51vyXV_xBhDKlJvEQ)
 
-カルテット - ベストフレンド
+Sasha Sloan - Dancing With Your Ghost
 
-**Albums**: ベストフレンド
+**Albums**: Dancing With Your Ghost
 
-Last updated at 08/06/2020 15:18
+Last updated at 08/06/2020 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
