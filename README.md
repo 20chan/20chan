@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f18kPAmtxqeqRqMzXhv3m0OenX0OxZmHx1oFBkuzJZhXbP4PTmp1lYrQPsxPsgYtRlVmPy0-afvOof5T">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
 
-Avicii - Bad Reputation (feat. Joe Janiak)
+Martin Garrix - High On Life (feat. Bonn)
 
-**Albums**: TIM
+**Albums**: High On Life
 
-Last updated at 08/06/2020 12:23
+Last updated at 08/06/2020 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
