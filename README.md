@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4JFvImNtUl6zwJqgtm-2haRDmEHvjH1XBtJ1e-dEj-jtG6nbEGj6cGkGCICrPh0gZC8XoLOMG562VUUN">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_mmC0s_MAuFZzW9KtySNcv4th6OiStTCO4ejmN8FVEG01EQqrsXwT_r3xD8Ez8TVpXSKaGo1Qdbn5VA">](https://music.youtube.com/channel/UCJhUhrOkIaqMhc_SQGmBWmg)
 
-Noah Kahan - False Confidence
+Rick and Morty - Don't Look Back [From Rick and Morty: Season 4] (feat. Kotomi & Ryan Elder)
 
-**Albums**: Busyhead
+**Albums**: Don't Look Back [From Rick and Morty: Season 4]
 
-Last updated at 08/06/2020 10:32
+Last updated at 08/06/2020 10:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
