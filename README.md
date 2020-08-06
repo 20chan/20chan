@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UOp5jCUYK99AmMZTK9mlj-DYCostY5R1LmZ-hWmKFv6ut6nV98VL9m7APfh5_aqWIUFAI-mRiibs0lx3">](https://music.youtube.com/channel/UCklQuH51vyXV_xBhDKlJvEQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2slph_dapZ0DxV3qMHo6I7LeYixscqVBRj3v-RmyRFR2RHv22aUTQ_BmgMxKVBognbcZ-iIOTW6j8Htt">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Sasha Sloan - Dancing With Your Ghost
+Gryffin & Elley Duhé - Tie Me Down
 
-**Albums**: Dancing With Your Ghost
+**Albums**: Tie Me Down
 
-Last updated at 08/06/2020 15:19
+Last updated at 08/06/2020 15:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
