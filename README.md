@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r8eo_aSWihSZ2zQJIHXpA6Ur227sIDIyNUSua8SgcLEsv-SaFGiTYQhW6rCF2JPHeN6LRrfdfpcWEcc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Gryffin & Seven Lions - Need Your Love (Nurko Remix) (feat. Noah Kahan)
+Gryffin & Carly Rae Jepsen - OMG
 
-**Albums**: Need Your Love (Remixes)
+**Albums**: Gravity
 
-Last updated at 08/06/2020 15:52
+Last updated at 08/06/2020 15:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
