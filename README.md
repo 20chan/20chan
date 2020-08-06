@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3uSm0daCoMh6SmUEAqo7_ajLnhw1DFmIZASV6IWmgMdspYvafOlFuqzgiUZHj6V59ybU3G67hbbucvQE">](https://music.youtube.com/channel/UCXM-hDeCBiGnmws055tyCow)
 
-SEAMO - From Now
+Ketsumeishi - 出会いのかけら
 
-**Albums**: perfect seamo
+**Albums**: ケツノポリス6
 
-Last updated at 08/06/2020 14:25
+Last updated at 08/06/2020 14:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
