@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f18kPAmtxqeqRqMzXhv3m0OenX0OxZmHx1oFBkuzJZhXbP4PTmp1lYrQPsxPsgYtRlVmPy0-afvOof5T">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Martin Garrix - High On Life (feat. Bonn)
+Avicii - Dear Boy
 
-**Albums**: High On Life
+**Albums**: True
 
-Last updated at 08/06/2020 12:26
+Last updated at 08/06/2020 12:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
