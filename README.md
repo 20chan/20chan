@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fJ84yNZPSBE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2gmYhEhdiAwK87tvMDh9hA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eSQOQln01GQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK5jxXtNAeUv_oRtYCUx6ww)
 
-유령의 음악공간 - 월피스카터 내일의 밤하늘 초계반 1시간 ウォルピスカーター アスノヨゾラ哨戒班 1時間
+완소나 - 【2시간】 작업용/게임용 일본노래 추천♪ - 1 -
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 07:56
+Last updated at 08/06/2020 09:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
