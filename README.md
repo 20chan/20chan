@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2gHcBlc5Me1nmQZLBrKcrwyEno1VmOnt2uMl5558UeLaqBaDasf0bU55lJ6oHxBhipiHZoCSuY8ppc6ECQ">](https://music.youtube.com/channel/UCkpHBdMdQISSepoBGhkCDtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-나미 - 가까이 하고 싶은 그대
+Avicii - You Make Me
 
-**Albums**: 나미 7집(변신/가까이 하고 싶은 그대)
+**Albums**: True
 
-Last updated at 08/06/2020 10:51
+Last updated at 08/06/2020 10:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
