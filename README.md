@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-iRrVRSF_VREhQd2_g8oUUig20j-LnX0BVr9OLqaj5m4HxWP1MMOv7xcaj0KHKOMmEAQJuW0bv3-RaDu">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/D7X-taZ7lFriMSFBMsi7qt8s1CXq0aZN22rqUbzHqH8PsjliXBGe_K7utsxpIuieGRediDPS-B9MBylleA">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
 
-Avicii - Dear Boy
+Zedd - Illusion (feat. Echosmith)
 
-**Albums**: True
+**Albums**: True Colors
 
-Last updated at 08/06/2020 12:30
+Last updated at 08/06/2020 12:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
