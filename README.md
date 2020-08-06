@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YgWiEi5USz0aWb0HzTftjiBvawxT7dudW31NC9tnn5I8nkkVSKSPj5BxKX_pcpY0MyCO4RYxXKjPZT4">](https://music.youtube.com/channel/UCyz8TWS7y6wZGawwZ2JcIig)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/leZ4Keq4aecC5hw0FfwOTj2PRE5TjcQOvDLczIsT7BQTVQsgLmZxFNoCbBcxzTLCUaxqpPCX4HJDPkcq">](https://music.youtube.com/channel/UCjjXNVQndGgIP7OXv13eLYQ)
 
-Mountains of the Moon - Bayou
+Roy Kim - 그리움만 쌓이네 (로맨틱 흑기사)
 
-**Albums**: Bayou
+**Albums**: Mask Singer 68th (Live Version)
 
-Last updated at 08/06/2020 11:23
+Last updated at 08/06/2020 11:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
