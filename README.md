@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-Avicii - For A Better Day
+SEAMO - Cry Baby
 
-**Albums**: Stories
+**Albums**: perfect seamo
 
-Last updated at 08/06/2020 12:44
+Last updated at 08/06/2020 13:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
