@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000607448716-8xpf8b-t120x120.jpg">](https://soundcloud.com/finneasmusic/lets-fall-in-love-for-the-night)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000511859964-79nij5-t120x120.jpg">](https://soundcloud.com/awaynotfound/away-x-midoca-too-close-ft-dark-waves)
 
-FINNEAS - Let's Fall In Love For The Night
+AWAY - AWAY x Midoca - Too Close ft. Dark Waves
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 18:17
+Last updated at 08/06/2020 18:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
