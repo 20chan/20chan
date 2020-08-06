@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lno70Lu1p3AGX5-yFrgJ3dh4YBLCUwf3DK-tsDiq-BNyin6DDMBkJsuY1DsT6DiMZixPwfawKQJnAv3l">](https://music.youtube.com/channel/UCDrj9lIddd4uU4_XsH_ZyBw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/skYcIJwF-RSpYpPhT4DENQ6FbSgrFeQ_r81xdPfwDjjpOBwUeH0tcM6XrnPttU8z9xeeQd1pgQL2iO-N">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Yun Ddan Ddan - The Night I Miss You 니가 보고싶은 밤
+Avicii - Bad Reputation (feat. Joe Janiak)
 
-**Albums**: The Night I Miss You 니가 보고싶은 밤
+**Albums**: TIM
 
-Last updated at 08/06/2020 12:18
+Last updated at 08/06/2020 12:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
