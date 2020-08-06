@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3uSm0daCoMh6SmUEAqo7_ajLnhw1DFmIZASV6IWmgMdspYvafOlFuqzgiUZHj6V59ybU3G67hbbucvQE">](https://music.youtube.com/channel/UCXM-hDeCBiGnmws055tyCow)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/12Aqxy59imSAwvCxqn5L3Ge1tzikeZLcLI_3ZyJCVabyblmzbdmkouNE6hdJbIlcRkmw3yqtQQ5MNkk">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
 
-Ketsumeishi - 出会いのかけら
+SEKAI NO OWARI - RPG
 
-**Albums**: ケツノポリス6
+**Albums**: Tree
 
-Last updated at 08/06/2020 14:29
+Last updated at 08/06/2020 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
