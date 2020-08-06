@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/s05bs8Cpk2jiJ9Mdz0Hq5IfZbg_sC1MQBivtWDhGgs9mv6Hr2ZhEaJgjRyreac-eIxyPL2UDf1k5d4dKsA">](https://music.youtube.com/channel/UCvZFt7nPwa7G8mlryBjM-FA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/A8e9Fge0S0Y0y6VqEOYDIJSt2PC2Ctu2a5i5uKkGBJPT-oidHVMhvRg8AXosOBDFsTMr5tjKDZ185fw">](https://music.youtube.com/channel/UC1yfXDUlpfEncDnLUMekHhQ)
 
-Ha hyun woo - 돌덩이
+NELL - 기억을 걷는 시간 (The time of walking on remembrance)
 
-**Albums**: ITAEWON CLASS (Original Television Soundtrack) Pt. 3
+**Albums**: Separation Anxiety [4th Album Separation Anxiety]
 
-Last updated at 08/06/2020 11:57
+Last updated at 08/06/2020 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
