@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4RiAoZkX5Eg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdqbmEOsKuAZascFDKr0CzA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5qRWhnfkF2s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCEdvpU2pFRCVqU6yIPyTpMQ)
 
-Pink Slip - Pink Slip - Panama City Beach (feat. Rahn Harper)
+Marshmello - Marshmello - Ritual ft Wrabel (Official Music Video)
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 17:32
+Last updated at 08/06/2020 17:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
