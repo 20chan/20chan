@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000510057018-xzalyk-t120x120.jpg">](https://soundcloud.com/royalandtheserpent/weddings-funerals)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000039594563-egc0jh-t120x120.jpg">](https://soundcloud.com/papergardenrecords/little-tybee-hearing-blue)
 
-Royal & the Serpent - Weddings & Funerals
+Paper Garden Records - Little Tybee - Hearing Blue
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 18:34
+Last updated at 08/06/2020 18:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
