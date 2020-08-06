@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v1W3gjlMHMyozssriVZ72-khmFSkyJvjRDPymKiJ0JmJjm_9pscoUWbX2zzfZ7BAtdYvYyPPklSyJyWPGQ">](https://music.youtube.com/channel/UC3A-wDdF9y9DmCucNqCZOFg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i6p3prYi_IGrQtJv4yryScT-3RkiQaRQoGprjS3uq2JqtwUl-RaWZchGIybB6OjnpKyZd5SjCkL76dI">](https://music.youtube.com/channel/UC6IUhrLnYGhrktga3Zh7BjQ)
 
-Silent Poets - Asylums for the Feeling (feat. Leila Adu)
+Kim Feel - Someday, The Boy
 
-**Albums**: Café del Mar Dreams XI
+**Albums**: ITAEWON CLASS (Original Television Soundtrack) Pt. 6
 
-Last updated at 08/06/2020 11:45
+Last updated at 08/06/2020 11:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
