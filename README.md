@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QtI62t0Ig96nqJkbGXtaDgyO7o6Lb7zfeEEyb_avqerN_NeOgMvRyi6DQI4L2I7BqdrMDp6ndlpmhzg5">](https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/00ljmNjMi_KV1KwGKuT6o6Loq1rXoh1SoVMs7Wftw7KsWZypIgkUE9Ogq1a6MiTsXYejFQhTBaVHp0Ud6Q">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
 
-Aimer - Rokutouseino Yoru
+SEKAI NO OWARI - Hey Ho
 
-**Albums**: Sleepless Nights
+**Albums**: Hey Ho
 
-Last updated at 08/06/2020 14:13
+Last updated at 08/06/2020 14:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
