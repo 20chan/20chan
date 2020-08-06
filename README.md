@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rkgOq94m1PFFOTfY7Q9Ma2WqEqE4qOXjQkeIlR6_5g0FvHamspYh4VI0lIcb3au3NMVLQ8m85Hz9FTVbkg">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dpL3daqHjKhn5vtFb4WHSaCZ3Gxd8yyJ3MPICuB0jpj5IRt5MNPthg2Qwb1wLErxlwlOnpGYRTfo6TCR">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
 
-Green Day - Still Breathing
+Martin Garrix - Pizza
 
-**Albums**: Revolution Radio
+**Albums**: Pizza
 
-Last updated at 08/06/2020 11:02
+Last updated at 08/06/2020 11:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
