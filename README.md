@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z69U1s1p9tniCo3gIU6053lrOD9P2W8yYJa-2qU9zEbpVPg39VDROBowlYA_RXdA38-3rYQ4wqQMm0BR">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PBlZv_B1hw7AL7GzAgrE2Lhh0FNm2i0DLpc4xwZZCBaEte-hOBlc2-Gd_mLKT9dA-Fkn9nOC5rjUrTi0">](https://music.youtube.com/channel/UCAW5wJsp0k0Cjt1CY857Y1A)
 
-SEAMO - Otonani Narimashita
+カルテット - ベストフレンド
 
-**Albums**: Wave My Flag
+**Albums**: ベストフレンド
 
-Last updated at 08/06/2020 15:14
+Last updated at 08/06/2020 15:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
