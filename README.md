@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/eSQOQln01GQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK5jxXtNAeUv_oRtYCUx6ww)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iQa1a6lQqp0mKjubLcJmuaFIFHpt5PinrBfoW1os9lKthT4VP163zz0JejiXsnuUcLPnIKNiOeJyNAnJ">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-완소나 - 【2시간】 작업용/게임용 일본노래 추천♪ - 1 -
+SID - Rain
 
-**Albums**: undefined
+**Albums**: Dead Stock
 
-Last updated at 08/06/2020 09:03
+Last updated at 08/06/2020 10:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
