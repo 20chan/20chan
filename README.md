@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000505901838-s2eb0h-t120x120.jpg">](https://soundcloud.com/vu-lam-kiet/chill_vcl)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000510057018-xzalyk-t120x120.jpg">](https://soundcloud.com/royalandtheserpent/weddings-funerals)
 
-bboy K - Line By Line - Prep
+Royal & the Serpent - Weddings & Funerals
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 18:30
+Last updated at 08/06/2020 18:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
