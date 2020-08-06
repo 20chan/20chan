@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yH9QCaF7SiuZ8HKeSN6WQ6m78ddO-CdwiAe9gGBW71bxQZNI0dSI6w6VUjNGL7M72ihximX_Hcsw0NA0Aw">](https://music.youtube.com/channel/UCZXQ531DbJ0mDpV0vAkNk4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z69U1s1p9tniCo3gIU6053lrOD9P2W8yYJa-2qU9zEbpVPg39VDROBowlYA_RXdA38-3rYQ4wqQMm0BR">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-Shota Shimizu - Home
+SEAMO - Otonani Narimashita
 
-**Albums**: Home
+**Albums**: Wave My Flag
 
-Last updated at 08/06/2020 15:08
+Last updated at 08/06/2020 15:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
