@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_mmC0s_MAuFZzW9KtySNcv4th6OiStTCO4ejmN8FVEG01EQqrsXwT_r3xD8Ez8TVpXSKaGo1Qdbn5VA">](https://music.youtube.com/channel/UCJhUhrOkIaqMhc_SQGmBWmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1LYy9dMOZdBONpG2_i8yKh4YiJrJ0V-syJ84m0olTzabDAybU9qhK70NJsSmDa1cpbSJimIaLgzZEsNoQw">](https://music.youtube.com/channel/UCYVvlWTf_x6mXakUr6KHZHg)
 
-Rick and Morty - Don't Look Back [From Rick and Morty: Season 4] (feat. Kotomi & Ryan Elder)
+김경호 - 사랑했지만
 
-**Albums**: Don't Look Back [From Rick and Morty: Season 4]
+**Albums**: 김경호 6집(The Life)
 
-Last updated at 08/06/2020 10:35
+Last updated at 08/06/2020 10:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
