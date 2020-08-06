@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z69U1s1p9tniCo3gIU6053lrOD9P2W8yYJa-2qU9zEbpVPg39VDROBowlYA_RXdA38-3rYQ4wqQMm0BR">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YEPQi3gLP6XK0robu_i8bT9HoXUO65dAtJOl7neucPs5cPhnXuZ9zYg-tk_Qfl8sXBp2Tq1jaESTLxUqfQ">](https://music.youtube.com/channel/UCZXQ531DbJ0mDpV0vAkNk4g)
 
-SEAMO - Otonani Narimashita
+Shota Shimizu - Love Story
 
-**Albums**: Wave My Flag
+**Albums**: Umbrella
 
-Last updated at 08/06/2020 14:49
+Last updated at 08/06/2020 14:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
