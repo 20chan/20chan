@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KuXN5vdMHYcgcL7g69Ly8vn6myWDx6PELoo0hM5J3n7iIUB_sc7HAQ7gjEYXI84BSh0F-9wMwWM4FYuq">](https://music.youtube.com/channel/UCRUPQYmkA6yNDf820rOMvGw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z69U1s1p9tniCo3gIU6053lrOD9P2W8yYJa-2qU9zEbpVPg39VDROBowlYA_RXdA38-3rYQ4wqQMm0BR">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-DOUBLE&清水翔太 - おやすみのキスを~Good Night My Love~
+SEAMO - Otonani Narimashita
 
-**Albums**: Ballad Collection Mellow
+**Albums**: Wave My Flag
 
-Last updated at 08/06/2020 14:44
+Last updated at 08/06/2020 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
