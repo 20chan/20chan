@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UL_EXAyGCkw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChlVwGpYXMW8RDKCJa3tn2w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4RiAoZkX5Eg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdqbmEOsKuAZascFDKr0CzA)
 
-Sheppard - Geronimo
+Pink Slip - Pink Slip - Panama City Beach (feat. Rahn Harper)
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 17:29
+Last updated at 08/06/2020 17:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
