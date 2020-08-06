@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yH9QCaF7SiuZ8HKeSN6WQ6m78ddO-CdwiAe9gGBW71bxQZNI0dSI6w6VUjNGL7M72ihximX_Hcsw0NA0Aw">](https://music.youtube.com/channel/UCZXQ531DbJ0mDpV0vAkNk4g)
 
-SEAMO - Cry Baby
+Shota Shimizu - Home
 
-**Albums**: perfect seamo
+**Albums**: Home
 
-Last updated at 08/06/2020 15:03
+Last updated at 08/06/2020 15:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
