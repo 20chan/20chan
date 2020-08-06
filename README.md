@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pzx2M8YTVa8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCh6GMTlXgeHnwDHaIQ_ThAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QWURJSoc7Q_rLslonfq1vdGazg3k3uw1ypDWuNiB4tON6ZaCiKx80Mu23-NZ-2m-2htCT9HucPpWVP-H">](https://music.youtube.com/channel/UCmUORL97OeG5TxWhVAsB40Q)
 
-Tobu & Axero - Two Sides
+Slow Magic - Waited 4 U (ODESZA Remix)
 
-**Albums**: undefined
+**Albums**: Waited 4 U (ODESZA Remix)
 
-Last updated at 08/06/2020 17:49
+Last updated at 08/06/2020 17:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
