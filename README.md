@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FIW0pxIjgZT4Clktfpd_6coLs-upsp4EP1VY1dN7SmbLI6z6nACWmOQsR7Gg2qoqUSQ3e1ufqLD23duG">](https://music.youtube.com/channel/UCvEKwcnBGwsDDLnftenNM1A)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000583290884-7g33yv-t120x120.jpg">](https://soundcloud.com/miavaile/sweet-liar-1)
 
-TroyBoi - Look At Me (feat. Ice Cube)
+Mia Vaile - Sweet Liar
 
-**Albums**: Left Is Right
+**Albums**: undefined
 
-Last updated at 08/06/2020 17:58
+Last updated at 08/06/2020 18:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
