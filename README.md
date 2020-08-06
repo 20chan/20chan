@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/D7X-taZ7lFriMSFBMsi7qt8s1CXq0aZN22rqUbzHqH8PsjliXBGe_K7utsxpIuieGRediDPS-B9MBylleA">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Zedd - Illusion (feat. Echosmith)
+Avicii - For A Better Day
 
-**Albums**: True Colors
+**Albums**: Stories
 
-Last updated at 08/06/2020 12:38
+Last updated at 08/06/2020 12:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
