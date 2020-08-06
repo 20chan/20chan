@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000513854538-1napga-t120x120.jpg">](https://soundcloud.com/bitbird/yas-empty-crown)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000527486586-asycyx-t120x120.jpg">](https://soundcloud.com/unlikepluto/revenge-and-a-little-more)
 
-bitbird - YAS - empty crown
+Unlike Pluto - Unlike Pluto - Revenge, And a Little More
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 18:03
+Last updated at 08/06/2020 18:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
