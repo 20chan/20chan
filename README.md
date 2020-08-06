@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_qnfu1HZ0RrVLcG0zmm1rsa69uRHX64WDP5O-SIVb_ShYlhy36PF3olOVgZs2Ni1Hw-PaxpjIxs_X_Rj">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-SEKAI NO OWARI - Maboroshi no Inochi
+SEAMO - Cry Baby
 
-**Albums**: EARTH
+**Albums**: perfect seamo
 
-Last updated at 08/06/2020 14:58
+Last updated at 08/06/2020 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
