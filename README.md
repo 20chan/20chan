@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/r2LpOUwca94/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKQ-xBLhj3SkN9Wz6MwjLaA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/czd0Er-_qI8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUys-QG4phcqpiIf7D25llQ)
 
-Major Lazer - Light It Up (feat. Nyla & Fuse ODG) [Remix]
+Wide Awake - Love Me (feat. Jacob Banks)
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 16:31
+Last updated at 08/06/2020 17:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
