@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/12Aqxy59imSAwvCxqn5L3Ge1tzikeZLcLI_3ZyJCVabyblmzbdmkouNE6hdJbIlcRkmw3yqtQQ5MNkk">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-SEKAI NO OWARI - RPG
+SEAMO - Mata-Aimasyou
 
-**Albums**: Tree
+**Albums**: perfect seamo
 
-Last updated at 08/06/2020 14:35
+Last updated at 08/06/2020 14:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
