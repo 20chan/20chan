@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/czd0Er-_qI8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUys-QG4phcqpiIf7D25llQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UL_EXAyGCkw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChlVwGpYXMW8RDKCJa3tn2w)
 
-Wide Awake - Love Me (feat. Jacob Banks)
+Sheppard - Geronimo
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 17:25
+Last updated at 08/06/2020 17:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
