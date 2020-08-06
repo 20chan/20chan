@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A8e9Fge0S0Y0y6VqEOYDIJSt2PC2Ctu2a5i5uKkGBJPT-oidHVMhvRg8AXosOBDFsTMr5tjKDZ185fw">](https://music.youtube.com/channel/UC1yfXDUlpfEncDnLUMekHhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4JFvImNtUl6zwJqgtm-2haRDmEHvjH1XBtJ1e-dEj-jtG6nbEGj6cGkGCICrPh0gZC8XoLOMG562VUUN">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-NELL - 기억을 걷는 시간 (The time of walking on remembrance)
+Noah Kahan - Busyhead
 
-**Albums**: Separation Anxiety [4th Album Separation Anxiety]
+**Albums**: Busyhead
 
-Last updated at 08/06/2020 12:00
+Last updated at 08/06/2020 12:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
