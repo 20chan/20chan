@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000511859964-79nij5-t120x120.jpg">](https://soundcloud.com/awaynotfound/away-x-midoca-too-close-ft-dark-waves)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000578815394-knap0n-t120x120.jpg">](https://soundcloud.com/nollmusic/i-hope-ur-ok)
 
-AWAY - AWAY x Midoca - Too Close ft. Dark Waves
+nøll - i hope ur ok
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 18:20
+Last updated at 08/06/2020 18:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
