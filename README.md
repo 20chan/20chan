@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DEuWG6yDA15tirxBfwthmkppPaUNnzP6rOMtf6cKy1CXRipTi_A9o4wYKMeqFr_oDEj9-WEMw4DDjg">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lno70Lu1p3AGX5-yFrgJ3dh4YBLCUwf3DK-tsDiq-BNyin6DDMBkJsuY1DsT6DiMZixPwfawKQJnAv3l">](https://music.youtube.com/channel/UCDrj9lIddd4uU4_XsH_ZyBw)
 
-Jaurim - 스물다섯, 스물하나
+Yun Ddan Ddan - The Night I Miss You 니가 보고싶은 밤
 
-**Albums**: Goodbye, grief.
+**Albums**: The Night I Miss You 니가 보고싶은 밤
 
-Last updated at 08/06/2020 12:13
+Last updated at 08/06/2020 12:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
