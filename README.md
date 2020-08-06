@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6fC0bRTWcV5IQmVm4P_4QoHkygZUV2c6Ay1k4oINYjg6LsgilNAzS5PxKQ7H_s3YGHtXE6W-26Z1nWc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r8eo_aSWihSZ2zQJIHXpA6Ur227sIDIyNUSua8SgcLEsv-SaFGiTYQhW6rCF2JPHeN6LRrfdfpcWEcc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Gryffin & Bipolar Sunshine - Whole Heart
+Gryffin & Seven Lions - Need Your Love (Nurko Remix) (feat. Noah Kahan)
 
-**Albums**: Whole Heart
+**Albums**: Need Your Love (Remixes)
 
-Last updated at 08/06/2020 15:49
+Last updated at 08/06/2020 15:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
