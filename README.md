@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4JFvImNtUl6zwJqgtm-2haRDmEHvjH1XBtJ1e-dEj-jtG6nbEGj6cGkGCICrPh0gZC8XoLOMG562VUUN">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-Noah Kahan - Busyhead
+Alan Walker - Faded
 
-**Albums**: Busyhead
+**Albums**: Different World
 
-Last updated at 08/06/2020 12:06
+Last updated at 08/06/2020 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
