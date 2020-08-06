@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/no0KUzOAI-7LmAeZst8s2wCmsR_918B9sY6IoKaQLHlO802mNcCurQWHjuV_kdyTuRrq6_FX3pQt9r4">](https://music.youtube.com/channel/UCP3SNTGGvMNf10Fqrf22p0g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
 
-Vigiland - Already Let You Go‬‬‬ (feat. Anthony E)
+버즈 - 비망록 (스물의 노래)
 
-**Albums**: Already Let You Go‬‬‬
+**Albums**: Buzz Effect
 
-Last updated at 08/06/2020 10:43
+Last updated at 08/06/2020 10:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
