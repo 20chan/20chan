@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1LYy9dMOZdBONpG2_i8yKh4YiJrJ0V-syJ84m0olTzabDAybU9qhK70NJsSmDa1cpbSJimIaLgzZEsNoQw">](https://music.youtube.com/channel/UCYVvlWTf_x6mXakUr6KHZHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/no0KUzOAI-7LmAeZst8s2wCmsR_918B9sY6IoKaQLHlO802mNcCurQWHjuV_kdyTuRrq6_FX3pQt9r4">](https://music.youtube.com/channel/UCP3SNTGGvMNf10Fqrf22p0g)
 
-김경호 - 사랑했지만
+Vigiland - Already Let You Go‬‬‬ (feat. Anthony E)
 
-**Albums**: 김경호 6집(The Life)
+**Albums**: Already Let You Go‬‬‬
 
-Last updated at 08/06/2020 10:39
+Last updated at 08/06/2020 10:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
