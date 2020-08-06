@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/MYSVMgRr6pw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCA3Zs9A2IeetfGT3Omi9ivw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pzx2M8YTVa8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCh6GMTlXgeHnwDHaIQ_ThAA)
 
-Hozier - Take Me to Church
+Tobu & Axero - Two Sides
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 17:45
+Last updated at 08/06/2020 17:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
