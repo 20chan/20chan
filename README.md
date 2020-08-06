@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rH4RzXSZuXnULlshMSUMJ5qcYJjwbfg8DFjBjUL4yGsnDY5X87xBHcTDtZoWV4vZaDMl7VrrsJzF5iQ">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Gryffin & DROELOE - Nothing Like You (feat. HANA)
+Gryffin - Love In Ruins (feat. Sinead Harnett)
 
-**Albums**: Gravity
+**Albums**: Love In Ruins
 
-Last updated at 08/06/2020 16:25
+Last updated at 08/06/2020 16:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
