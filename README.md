@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4GzoeitsHKqhulSlx7o3lvnvjJ6DHVWaJulUIzQd34VBD1Qxw3sqOWbmh2Lh6ol2f7tiXBqVxPZ0qzUu">](https://music.youtube.com/channel/UCjdWm6ZQlEtF1J2yYWgaaog)
 
-SEAMO - Kiseki
+SEKAI NO OWARI - RAIN
 
-**Albums**: perfect seamo
+**Albums**: RAIN
 
-Last updated at 08/06/2020 14:03
+Last updated at 08/06/2020 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
