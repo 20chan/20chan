@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7J3SkSJCcs_HtTwLxXqP_6y6yKCBLm0n94HvLxL5zocdADk9VDeQRXxnYaixOZD196Puu4qAIb7XEN0CmA">](https://music.youtube.com/channel/UCX1RfjxgafTHW4gYocAD1lw)
 
-Gryffin - Nobody Compares To You (feat. Katie Pearlman)
+Illenium & Gryffin - Feel Good
 
-**Albums**: Gravity
+**Albums**: Awake
 
-Last updated at 08/06/2020 15:24
+Last updated at 08/06/2020 15:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
