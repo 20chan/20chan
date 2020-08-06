@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000578815394-knap0n-t120x120.jpg">](https://soundcloud.com/nollmusic/i-hope-ur-ok)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000138055904-8nt3fx-t120x120.jpg">](https://soundcloud.com/mrsuicidesheep/lazyboy-empire-vampire)
 
-nøll - i hope ur ok
+MrSuicideSheep - Lazyboy Empire - Vampire
 
 **Albums**: undefined
 
-Last updated at 08/06/2020 18:25
+Last updated at 08/06/2020 18:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
