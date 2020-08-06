@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2gHcBlc5Me1nmQZLBrKcrwyEno1VmOnt2uMl5558UeLaqBaDasf0bU55lJ6oHxBhipiHZoCSuY8ppc6ECQ">](https://music.youtube.com/channel/UCkpHBdMdQISSepoBGhkCDtA)
 
-버즈 - 비망록 (스물의 노래)
+나미 - 가까이 하고 싶은 그대
 
-**Albums**: Buzz Effect
+**Albums**: 나미 7집(변신/가까이 하고 싶은 그대)
 
-Last updated at 08/06/2020 10:47
+Last updated at 08/06/2020 10:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
