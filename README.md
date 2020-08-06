@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KuXN5vdMHYcgcL7g69Ly8vn6myWDx6PELoo0hM5J3n7iIUB_sc7HAQ7gjEYXI84BSh0F-9wMwWM4FYuq">](https://music.youtube.com/channel/UCRUPQYmkA6yNDf820rOMvGw)
 
-SEAMO - Mata-Aimasyou
+DOUBLE&清水翔太 - おやすみのキスを~Good Night My Love~
 
-**Albums**: perfect seamo
+**Albums**: Ballad Collection Mellow
 
-Last updated at 08/06/2020 14:40
+Last updated at 08/06/2020 14:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
