@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P6UQgFQD0MduEsjvh0D1CahKTqebTtObTBUkYp_7F9QcDbtgqFsqkHQwTOtJX6XQv5vL8fxEiBgpjj0K_Q">](https://music.youtube.com/channel/UCGexNm_Kw4rdQjLxmpb2EKw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Metallica - Enter Sandman
+The Chainsmokers - Young
 
-**Albums**: Metallica
+**Albums**: Memories...Do Not Open
 
-Last updated at 08/07/2020 12:08
+Last updated at 08/07/2020 12:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
