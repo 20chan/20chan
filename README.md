@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-SEAMO - Cry Baby
+SEAMO - Kokoro No Koe (feat. AZU)
 
 **Albums**: perfect seamo
 
-Last updated at 08/07/2020 13:52
+Last updated at 08/07/2020 13:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
