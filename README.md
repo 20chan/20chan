@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xp2e1iTDxpidKsW4OdbMnoJcKTeFW-O6K-IqAFaOyGYpdtf3Io2lXyxDFmxqsfr-9q2LbOi_dNu6PqHl">](https://music.youtube.com/channel/UCoNq-kohNtB6l7ChNheqW0g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Vki2REoug-UEp63OvGhh8k63NSs5bc3m4u178xeONRoFLKQYuA1mI9xlI99k8xttVMtzmI5yWJCOigI">](https://music.youtube.com/channel/UCkhjJ1ozo9YkGtZ2Vl-QpwA)
 
-EPIK HIGH - 노땡큐(No Thanxxx) ft. MINO, SIMON DOMINIC, THE QUIETT
+Kygo & Sandro Cavazza - Happy Now
 
-**Albums**: We've Done Something Wonderful
+**Albums**: Happy Now
 
-Last updated at 08/07/2020 12:18
+Last updated at 08/07/2020 12:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
