@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nvrG1c80EKwWa0xOKnQ-KFqWajfh8bAhn0u5IBRSXQWhS5gwFnu2vMgTw2wQTv4Tmu7CMzTPTI38Q18">](https://music.youtube.com/channel/UCkVBToGZ1PTrMN22TAKyO6Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qAgyxEdk0fNB2FLXDqQ98TkumqZKEB-atH6d-15zWNBVdSa0Sde9F_Fcc4W1bWEKSLsIdfp6NNtenloqVw">](https://music.youtube.com/channel/UCEufTpJZKng1bQy-7ZNdokA)
 
-Anne-Marie - 2002
+Rudimental - These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
 
-**Albums**: 2002
+**Albums**: Always in Between (Deluxe)
 
-Last updated at 08/07/2020 11:39
+Last updated at 08/07/2020 11:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
