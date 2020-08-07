@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/quN2WPMLxcP3OAbm1KEGsEGUYbbMdeqtOF1u4fKa-wpj17d0PfIltzdbzBL5_cY8rlYjpe_nKh7ahmYQ">](https://music.youtube.com/channel/UCJfKcDBzYK5d0Qs-fb43OnQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
 
-DEAN - instagram
+Busker Busker - 시원한 여자
 
-**Albums**: instagram
+**Albums**: Busker Busker 2nd
 
-Last updated at 08/07/2020 12:49
+Last updated at 08/07/2020 12:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
