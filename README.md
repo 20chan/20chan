@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1RppbwjSLrQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKKlOV9E33x3Oxw3wR5aETQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Wzo6gtE3iHc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChZxp8T-nbAVpQTmF0I4dqg)
 
-디바(DIVA) - I'll get your love
+Goofy - [ArtTrack] 구피(GOOFY) - 많이많이
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 15:24
+Last updated at 08/07/2020 15:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
