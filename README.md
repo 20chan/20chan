@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lGx3KnRU7kYkeooolsSW6Y3FpYe-EelcZLWLAmdyWUdEmNunkwUtgWmHlcDsYOFuJdl2WDkyW5F830A5eA">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iWCOXGdVxbjupwIanCGmoylKjOnBU-coc3j5mwly4sj5Aadq-r9ydxE9gr15vHwCPA758lKm7LqJt2ws">](https://music.youtube.com/channel/UCIpo9tfpIGXMzNQcZVWoXVw)
 
-The Chainsmokers - You Owe Me
+Robin Schulz - Sugar (feat. Francesco Yates)
 
-**Albums**: Sick Boy
+**Albums**: Sugar
 
-Last updated at 08/07/2020 11:54
+Last updated at 08/07/2020 11:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
