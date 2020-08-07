@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iWCOXGdVxbjupwIanCGmoylKjOnBU-coc3j5mwly4sj5Aadq-r9ydxE9gr15vHwCPA758lKm7LqJt2ws">](https://music.youtube.com/channel/UCIpo9tfpIGXMzNQcZVWoXVw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mr4i0Pv3d4IQl4elzyPRmk5wxD97aPmLtqp1Bade-m8fkVu6KDLEqCLsXqwGpbDWek1apWStMt_9G0w">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-Robin Schulz - Sugar (feat. Francesco Yates)
+Avicii - Wake Me Up (Avicii By Avicii)
 
-**Albums**: Sugar
+**Albums**: True: Avicii By Avicii
 
-Last updated at 08/07/2020 11:58
+Last updated at 08/07/2020 12:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
