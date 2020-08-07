@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4vbHs7YMv3RFqu2YjpaGgFOrOxu0jss2nhjMmTFqJT8tbPyvyOe41eylKVNuEcQEma0wsuEeHA-l_f0">](https://music.youtube.com/channel/UC80xT8WlQ5bvtMq7_MxfHIQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nvrG1c80EKwWa0xOKnQ-KFqWajfh8bAhn0u5IBRSXQWhS5gwFnu2vMgTw2wQTv4Tmu7CMzTPTI38Q18">](https://music.youtube.com/channel/UCkVBToGZ1PTrMN22TAKyO6Q)
 
-MKIT RAIN - Weathermen
+Anne-Marie - 2002
 
-**Albums**: Weathermen
+**Albums**: 2002
 
-Last updated at 08/07/2020 11:34
+Last updated at 08/07/2020 11:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
