@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XIgxZCPzt5w/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
 
-southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
+southkoreanfolksongs - 낭만고양이 -- 체리필터
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 16:52
+Last updated at 08/07/2020 16:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
