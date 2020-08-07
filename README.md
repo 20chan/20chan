@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bQN1pzwS0hNcc7SOlFhDj9xb6ny4xEwEwecESPsz8ZljpVWtgbZUlhEG_irUd-JXRuLypLjeAl7i-LA5UA">](https://music.youtube.com/browse/MPREb_3eZ9rRoQ2j6)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/doY5TbsprL9nU0VHBrBYACPspr7h8ayzT7f7KB_9KLG-y0vxao3GbWyAqmJnTGlCrp5RPtVpw-sCFt0">](https://music.youtube.com/channel/UCLhEkkNFkGjOUI77xhqUcTA)
 
-이문세 - 그녀의 웃음소리뿐
+김광석 (Kim Kwang Seok) - 서른 즈음에 (About Thirty)
 
-**Albums**: 이문세 Memories
+**Albums**: 김광석 네번째 (Kim Kwang Seok 4th)
 
-Last updated at 08/07/2020 18:11
+Last updated at 08/07/2020 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
