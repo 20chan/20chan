@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bQN1pzwS0hNcc7SOlFhDj9xb6ny4xEwEwecESPsz8ZljpVWtgbZUlhEG_irUd-JXRuLypLjeAl7i-LA5UA">](https://music.youtube.com/browse/MPREb_3eZ9rRoQ2j6)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qlm9WkQXZKiZVW43yt5MFpOiSF472q_D1Lfkwr0b5zQ2aVmDg36RlTXwGHwihJqHtW20MgdP3Zvw6HfF">](https://music.youtube.com/channel/UCWjrlrL7_e9QbZ2pMXKsMwA)
 
-이문세 - 붉은 노을
+Lee Moon Sae(이문세) - 옛사랑
 
-**Albums**: 이문세 Memories
+**Albums**: Old And New
 
-Last updated at 08/07/2020 17:51
+Last updated at 08/07/2020 17:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
