@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000039594563-egc0jh-t120x120.jpg">](https://soundcloud.com/papergardenrecords/little-tybee-hearing-blue)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-ChZ5Y9MrXdasAYd945FyaBzBT9DlAgFNoqWlxzci0vf0WhuMCFWHgngRvfklXa4lKXeeGU4FVe_7hh1">](https://music.youtube.com/channel/UC-JRLqONDH6jvDgwHBymGYQ)
 
-Paper Garden Records - Little Tybee - Hearing Blue
+Eve - When You Do (Duet)
 
-**Albums**: undefined
+**Albums**: Eve 1st(Don't Cry)
 
-Last updated at 08/06/2020 18:37
+Last updated at 08/07/2020 10:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
