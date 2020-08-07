@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Ab2tPJWz7BAJ6eEG-KzOS4SOjpsI5VoQS4BV5I3F3y60Zdp7aC_0K8A4pkxxRuOqH_5JBCXnPfPIrI">](https://music.youtube.com/channel/UCZXQ531DbJ0mDpV0vAkNk4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k-_FrPf-aYl-5KQV3JciL1EBlGbllRqA0D3u9kKUr4_kXtk0qoxxzlwaJkQh15d84D7GayemSHx1fNla">](https://music.youtube.com/channel/UCvkeDk8o2gIMXhQ2azwe0jw)
 
-Shota Shimizu - Utsukushiki Hibiyo
+BRIGHT - 1年2ヶ月20日 泣いちゃう前にver(オリジナル)
 
-**Albums**: Utsukushiki Hibiyo Sayonaraha Itsumosobani
+**Albums**: BRIGHT
 
-Last updated at 08/07/2020 14:16
+Last updated at 08/07/2020 14:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
