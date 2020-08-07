@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ho0VJAPakwjTyXGj3OSv-CmwvaaB9I8jgRW7k9rmsH-ceV8ev2DmDQeaSi670AFQtlJ3B5ypMdGN41Ft">](https://music.youtube.com/channel/UC3BBS0-pODIeS8QGX_qtrCg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Halsey - Without Me
+Bebe Rexha - I'm a Mess
 
-**Albums**: Manic
+**Albums**: Expectations
 
-Last updated at 08/07/2020 18:58
+Last updated at 08/07/2020 18:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
