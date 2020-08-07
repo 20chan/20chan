@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/dKtiNUsb_-g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nycKjwhCRZM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6NOfimUIXm_ULO6qN3IEQ)
 
-le prince - 서지원 - 내 눈물 모아
+ooparts1977 - 나만의슬픔-김돈규
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 16:43
+Last updated at 08/07/2020 16:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
