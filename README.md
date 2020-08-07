@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OENS67fdBl4jZ5azZnltf6cE350fONI29kYGskXBsIhRJmskeFztww0m1RV-aXyF9W7N-OlK7etyUW2y">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-The Chainsmokers - Closer (feat. Halsey)
+SEAMO - Cry Baby
 
-**Albums**: Closer
+**Albums**: perfect seamo
 
-Last updated at 08/07/2020 13:50
+Last updated at 08/07/2020 13:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
