@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sRjnNH8-M2Vu9ijQj2l8yos_NkMgl7OtpDBCXH4aWWKJmb17snm6idT7t7mD2mDaGJNlLa-K0ZeOLvV7">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4H8JYqquzy1kp1DdGZ7XSyAMdzZiKWCse6mNs3ozyQHfp0WVdaFCaFUK6M9426JMUNQ_i1X1t1FjYV8">](https://music.youtube.com/channel/UCg4nBubbzhYXjudOxPi9V7w)
 
-Yoon Jong Shin - Like it(좋니)
+Rage Against The Machine - Killing In The Name
 
-**Albums**: LISTEN 010 Like it(좋니)
+**Albums**: Rage Against The Machine - XX (20th Anniversary Special Edition)
 
-Last updated at 08/07/2020 13:17
+Last updated at 08/07/2020 13:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
