@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sd-SKc0yYU1OCDKdaWvJZ1TtbckJTY8O5i8r47w7p50gHZ7t5wtT9OML5URsdR0ikoh7itqqyXzf336x">](https://music.youtube.com/channel/UCfvgbEnhQr2dFfamdOktEUA)
 
-SEAMO - Kokoro No Koe (feat. AZU)
+CIMBA - Replay - Next Lifetime (feat. DJ LAW & Mr. Low-D)
 
-**Albums**: perfect seamo
+**Albums**: Ballad Best
 
-Last updated at 08/07/2020 13:58
+Last updated at 08/07/2020 14:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
