@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Wzo6gtE3iHc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChZxp8T-nbAVpQTmF0I4dqg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-qMlRWQx0yg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwG-Z-8GqLQo5bkdFLNg9Sw)
 
-Goofy - [ArtTrack] 구피(GOOFY) - 많이많이
+楊惠承 - 화려한 싱글 (Clubmix Ver.)
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 15:27
+Last updated at 08/07/2020 15:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
