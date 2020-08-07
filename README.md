@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OyvSCojE1pJQtABYOhejgPrBtHfJtO6hqwqf6O3xPff3LXJ-oi_8dg8JY_AYJKhXFzuhhThbaznroSv9rg">](https://music.youtube.com/browse/MPREb_t3guZqGT8Kx)
 
-The Quiett - Han gang gang (Megamix)
+전람회 - 기억의 습작 (응답하라 1994 삽입곡)
 
-**Albums**: Han gang gang (Megamix)
+**Albums**: Memory
 
-Last updated at 08/07/2020 13:06
+Last updated at 08/07/2020 13:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
