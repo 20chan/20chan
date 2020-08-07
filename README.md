@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3TyFJ_D7Uq8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCp7gmGkYArQhD1AFE3_tXKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/h5GmP1OLZI4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC1atzLVmImCy3YrAmH48R1w)
 
-J. Y. Park - Don’t Leave Me, Don’t Leave Me
+단짠커피 - 주주클럽-펀펀(Fun Fun)
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 16:59
+Last updated at 08/07/2020 17:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
