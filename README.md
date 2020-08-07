@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k-_FrPf-aYl-5KQV3JciL1EBlGbllRqA0D3u9kKUr4_kXtk0qoxxzlwaJkQh15d84D7GayemSHx1fNla">](https://music.youtube.com/channel/UCvkeDk8o2gIMXhQ2azwe0jw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aPUCNSuEsng/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCiw-KqXDwRZIGe07bBesVgg)
 
-BRIGHT - 1年2ヶ月20日 泣いちゃう前にver(オリジナル)
+heidi. & Kim Do Hee - Jin-e
 
-**Albums**: BRIGHT
+**Albums**: undefined
 
-Last updated at 08/07/2020 14:21
+Last updated at 08/07/2020 14:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
