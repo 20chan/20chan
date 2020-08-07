@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xp2e1iTDxpidKsW4OdbMnoJcKTeFW-O6K-IqAFaOyGYpdtf3Io2lXyxDFmxqsfr-9q2LbOi_dNu6PqHl">](https://music.youtube.com/channel/UCoNq-kohNtB6l7ChNheqW0g)
 
-The Chainsmokers - Young
+EPIK HIGH - 노땡큐(No Thanxxx) ft. MINO, SIMON DOMINIC, THE QUIETT
 
-**Albums**: Memories...Do Not Open
+**Albums**: We've Done Something Wonderful
 
-Last updated at 08/07/2020 12:15
+Last updated at 08/07/2020 12:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
