@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qAgyxEdk0fNB2FLXDqQ98TkumqZKEB-atH6d-15zWNBVdSa0Sde9F_Fcc4W1bWEKSLsIdfp6NNtenloqVw">](https://music.youtube.com/channel/UCEufTpJZKng1bQy-7ZNdokA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
 
-Rudimental - These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
+델리스파이스 (DELISPICE) - 고백
 
-**Albums**: Always in Between (Deluxe)
+**Albums**: Espresso
 
-Last updated at 08/07/2020 11:42
+Last updated at 08/07/2020 11:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
