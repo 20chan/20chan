@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtg7-Ng8pTT0xCE0fXQm-DXtYdg6bRWO67vUsUtE0Ov0f7AaEBwcj9uOJGDaMTOUGBUHykrXS_Hd7nmX">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OENS67fdBl4jZ5azZnltf6cE350fONI29kYGskXBsIhRJmskeFztww0m1RV-aXyF9W7N-OlK7etyUW2y">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Cool - 아로하
+The Chainsmokers - Closer (feat. Halsey)
 
-**Albums**: Cool Best
+**Albums**: Closer
 
-Last updated at 08/07/2020 13:46
+Last updated at 08/07/2020 13:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
