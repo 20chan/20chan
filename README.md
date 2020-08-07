@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-Avicii - Without You
+Noah Kahan - Catastrophize
 
-**Albums**: AVĪCI (01)
+**Albums**: Hurt Somebody
 
-Last updated at 08/07/2020 12:32
+Last updated at 08/07/2020 12:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
