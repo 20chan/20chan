@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GJ7BvWc_jVI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGY7g-MxiE-MJqgDBbnOpAg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KsfZydnDywg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQgxZHaoqntwvVrDZvZ1pKg)
 
-Hyun-i & Deok-i - Dwi-neu-jeun Hoo-hoe
+박태섬 - 장덕노래모음 30곡
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 17:05
+Last updated at 08/07/2020 17:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
