@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XokGcn3nYHg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6crVQ5uz9pzRkvqHF8xvXA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/P6UpqC53Pf8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR4NHwXvPXDvT7LF4pS5zkQ)
 
-Koyote - 파란
+Chae Jung-an - 편지 (Live)
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 15:06
+Last updated at 08/07/2020 15:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
