@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aPUCNSuEsng/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCiw-KqXDwRZIGe07bBesVgg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QeD1Pk3pc-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChZxp8T-nbAVpQTmF0I4dqg)
 
-heidi. & Kim Do Hee - Jin-e
+Goofy - Rules of the Game
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 14:24
+Last updated at 08/07/2020 14:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
