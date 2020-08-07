@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/h5GmP1OLZI4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC1atzLVmImCy3YrAmH48R1w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/GJ7BvWc_jVI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGY7g-MxiE-MJqgDBbnOpAg)
 
-단짠커피 - 주주클럽-펀펀(Fun Fun)
+Hyun-i & Deok-i - Dwi-neu-jeun Hoo-hoe
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 17:04
+Last updated at 08/07/2020 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
