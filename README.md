@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f7fD7vDytAT-e82XV7qfD-QseE4XrUzJOkGlgkiGIBCUWQYnKintKcmycF24utnTYqDvswVSll3XFdK7gQ">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bu2CIMT8-1UlYXcd3pILzuvlzUapPhyfeo7ttHIg37cWvpV9eOfJAm-vzEfBwRA59-XyCEB3rnZNGUOz">](https://music.youtube.com/channel/UCsN2si37TZ5cZOvmb3Ft7GA)
 
-BANNERS - Someone To You
+SSAK3 (U-do-ragon & Linda G & B-ryong) - Beach Again
 
-**Albums**: Empires On Fire
+**Albums**: Beach Again
 
-Last updated at 08/07/2020 11:06
+Last updated at 08/07/2020 11:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
