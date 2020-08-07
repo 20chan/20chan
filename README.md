@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/F_on-H8zrho/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl2-lzPjB4Lcc0v23bmitKA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CVA_yjn1pIY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCro5CfSnI1KyBwf0bq1a75A)
 
-Baek Z Young - 부담
+Cooki - First love (Remix Version)
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 14:51
+Last updated at 08/07/2020 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
