@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Vki2REoug-UEp63OvGhh8k63NSs5bc3m4u178xeONRoFLKQYuA1mI9xlI99k8xttVMtzmI5yWJCOigI">](https://music.youtube.com/channel/UCkhjJ1ozo9YkGtZ2Vl-QpwA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kUwgu2HKDV8zsEejZsQ7eG0IeoVH-NyBjsn9TcFlg-fpnYTYK-G1QKafy1AjoqbNEQoFUt1x5jZ8Apo">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-Kygo & Sandro Cavazza - Happy Now
+YUMDDA, The Quiett, Deepflow & Simon Dominic - I'MMA DO 아마두 (feat. Huckleberry P, Keem Hyo-Eun, Paloalto & Woo)
 
-**Albums**: Happy Now
+**Albums**: Dingo X DAMOIM (Part 2)
 
-Last updated at 08/07/2020 12:23
+Last updated at 08/07/2020 12:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
