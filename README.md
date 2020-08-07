@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YiprghSHnwhnngRdKMKMUw1hzyKt3DzgWZa2yPFfmDhUYab9Z9BvRH53bV0qu9ThCXTafeRwHBUC7JNw">](https://music.youtube.com/channel/UC5w-TOpYaLAFyQVlZTRmMAw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Ab2tPJWz7BAJ6eEG-KzOS4SOjpsI5VoQS4BV5I3F3y60Zdp7aC_0K8A4pkxxRuOqH_5JBCXnPfPIrI">](https://music.youtube.com/channel/UCZXQ531DbJ0mDpV0vAkNk4g)
 
-ハジ→ - おまえに｡
+Shota Shimizu - Utsukushiki Hibiyo
 
-**Albums**: ハジバム｡
+**Albums**: Utsukushiki Hibiyo Sayonaraha Itsumosobani
 
-Last updated at 08/07/2020 14:12
+Last updated at 08/07/2020 14:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
