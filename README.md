@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2ANalgN4r112I-Qy0WuJNwYjLVu2mkH0CX99yXIhWaKTwK2ImP7wE8GERcZQTfbaVFXBPMi3O__1J4lB5Q">](https://music.youtube.com/channel/UCwWDT6Ti40TYRCEpFN1pSLw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YiprghSHnwhnngRdKMKMUw1hzyKt3DzgWZa2yPFfmDhUYab9Z9BvRH53bV0qu9ThCXTafeRwHBUC7JNw">](https://music.youtube.com/channel/UC5w-TOpYaLAFyQVlZTRmMAw)
 
-Kodai Sato - Namidayuki
+ハジ→ - おまえに｡
 
-**Albums**: GIFT
+**Albums**: ハジバム｡
 
-Last updated at 08/07/2020 14:07
+Last updated at 08/07/2020 14:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
