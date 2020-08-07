@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OyvSCojE1pJQtABYOhejgPrBtHfJtO6hqwqf6O3xPff3LXJ-oi_8dg8JY_AYJKhXFzuhhThbaznroSv9rg">](https://music.youtube.com/browse/MPREb_t3guZqGT8Kx)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sRjnNH8-M2Vu9ijQj2l8yos_NkMgl7OtpDBCXH4aWWKJmb17snm6idT7t7mD2mDaGJNlLa-K0ZeOLvV7">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
 
-전람회 - 기억의 습작 (응답하라 1994 삽입곡)
+Yoon Jong Shin - Like it(좋니)
 
-**Albums**: Memory
+**Albums**: LISTEN 010 Like it(좋니)
 
-Last updated at 08/07/2020 13:12
+Last updated at 08/07/2020 13:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
