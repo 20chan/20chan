@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b-DU1S1_TA37qAhW8u9xcImFPzs18jleW0PVTOe4s_sk-ADL4neccyjBqBTIfRqPzA7aAXAYFu-ZcXim">](https://music.youtube.com/browse/MPREb_ii8WTUSGYwv)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-이문세 - 가로수 그늘아래 서면
+Bebe Rexha - I'm a Mess
 
-**Albums**: 이문세 5집
+**Albums**: Expectations
 
-Last updated at 08/07/2020 18:27
+Last updated at 08/07/2020 18:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
