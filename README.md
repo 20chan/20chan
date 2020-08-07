@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UYQW9rnsBJuiD64XArnu5sn_2K0aZsiosoH0STvO50lHKx_5mQQ0BX8MNB99Si4QqBUI3QJah7iTm-peKg">](https://music.youtube.com/channel/UCF_sh7efmoosuGZVYWzryiQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
 
-DJ Khaled - I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)
+Noah Kahan - Passenger
 
-**Albums**: Grateful
+**Albums**: Hurt Somebody
 
-Last updated at 08/07/2020 12:42
+Last updated at 08/07/2020 12:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
