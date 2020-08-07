@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KoaQ7sr_km1IPY1BjC4IIiQSPyzFvMzsF7eRM3vmlMLuHSjKvI6inNqiOwQu6Z17R0O1LR16X_V4qXjPMA">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/idXQD22BjxkpisY_fIFdjOMjTd9KQV53UoHtZX_z8bG4YfPCP58P9Lqb7_uVrJ0b4hIMKDf9NuXxh1A">](https://music.youtube.com/browse/MPREb_EAGhNZ8qlo1)
 
-Cool - 슬퍼지려 하기전에
+자전거 탄 풍경 - 너에게 난, 나에게 넌
 
-**Albums**: Destined For The Best
+**Albums**: 1집 자전거 탄 풍경
 
-Last updated at 08/07/2020 17:59
+Last updated at 08/07/2020 18:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
