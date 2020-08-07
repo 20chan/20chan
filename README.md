@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/idXQD22BjxkpisY_fIFdjOMjTd9KQV53UoHtZX_z8bG4YfPCP58P9Lqb7_uVrJ0b4hIMKDf9NuXxh1A">](https://music.youtube.com/browse/MPREb_EAGhNZ8qlo1)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/p_jV3_lS4bZQSIl-ucuL8faT00MZRYpPhjPR7FOB7-MWMKC_iNbjquSlNG48hm_BzklDF8LkDHXRT4DyHA">](https://music.youtube.com/channel/UCRHNO_qjZFZjRBLiBfIDGdA)
 
-자전거 탄 풍경 - 너에게 난, 나에게 넌
+이상우 - 그녀를 만나는 곳 100m 전
 
-**Albums**: 1집 자전거 탄 풍경
+**Albums**: 이상우 LEE SANG WOO Best
 
-Last updated at 08/07/2020 18:03
+Last updated at 08/07/2020 18:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
