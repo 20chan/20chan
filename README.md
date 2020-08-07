@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qlm9WkQXZKiZVW43yt5MFpOiSF472q_D1Lfkwr0b5zQ2aVmDg36RlTXwGHwihJqHtW20MgdP3Zvw6HfF">](https://music.youtube.com/channel/UCWjrlrL7_e9QbZ2pMXKsMwA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KoaQ7sr_km1IPY1BjC4IIiQSPyzFvMzsF7eRM3vmlMLuHSjKvI6inNqiOwQu6Z17R0O1LR16X_V4qXjPMA">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-Lee Moon Sae(이문세) - 옛사랑
+Cool - 슬퍼지려 하기전에
 
-**Albums**: Old And New
+**Albums**: Destined For The Best
 
-Last updated at 08/07/2020 17:54
+Last updated at 08/07/2020 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
