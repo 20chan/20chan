@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0qNav1Ct_Rk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChFcOf3VGaowmmI5lYAqY4w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bQN1pzwS0hNcc7SOlFhDj9xb6ny4xEwEwecESPsz8ZljpVWtgbZUlhEG_irUd-JXRuLypLjeAl7i-LA5UA">](https://music.youtube.com/browse/MPREb_3eZ9rRoQ2j6)
 
-7080 추억의 노래 - 하루 종일 듣고 싶은 좋은노래 좋은음악 - 7080노래모음 - 7080노래모음 주옥같은노래
+이문세 - 붉은 노을
 
-**Albums**: undefined
+**Albums**: 이문세 Memories
 
-Last updated at 08/07/2020 17:20
+Last updated at 08/07/2020 17:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
