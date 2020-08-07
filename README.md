@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/900NMT78LfXO4rfgQdEHbHA4alClPgHDnNYxh6d0fFTaeqVxUz9xtTygCxySs3MXqkEgVZpjWCT80PGN">](https://music.youtube.com/channel/UCNXdVRjxdHoW3BHYn-czkFg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f7fD7vDytAT-e82XV7qfD-QseE4XrUzJOkGlgkiGIBCUWQYnKintKcmycF24utnTYqDvswVSll3XFdK7gQ">](https://music.youtube.com/channel/UCt75F1_GLecO9UJFuCP27ug)
 
-Milky Chance - Stolen Dance
+BANNERS - Someone To You
 
-**Albums**: Sadnecessary (Bonus Track Version)
+**Albums**: Empires On Fire
 
-Last updated at 08/07/2020 11:01
+Last updated at 08/07/2020 11:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
