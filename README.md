@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZN00F-huuMDmhs4wRBcKA86OB0oS_OdwyAidd6nXf8HW2hhx13AUFCRMy_WQZX-Z1HCdEkSE0rwgjck">](https://music.youtube.com/channel/UCUUfPDP3PVb6YXN-dmZxgDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvppojuK0tqpx47W2jJgNuHBRPP3MDItC-bdLoT4wGtvw-o2cUsW57fZcMPhY-XH1KQmIDUDgs0-JgZb">](https://music.youtube.com/channel/UC9y5zNTG8Zfkn9I2m2cdG1A)
 
-이현우 - 슬픔속에그댈지워야만해
+Sung Si-kyung - 거리에서
 
-**Albums**: 사랑할수없는너
+**Albums**: The Ballads
 
-Last updated at 08/07/2020 11:21
+Last updated at 08/07/2020 11:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
