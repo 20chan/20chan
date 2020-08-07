@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GpSsQGaGIw0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GpSsQGaGIw0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7DnUQBbOsi4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7DnUQBbOsi4)
 
-Kim Hyeon-jeong - 혼자한 사랑
+Space A - Sensual Man
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 14:32
+Last updated at 08/07/2020 14:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
