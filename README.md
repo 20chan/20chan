@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvppojuK0tqpx47W2jJgNuHBRPP3MDItC-bdLoT4wGtvw-o2cUsW57fZcMPhY-XH1KQmIDUDgs0-JgZb">](https://music.youtube.com/channel/UC9y5zNTG8Zfkn9I2m2cdG1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3da1npNqzkcOHsJymdwVu5MUhNxu83YwK977EGrzpBUpO8D5cEd-YROj0GH_Xd05sycS9Z8P6k7___NxrA">](https://music.youtube.com/channel/UCldxOKMiWjehdybzCNVYm8w)
 
-Sung Si-kyung - 거리에서
+터보 - 어느 째즈바...
 
-**Albums**: The Ballads
+**Albums**: 터보(TURBO) 2집 NEW SENSATION
 
-Last updated at 08/07/2020 11:25
+Last updated at 08/07/2020 11:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
