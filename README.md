@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UbcmZxvF1oAXlOsrMo2L6VCpeelfmi1UJFx0-NBzMD895SBKNrLDFvucbW7PlFopcLuFeSgqC-XUOr-Q">](https://music.youtube.com/channel/UCE-7-YofEUSr-AnfiqKI92g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GeZsQz4KLN9zwul2rX1UnQsBhFwRsQJ6aOwp6ujSndbDz_sKqnAdbdx_DFCO2hjRPu7sIVZGwKtx6nA">](https://music.youtube.com/channel/UCCj0RlDqqahEB5BXVtDcPqg)
 
-최진영 - 영원
+5 Seconds Of Summer - Youngblood
 
-**Albums**: Final Fantasy -The Best Is Yet To Come
+**Albums**: Youngblood
 
-Last updated at 08/07/2020 13:31
+Last updated at 08/07/2020 13:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
