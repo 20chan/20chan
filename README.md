@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kUwgu2HKDV8zsEejZsQ7eG0IeoVH-NyBjsn9TcFlg-fpnYTYK-G1QKafy1AjoqbNEQoFUt1x5jZ8Apo">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/channel/UCuACQmW04T3v9Mz_1_suFYw)
 
-YUMDDA, The Quiett, Deepflow & Simon Dominic - I'MMA DO 아마두 (feat. Huckleberry P, Keem Hyo-Eun, Paloalto & Woo)
+Avicii - Without You
 
-**Albums**: Dingo X DAMOIM (Part 2)
+**Albums**: AVĪCI (01)
 
-Last updated at 08/07/2020 12:27
+Last updated at 08/07/2020 12:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
