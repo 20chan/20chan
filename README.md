@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7DnUQBbOsi4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7DnUQBbOsi4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CgFTL8zuo4E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR4NHwXvPXDvT7LF4pS5zkQ)
 
-Space A - Sensual Man
+Chae Jung-an - 무정(無情)
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 14:36
+Last updated at 08/07/2020 14:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
