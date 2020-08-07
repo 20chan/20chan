@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/YWcsAl1NdZI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdhygSVsdrgsFj1-dwRqkTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-티스 - 주주클럽 노래모음
+JuJu Club - 公主後遺症
 
-**Albums**: undefined
+**Albums**: 16／20
 
-Last updated at 08/07/2020 15:47
+Last updated at 08/07/2020 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
