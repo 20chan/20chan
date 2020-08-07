@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">](https://music.youtube.com/channel/UCye1kBGko8BG8QCyKjP9QEw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZN00F-huuMDmhs4wRBcKA86OB0oS_OdwyAidd6nXf8HW2hhx13AUFCRMy_WQZX-Z1HCdEkSE0rwgjck">](https://music.youtube.com/channel/UCUUfPDP3PVb6YXN-dmZxgDQ)
 
-이영지 Lee Young Ji - GO HIGH
+이현우 - 슬픔속에그댈지워야만해
 
-**Albums**: School Rapper3 Final
+**Albums**: 사랑할수없는너
 
-Last updated at 08/07/2020 11:17
+Last updated at 08/07/2020 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
