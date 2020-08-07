@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/2L3Y4WaO1NY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC6crVQ5uz9pzRkvqHF8xvXA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YWcsAl1NdZI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdhygSVsdrgsFj1-dwRqkTA)
 
-Koyote - 불꽃
+티스 - 주주클럽 노래모음
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 15:43
+Last updated at 08/07/2020 15:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
