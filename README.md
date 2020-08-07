@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sd-SKc0yYU1OCDKdaWvJZ1TtbckJTY8O5i8r47w7p50gHZ7t5wtT9OML5URsdR0ikoh7itqqyXzf336x">](https://music.youtube.com/channel/UCfvgbEnhQr2dFfamdOktEUA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2ANalgN4r112I-Qy0WuJNwYjLVu2mkH0CX99yXIhWaKTwK2ImP7wE8GERcZQTfbaVFXBPMi3O__1J4lB5Q">](https://music.youtube.com/channel/UCwWDT6Ti40TYRCEpFN1pSLw)
 
-CIMBA - Replay - Next Lifetime (feat. DJ LAW & Mr. Low-D)
+Kodai Sato - Namidayuki
 
-**Albums**: Ballad Best
+**Albums**: GIFT
 
-Last updated at 08/07/2020 14:02
+Last updated at 08/07/2020 14:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
