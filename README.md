@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/CgFTL8zuo4E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCR4NHwXvPXDvT7LF4pS5zkQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0ZtRFdlinAQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdLkowsMIpMGfCixdRoRPuQ)
 
-Chae Jung-an - 무정(無情)
+Uhm Jung Hwa - Festival
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 14:40
+Last updated at 08/07/2020 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
