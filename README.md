@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/avuhx1G0CwY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs7xDuJ_OjDL5Am0Ui_5FOA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/F_on-H8zrho/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl2-lzPjB4Lcc0v23bmitKA)
 
-BB - Heaven&apos;s Land Star&apos;s Land
+Baek Z Young - 부담
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 14:47
+Last updated at 08/07/2020 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
