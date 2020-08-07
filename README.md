@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/channel/UCSXA96tQPhroQWotU51h4Mg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LoHg5B8dq9JxwzN31tDqpFEn0e6scAHBAu3N1o1r3BkJwGjgk6YAjIcbS1d3sk4Sf5TH0T7xh-QFmNJ6">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Busker Busker - 시원한 여자
+The Chainsmokers - Paris
 
-**Albums**: Busker Busker 2nd
+**Albums**: Memories...Do Not Open
 
-Last updated at 08/07/2020 12:53
+Last updated at 08/07/2020 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
