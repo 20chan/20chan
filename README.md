@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/doY5TbsprL9nU0VHBrBYACPspr7h8ayzT7f7KB_9KLG-y0vxao3GbWyAqmJnTGlCrp5RPtVpw-sCFt0">](https://music.youtube.com/channel/UCLhEkkNFkGjOUI77xhqUcTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HWQaoKvFZg1gjM9_42CqkGdD2ZHpKLd_zKld_FhBMoNPw7MRNGzh1Cbv8BiSsQSdGNkBZ4GL9_ijM4g">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
 
-김광석 (Kim Kwang Seok) - 서른 즈음에 (About Thirty)
+공일오비(015B) - 이젠안녕
 
-**Albums**: 김광석 네번째 (Kim Kwang Seok 4th)
+**Albums**: Love in Memory
 
-Last updated at 08/07/2020 18:18
+Last updated at 08/07/2020 18:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
