@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KsfZydnDywg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQgxZHaoqntwvVrDZvZ1pKg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0qNav1Ct_Rk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChFcOf3VGaowmmI5lYAqY4w)
 
-박태섬 - 장덕노래모음 30곡
+7080 추억의 노래 - 하루 종일 듣고 싶은 좋은노래 좋은음악 - 7080노래모음 - 7080노래모음 주옥같은노래
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 17:06
+Last updated at 08/07/2020 17:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
