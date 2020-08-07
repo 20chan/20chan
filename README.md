@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QeD1Pk3pc-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChZxp8T-nbAVpQTmF0I4dqg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/GpSsQGaGIw0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GpSsQGaGIw0)
 
-Goofy - Rules of the Game
+Kim Hyeon-jeong - 혼자한 사랑
 
 **Albums**: undefined
 
-Last updated at 08/07/2020 14:28
+Last updated at 08/07/2020 14:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
