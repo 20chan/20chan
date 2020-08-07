@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uGQ0AVykUPI9o8imhTuY5uwTKQ7cZj0HgUPV-rXpHJX6v9ha814wcHR-SOyFkNgv6hAx2BTUzvavZJeZ">](https://music.youtube.com/channel/UCwGXlFP4Ba5do7KoxRJYgVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtg7-Ng8pTT0xCE0fXQm-DXtYdg6bRWO67vUsUtE0Ov0f7AaEBwcj9uOJGDaMTOUGBUHykrXS_Hd7nmX">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-Noah Kahan - Hurt Somebody
+Cool - 아로하
 
-**Albums**: Hurt Somebody
+**Albums**: Cool Best
 
-Last updated at 08/07/2020 13:43
+Last updated at 08/07/2020 13:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
