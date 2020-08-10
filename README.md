@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KJvC-_Xq_DH_8o1h5E-MRuBY5f2y5aOWG2Em2cyulONAg2rnetVoKQm0ErPhK4yg-W0HkXZjXZlq_O-H">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
 
-IU - Rain Drop
+델리스파이스 (DELISPICE) - 고백
 
-**Albums**: Nitpicking
+**Albums**: Espresso
 
-Last updated at 08/10/2020 18:06
+Last updated at 08/10/2020 18:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
