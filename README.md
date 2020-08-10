@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nMcblDwd_mA-R05w8QKqSazNCGkNaLMr3c4AKa3JX-zI5JzRSSJHO0Boi4DkEYu2_P-HJXyg2j-pQ9S">](https://music.youtube.com/channel/UCzqz_ksRu_WkIzmivMdIS7A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jiq-5qO-KBWYZLy72MgE-c_iZBbyBsIQcZPmuthiMsLpTWOxD_yNlrsyjeblNmuhphc1g6EXZtOZQ6JY">](https://music.youtube.com/channel/UCsXKPFouKx7giAFRheB-G7A)
 
-benny blanco, Halsey & Khalid - Eastside
+LSD - Thunderclouds (feat. Sia, Diplo & Labrinth)
 
-**Albums**: Eastside
+**Albums**: LABRINTH, SIA & DIPLO PRESENT... LSD
 
-Last updated at 08/10/2020 12:51
+Last updated at 08/10/2020 12:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
