@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UbcmZxvF1oAXlOsrMo2L6VCpeelfmi1UJFx0-NBzMD895SBKNrLDFvucbW7PlFopcLuFeSgqC-XUOr-Q">](https://music.youtube.com/channel/UCE-7-YofEUSr-AnfiqKI92g)
 
-pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
+최진영 - 영원
 
-**Albums**: undefined
+**Albums**: Final Fantasy -The Best Is Yet To Come
 
-Last updated at 08/10/2020 16:31
+Last updated at 08/10/2020 16:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
