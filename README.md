@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/W_McF02Q3fE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCVfBsFrcrpfbKcHTSptsPBg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/22jU75ekAEQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknc_tSdD2F85ylqf4m-m_Q)
 
-weakacid21 - 김현철 1집. 비가 와.
+kb jeong - 이승훈 - 비오는거리 (1997년)
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 17:40
+Last updated at 08/10/2020 17:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
