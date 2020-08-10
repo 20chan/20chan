@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/npOO99id_WSflWXogvn0gzWPdGpr2j5LY7ROjdnUEJVkgQsvYwqgQI2Rks4yI67BMnAzX_Dw9MlnRZsS">](https://music.youtube.com/channel/UCREZHot6PVQlQi-tdQ7Z38Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WdzqZCxgf4iMyOufj0zrJ60IJ4peA_u1pT5iZWxz8fPfBWGPhsxNey6dI0-RzVWOgUTSDa-R-xUlBnQ0">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
 
-도원경 - 비
+변진섭 - 비와 당신
 
-**Albums**: 도원경 2집 PartⅡ(유리창에 기대어)
+**Albums**: 나는 가수다 2 8월 B조 경연
 
-Last updated at 08/10/2020 18:24
+Last updated at 08/10/2020 18:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
