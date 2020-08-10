@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9MeqIR47vj0_Xlpdb8mv_uLNFXCJY7RVtxtjShrPT8dbkllmf8mbMDk3M-rF8t_NS_adXngE2cCwe-c">](https://music.youtube.com/channel/UC3BBS0-pODIeS8QGX_qtrCg)
 
-Bebe Rexha - Don't Get Any Closer
+Halsey - Colors
 
-**Albums**: Expectations
+**Albums**: BADLANDS
 
-Last updated at 08/10/2020 11:53
+Last updated at 08/10/2020 11:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
