@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/nycKjwhCRZM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6NOfimUIXm_ULO6qN3IEQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3FWsr1gVb_I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCv_usQBkyFFevOrGoMwL79A)
 
-ooparts1977 - 나만의슬픔-김돈규
+danmooj1 - [HD] 야다 - 이미슬픈사랑
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 15:11
+Last updated at 08/10/2020 15:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
