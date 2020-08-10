@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/VNxUy2ua9AM/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CB0pxhTZuzU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl1Ls3mIDg_yHAOlRieTDnA)
 
-le prince - 부활 - 비밀
+An Ding - • Vietsub • Western Sky • Lee Seung Chul
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 16:06
+Last updated at 08/10/2020 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
