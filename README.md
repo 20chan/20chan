@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uRxjd_71XYI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjGUwFeKfns6thNX63Gc4Yw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EBguzqKx6ohFK2znYpmd2C1klfKn9hPc4SgHSpY2Gh6sgWxZ01IAa7N7gP7g9aVsGoMxARIcn_4Os8Bv">](https://music.youtube.com/channel/UCP_CO2kraLUkGdMV3TL0agQ)
 
-Beo Deu Ri - 버드리 빛나는 별이되어 우리곁에 남아주세요.
+rumble fish - Rain and You
 
-**Albums**: undefined
+**Albums**: Memory For You
 
-Last updated at 08/10/2020 17:18
+Last updated at 08/10/2020 17:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
