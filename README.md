@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v9a_t0MzIoNMyXB2VLk2P0sJolGFDZolelw2jXKQ8NUBZTQnxIoSoURL8NuigIdpJ9pokIzqk2NY97LD">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9ilraY4HmVAcSYYM-HhkSO3aSVmrDaQnOXRK1E-yQg-cs4S-3M60WLs_1a85chocWvwuC0UjiWx0EgV3">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-Bebe Rexha - No Broken Hearts (feat. Nicki Minaj)
+Loote - tomorrow tonight
 
-**Albums**: No Broken Hearts
+**Albums**: lost
 
-Last updated at 08/10/2020 13:45
+Last updated at 08/10/2020 13:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
