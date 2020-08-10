@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/58_vtKKgQV4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
+pops8090 - 이정석＆조갑경 - 사랑의 대화 (1988年)
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 18:17
+Last updated at 08/10/2020 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
