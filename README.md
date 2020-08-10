@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nycKjwhCRZM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6NOfimUIXm_ULO6qN3IEQ)
 
-pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
+ooparts1977 - 나만의슬픔-김돈규
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 15:07
+Last updated at 08/10/2020 15:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
