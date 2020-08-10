@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xy3KoIfXgwX1zSWADUZRtnvxM2r1zjnXU9-fqqxJMT3Ms2VQ10_R8XsKAHScsaXPA9fClXVvfacs5xEKSA">](https://music.youtube.com/channel/UCdZLr2GYlZMZOQDPdH3J1Lw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/59dBfEM3S4jWs6b5w2F1zuhAEJGh3LuDerNqYyEI6NuUeJdZgr2TaM7gpfDTKwvaCVz5tYQrUBPsiqU">](https://music.youtube.com/channel/UCBNeAoPycNhoRuS01B9Kf5g)
 
-Clean Bandit - Mama (feat. Ellie Goulding)
+Hailee Steinfeld - Rock Bottom (feat. DNCE)
 
-**Albums**: What Is Love? (Deluxe Edition)
+**Albums**: HAIZ
 
-Last updated at 08/10/2020 13:19
+Last updated at 08/10/2020 13:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
