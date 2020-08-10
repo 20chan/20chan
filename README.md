@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pg9CfSA9vpya3BJS6GI7VBdC_rNMdm44K7NSUym4opDh9SyUhLMypXbn_bnpb3EvBzMchv-mdSB5FRjE">](https://music.youtube.com/channel/UC3BBS0-pODIeS8QGX_qtrCg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sdZsughX6QPQ9J8SvcFxiSTwKvbzOPs9jHEXgYUD0zuS_ZS1_fhJ6YjOlyr7NOWEvFjsGRRHoWxmh3PMTQ">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Halsey - Nightmare
+Bebe Rexha - The Way I Are (Dance with Somebody) (feat. Lil Wayne)
 
-**Albums**: Nightmare
+**Albums**: All Your Fault: Pt. 2
 
-Last updated at 08/10/2020 12:38
+Last updated at 08/10/2020 12:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
