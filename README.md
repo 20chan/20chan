@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/WoXdoH2CpQs/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCSK7dM4ZDBgVPA_gk8Q1FoQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RQsV3760Ayo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnuyo3kMPtnUOjXJ8wIbBIA)
 
-Boohwal - Thought
+신통방통 - 그런사람 또 없습니다(이승철) -가사-
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 15:47
+Last updated at 08/10/2020 15:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
