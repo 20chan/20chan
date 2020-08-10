@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EXn0CenKu6hc4x9y94qHoMzbAJLXx4JDgtESo88hI0T3bX8OoKLwi4vJft4GrX8HS8VLxLWB8jw0R19q">](https://music.youtube.com/channel/UCB-GmTOjewVU2F_7S4ZFmEA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Zara Larsson - Never Forget You
+Imagine Dragons - Thunder
 
-**Albums**: So Good
+**Albums**: Evolve
 
-Last updated at 08/10/2020 13:25
+Last updated at 08/10/2020 13:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
