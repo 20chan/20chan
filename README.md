@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/channel/UCe8pLEl_Uzxw1w2pOW9RP1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/otuJAyMi8YC6mD3Wc24QvwVTyIpMkOAbzx8oSLWFThSgj1YwSBGDDjOXk8PXm3sWhcNUCLiLF3eNCbc-">](https://music.youtube.com/browse/MPREb_jMIDdrOInKX)
 
-Park Hye Kyung - One day
+김지훈 - 그대 눈물까지도
 
-**Albums**: O2
+**Albums**: 김지훈 정식 추모앨범 [Digital Single]
 
-Last updated at 08/10/2020 14:42
+Last updated at 08/10/2020 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
