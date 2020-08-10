@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sdZsughX6QPQ9J8SvcFxiSTwKvbzOPs9jHEXgYUD0zuS_ZS1_fhJ6YjOlyr7NOWEvFjsGRRHoWxmh3PMTQ">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/o3_U1z9P570xzhgkHHTCmGT8spp-i-kr0xPk26ZdqgLRQCTFhQYkkEl0QRaRQC8FjsXqikia3GGwld09">](https://music.youtube.com/channel/UC_7s69e1mDS3lgcTMJEPjCg)
 
-Bebe Rexha - The Way I Are (Dance with Somebody) (feat. Lil Wayne)
+Katy Perry - Dark Horse (feat. Juicy J)
 
-**Albums**: All Your Fault: Pt. 2
+**Albums**: PRISM
 
-Last updated at 08/10/2020 12:42
+Last updated at 08/10/2020 12:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
