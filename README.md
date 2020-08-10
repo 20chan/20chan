@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fFuBo3WF3IkTFpWehN440lU8Jbnk63zcKLimt6B5QrWS49BvHOtEr_Hj5kPP9cSeihdEMXXUJas763bG">](https://music.youtube.com/channel/UCBxPw3gBM65DpL64iD5kIiA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
 
-Vicetone - Walk Thru Fire (feat. Meron Ryan)
+Marshmello & Bastille - Happier
 
-**Albums**: Walk Thru Fire
+**Albums**: Happier
 
-Last updated at 08/10/2020 14:02
+Last updated at 08/10/2020 14:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
