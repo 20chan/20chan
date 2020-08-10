@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xBoFHV-k8eLGjVo0a7fuT3bGCtMJzgH42GRlbkVz6crNd7dyW6Kn9_XeudDLhe8poygeQMl7sDWjdAxR">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-NOTD & Daya - Wanted
+Bebe Rexha - F.F.F. (feat. G-Eazy)
 
-**Albums**: Wanted
+**Albums**: All Your Fault: Pt. 1
 
-Last updated at 08/10/2020 14:16
+Last updated at 08/10/2020 14:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
