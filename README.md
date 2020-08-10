@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GYmZnqA5QRrr2XHhVeGwuOlJpR-ndSljkn3fUG4HaVREomFjJXPaHPZ1basUWp9jil5cgvr6PUvFe_Z6">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Foctrr-Tbi1sujxJA-woShSUbnysDMgPWCcI1Dx8Um5_CBa1CLNHMMKti9eRM1-gHqK42TT3LWP0CvYg">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
 
-Yoon Jong Shin - 고속도로 로맨스
+서영은 - 혼자가 아닌 나
 
-**Albums**: 행보 2013 윤종신
+**Albums**: 서영은 4집(Gift)
 
-Last updated at 08/10/2020 19:07
+Last updated at 08/10/2020 19:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
