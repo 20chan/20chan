@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_4a-N9slwB_c7mQYHg8SVotr5uL5EZzNbx02jYBTz5UissKK-lnKjh3kgaT66IE2Kk1G747BLNbiMEM">](https://music.youtube.com/channel/UCSK7dM4ZDBgVPA_gk8Q1FoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/N8q__gTjBiFZpa7QRs9ZnSFu8OSLr1w7vrRf5Mt8Y6wNXZmdMKfApZ9vc_tnEf1nwwliFddsCfcMFxw">](https://music.youtube.com/channel/UCSeNHPAz_FDNx11HF__PHkA)
 
-Boowhal - 안녕
+KIM TAE WOO - Love Rain
 
-**Albums**: Color
+**Albums**: T-VIRUS
 
-Last updated at 08/10/2020 18:45
+Last updated at 08/10/2020 18:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
