@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1G0FPyoiijO6iICOkAQL6T6WUfYaWQdzryaD4y4qjp5QaW0PYZlt9Ah0MIX9w3NoGauKqZ7_kNKEprLSjw">](https://music.youtube.com/channel/UCzP-QpLTBCd09nkCQxqSrug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/channel/UC2kPe8FB39lojsUDtyKcqOQ)
 
-Mena Massoud & Naomi Scott - Desert Moon (From "Aladdin")
+Idina Menzel & AURORA - Into the Unknown
 
-**Albums**: Desert Moon (From "Aladdin")
+**Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
 
-Last updated at 08/10/2020 14:25
+Last updated at 08/10/2020 14:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
