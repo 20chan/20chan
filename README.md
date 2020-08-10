@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x6qGMNPk-HLE-lLVbfLw_mP1Or6UtDE2KRTjbMAtbYepqly5PTJqVGy3KhgIVT9_9afcKj_E7Pq-lDFv">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xy3KoIfXgwX1zSWADUZRtnvxM2r1zjnXU9-fqqxJMT3Ms2VQ10_R8XsKAHScsaXPA9fClXVvfacs5xEKSA">](https://music.youtube.com/channel/UCdZLr2GYlZMZOQDPdH3J1Lw)
 
-Zedd & Elley Duhé - Happy Now
+Clean Bandit - Mama (feat. Ellie Goulding)
 
-**Albums**: Happy Now
+**Albums**: What Is Love? (Deluxe Edition)
 
-Last updated at 08/10/2020 13:16
+Last updated at 08/10/2020 13:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
