@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2vhA3p73paNJ8ptp3K-ALvl7ruhzQDQiOsJLBxHBXCIMRpoHUscQIHurAZXQmbHys7EdBsKRoiEeOV1_">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Billie Eilish - ocean eyes
+The Chainsmokers - Takeaway (feat. Lennon Stella)
 
-**Albums**: dont smile at me
+**Albums**: World War Joy...Takeaway
 
-Last updated at 08/10/2020 13:56
+Last updated at 08/10/2020 13:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
