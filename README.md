@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/g2vefXuB6zvHbI_ojKa4VjNlMBHKWQpEjUl9a838_1_0Nw-RhJbvjZe8vvSVeYMWIEz7245vRZgZljt1">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_4a-N9slwB_c7mQYHg8SVotr5uL5EZzNbx02jYBTz5UissKK-lnKjh3kgaT66IE2Kk1G747BLNbiMEM">](https://music.youtube.com/channel/UCSK7dM4ZDBgVPA_gk8Q1FoQ)
 
-Yoon Jong Shin - 처음 만날때처럼
+Boowhal - 안녕
 
-**Albums**: 윤종신(From The Beginning)
+**Albums**: Color
 
-Last updated at 08/10/2020 18:41
+Last updated at 08/10/2020 18:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
