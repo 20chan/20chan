@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xD7vFOsdLKc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCn3iVeuDQtYOG-lpzMN5SZw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-PENTAGON - 진호(JINHO) - MAGAZINE HO #41 '뜨거운 안녕 / 토이, 이지형'
+pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 17:45
+Last updated at 08/10/2020 17:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
