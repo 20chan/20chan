@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvppojuK0tqpx47W2jJgNuHBRPP3MDItC-bdLoT4wGtvw-o2cUsW57fZcMPhY-XH1KQmIDUDgs0-JgZb">](https://music.youtube.com/channel/UC9y5zNTG8Zfkn9I2m2cdG1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/browse/MPREb_gOnGJWF7zQv)
 
-Sung Si-kyung - 거리에서
+버즈 - 비망록 (스물의 노래)
 
-**Albums**: The Ballads
+**Albums**: Buzz Effect
 
-Last updated at 08/10/2020 18:58
+Last updated at 08/10/2020 19:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
