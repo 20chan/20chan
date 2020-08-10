@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UbcmZxvF1oAXlOsrMo2L6VCpeelfmi1UJFx0-NBzMD895SBKNrLDFvucbW7PlFopcLuFeSgqC-XUOr-Q">](https://music.youtube.com/channel/UCE-7-YofEUSr-AnfiqKI92g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/DxyMf2jvLLw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-최진영 - 영원
+pops8090 - 부활 - 비와 당신의 이야기 (1986年)
 
-**Albums**: Final Fantasy -The Best Is Yet To Come
+**Albums**: undefined
 
-Last updated at 08/10/2020 16:55
+Last updated at 08/10/2020 16:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
