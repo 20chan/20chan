@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v9a_t0MzIoNMyXB2VLk2P0sJolGFDZolelw2jXKQ8NUBZTQnxIoSoURL8NuigIdpJ9pokIzqk2NY97LD">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Loote - Wish I Never Met You
+Bebe Rexha - No Broken Hearts (feat. Nicki Minaj)
 
-**Albums**: single.
+**Albums**: No Broken Hearts
 
-Last updated at 08/10/2020 13:42
+Last updated at 08/10/2020 13:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
