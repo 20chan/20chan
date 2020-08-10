@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fx6kz_AXXbWVglzvmChcvFRTwV_nFmSAjuyYUO2XTqO_Es9hv4Fe6scz1pTfNWw6hSWob6gtpsft3vZm">](https://music.youtube.com/channel/UCPC0L1d253x-KuMNwa05TpA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pg9CfSA9vpya3BJS6GI7VBdC_rNMdm44K7NSUym4opDh9SyUhLMypXbn_bnpb3EvBzMchv-mdSB5FRjE">](https://music.youtube.com/channel/UC3BBS0-pODIeS8QGX_qtrCg)
 
-Taylor Swift - Look What You Made Me Do
+Halsey - Nightmare
 
-**Albums**: reputation (Big Machine Radio Release Special)
+**Albums**: Nightmare
 
-Last updated at 08/10/2020 12:34
+Last updated at 08/10/2020 12:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
