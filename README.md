@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-ChZ5Y9MrXdasAYd945FyaBzBT9DlAgFNoqWlxzci0vf0WhuMCFWHgngRvfklXa4lKXeeGU4FVe_7hh1">](https://music.youtube.com/channel/UC-JRLqONDH6jvDgwHBymGYQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oGVprKcxFMCe536zSj39aj0acuA7FDXsj4V2RRstPHYJOpLxcwNdfQOUlegalJrquh9RPQ9wn_9YUFFF">](https://music.youtube.com/channel/UC-JRLqONDH6jvDgwHBymGYQ)
 
-Eve - When You Do
+Eve - Last Love
 
-**Albums**: Eve 1st(Don't Cry)
+**Albums**: Eve 3rd (Fly to you)
 
-Last updated at 08/10/2020 14:32
+Last updated at 08/10/2020 14:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
