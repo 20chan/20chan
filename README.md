@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/channel/UC2kPe8FB39lojsUDtyKcqOQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jej343l-7DJxcd4wx3v-qWIpQ3g8_FcTan8EkvI5cMCxxEQKVMUORRF4VtJwpDTz4U3tjncW0nx66EGY">](https://music.youtube.com/channel/UCOn8xKnmsFr2l3aIeBClAXA)
 
-Idina Menzel & AURORA - Into the Unknown
+Dan Stevens - Evermore
 
-**Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
+**Albums**: Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)
 
-Last updated at 08/10/2020 14:28
+Last updated at 08/10/2020 14:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
