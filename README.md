@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7sbfUeETImYAPOLcW2bwe_YVqz0hQ9Rv5HIE9Ux-yrfi6elVl-TmmGOJgBZ7Q43NuXtEfKGvxDV-djk">](https://music.youtube.com/channel/UCwem2sj-QUJCiWiPAo9JuAw)
 
-Bebe Rexha - Self Control
+Demi Lovato - Confident
 
-**Albums**: Expectations
+**Albums**: Confident
 
-Last updated at 08/10/2020 13:00
+Last updated at 08/10/2020 13:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
