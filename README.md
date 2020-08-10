@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/CB0pxhTZuzU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl1Ls3mIDg_yHAOlRieTDnA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/BrR_gaatQoM/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCfVWVvSJTdGQVPW56oNInDQ)
 
-An Ding - • Vietsub • Western Sky • Lee Seung Chul
+Homme - I Was Able to Eat Well
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 16:10
+Last updated at 08/10/2020 16:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
