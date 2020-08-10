@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qK93GDpO2K0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvYuD1J64Dt6aDsf5W0vFew)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-뚱이뚱이 - The Running Mates ost part 4 달리는 조사관 ost part 4 연규성 - 한숨
+pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 16:28
+Last updated at 08/10/2020 16:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
