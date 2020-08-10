@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J02TXeYxE-_PH9tXhyQUwS8Dgc0x5iGPNydzJe67M1958cOXaOp0UNVU2EL7xy6KX4qoO8qPH4KC6ViM3w">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Bebe Rexha - I'm a Mess
+Bebe Rexha - I Can't Stop Drinking About You
 
-**Albums**: Expectations
+**Albums**: I Don't Wanna Grow Up
 
-Last updated at 08/07/2020 18:59
+Last updated at 08/10/2020 11:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
