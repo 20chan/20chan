@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/x4YGWPZTFLY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/bTJBAPl9vP8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrWshS8OfSYwea_4t1lbHGA)
 
-pops8090 - 부활 - 회상 III (1987年) 마지막 콘서트
+Music Love - 비와 당신 - 조장혁 (가사)
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 17:03
+Last updated at 08/10/2020 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
