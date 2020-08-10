@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KoaQ7sr_km1IPY1BjC4IIiQSPyzFvMzsF7eRM3vmlMLuHSjKvI6inNqiOwQu6Z17R0O1LR16X_V4qXjPMA">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-자두 (The Jadu) - 김밥 (Gimbap)
+Cool - 슬퍼지려 하기전에
 
-**Albums**: 자두 3집 - The Jadu 3
+**Albums**: Destined For The Best
 
-Last updated at 08/10/2020 18:50
+Last updated at 08/10/2020 18:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
