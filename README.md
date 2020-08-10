@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/BrR_gaatQoM/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCfVWVvSJTdGQVPW56oNInDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qyoCIkkGw95MmwwOrBclRrU9qBdKWVlJpoWnVYIgXzfiD6mk0HYcybaAlWrD3vz7X49oR_egx7-oduDn">](https://music.youtube.com/channel/UCjEluj4vtCCwRoq36ylR7JQ)
 
-Homme - I Was Able to Eat Well
+BEAST - On Rainy Days
 
-**Albums**: undefined
+**Albums**: On Rainy Days
 
-Last updated at 08/10/2020 16:14
+Last updated at 08/10/2020 16:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
