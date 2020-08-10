@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EBguzqKx6ohFK2znYpmd2C1klfKn9hPc4SgHSpY2Gh6sgWxZ01IAa7N7gP7g9aVsGoMxARIcn_4Os8Bv">](https://music.youtube.com/channel/UCP_CO2kraLUkGdMV3TL0agQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qlm9WkQXZKiZVW43yt5MFpOiSF472q_D1Lfkwr0b5zQ2aVmDg36RlTXwGHwihJqHtW20MgdP3Zvw6HfF">](https://music.youtube.com/channel/UCWjrlrL7_e9QbZ2pMXKsMwA)
 
-rumble fish - Rain and You
+Lee Moon Sae(이문세) - In the Rain(빗속에서)
 
-**Albums**: Memory For You
+**Albums**: Old And New
 
-Last updated at 08/10/2020 17:20
+Last updated at 08/10/2020 17:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
