@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/otuJAyMi8YC6mD3Wc24QvwVTyIpMkOAbzx8oSLWFThSgj1YwSBGDDjOXk8PXm3sWhcNUCLiLF3eNCbc-">](https://music.youtube.com/browse/MPREb_jMIDdrOInKX)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AhDHZS04O_4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-김지훈 - 그대 눈물까지도
+pops8090 - 박혜경(더더) - It's You (1998年)
 
-**Albums**: 김지훈 정식 추모앨범 [Digital Single]
+**Albums**: undefined
 
-Last updated at 08/10/2020 14:46
+Last updated at 08/10/2020 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
