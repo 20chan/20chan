@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/59dBfEM3S4jWs6b5w2F1zuhAEJGh3LuDerNqYyEI6NuUeJdZgr2TaM7gpfDTKwvaCVz5tYQrUBPsiqU">](https://music.youtube.com/channel/UCBNeAoPycNhoRuS01B9Kf5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EXn0CenKu6hc4x9y94qHoMzbAJLXx4JDgtESo88hI0T3bX8OoKLwi4vJft4GrX8HS8VLxLWB8jw0R19q">](https://music.youtube.com/channel/UCB-GmTOjewVU2F_7S4ZFmEA)
 
-Hailee Steinfeld - Rock Bottom (feat. DNCE)
+Zara Larsson - Never Forget You
 
-**Albums**: HAIZ
+**Albums**: So Good
 
-Last updated at 08/10/2020 13:22
+Last updated at 08/10/2020 13:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
