@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WS4PZ8a0jJxEXt_RkVfeXvJ6m5JTbA4JaBkgyeftLpbaZv7AuPPGev5oEHV-ueUWZ-kozzQd1jq481Nr">](https://music.youtube.com/channel/UCsZIVNwBqtPBX-41kO_rQzQ)
 
-Bebe Rexha - Gateway Drug
+Camila Cabello - My Oh My (feat. DaBaby)
 
-**Albums**: All Your Fault: Pt. 1
+**Albums**: Romance
 
-Last updated at 08/10/2020 12:21
+Last updated at 08/10/2020 12:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
