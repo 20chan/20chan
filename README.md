@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7sbfUeETImYAPOLcW2bwe_YVqz0hQ9Rv5HIE9Ux-yrfi6elVl-TmmGOJgBZ7Q43NuXtEfKGvxDV-djk">](https://music.youtube.com/channel/UCwem2sj-QUJCiWiPAo9JuAw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
 
-Demi Lovato - Confident
+Maroon 5 - Memories
 
-**Albums**: Confident
+**Albums**: Memories
 
-Last updated at 08/10/2020 13:03
+Last updated at 08/10/2020 13:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
