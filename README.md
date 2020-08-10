@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/h9MeqIR47vj0_Xlpdb8mv_uLNFXCJY7RVtxtjShrPT8dbkllmf8mbMDk3M-rF8t_NS_adXngE2cCwe-c">](https://music.youtube.com/channel/UC3BBS0-pODIeS8QGX_qtrCg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
 
-Halsey - Colors
+Imagine Dragons - Bad Liar
 
-**Albums**: BADLANDS
+**Albums**: Origins
 
-Last updated at 08/10/2020 11:55
+Last updated at 08/10/2020 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
