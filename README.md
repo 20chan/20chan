@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QeOwoe96So_3-x07t1cvIjyFKBWm5W6YCmq_cKW_xxgiTrcuj6sOYfZGsr0euSrgCJnsevdp5RuMpiGa">](https://music.youtube.com/channel/UCrBP154FanZWf4D8oItOZyQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8WqEp8nbgPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrBP154FanZWf4D8oItOZyQ)
 
-Ailee(에일리) - Evening sky(저녁 하늘)
+Ailee - Evening Sky
 
-**Albums**: Invitation
+**Albums**: undefined
 
-Last updated at 08/10/2020 14:57
+Last updated at 08/10/2020 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
