@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/58_vtKKgQV4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNHt-keNmkzQY9WXfEnPhhjbm01GWM8Sxt3q5iLSeDzQkEWa6d-i9TO_w9xkm97nmRg0XCZeoUoKxWs">](https://music.youtube.com/channel/UCa-9d31TPZtE_5JSaEeq4Fw)
 
-pops8090 - 이정석＆조갑경 - 사랑의 대화 (1988年)
+최재훈 (Choi Jae Hoon) - 비의 Rhapsody
 
-**Albums**: undefined
+**Albums**: Believe In 5462
 
-Last updated at 08/10/2020 18:21
+Last updated at 08/10/2020 18:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
