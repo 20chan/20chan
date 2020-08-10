@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fFuBo3WF3IkTFpWehN440lU8Jbnk63zcKLimt6B5QrWS49BvHOtEr_Hj5kPP9cSeihdEMXXUJas763bG">](https://music.youtube.com/channel/UCBxPw3gBM65DpL64iD5kIiA)
 
-The Chainsmokers - Takeaway (feat. Lennon Stella)
+Vicetone - Walk Thru Fire (feat. Meron Ryan)
 
-**Albums**: World War Joy...Takeaway
+**Albums**: Walk Thru Fire
 
-Last updated at 08/10/2020 13:59
+Last updated at 08/10/2020 14:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
