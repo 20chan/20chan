@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/22jU75ekAEQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCknc_tSdD2F85ylqf4m-m_Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xD7vFOsdLKc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCn3iVeuDQtYOG-lpzMN5SZw)
 
-kb jeong - 이승훈 - 비오는거리 (1997년)
+PENTAGON - 진호(JINHO) - MAGAZINE HO #41 '뜨거운 안녕 / 토이, 이지형'
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 17:41
+Last updated at 08/10/2020 17:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
