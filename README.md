@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/bTJBAPl9vP8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrWshS8OfSYwea_4t1lbHGA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Music Love - 비와 당신 - 조장혁 (가사)
+pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 17:05
+Last updated at 08/10/2020 17:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
