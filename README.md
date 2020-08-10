@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J02TXeYxE-_PH9tXhyQUwS8Dgc0x5iGPNydzJe67M1958cOXaOp0UNVU2EL7xy6KX4qoO8qPH4KC6ViM3w">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TMbA3LImAL96nFkm5cI1x6LiEMvMbRg4IRxEeABd9qpXsfmwKhZHRD1MucnjG5QIsVEp0Vpn7h7M51FH3Q">](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
 
-Bebe Rexha - I Can't Stop Drinking About You
+Ed Sheeran - Shape of You
 
-**Albums**: I Don't Wanna Grow Up
+**Albums**: Shape of You
 
-Last updated at 08/10/2020 11:46
+Last updated at 08/10/2020 11:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
