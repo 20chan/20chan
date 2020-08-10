@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0x5EMz9WBkw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPfSMechGjorFeZyadVIjgw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LMczQxgrgCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
 
-Ulala Session - 서쪽 하늘
+Suh Young Eun - I'm Not Alone
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 15:55
+Last updated at 08/10/2020 15:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
