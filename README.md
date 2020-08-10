@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gNHt-keNmkzQY9WXfEnPhhjbm01GWM8Sxt3q5iLSeDzQkEWa6d-i9TO_w9xkm97nmRg0XCZeoUoKxWs">](https://music.youtube.com/channel/UCa-9d31TPZtE_5JSaEeq4Fw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/npOO99id_WSflWXogvn0gzWPdGpr2j5LY7ROjdnUEJVkgQsvYwqgQI2Rks4yI67BMnAzX_Dw9MlnRZsS">](https://music.youtube.com/channel/UCREZHot6PVQlQi-tdQ7Z38Q)
 
-최재훈 (Choi Jae Hoon) - 비의 Rhapsody
+도원경 - 비
 
-**Albums**: Believe In 5462
+**Albums**: 도원경 2집 PartⅡ(유리창에 기대어)
 
-Last updated at 08/10/2020 18:23
+Last updated at 08/10/2020 18:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
