@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R29yQZuCaK2TZDkeZhiEekqcCSyZN58k3bY7-tcKjaUhAqMdXtPUPQAOcX4FBeLL1SqZy9AOsHHZhmfG">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/channel/UCe8pLEl_Uzxw1w2pOW9RP1w)
 
-015B - 슬픈 인연
+Park Hye Kyung - One day
 
-**Albums**: 기억속의 멜로디
+**Albums**: O2
 
-Last updated at 08/10/2020 14:40
+Last updated at 08/10/2020 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
