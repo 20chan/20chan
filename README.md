@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7pEDK9bqpFIrcFpV7bIUU9eeSJ680UtBNHwfGfVfVXozPGDZUhgGcNjeuKDwPK9W-nwwP7MliEu8u2gu3Q">](https://music.youtube.com/channel/UC150BpcojVsQJTYogTkKTZQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Jonas Brothers - Sucker
+Bebe Rexha - Self Control
 
-**Albums**: Sucker
+**Albums**: Expectations
 
-Last updated at 08/10/2020 12:57
+Last updated at 08/10/2020 13:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
