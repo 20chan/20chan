@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CC48Fib8dGz3RNA9jkB85XGQMCSlcqkjCpAMePqHKG-ieGvQHQps-f858yiJZG96vlol60sRL50444k">](https://music.youtube.com/channel/UC6ZjlLJhqP79nqGr3Ic6Adg)
 
-Dua Lipa - IDGAF
+Shawn Mendes - There's Nothing Holdin' Me Back
 
-**Albums**: Dua Lipa (Deluxe)
+**Albums**: Illuminate (Deluxe)
 
-Last updated at 08/10/2020 12:04
+Last updated at 08/10/2020 12:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
