@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oCN13vvhWWwEfD3aOS6NEmhh32em-I7wQKUvXJWEm6AJygqkJ5YpeZfpcmPiKbKJ72Dek_FTdUlnmlMm">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/57A2jLYJ6P6iSbuMrjNeV6N5CsjyBaMVwBBGRFiDFSzAdfglDQatdl0c5OZ-h4F1ord-IiAJfwekLxITrQ">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
 
-Imagine Dragons - Bad Liar
+Dua Lipa - IDGAF
 
-**Albums**: Origins
+**Albums**: Dua Lipa (Deluxe)
 
-Last updated at 08/10/2020 12:00
+Last updated at 08/10/2020 12:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
