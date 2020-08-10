@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KoaQ7sr_km1IPY1BjC4IIiQSPyzFvMzsF7eRM3vmlMLuHSjKvI6inNqiOwQu6Z17R0O1LR16X_V4qXjPMA">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XvppojuK0tqpx47W2jJgNuHBRPP3MDItC-bdLoT4wGtvw-o2cUsW57fZcMPhY-XH1KQmIDUDgs0-JgZb">](https://music.youtube.com/channel/UC9y5zNTG8Zfkn9I2m2cdG1A)
 
-Cool - 슬퍼지려 하기전에
+Sung Si-kyung - 거리에서
 
-**Albums**: Destined For The Best
+**Albums**: The Ballads
 
-Last updated at 08/10/2020 18:54
+Last updated at 08/10/2020 18:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
