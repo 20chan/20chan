@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/N3GRIc891KM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCk_4DnWWX4-QV217H-dyOqQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KJvC-_Xq_DH_8o1h5E-MRuBY5f2y5aOWG2Em2cyulONAg2rnetVoKQm0ErPhK4yg-W0HkXZjXZlq_O-H">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-jwt 5513 - 박종훈 비와당신
+IU - Rain Drop
 
-**Albums**: undefined
+**Albums**: Nitpicking
 
-Last updated at 08/10/2020 18:03
+Last updated at 08/10/2020 18:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
