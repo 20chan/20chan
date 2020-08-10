@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HodF4oBFTW0aexJdyNshmWRc1m2LcLtSD6DXhqsJQ_0Ujg4aHfpCqf-hYR5nVMzvxpsmElYL4c2IcxcJ">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nMcblDwd_mA-R05w8QKqSazNCGkNaLMr3c4AKa3JX-zI5JzRSSJHO0Boi4DkEYu2_P-HJXyg2j-pQ9S">](https://music.youtube.com/channel/UCzqz_ksRu_WkIzmivMdIS7A)
 
-Bebe Rexha - Last Hurrah
+benny blanco, Halsey & Khalid - Eastside
 
-**Albums**: Last Hurrah
+**Albums**: Eastside
 
-Last updated at 08/10/2020 12:48
+Last updated at 08/10/2020 12:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
