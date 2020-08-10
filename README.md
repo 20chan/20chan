@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xewyzhx7JbGFkqT3tWHBW9GPH5S3slBgS_nQWXxDYLXL4VbiaaynnCYUFKiYeMAfMwdPPNM1Q8nVvB8">](https://music.youtube.com/channel/UCBksmWQQRxB4JdyLXJuppDA)
 
-Maroon 5 - Memories
+Kat Dahlia - I Think I'm In Love
 
-**Albums**: Memories
+**Albums**: My Garden
 
-Last updated at 08/10/2020 13:06
+Last updated at 08/10/2020 13:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
