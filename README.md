@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2kaDZdEdKfVdFZgmJaWbYLFIIxhRZmVxCzl8pZTHzBzTkyZj9GjtIYifh8qfRBTEtUx-U540uQtaR8pA9Q">](https://music.youtube.com/channel/UC_Plcc9JrHvJKfqePUm8vnQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Cher Lloyd - None Of My Business
+The Chainsmokers - Don't Let Me Down (feat. Daya)
 
-**Albums**: None Of My Business
+**Albums**: Collage EP
 
-Last updated at 08/10/2020 12:28
+Last updated at 08/10/2020 12:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
