@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EXn0CenKu6hc4x9y94qHoMzbAJLXx4JDgtESo88hI0T3bX8OoKLwi4vJft4GrX8HS8VLxLWB8jw0R19q">](https://music.youtube.com/channel/UCB-GmTOjewVU2F_7S4ZFmEA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-Zara Larsson - Ain't My Fault
+Loote - Wish I Never Met You
 
-**Albums**: So Good
+**Albums**: single.
 
-Last updated at 08/10/2020 13:38
+Last updated at 08/10/2020 13:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
