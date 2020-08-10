@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/x2Cz6d6z0Bo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=x2Cz6d6z0Bo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XFQl6ubbZ6U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8nkHZ8K8ZD31yfPWutIxBw)
 
-포맨 4MEN - 눈 떠보니 이별이더라 (Inst.)
+ye lee - 이승철 서쪽하늘 가사
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 15:02
+Last updated at 08/10/2020 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
