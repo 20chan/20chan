@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/M15SI00umn4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCi6G0muqmfa_e4j98TUUjtQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kZOrGN0Xm-s/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-동그리 - [가사] 부활 - 네버엔딩스토리 (Never Ending Story)(lyrics)
+pops8090 - 이문세 - 가로수 그늘 아래 서면 (1988年)
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 15:37
+Last updated at 08/10/2020 15:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
