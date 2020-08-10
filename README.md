@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SuesUpeQzGlMxQPggxtKffhX6MGa5JzMh74uOQY241p_Pm2oLVPvuO1vbTRtMNWOcI-dY5QeOgv0cUFezw">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/g2vefXuB6zvHbI_ojKa4VjNlMBHKWQpEjUl9a838_1_0Nw-RhJbvjZe8vvSVeYMWIEz7245vRZgZljt1">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
 
-공일오비(015B) - 어디선가 나의 노랠 듣고 있을 너에게
+Yoon Jong Shin - 처음 만날때처럼
 
-**Albums**: The Fourth Movement
+**Albums**: 윤종신(From The Beginning)
 
-Last updated at 08/10/2020 18:36
+Last updated at 08/10/2020 18:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
