@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J02TXeYxE-_PH9tXhyQUwS8Dgc0x5iGPNydzJe67M1958cOXaOp0UNVU2EL7xy6KX4qoO8qPH4KC6ViM3w">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2vhA3p73paNJ8ptp3K-ALvl7ruhzQDQiOsJLBxHBXCIMRpoHUscQIHurAZXQmbHys7EdBsKRoiEeOV1_">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
 
-Bebe Rexha - I'm Gonna Show You Crazy
+Billie Eilish - bellyache
 
-**Albums**: I Don't Wanna Grow Up
+**Albums**: dont smile at me
 
-Last updated at 08/10/2020 13:32
+Last updated at 08/10/2020 13:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
