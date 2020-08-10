@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/N8q__gTjBiFZpa7QRs9ZnSFu8OSLr1w7vrRf5Mt8Y6wNXZmdMKfApZ9vc_tnEf1nwwliFddsCfcMFxw">](https://music.youtube.com/channel/UCSeNHPAz_FDNx11HF__PHkA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
 
-KIM TAE WOO - Love Rain
+자두 (The Jadu) - 김밥 (Gimbap)
 
-**Albums**: T-VIRUS
+**Albums**: 자두 3집 - The Jadu 3
 
-Last updated at 08/10/2020 18:46
+Last updated at 08/10/2020 18:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
