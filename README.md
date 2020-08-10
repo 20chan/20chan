@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fx6kz_AXXbWVglzvmChcvFRTwV_nFmSAjuyYUO2XTqO_Es9hv4Fe6scz1pTfNWw6hSWob6gtpsft3vZm">](https://music.youtube.com/channel/UCPC0L1d253x-KuMNwa05TpA)
 
-The Chainsmokers - Don't Let Me Down (feat. Daya)
+Taylor Swift - Look What You Made Me Do
 
-**Albums**: Collage EP
+**Albums**: reputation (Big Machine Radio Release Special)
 
-Last updated at 08/10/2020 12:31
+Last updated at 08/10/2020 12:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
