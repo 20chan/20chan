@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LMczQxgrgCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RENin4Cr4gU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC_O5UFb2__XGwWv4ytyo_EQ)
 
-Suh Young Eun - I'm Not Alone
+event cho - 본능적으로 윤종신(Feat,Swings) [가사]
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 15:59
+Last updated at 08/10/2020 16:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
