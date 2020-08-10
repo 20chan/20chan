@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Zk-6wo9IvN96nLVQ869q66Rf-i_TwpNLsmYrh7cGF2I5calOMN5QjB-s3rhi_K76NA_a_R5yotEF0o">](https://music.youtube.com/channel/UCw0An74-C4Xwv3lEOsIlwWQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tFl_ArksBIRW0Q64sMS9l5RwsQYwrSdSmQO5qYhZ4KWqqkPb8YXsyGJ9vEVYm0y7hVLLrsuBzb__emSX">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Marian & Sean - Many Things
+Bebe Rexha - Gateway Drug
 
-**Albums**: Many Things
+**Albums**: All Your Fault: Pt. 1
 
-Last updated at 08/10/2020 12:18
+Last updated at 08/10/2020 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
