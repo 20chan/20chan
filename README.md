@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2vhA3p73paNJ8ptp3K-ALvl7ruhzQDQiOsJLBxHBXCIMRpoHUscQIHurAZXQmbHys7EdBsKRoiEeOV1_">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EXn0CenKu6hc4x9y94qHoMzbAJLXx4JDgtESo88hI0T3bX8OoKLwi4vJft4GrX8HS8VLxLWB8jw0R19q">](https://music.youtube.com/channel/UCB-GmTOjewVU2F_7S4ZFmEA)
 
-Billie Eilish - bellyache
+Zara Larsson - Ain't My Fault
 
-**Albums**: dont smile at me
+**Albums**: So Good
 
-Last updated at 08/10/2020 13:35
+Last updated at 08/10/2020 13:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
