@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uRxjd_71XYI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjGUwFeKfns6thNX63Gc4Yw)
 
-pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
+Beo Deu Ri - 버드리 빛나는 별이되어 우리곁에 남아주세요.
 
 **Albums**: undefined
 
-Last updated at 08/10/2020 17:50
+Last updated at 08/10/2020 17:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
