@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/o3_U1z9P570xzhgkHHTCmGT8spp-i-kr0xPk26ZdqgLRQCTFhQYkkEl0QRaRQC8FjsXqikia3GGwld09">](https://music.youtube.com/channel/UC_7s69e1mDS3lgcTMJEPjCg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HodF4oBFTW0aexJdyNshmWRc1m2LcLtSD6DXhqsJQ_0Ujg4aHfpCqf-hYR5nVMzvxpsmElYL4c2IcxcJ">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Katy Perry - Dark Horse (feat. Juicy J)
+Bebe Rexha - Last Hurrah
 
-**Albums**: PRISM
+**Albums**: Last Hurrah
 
-Last updated at 08/10/2020 12:45
+Last updated at 08/10/2020 12:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
