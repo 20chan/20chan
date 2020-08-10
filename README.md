@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TMbA3LImAL96nFkm5cI1x6LiEMvMbRg4IRxEeABd9qpXsfmwKhZHRD1MucnjG5QIsVEp0Vpn7h7M51FH3Q">](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Ed Sheeran - Shape of You
+Bebe Rexha - Don't Get Any Closer
 
-**Albums**: Shape of You
+**Albums**: Expectations
 
-Last updated at 08/10/2020 11:49
+Last updated at 08/10/2020 11:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
