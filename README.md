@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/U57DkSnVGY17eLNxEo-4y72moufvocRYcv6lVng11gTjthOvq7ZQHaN8X1SHd4W86FRTSTlwW61R-onA">](https://music.youtube.com/channel/UCgpBsaDW2n_6ruzht3wvP0A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2vhA3p73paNJ8ptp3K-ALvl7ruhzQDQiOsJLBxHBXCIMRpoHUscQIHurAZXQmbHys7EdBsKRoiEeOV1_">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
 
-Sam Smith & Normani - Dancing With A Stranger
+Billie Eilish - ocean eyes
 
-**Albums**: Dancing With A Stranger
+**Albums**: dont smile at me
 
-Last updated at 08/10/2020 13:53
+Last updated at 08/10/2020 13:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
