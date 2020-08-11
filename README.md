@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tCpbAWj3U1SSJmtlR29vksdYMAu-X_9o7JBsCQ3vM1_lSnaYZXN2DykdDiz35MsOcdEX8X7JG6tp9HA">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/u9CcIKF0tXI-Srq0t5mSonhsM_Oa_tzigEThd0LS-hNne0BDU_pe23MOlDdIe2HqA_m-kjfXZBpfWxsitA">](https://music.youtube.com/channel/UCS0cmEoDBy8dIfWgNv15nNw)
 
-Bryann T - Power in Prayer
+nobigdyl. - Suicide Nets (feat. Emily Allman)
 
-**Albums**: Carry-On
+**Albums**: Canopy
 
-Last updated at 08/11/2020 12:53
+Last updated at 08/11/2020 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
