@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwGUyzlVuoRBSsF7P_WZ2E0CbBSdUbA-cPUskYByT48qFhuBTOkUOQc2xzb1MhWqPZa_XgrHMZWzritk">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xPH_XtwM56XKOwhLPRjJOZeyCmd_lI1TbJrNp3asrqMxZj9hYxzp0uGcGvSunhQy_b7zytOw5JSnlChe">](https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw)
 
-E SENS - CLOCK (FEAT. 김심야 KIM XIMYA)
+C Jamm - Know
 
-**Albums**: 이방인 THE STRANGER
+**Albums**: Know
 
-Last updated at 08/11/2020 19:41
+Last updated at 08/11/2020 19:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
