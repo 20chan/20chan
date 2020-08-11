@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bItjVCtAngrgxb2UQeJ2F-6u1h37Y9guPe6Lk745BeuVOn_EasIEKu2t9JCbiu7PDkC5t3Qy0YKEcWCy">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dv2l0hb_71e3geWHrcMkb6nAEhK5C-3pT9_ItGRwcaw7qXqPxmf9y8MbuSbcxTFl_hfwrJAPgBPl4GbN">](https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg)
 
-JUSTHIS &amp; Paloalto - Cooler Than the Cool (feat. Huckleberry P)
+Jay Park - All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version]
 
-**Albums**: Cooler Than the Cool
+**Albums**: Everything You Wanted
 
-Last updated at 08/12/2020 08:08
+Last updated at 08/12/2020 08:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
