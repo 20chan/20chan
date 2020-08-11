@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">](https://music.youtube.com/channel/UCWi6YRODdoeuEF5J7crTknQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xD7wzWIDlK-BCORBgyuea9k_TApD-7Yn2mdZZ4StHcZXXp4GoenQorXBspezPjklT6DERmrNh7CVVHlKfw">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-빈지노 Beenzino - I Don't Mind
+Han Yo Han - Fire Flower
 
-**Albums**: 12
+**Albums**: Fire Flower
 
-Last updated at 08/11/2020 21:24
+Last updated at 08/11/2020 21:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
