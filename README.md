@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000156865742-xpgduy-t120x120.jpg">](https://soundcloud.com/akashh_495/my-neighbor-totoro-path-of-the-wind-aekasora-chillhop-remix)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000592037303-m9i1e9-t120x120.jpg">](https://soundcloud.com/puticall/ji-eun-sunset-city-girl)
 
-aekasora - My Neighbor Totoro - Path Of The Wind (aekasora Chillhop Remix)
+call - Ji-eun sunset city girl
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 15:21
+Last updated at 08/11/2020 15:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
