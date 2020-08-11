@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WRII4vhTK7fosezNGe0c5TS7y8eWVnKXXXaFiksue3bqn5K1c62LuruPm6fQBSx-wEEEAgetEchc9b8">](https://music.youtube.com/channel/UCMzUmmjk5fnmYbVBGWJK-Kg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Basick & Gwangil Jo - Layoff
+CHANGMO - METEOR
 
-**Albums**: Layoff
+**Albums**: Boyhood
 
-Last updated at 08/11/2020 18:38
+Last updated at 08/11/2020 18:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
