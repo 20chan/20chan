@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/N_5Bq4MxUpwYY3uN2X49WrzPpIU8kGzDw5Ha_JKBQQ_K9Or0JC6HOYMdxX9VxvFLyAdipGJp2KIdoiIXDQ">](https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
 
-Swings - Medical Records (Prod. By GRAY)
+JUSTHIS(저스디스) - Veni, Vidi, Bitch , Okasian(오케이션))
 
-**Albums**: Upgrade III
+**Albums**: 2 MANY HOMES 4 1 KID
 
-Last updated at 08/12/2020 05:33
+Last updated at 08/12/2020 05:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
