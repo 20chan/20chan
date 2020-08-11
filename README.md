@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pg4XMQDQmIFgjHtM-pADE5URrjIoTsjEZbtnt1rVeVe0beRBZD4cCKUQkVCNI6RaOFd1dmNesIW6R9g">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
 
-Han Yo Han - 12:00 (feat. Kim Seung-min & Swings)
+E SENS - Back In Time
 
-**Albums**: Exiv
+**Albums**: The Anecdote
 
-Last updated at 08/12/2020 01:25
+Last updated at 08/12/2020 01:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
