@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">](https://music.youtube.com/channel/UCye1kBGko8BG8QCyKjP9QEw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k-9qrFwkWi4YPuyyLM3KtIs-Xj8u5Ii4EPRp-whxFKE-XYTaX-lpOf_GfZEoj-j78QGIM96iEZ6RhNDm">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-이영지 Lee Young Ji - GO HIGH
+Nochang - Hip-Hop(힙합)
 
-**Albums**: School Rapper3 Final
+**Albums**: Hip Hop
 
-Last updated at 08/12/2020 07:42
+Last updated at 08/12/2020 07:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
