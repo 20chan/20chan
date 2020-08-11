@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Ales9TF7R3YlttcXNwFUB-1hR3VsyqewTHJS1PmgObv_rbwQo41vxSrzocGno5gmOVpj0wBhYbSgGg">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/icm4G5vNGKkf8Tf73jrSImztf6lvBlsB_8Pkl3a3JfxLbcQbYGLLGCzaEpVn6JgoahLf3Wd8q1e8dpJ-">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
 
-GIRIBOY - TV Star (Prod. By Minit) (feat. Kim Seungmin)
+ASH ISLAND - DEADSTAR (feat. CHANGMO)
 
-**Albums**: TV Star
+**Albums**: DEADSTAR
 
-Last updated at 08/12/2020 08:36
+Last updated at 08/12/2020 08:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
