@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8P2t-LApgrfA34IokyvnnevNeobleNPwbh79zSPiXIEQArTQPFNj10xQSzjGctbVuZm9lBprcNdsjPj2Hg">](https://music.youtube.com/channel/UCkop82wxg40aqLNrEFPf-wg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uKVnsF9-ezydp0eCTGaF3CNCsX1W5CTDuAIaTPFSWLoWdnOM9gQ0tAWBhS6w0pZUm5LeNk34jr3vnDg8">](https://music.youtube.com/channel/UCm8UEFhHUgn24DuHRFwa8mw)
 
-Primary - When I fall in love (feat. Meego & SURAN)
+레디(Reddy) (Reddy) - Ocean View
 
-**Albums**: 3-PAKTORY02
+**Albums**: Ocean View
 
-Last updated at 08/12/2020 07:05
+Last updated at 08/12/2020 07:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
