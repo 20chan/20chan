@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4vbHs7YMv3RFqu2YjpaGgFOrOxu0jss2nhjMmTFqJT8tbPyvyOe41eylKVNuEcQEma0wsuEeHA-l_f0">](https://music.youtube.com/channel/UC80xT8WlQ5bvtMq7_MxfHIQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kR_RBDwAIwlFZYbKElfaOWWW1Nu-y0fv4Td-yqw-8utVPLkDIRvGDjm6hXEYyUbwVP9UdA4qQbES_5eePw">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-MKIT RAIN - Weathermen
+The Quiett - namchin (feat. Leellamarz)
 
-**Albums**: Weathermen
+**Albums**: glow forever
 
-Last updated at 08/11/2020 16:09
+Last updated at 08/11/2020 16:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
