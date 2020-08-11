@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AvycKcYJs0dVMSYzfvhRseTkXaa6J6LHkJIboUVYQmC6g-rdo6JVk3xhJ2faDYDqDDnRLx_BHrIo8eJB">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-GIRIBOY - SPACE FLIGHT 2 (feat. CHOILB)
+창모 (CHANGMO) - Selfmade Orange (feat. SUPERBEE)
 
-**Albums**: The Standard 3 Songs
+**Albums**: Dnsg
 
-Last updated at 08/12/2020 02:06
+Last updated at 08/12/2020 02:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
