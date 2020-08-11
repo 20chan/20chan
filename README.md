@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
 
-The Quiett - Han gang gang (Megamix)
+Kid Milli - Duracell (feat. Byung Un)
 
-**Albums**: Han gang gang (Megamix)
+**Albums**: Maiden Voyage III
 
-Last updated at 08/11/2020 16:00
+Last updated at 08/11/2020 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
