@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lqD5pyI8Fu-RRQFgZn7knXIttfXuX6qBr7O_nFLsgEcDjwJCcTzGBfy5lqZa-z8JV1gWqxOx0l2qeEII">](https://music.youtube.com/channel/UCgZW35W0Y7Ewoe-ewkCjnRw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/In5bzZ4Ol3JYM8qgiDaEfuexGMIBNgAdYZdChH8fU18k4yptH5XVedYQqJYUBvfuDT4ulteUjg2kmKkE">](https://music.youtube.com/channel/UCrYvLmsUZN_jlMgtIdkXtng)
 
-Jung Min Park - Family (feat. 얀키)
+Legit Goons - Trucker
 
-**Albums**: Byunsan Monologue
+**Albums**: Junk Drunk Love
 
-Last updated at 08/12/2020 03:50
+Last updated at 08/12/2020 03:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
