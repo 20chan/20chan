@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/u9CcIKF0tXI-Srq0t5mSonhsM_Oa_tzigEThd0LS-hNne0BDU_pe23MOlDdIe2HqA_m-kjfXZBpfWxsitA">](https://music.youtube.com/channel/UCS0cmEoDBy8dIfWgNv15nNw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E171TP_-fCQa-g3EsfRoyE_lPJFnqXhrxfTgsYVLfILZvjgIe3N2WM3iCcEWwSoJmPGQsef8RGS477I">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
 
-nobigdyl. - Suicide Nets (feat. Emily Allman)
+Bryann T - Faith and Love (feat. Kay Kay & Chi Chi)
 
-**Albums**: Canopy
+**Albums**: I Encourage Growth
 
-Last updated at 08/11/2020 12:57
+Last updated at 08/11/2020 13:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
