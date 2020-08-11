@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000131749232-kuxqvn-t120x120.jpg">](https://soundcloud.com/nymano/solitude)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000100835119-6b7ubw-t120x120.jpg">](https://soundcloud.com/nymano/quand-la-pluie-tombe)
 
-nymano - solitude
+nymano - quand la pluie tombe (also uploaded for The Visionary Collective tape)
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 14:42
+Last updated at 08/11/2020 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
