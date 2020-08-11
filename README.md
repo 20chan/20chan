@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
 
-Nochang - Trunt(털ㄴ업해야해)
+Beenzino - If I Die Tomorrow
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: 24: 26 (5th Anniversary Remaster Edition)
 
-Last updated at 08/11/2020 19:24
+Last updated at 08/11/2020 19:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
