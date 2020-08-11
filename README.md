@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uVAIBbviDnZiJs_anFzDTuXjJ-Bnv0QJbmMP6sq4FrHfWAzmB3Qa4THi6djBDQYbgklkPjc-8ENvSmoz">](https://music.youtube.com/channel/UCRKrBZq4oFRS6Kv1W8deNSw)
 
-Beenzino - Always Awake (Bonus Track)
+ZENE THE ZILLA - YAMANGKKUN Freestyle
 
-**Albums**: 24: 26 (5th Anniversary Remaster Edition)
+**Albums**: YAMANGKKUN
 
-Last updated at 08/11/2020 21:32
+Last updated at 08/11/2020 21:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
