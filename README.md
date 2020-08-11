@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v1FPcsSwvxeFi-5s1QDPRQxWcJX_gCYBQg-Gl0VXxCrYohC3f3mkbM5Uqm48fboptyBvV0vSDfXFXqN0Yw">](https://music.youtube.com/channel/UCHEMPgerf_S20aeIyliquJQ)
 
-Nochang - Heated Boy(난성격이나빠)
+WOOSEOK - DOMINO
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: 9801
 
-Last updated at 08/12/2020 02:53
+Last updated at 08/12/2020 02:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
