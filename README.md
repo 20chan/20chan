@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4vbHs7YMv3RFqu2YjpaGgFOrOxu0jss2nhjMmTFqJT8tbPyvyOe41eylKVNuEcQEma0wsuEeHA-l_f0">](https://music.youtube.com/channel/UC80xT8WlQ5bvtMq7_MxfHIQ)
 
-Kid Milli - Duracell (feat. Byung Un)
+MKIT RAIN - Weathermen
 
-**Albums**: Maiden Voyage III
+**Albums**: Weathermen
 
-Last updated at 08/11/2020 16:05
+Last updated at 08/11/2020 16:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
