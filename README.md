@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/icm4G5vNGKkf8Tf73jrSImztf6lvBlsB_8Pkl3a3JfxLbcQbYGLLGCzaEpVn6JgoahLf3Wd8q1e8dpJ-">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
 
-ASH ISLAND - DEADSTAR (feat. CHANGMO)
+JUSTHIS, Kid Milli, NO:EL & Young B - IndiGO
 
-**Albums**: DEADSTAR
+**Albums**: IM
 
-Last updated at 08/12/2020 08:40
+Last updated at 08/12/2020 08:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
