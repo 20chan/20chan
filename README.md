@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000206241476-4qetje-t120x120.jpg">](https://soundcloud.com/idealismus/hiraeth-ep-1)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000207855661-5pnhr8-t120x120.jpg">](https://soundcloud.com/firetypebeats/mistywhenimwithyou)
 
-idealism - hiraeth [ep]
+firetype - misty.when.im.with.you
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 14:47
+Last updated at 08/11/2020 15:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
