@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Leellamarz - TRUE (feat. Beenzino)
+Han Yo Han - TO ALL THE FAKE RAPSTARS (feat. Swings)
 
-**Albums**: MARZ 2 AMBITION
+**Albums**: Exiv
 
-Last updated at 08/12/2020 01:05
+Last updated at 08/12/2020 01:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
