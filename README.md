@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-GIRIBOY - party is over
+Han Yo Han - Go Away (feat. GEMma)
 
-**Albums**: GAB BOON GI
+**Albums**: Spirit Bomb
 
-Last updated at 08/12/2020 00:37
+Last updated at 08/12/2020 00:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
