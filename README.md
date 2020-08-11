@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CsHUwSyS9JtHoO2SZL8l-kK-muIpus3zO0w5dMvg2Vj5WR_tqI5RlPhw45novEzrc51T0TcMWwqrH2FVxA">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GEaXehi0skEa7tQi2R8x13M9duhDBn3vlNoVRX4WK3odpOJifa_PgLFRNSqrJJHsZt0qTFZaYKbsoGA">](https://music.youtube.com/channel/UCtqhqHGK67suhS7RN2roTAw)
 
-The Quiett - U Everything
+AK-69 - Flying Lady (feat. City-Ace & Hideharu)
 
-**Albums**: Millionaire Poetry
+**Albums**: Dawn
 
-Last updated at 08/12/2020 03:26
+Last updated at 08/12/2020 03:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
