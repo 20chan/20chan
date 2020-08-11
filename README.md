@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
 
-Nochang - Floraguap(꽃가루)
+Kid Milli - MOMM (feat. JUSTHIS)
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: Show Me the Money 777 Semi Final
 
-Last updated at 08/12/2020 04:26
+Last updated at 08/12/2020 04:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
