@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
 
-CHANGMO - WE UP (feat. Okasian & Uneducated Kid)
+JUSTHIS, Jvcki Wai, Kid Milli & Young B - 180409
 
-**Albums**: Boyhood
+**Albums**: IM
 
-Last updated at 08/11/2020 16:30
+Last updated at 08/11/2020 16:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
