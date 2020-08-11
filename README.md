@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vCm-cEVoiwlUMMD-Pb3sYrdtpjgYVYagDXDAY51OLoZuf1fNR0J1eXs1C46e3cg6fbsXLSMyYvWeOJhg">](https://music.youtube.com/channel/UCYMqJleONozbzYdDQl5otww)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QswzCaCtQMpL6V40BwjHv8oA66ngbpe203xRVTBD-VzYBXpZM7wxlBpMrXVUcMN894rHnrwcMLiLs4RM1Q">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
 
-Two:22 - Hope
+Bryann T - Middle of My Storm
 
-**Albums**: Hope
+**Albums**: Same Heart Beat
 
-Last updated at 08/11/2020 12:29
+Last updated at 08/11/2020 12:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
