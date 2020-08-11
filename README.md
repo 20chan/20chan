@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/N_BSTeTKIhDp6gJxWk8zobi6wIVX15uwm5ZC4z8PkV5R81AUbPJ02v1DsLBK4W190YyTv8FZieYRGyrZIQ">](https://music.youtube.com/channel/UC8BHeNHXcNZoFPkAWApr7ZA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dN3AVsshFbHfuq7_RuVzI6Ubq6HkQd5uDUWebM6U_3bD6zgzwCwTBoVZHL8G14383BqcUQ9y6i8nAxw">](https://music.youtube.com/channel/UCrWlSmZq0d2JG5_WOgon_cA)
 
-Owen Ovadoz - City
+Bassagong - Rainbow 레인보우 [Prod.iDeal] (feat. YDG)
 
-**Albums**: City
+**Albums**: Dingo X Bassagong 뱃사공
 
-Last updated at 08/11/2020 21:45
+Last updated at 08/11/2020 21:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
