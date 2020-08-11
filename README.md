@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wq2a5EAODnqcvMpPDIToOIRPSOQLKdOXE0HKrwlg3DJ7YGNp7OV_lD4NFQtvr9CayReBomgs3gGeWW2Q">](https://music.youtube.com/channel/UCq5b9jTD49q5Wgm1z-iCKcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Om-CP1f1g_1XljIkRsGvEZYvxI1Bwfi9GSu7e2oNK7z9KUtY8FIB7bxATn-YBOvzmtW8d1OE-Qy6lf6u_Q">](https://music.youtube.com/browse/MPREb_olSsecBmL4J)
 
-Lee Seung Hwan - 나는 다 너야 I'm Always You
+신승훈 Shin Seung Hun - 내가 많이 변했어 I've Changed a lot (With 최자 Choiza of 다이나믹듀오 Dynamic Duo)
 
-**Albums**: 12집 FALL TO FLY 後
+**Albums**: Great Wave
 
-Last updated at 08/11/2020 23:22
+Last updated at 08/11/2020 23:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
