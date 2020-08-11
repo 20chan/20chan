@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pg4XMQDQmIFgjHtM-pADE5URrjIoTsjEZbtnt1rVeVe0beRBZD4cCKUQkVCNI6RaOFd1dmNesIW6R9g">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
 
-Beenzino - Nike Shoes (feat. Dynamic Duo)
+E SENS - The Anecdote
 
-**Albums**: 24: 26 (5th Anniversary Remaster Edition)
+**Albums**: The Anecdote
 
-Last updated at 08/11/2020 20:54
+Last updated at 08/11/2020 20:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
