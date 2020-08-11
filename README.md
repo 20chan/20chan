@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GyPel3rxGMrn03Cb0yhECdJ2o9AFFgSW9CQND214uryQNVDvb0ZX7G1FEEvvwzpz1RaL85YxJaJpvNU">](https://music.youtube.com/channel/UC9LSNI4-MozOaLxDUIRxAtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PXlUYnxE7KN8Odw_tUxkdNIbBaOIOTwyoVPgtIEN5s6dmDoGc-AYtDbIxxtwOXwQ0RPOxE2TMbsb3s45">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Bozorg - Yeki Dige (feat. Arash Dara)
+Han Yo Han - Don't Worry (feat. Osshun Gum)
 
-**Albums**: Bozorg, Vol. 2
+**Albums**: Don't Worry
 
-Last updated at 08/12/2020 08:15
+Last updated at 08/12/2020 08:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
