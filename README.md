@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">](https://music.youtube.com/channel/UCq0rwnaHv_UKY4x8Kwbo0zw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VB9zaOGmLQt5dZoj6cOS2Tpu69rergFYPPBYVoRGIUFyAJd9eFjk3fpHRgr4RTH0GQoV0P1v6xjnw-FjOw">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-sokodomo - Global Extinction
+염따 YUMDDA - Amanda
 
-**Albums**: School Rapper3 Final
+**Albums**: Amanda
 
-Last updated at 08/12/2020 04:00
+Last updated at 08/12/2020 04:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
