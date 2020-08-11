@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nzTVellVxNYjqhDFJlmNTCbNoyJPoJLzEGXiZULrE_Zd6sa-L-A0XOgdArC3ynkHsGFm_IIz253vHuM">](https://music.youtube.com/channel/UCggELhsqKpXFsbHGVKaJqDA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-SuperKidd - Wedding Invitation Letter Original Version
+CHANGMO - METEOR
 
-**Albums**: Wedding Invitation Letter
+**Albums**: Boyhood
 
-Last updated at 08/11/2020 23:58
+Last updated at 08/12/2020 00:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
