@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PBSTJCLmYufhxxH2jZbWxJzFqoN_FCFkxxrZGM5nQDYMTQ57FOK443G5hytK8I6JwWj-yIw9HywswuCzQQ">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-JUSTHIS, Kid Milli, NO:EL & Young B - IndiGO
+Hash Swan, ASH ISLAND, Keem Hyo Eun & CHANGMO - Bition Boyz
 
-**Albums**: IM
+**Albums**: Bition Boyz
 
-Last updated at 08/12/2020 08:43
+Last updated at 08/12/2020 08:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
