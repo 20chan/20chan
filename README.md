@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pg4XMQDQmIFgjHtM-pADE5URrjIoTsjEZbtnt1rVeVe0beRBZD4cCKUQkVCNI6RaOFd1dmNesIW6R9g">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qeMRGiFSFC-w5qIAHrbnxuqs6_jrPj9PBXkjQQIMzMTO7UhBu_Df03yIuOS0F2QOn22FUwVXgj37ScY">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
 
-E SENS - Tick Tock (feat. Kim Ximya)
+Goretexx, Black Nut & Han Yo Han - Silky Bois
 
-**Albums**: The Anecdote
+**Albums**: We Effect
 
-Last updated at 08/11/2020 19:48
+Last updated at 08/11/2020 19:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
