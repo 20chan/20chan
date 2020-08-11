@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dg_M9TEaqFO5wKTDSUgDq4Jg8Nhe5Mcvl2Pejm9tuG6aIRsXUonZGH88xf-Brm6xEhezBHIqbmDYE4jN0w">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Leellamarz & TOIL - Hey Lady
+GIRIBOY - I4P.KR (Prod. By Vibin)
 
-**Albums**: TOYSTORY2
+**Albums**: Science Fiction Music
 
-Last updated at 08/12/2020 07:28
+Last updated at 08/12/2020 07:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
