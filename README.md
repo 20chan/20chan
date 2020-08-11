@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wv8pNwcYe1ojVNqhu9TzXoHp8D_OrsMMQhbSuWpZefJkh32NLCojmqvFFHhEqPo5TCpZGR1P1prtV40">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/L1RvFYc2v1gq9BUVu5kgG2AdaekuP22fBAydkTZH1a_WE-3nEAjoF66gMVWi6ANBfcByD-PB8CQNCRH9dA">](https://music.youtube.com/channel/UCa6xaGioOMH9tlLNlPI7OMQ)
 
-SUPERBEE - Shark In a Pool (feat. Black Nut)
+HAON - Boong-Boong (feat. Sik-K)
 
-**Albums**: Shark in a Pool
+**Albums**: School Rapper2 Final
 
-Last updated at 08/12/2020 05:02
+Last updated at 08/12/2020 05:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
