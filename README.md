@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwGUyzlVuoRBSsF7P_WZ2E0CbBSdUbA-cPUskYByT48qFhuBTOkUOQc2xzb1MhWqPZa_XgrHMZWzritk">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PXlUYnxE7KN8Odw_tUxkdNIbBaOIOTwyoVPgtIEN5s6dmDoGc-AYtDbIxxtwOXwQ0RPOxE2TMbsb3s45">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-E SENS - RADAR (FEAT. 김심야 KIM XIMYA)
+Han Yo Han - L'OCCITANE
 
-**Albums**: 이방인 THE STRANGER
+**Albums**: Don't Worry
 
-Last updated at 08/11/2020 20:22
+Last updated at 08/11/2020 20:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
