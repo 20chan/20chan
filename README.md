@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9aqpuTkoTeXHErQhW_3EklMCHPsRgQSyZilX3zt-S-gkz3n7xSxiDhvCwEyKoLJNG1wk-ayB8tr2LcWt">](https://music.youtube.com/channel/UCrYvLmsUZN_jlMgtIdkXtng)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ff3aX5rGMUfCOQ55h4AVAX7XJ5fMyzPbR0s9GIzGzzI5IR4tsWnQVgZ3LhbAdMCI0kmNhPMsHAk78skI">](https://music.youtube.com/channel/UCD_Nuo_KnEpt8stYgGDHrfA)
 
-Legit Goons - GTA!
+Crucial Star - Can't Take My Eyes Off You
 
-**Albums**: ROCKSTAR GAMES
+**Albums**: Drawing #3: Untitled
 
-Last updated at 08/11/2020 21:59
+Last updated at 08/11/2020 22:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
