@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CqsBQp8riim_Wub-geWJv1I8mNc0bdl87MuaHFKjmYNxSrX06VOp_z6DHQ8Vb-YJjnsZ1tO0lYBHieM">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1MSnAGIMFn8Rcm7rZQr84h9VO7EM5U1L9-gntMAPfcYyOJywtlbR0wOEsj7SwjVH0Sw2Hf2hL6vRsjP4TQ">](https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ)
 
-GIRIBOY - Traffic Control (feat. Heize)
+Jvcki Wai, Young B, Osshun Gum, Han Yo Han - DDING (Prod. By GIRIBOY)
 
-**Albums**: Traffic Control
+**Albums**: Dingo X Indigo Music
 
-Last updated at 08/12/2020 04:19
+Last updated at 08/12/2020 04:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
