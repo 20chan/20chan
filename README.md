@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bItjVCtAngrgxb2UQeJ2F-6u1h37Y9guPe6Lk745BeuVOn_EasIEKu2t9JCbiu7PDkC5t3Qy0YKEcWCy">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
 
-Kid Milli - Duracell (feat. Byung Un)
+JUSTHIS &amp; Paloalto - Cooler Than the Cool (feat. Huckleberry P)
 
-**Albums**: Maiden Voyage III
+**Albums**: Cooler Than the Cool
 
-Last updated at 08/12/2020 08:04
+Last updated at 08/12/2020 08:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
