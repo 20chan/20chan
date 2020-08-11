@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FCXpg3jSdvRDR1iNm-U8Scc55JKqMBZIavvRRTQoloC01K8105ekWBSj7Ci6X6gVPqMcRcASdMjLLuA">](https://music.youtube.com/channel/UCNpObHElUk-URbs0wvC6rTw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MHs5PES7gTfcKYZL7_6n8PvVjfzKAikrFPmL6d50n4kMXawmDA7HMqQkzQ3z15TFHA589nyiUWAelgpv">](https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g)
 
-Kim Seungmin - 10°0' 0° N 118°50 0° E (feat. ASH ISLAND)
+pH-1 - Penthouse (feat. Sik-K)
 
-**Albums**: Rio Loves Tokyo Part.1
+**Albums**: GATSBY
 
-Last updated at 08/12/2020 00:05
+Last updated at 08/12/2020 00:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
