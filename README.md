@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J-qSontsWEkmuYzthpu_BNvmhv3YBFTfkCLfTz2vxZWDIML79A0f2WpJUI-tXaDqhajSU4uxPft3ahY">](https://music.youtube.com/channel/UCd46bAXZ1Bbnk3FkiatYk9g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIr_2l-TAXUta2jeOKrNKC7Y6gFk5-NZtu6Dtq8xS3zxLqTBY58JZAJgC_Gch3sV0yZzXyeyCtAHZvDe">](https://music.youtube.com/channel/UCrWlSmZq0d2JG5_WOgon_cA)
 
-Untouchable - VAIN (feat. Koonta)
+Bassagong - Giraffe 기린 [Prod.chilly] (feat. Take#1)
 
-**Albums**: Trip
+**Albums**: Giraffe 기린
 
-Last updated at 08/11/2020 21:03
+Last updated at 08/11/2020 21:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
