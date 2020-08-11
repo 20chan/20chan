@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">](https://music.youtube.com/channel/UCWi6YRODdoeuEF5J7crTknQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6QThh9_RmbwnZ16hFfoFw5gvGEmFYhLZu8hlFdy5KH_yappfgaDSHOABUNML0i87Y4EM-UnjbmrtDAyb">](https://music.youtube.com/channel/UCK8xKov3rStdaIJ1HhgtGKQ)
 
-빈지노 Beenzino - 젖고있어 So Wet
+NO:EL - Celebration (Prod. By Minit) (feat. Jhnovr)
 
-**Albums**: 12
+**Albums**: 18'F/W
 
-Last updated at 08/11/2020 21:11
+Last updated at 08/11/2020 21:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
