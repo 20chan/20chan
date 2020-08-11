@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Nochang - CHING CHANG CHONG
+Han Yo Han - Reset (feat. Lil Boi)
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: Exiv
 
-Last updated at 08/11/2020 22:30
+Last updated at 08/11/2020 22:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
