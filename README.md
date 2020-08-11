@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fgN9gCK4kYnade5hhF6mrbjt4FJGsxi1NO4zM1EVEXkJS8D6cJBXPOPP-wq_t-gmZYOcp5WU80uFNHxZ9A">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EmGLgqE0V5HfQ68bOGzCHjvfghJgTPBiZMoag2CCstBfGe6VnQbXlJ-jAMMYSluxXYMysXIRNpDJq8sL">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Jang Beom June - karaoke
+Giriboy - Different Look (feat. Crucial Star)
 
-**Albums**: Jang Beom June 3rd(장범준 3집)
+**Albums**: Fetal Album II
 
-Last updated at 08/12/2020 06:47
+Last updated at 08/12/2020 06:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
