@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9K3ify-ajj-GxBVKVLAgBmHijgpX9BdRpfhZW90Zkx25RTzsveX6oLtSmEv9RrCOvNKKjW6Wla7RrdoP">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XAYtmYDUhTHP8OYsTCWcAP7Lc5ONv1s4wIciqhVIVm-fEmvvpdCv7ArLnGQ0ImXd77j-WW1WabCQsiAytA">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Han Yo Han - Routine
+GIRIBOY - I'm Sick (feat. Lil tachi, C Jamm, Kim Seungmin & NO:EL)
 
-**Albums**: Routine
+**Albums**: 100 Years College Course
 
-Last updated at 08/11/2020 23:10
+Last updated at 08/11/2020 23:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
