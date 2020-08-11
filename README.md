@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">](https://music.youtube.com/browse/MPREb_Bf34UwjjIBi)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sUDi7jWREjXxtrOf0WlxQLWCX4Po0LHuyAFa3-cbWl5bMGfkwcX69bQEky8Q-1MaCIzBxUKPTFxmzduo">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Just Music(스윙스, 천재노창) - Still
+GIRIBOY - Because You're Pretty
 
-**Albums**: Ripple Effect(파급효과)
+**Albums**: Because You're Pretty
 
-Last updated at 08/11/2020 21:39
+Last updated at 08/11/2020 21:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
