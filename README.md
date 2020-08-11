@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ff3aX5rGMUfCOQ55h4AVAX7XJ5fMyzPbR0s9GIzGzzI5IR4tsWnQVgZ3LhbAdMCI0kmNhPMsHAk78skI">](https://music.youtube.com/channel/UCD_Nuo_KnEpt8stYgGDHrfA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">](https://music.youtube.com/channel/UCWi6YRODdoeuEF5J7crTknQ)
 
-Crucial Star - Can't Take My Eyes Off You
+빈지노 Beenzino - Time Travel
 
-**Albums**: Drawing #3: Untitled
+**Albums**: 12
 
-Last updated at 08/11/2020 22:03
+Last updated at 08/11/2020 22:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
