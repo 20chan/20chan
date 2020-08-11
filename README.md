@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FaKIHENRx2hFkL8gIRyI36bX07g_kw4ks9nSz8oTyXP_TNyuxXux07eVFE03rm3FCi0_EjUiBMV1V6k">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Kid Milli, Jvcki Wai - KOCEAN
+GIRIBOY - Sooljalee
 
-**Albums**: Maiden Voyage III
+**Albums**: Sooljalee
 
-Last updated at 08/11/2020 16:40
+Last updated at 08/11/2020 16:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
