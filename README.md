@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fMm1R9-l2oJSLzClBfwy9yTxKD0tJPZQ7oKGvNOBMYNkcrs5HUo-yU5D1XXRc-ckqZqMXbCeyJMsOYRwVQ">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/U2cvF1TkmoXnkPLmlnViZWs4Rll3NvgbLA0nWvMc78ilkbcRUxK98dgpArJne8dJcGHK9tkqqfPbo_5E">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
 
-HAN YO HAN - School Reunion (feat. Fromm)
+ASH ISLAND - Error
 
-**Albums**: MUSASHI
+**Albums**: Error
 
-Last updated at 08/12/2020 03:36
+Last updated at 08/12/2020 03:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
