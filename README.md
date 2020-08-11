@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/j841aFz7uXsIuETUTIDqBPZ5Q9tr5N22sRO3wVnOHeju-jGdDLhe_JgjT1zBXMTohfvgx-79x3zZbds">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K8kp_SVozsv_aoxLqh8GF8hIV9fGPHt4xtPe2D5PNYLAZZepyZZ14BKTrZ0OEPp3nBRQU0XeUNs3qjYsWA">](https://music.youtube.com/channel/UCKHC-8Fny_KMWeXx1WGPRrg)
 
-기리보이 - 하이에나 HYENA
+JUNG ILHOON - She's gone
 
-**Albums**: 하이에나 OST Part.4 HYENA OST Part.4
+**Albums**: Big wave
 
-Last updated at 08/12/2020 01:48
+Last updated at 08/12/2020 01:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
