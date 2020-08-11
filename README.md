@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5HFvTdm0pnSpn9AMmO9peP-tl8slF023tatjKF-3FjFw-LkR4whSYS4ImmInN5-iQu_TYJ2QtqmP_DRX">](https://music.youtube.com/channel/UChcfLfBDmJKgbBLCeVGmIUg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AYkPq8BnP4i93P32WrpnsH0J8nZHzLzzx_ZI-Zk_d18An9Ui6JGGs-Mj4R0CSbcIqvOa-RY-la9RrGDf">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
 
-Woodie Gochild, BIG Naughty, Young B & CHOILB - BADA (feat. giriboy)
+JUSTHIS - Gone
 
-**Albums**: Show Me the Money 8 Episode 2
+**Albums**: Re: Tired.
 
-Last updated at 08/12/2020 04:54
+Last updated at 08/12/2020 04:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
