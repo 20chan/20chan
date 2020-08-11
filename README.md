@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lDY390uWN1dHjm655nd3VpgTO53krx_bNOTImfaEXaujw4irQDlbmOfMPVOuV0_9FBYm52l02HD-tvwwXg">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9K3ify-ajj-GxBVKVLAgBmHijgpX9BdRpfhZW90Zkx25RTzsveX6oLtSmEv9RrCOvNKKjW6Wla7RrdoP">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-GIRIBOY - Attention Whore (Prod. By GIRIBOY, Johnny) (feat. thama)
+Han Yo Han - Routine
 
-**Albums**: Science Fiction Music : End
+**Albums**: Routine
 
-Last updated at 08/11/2020 23:07
+Last updated at 08/11/2020 23:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
