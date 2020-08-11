@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pe8J5WHUvluI423uoYI3Ai-RQtxHmDCQD6UKxPWRVyekToOE5tireiEuQ-4mPgaUPgx7Eo9JCDhLwIU">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WRII4vhTK7fosezNGe0c5TS7y8eWVnKXXXaFiksue3bqn5K1c62LuruPm6fQBSx-wEEEAgetEchc9b8">](https://music.youtube.com/channel/UCMzUmmjk5fnmYbVBGWJK-Kg)
 
-조광일 & Brown Tigger - Two Harsh Carls
+Basick & Gwangil Jo - Layoff
 
-**Albums**: Two Harsh Carls
+**Albums**: Layoff
 
-Last updated at 08/11/2020 18:35
+Last updated at 08/11/2020 18:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
