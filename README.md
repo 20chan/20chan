@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SVMhF7tn1KsFPTCiCKEt4Lh65HZnkZt7ZULGKY7Sa2bKIzDHMRlHQC_7OL4KFADjcjry7XD34Hm9-Xy9ww">](https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dq2Uj8QwuzAL1J9Bz-jF_VKsYIXpr7eNZCuRRTGZwmXI_vnjtPrxzAjOKue7ET6qFurNqM9W9WdMeVg">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
 
-pH-1, Kid Milli & Loopy - Good Day (feat. Paloalto)
+BLOO - I'm the one (feat. niahn & nafla)
 
-**Albums**: Show Me the Money 777 (Episode 1)
+**Albums**: BLOO IN WONDERLAND
 
-Last updated at 08/12/2020 06:12
+Last updated at 08/12/2020 06:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
