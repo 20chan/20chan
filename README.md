@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E171TP_-fCQa-g3EsfRoyE_lPJFnqXhrxfTgsYVLfILZvjgIe3N2WM3iCcEWwSoJmPGQsef8RGS477I">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zajkxWnnAaI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCccpZGqUvSuIVyEmf47e87w)
 
-Bryann T - Faith and Love (feat. Kay Kay & Chi Chi)
+코벨 Covel TV - 히사이시 조 / 마녀배달부 키키 OST - 바다가 보이는 마을
 
-**Albums**: I Encourage Growth
+**Albums**: undefined
 
-Last updated at 08/11/2020 13:01
+Last updated at 08/11/2020 14:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
