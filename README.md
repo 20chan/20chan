@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4AdOV7nmJu8NUWF_sNO6I2VBwWPmLlQ7vmQSH1sf9-ZfDQQKUv86aMMJc2OKpHbtveC0nbi-nxJR1I">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">](https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ)
 
-Nochang - All Day (feat. Tablo)
+Huckleberry P - One of Them (feat. EK & JUSTHIS)
 
-**Albums**: All Day
+**Albums**: One of Them
 
-Last updated at 08/11/2020 20:03
+Last updated at 08/11/2020 20:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
