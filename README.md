@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WQNIvC4Nis2klMH5EIGDjJGP06rTreadYPGPVwwqrgma4iO8TZmdaBWbTka5gXnipJT6HsXU9q5hSJw">](https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JTKrs5_o9lfQnJkbe5GB3yWgzveStdIgtAJbd72fJ2I5GNtNrleB8qCyZIDyK1VG6s_Iah1LioS2CJNP">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
 
-C JAMM - Pokerface
+Kid Milli - Muddy
 
-**Albums**: KEUNG
+**Albums**: Maiden Voyage Ⅱ
 
-Last updated at 08/11/2020 19:17
+Last updated at 08/11/2020 19:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
