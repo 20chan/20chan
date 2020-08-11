@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xp2e1iTDxpidKsW4OdbMnoJcKTeFW-O6K-IqAFaOyGYpdtf3Io2lXyxDFmxqsfr-9q2LbOi_dNu6PqHl">](https://music.youtube.com/channel/UCoNq-kohNtB6l7ChNheqW0g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/26dQufnzTi4ZfTVxfEuzxoqfZeB_ZH-jqVbm1v040gNyA0LmfgGpmPgIa29lpod2yEFafFewtAeAqP37Og">](https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw)
 
-EPIK HIGH - 노땡큐(No Thanxxx) ft. MINO, SIMON DOMINIC, THE QUIETT
+C JAMM & YANGHONGWON - Hey
 
-**Albums**: We've Done Something Wonderful
+**Albums**: Hey
 
-Last updated at 08/12/2020 01:58
+Last updated at 08/12/2020 02:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
