@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6QThh9_RmbwnZ16hFfoFw5gvGEmFYhLZu8hlFdy5KH_yappfgaDSHOABUNML0i87Y4EM-UnjbmrtDAyb">](https://music.youtube.com/channel/UCK8xKov3rStdaIJ1HhgtGKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GVSJJHf1iYcbS9KdTT_fpjxh-_0aBQSWGKXqWY1cz0wR-rtdyUh2sF0TA8FVONH9JthH5jBnU9Rb5oNL6Q">](https://music.youtube.com/channel/UCqkoPOAn2tQgBvyWj6yZJGw)
 
-NO:EL - Celebration (Prod. By Minit) (feat. Jhnovr)
+PEEJAY - I Get Lifted X Beenzino
 
-**Albums**: 18'F/W
+**Albums**: WALKIN', Vol. 1
 
-Last updated at 08/11/2020 21:15
+Last updated at 08/11/2020 21:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
