@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">](https://music.youtube.com/browse/MPREb_Bf34UwjjIBi)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dXxbkQU4g5CX55v186ucN0tjLmwZrKIPJ1CIxO2KZfQxeQ_k1nMcAQAJmQlfoPA9-2PRz9ova651WNqukw">](https://music.youtube.com/channel/UCrWlSmZq0d2JG5_WOgon_cA)
 
-Just Music(스윙스, 기리보이, 천재노창, 씨잼(Cjamm)) - Rain Showers Remix
+뱃사공 Bassagong - Rock&Roll Baby
 
-**Albums**: Ripple Effect(파급효과)
+**Albums**: Rock&Roll Baby
 
-Last updated at 08/11/2020 22:11
+Last updated at 08/11/2020 22:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
