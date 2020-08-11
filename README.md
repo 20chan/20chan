@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ncWslgW4NNIALEK9MQvE4tLGfxeX12j3rYXFK7BAR3PkTWAAs10kja3Lfjh7XS9Rl_J25Cb1CtQG-rTI">](https://music.youtube.com/channel/UCWjrlrL7_e9QbZ2pMXKsMwA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GYmZnqA5QRrr2XHhVeGwuOlJpR-ndSljkn3fUG4HaVREomFjJXPaHPZ1basUWp9jil5cgvr6PUvFe_Z6">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
 
-Lee Moon Sae - Spring Breeze(봄바람) (feat.Naul of Brown Eyed Soul)
+Yoon Jong Shin - 고속도로 로맨스
 
-**Albums**: NEW DIRECTION
+**Albums**: 행보 2013 윤종신
 
-Last updated at 08/11/2020 12:17
+Last updated at 08/11/2020 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
