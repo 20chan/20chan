@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GYmZnqA5QRrr2XHhVeGwuOlJpR-ndSljkn3fUG4HaVREomFjJXPaHPZ1basUWp9jil5cgvr6PUvFe_Z6">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Hc7v_ibqfvRC-IUPxD4Ic6cSnEaDmrVzRy4GPUb-YHAPzrk6CGynpWjzfb_gTKZ5HjI88K6IMzFdQAvhZQ">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
 
-Yoon Jong Shin - 고속도로 로맨스
+Bryann T - If I Could Talk to You (feat. Triple Thr33)
 
-**Albums**: 행보 2013 윤종신
+**Albums**: Set Apart
 
-Last updated at 08/11/2020 12:21
+Last updated at 08/11/2020 12:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
