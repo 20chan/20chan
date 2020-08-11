@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-CHANGMO - METEOR
+The Quiett - Han gang gang (Megamix)
 
-**Albums**: Boyhood
+**Albums**: Han gang gang (Megamix)
 
-Last updated at 08/11/2020 15:53
+Last updated at 08/11/2020 16:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
