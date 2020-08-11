@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YcaUOgiPrDT4RYRAVLxGKVvd7gWDqAlIRAEaIsQTVL72VKdzSNLp38JhZ-o65RE5fHMYb5Z4x-0TZ-OX">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/akcwWLPMvatFDvclgfYt3dT2lGWSaCjtivgj1javqb9DpMe4soa-fQIh1qbU9OpRedoLuPfkg4hdhu8">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
 
-GIRIBOY - Wyjb (Prod. By Louie Lastic) (feat. OLNL)
+SUPERBEE, Uneducated Kid, TWLV & YUZION - Bad Guys
 
-**Albums**: Graduation
+**Albums**: Bad Guys
 
-Last updated at 08/12/2020 05:18
+Last updated at 08/12/2020 05:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
