@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xrkHPaZheno-dd9WXB9uSepIzuh03tLLRtXAuhfhs0h-FOFr_gMspUq4VeWomj3OkpvA_-JOrUg0kFyB">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pe8J5WHUvluI423uoYI3Ai-RQtxHmDCQD6UKxPWRVyekToOE5tireiEuQ-4mPgaUPgx7Eo9JCDhLwIU">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-조광일 - Grow back (feat. Brown Tigger)
+조광일 & Brown Tigger - Two Harsh Carls
 
-**Albums**: Grow back
+**Albums**: Two Harsh Carls
 
-Last updated at 08/11/2020 15:47
+Last updated at 08/11/2020 15:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
