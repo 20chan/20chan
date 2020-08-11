@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zajkxWnnAaI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCccpZGqUvSuIVyEmf47e87w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/yXs8uO5LwDQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCeoT9BqyKRktIHvQnWE8zug)
 
-코벨 Covel TV - 히사이시 조 / 마녀배달부 키키 OST - 바다가 보이는 마을
+Joe Hisaishi & London Symphony Orchestra - Departures
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 14:01
+Last updated at 08/11/2020 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
