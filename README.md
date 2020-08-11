@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JTKrs5_o9lfQnJkbe5GB3yWgzveStdIgtAJbd72fJ2I5GNtNrleB8qCyZIDyK1VG6s_Iah1LioS2CJNP">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Kid Milli - Muddy
+Nochang - Trunt(털ㄴ업해야해)
 
-**Albums**: Maiden Voyage Ⅱ
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 08/11/2020 19:21
+Last updated at 08/11/2020 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
