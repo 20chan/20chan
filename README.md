@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HicqfBKhgtxf3RfnOk5NuNb6RGlM2iYhPpuTAd2Ok4ZAPb--UjjHm80R2f8pbeATM6bwA3YW_fopDkvAsw">](https://music.youtube.com/channel/UCCZkbN-eHBtrdRhOKFBGt6w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oeiUvJlLEb7eZR9B1_FlRQWrlGffgX9eT_3mLgRkohaz-Y8g8V7hxtXOXKDOiKeTiRu-lx2GKHhHp58">](https://music.youtube.com/channel/UCylZUQKEBjVXOw9qaVqSbGw)
 
-GARY - Lonely Night
+BUMKEY - Attraction feat.Dynamic Duo (feat. Dynamic Duo)
 
-**Albums**: Lonely Night
+**Albums**: Attractive
 
-Last updated at 08/12/2020 01:17
+Last updated at 08/12/2020 01:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
