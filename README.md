@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NyFJFVf6LpgK6HRebKJfYBmzdVai6IFJuUw2uW3DnOl6ZyzYVItYBKq46AE86HZldnDLrYhG6Zf1m5U">](https://music.youtube.com/channel/UCpzsR9A-mycBKnbj7qLKm5A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">](https://music.youtube.com/channel/UCq0rwnaHv_UKY4x8Kwbo0zw)
 
-CRAY-G - Only One
+sokodomo - Global Extinction
 
-**Albums**: Only One
+**Albums**: School Rapper3 Final
 
-Last updated at 08/12/2020 03:56
+Last updated at 08/12/2020 04:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
