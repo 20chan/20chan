@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GJQZ4pMRZOHXEn9gRy9qZM5jjvkNjjbrRelk25zPCtIKRJFnNmgRc2O_y3U9HwUQ4sHtI9kTR3Oyx8ku">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-Han Yo Han - Go Away (feat. GEMma)
+YUMDDA, The Quiett, Paloalto & Simon Dominic - RUN DAMOIM 달려
 
-**Albums**: Spirit Bomb
+**Albums**: Dingo X DAMOIM (Part 4)
 
-Last updated at 08/12/2020 00:40
+Last updated at 08/12/2020 00:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
