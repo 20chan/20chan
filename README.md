@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dq2Uj8QwuzAL1J9Bz-jF_VKsYIXpr7eNZCuRRTGZwmXI_vnjtPrxzAjOKue7ET6qFurNqM9W9WdMeVg">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qx5CCpfn5_VJw0TKJRDkuNBrch1gom88ssv8lUQBBEE1V1atYSfMXBR3fU8b5q3wO5hs4Azri8SsM6bC">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-BLOO - I'm the one (feat. niahn & nafla)
+창모 (Changmo) - 아름다워
 
-**Albums**: BLOO IN WONDERLAND
+**Albums**: 돈 벌 시간 2
 
-Last updated at 08/12/2020 06:17
+Last updated at 08/12/2020 06:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
