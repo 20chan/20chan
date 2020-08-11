@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HjxNkiBNdEBjHwOXisKLUNme-nTknMDB8E3k1QY3i9GnYFqQH-RtLx6D1AGtj2wFMSh2QXBj7JRUqZ2PEg">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9aqpuTkoTeXHErQhW_3EklMCHPsRgQSyZilX3zt-S-gkz3n7xSxiDhvCwEyKoLJNG1wk-ayB8tr2LcWt">](https://music.youtube.com/channel/UCrYvLmsUZN_jlMgtIdkXtng)
 
-GIRIBOY - EmptyHouse (Prod. By dnss) (feat. THAMA)
+Legit Goons - GTA!
 
-**Albums**: 3Songs
+**Albums**: ROCKSTAR GAMES
 
-Last updated at 08/11/2020 21:56
+Last updated at 08/11/2020 21:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
