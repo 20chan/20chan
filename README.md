@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eKlAz0p1-gflMkyK_PgOokRyvd781Esw1hwMx4Zfw99G2S2xivJDIq8bxo44r6tnV1E7B0ZFOqhgCrk">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
 
-다이나믹 듀오 Dynamic Duo - BAAAM (feat. Muzie of UV)
+델리스파이스 (DELISPICE) - 고백
 
-**Albums**: Luckynumbers
+**Albums**: Espresso
 
-Last updated at 08/12/2020 04:06
+Last updated at 08/12/2020 04:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
