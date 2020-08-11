@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GJQZ4pMRZOHXEn9gRy9qZM5jjvkNjjbrRelk25zPCtIKRJFnNmgRc2O_y3U9HwUQ4sHtI9kTR3Oyx8ku">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-YUMDDA, The Quiett, Paloalto & Simon Dominic - RUN DAMOIM 달려
+HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
 
-**Albums**: Dingo X DAMOIM (Part 4)
+**Albums**: Helicopter
 
-Last updated at 08/12/2020 00:43
+Last updated at 08/12/2020 00:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
