@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jpTlSzJGvFLAp7_HW_mkwoxvgvuimF_HBEvzNX9z-_MQpllJ1pmlW0m4zhLUCVx7hz_-usHKs-y37M4">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wzdYRNxSSVHrccMSheXKB569yKgqg9uXsrKwbriERzYwAYC11Hs9xxKFGtT-dtYpymtLJs4flPgn8T98FQ">](https://music.youtube.com/channel/UC1yfXDUlpfEncDnLUMekHhQ)
 
-Han Yo Han - Broken Pieces (feat. ASH ISLAND)
+NELL - Good night
 
-**Albums**: Broken Pieces
+**Albums**: Healing Process [3rd Album Healing Process]
 
-Last updated at 08/11/2020 22:57
+Last updated at 08/11/2020 23:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
