@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fz9V2OeeZX04UxIN1xlSJE3WEpHettIOddLz1172A_vtjQ-zTG5uYq4xOS_OdjSmb-YPWrqI1CufsWc">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WscRCBf0OSyKXamo7oEtxpw8nvcS7ySOQHxF7zdWSwHVORzwjdJ9ePPrNjSwBuITr4d3L4J-w5n1HBE">](https://music.youtube.com/channel/UCkop82wxg40aqLNrEFPf-wg)
 
-Han Yo Han & Swings - Whistle (feat. nafla & CHANGMO)
+Primary - poison (feat. E-Sens of Supreme Team)
 
-**Albums**: Whistle
+**Albums**: Primary and the Messengers LP
 
-Last updated at 08/12/2020 03:08
+Last updated at 08/12/2020 03:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
