@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QswzCaCtQMpL6V40BwjHv8oA66ngbpe203xRVTBD-VzYBXpZM7wxlBpMrXVUcMN894rHnrwcMLiLs4RM1Q">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZTKcuvN7pPtGraP8wmWfm6yVajkB63W53e5h3S0JWh14XxR-eW5TfjQF3Mi3dnqSQte92HAvjZ2XFdzK">](https://music.youtube.com/channel/UCbtGVbEiLOtjWBafQL_H2ww)
 
-Bryann T - Middle of My Storm
+Young Bro - Mind on Heaven
 
-**Albums**: Same Heart Beat
+**Albums**: Standing Still
 
-Last updated at 08/11/2020 12:32
+Last updated at 08/11/2020 12:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
