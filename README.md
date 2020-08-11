@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xD7wzWIDlK-BCORBgyuea9k_TApD-7Yn2mdZZ4StHcZXXp4GoenQorXBspezPjklT6DERmrNh7CVVHlKfw">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
 
-Han Yo Han - Fire Flower
+Beenzino - Always Awake (Bonus Track)
 
-**Albums**: Fire Flower
+**Albums**: 24: 26 (5th Anniversary Remaster Edition)
 
-Last updated at 08/11/2020 21:28
+Last updated at 08/11/2020 21:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
