@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eKlAz0p1-gflMkyK_PgOokRyvd781Esw1hwMx4Zfw99G2S2xivJDIq8bxo44r6tnV1E7B0ZFOqhgCrk">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6UVFv2UYkRBaZzALw9c_ZZTH2IyBJX_qMNiarkp3UNoEbjHlarEvEGkyH7dyBS9oxhafD82sAO7_esg">](https://music.youtube.com/channel/UCDG5Gd2xB3sQwVcciOQlnwg)
 
-다이나믹 듀오 Dynamic Duo - Hot Wings (feat. HYOLYN)
+Colde & Zion.T - 헷갈려
 
-**Albums**: Luckynumbers
+**Albums**: 유플래쉬
 
-Last updated at 08/12/2020 05:56
+Last updated at 08/12/2020 06:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
