@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uVAIBbviDnZiJs_anFzDTuXjJ-Bnv0QJbmMP6sq4FrHfWAzmB3Qa4THi6djBDQYbgklkPjc-8ENvSmoz">](https://music.youtube.com/channel/UCRKrBZq4oFRS6Kv1W8deNSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">](https://music.youtube.com/browse/MPREb_Bf34UwjjIBi)
 
-ZENE THE ZILLA - YAMANGKKUN Freestyle
+Just Music(스윙스, 천재노창) - Still
 
-**Albums**: YAMANGKKUN
+**Albums**: Ripple Effect(파급효과)
 
-Last updated at 08/11/2020 21:36
+Last updated at 08/11/2020 21:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
