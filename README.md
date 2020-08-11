@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/moxjw6JiWr3yFfu5LvBNpzi20IQzIMV5_MpodBOIrFpfdtQ7wjsS5IBdEyCOJwwVrJulZXl38m8bq2wD">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/65niALh646akmAD6eh9pmxvQR9_AOoG2jsNoqL2YBDprZDJ8GoSxpx22Kj2A19F1-0qvhZ4JJLZUYrQ">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
 
-우원재 (Woo) - Taste (feat. GIRIBOY)
+BLOO - I AM (feat. Kim Park Chella)
 
-**Albums**: Taste
+**Albums**: Downtown Baby
 
-Last updated at 08/12/2020 06:30
+Last updated at 08/12/2020 06:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
