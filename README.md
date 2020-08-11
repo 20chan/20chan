@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-GIRIBOY - Tiger Den (feat. Jvcki Wai)
+Han Yo Han - 400km (feat. Kid Milli)
 
-**Albums**: Tiger Den
+**Albums**: Spirit Bomb
 
-Last updated at 08/11/2020 22:37
+Last updated at 08/11/2020 22:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
