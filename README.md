@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/73Qqazs8LxMqwP5KrqidgPBrn7-Yko5-ZDq7vPnjLKLd32ypgQMVlXTwl46RDNXO-UCmrzujDMBto1CAyg">](https://music.youtube.com/channel/UCunjzcKZBTTQ94UaK6qgGRw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZWhY50xgNYuYTCOXkqeOVdvPtqgph0e0vnUv8ymcmpmxAbdBrhvenQdCbsIJAh0iSWr-89JWB9QDtp4">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
 
-Y군 - 얼음처럼
+다이나믹 듀오 Dynamic Duo - YAYOUHWEI (feat. ZICO)
 
-**Albums**: 얼음처럼
+**Albums**: GRAND CARNIVAL
 
-Last updated at 08/11/2020 20:35
+Last updated at 08/11/2020 20:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
