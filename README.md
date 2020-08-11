@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000100835119-6b7ubw-t120x120.jpg">](https://soundcloud.com/nymano/quand-la-pluie-tombe)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000206241476-4qetje-t120x120.jpg">](https://soundcloud.com/idealismus/hiraeth-ep-1)
 
-nymano - quand la pluie tombe (also uploaded for The Visionary Collective tape)
+idealism - hiraeth [ep]
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 14:45
+Last updated at 08/11/2020 14:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
