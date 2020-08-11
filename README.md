@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iZkj4cYVaKJNmg0bghKY7_n-mNnE9J0WU1VM7zrJYWhTArRomwlgk56qMk75dlGjUQ9nTzXrc72RSiwQ">](https://music.youtube.com/channel/UCPToBSRixHEzdqSNzLvGR9g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/euIKMXB8xTXt1jXPC41k-alvI2ZzXa52V-2txITsv9XUdYr19zSraC9LwbNL2ca-IdWPF7JEuTD4u6Xr">](https://music.youtube.com/channel/UCx38UtcmU6vJ7IF1J6epxdA)
 
-Yoon Do Hyun - I Guess I Loved You
+ADOY - Wonder
 
-**Albums**: Difference
+**Albums**: LOVE
 
-Last updated at 08/11/2020 16:51
+Last updated at 08/11/2020 16:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
