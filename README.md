@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J7j_iDYsKoZK-6K-9u_yPFdchAZ-mmxULra-uaDXGb-ncem8uRP7spoMn31GRmgdsT6jyPt7Iu_xSoVztA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M_VR8QmDKs3gfgj43AOFNT9T03HpyiJD3jWfHI-R8CLC78wwN8556vV9sIQ2tfRs0BYox4K3-HpHk11NLA">](https://music.youtube.com/channel/UCAt1TaImefanwmy-Owf3tkQ)
 
-Leellamarz & Panda Gomm - RUN
+ベリーグッドマン - ファンファーレ (2020 ver.)
 
-**Albums**: RUN
+**Albums**: Start Start Start
 
-Last updated at 08/12/2020 02:16
+Last updated at 08/12/2020 02:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
