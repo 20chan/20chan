@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/raCvjGEtKIiRpduJYDcfclLVqh4LfiESAZU5XxODLlZ2XhCvJ7GCfhrWJ1XD4NiV8oirCVujMsrs-b6C">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eKlAz0p1-gflMkyK_PgOokRyvd781Esw1hwMx4Zfw99G2S2xivJDIq8bxo44r6tnV1E7B0ZFOqhgCrk">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
 
-IU - eight (feat. SUGA of BTS)
+다이나믹 듀오 Dynamic Duo - Hot Wings (feat. HYOLYN)
 
-**Albums**: eight
+**Albums**: Luckynumbers
 
-Last updated at 08/12/2020 05:53
+Last updated at 08/12/2020 05:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
