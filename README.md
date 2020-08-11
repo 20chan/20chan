@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LdF89sQ57UQSU4_V8U5csBwLHKt_uWhI2lffcdpxbhmAuZBlFhNJdPptHBnLyBNICieGpYNYasEpO4s64A">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
 
-JUSTHIS, Jvcki Wai, Kid Milli & Young B - 180409
+Beenzino - Fashion Hoarder (feat. ZENE THE ZILLA)
 
-**Albums**: IM
+**Albums**: Fashion Hoarder
 
-Last updated at 08/11/2020 16:33
+Last updated at 08/11/2020 16:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
