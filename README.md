@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O-hsA08SAsnJwirqf3RAnI-gonN-nCv7zRBYsZVeiu23_JUuWKa9Lql6LRmpCTknUFhcZr5446iOwOg">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
+YUMDDA, The Quiett, Paloalto & Simon Dominic - Forever 84
 
-**Albums**: Helicopter
+**Albums**: Dingo X DAMOIM (Part 1)
 
-Last updated at 08/12/2020 00:47
+Last updated at 08/12/2020 00:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
