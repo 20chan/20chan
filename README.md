@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pg4XMQDQmIFgjHtM-pADE5URrjIoTsjEZbtnt1rVeVe0beRBZD4cCKUQkVCNI6RaOFd1dmNesIW6R9g">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J-qSontsWEkmuYzthpu_BNvmhv3YBFTfkCLfTz2vxZWDIML79A0f2WpJUI-tXaDqhajSU4uxPft3ahY">](https://music.youtube.com/channel/UCd46bAXZ1Bbnk3FkiatYk9g)
 
-E SENS - The Anecdote
+Untouchable - VAIN (feat. Koonta)
 
-**Albums**: The Anecdote
+**Albums**: Trip
 
-Last updated at 08/11/2020 20:59
+Last updated at 08/11/2020 21:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
