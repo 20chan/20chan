@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nnHCUCCYXNEOl3AwV4YI7i7yqxYIEn1Y9nXYWfcvi92OxaIVQNvwkz2fTgLN0-1L3_ia0gwKeTGikDg6ig">](https://music.youtube.com/channel/UCx38UtcmU6vJ7IF1J6epxdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/euIKMXB8xTXt1jXPC41k-alvI2ZzXa52V-2txITsv9XUdYr19zSraC9LwbNL2ca-IdWPF7JEuTD4u6Xr">](https://music.youtube.com/channel/UCx38UtcmU6vJ7IF1J6epxdA)
 
-ADOY - Swim
+ADOY - Blanc
 
-**Albums**: Vivid
+**Albums**: LOVE
 
-Last updated at 08/11/2020 17:16
+Last updated at 08/11/2020 17:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
