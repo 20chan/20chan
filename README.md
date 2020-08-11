@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PXlUYnxE7KN8Odw_tUxkdNIbBaOIOTwyoVPgtIEN5s6dmDoGc-AYtDbIxxtwOXwQ0RPOxE2TMbsb3s45">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
 
-Han Yo Han - Don't Worry (feat. Osshun Gum)
+Kid Milli - Outro (feat. GIRIBOY)
 
-**Albums**: Don't Worry
+**Albums**: Maiden Voyage III
 
-Last updated at 08/12/2020 08:20
+Last updated at 08/12/2020 08:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
