@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Om-CP1f1g_1XljIkRsGvEZYvxI1Bwfi9GSu7e2oNK7z9KUtY8FIB7bxATn-YBOvzmtW8d1OE-Qy6lf6u_Q">](https://music.youtube.com/browse/MPREb_olSsecBmL4J)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5NjZiDy3KShHY_A0cC1vQeHcBZZZQOu_oJ-ubDAoHUgz6n-NfwbeM8F2Yai6x8gXrKdjkRKepOvzTOU9lw">](https://music.youtube.com/channel/UCNpObHElUk-URbs0wvC6rTw)
 
-신승훈 Shin Seung Hun - 내가 많이 변했어 I've Changed a lot (With 최자 Choiza of 다이나믹듀오 Dynamic Duo)
+KIM SEUNG MIN - Chase the Star
 
-**Albums**: Great Wave
+**Albums**: Chase the Star
 
-Last updated at 08/11/2020 23:26
+Last updated at 08/11/2020 23:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
