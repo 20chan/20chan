@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Bg2XdwT08DVNriH5MlB5se-ovIsicNSep3eetoK1QwWiek4tJxLBuz93EiRE9EqQD0DFWEOiEsxHUeBL">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
 
-Kid Milli - FLEX
+IU - Into the I-LAND
 
-**Albums**: AI, THE PLAYLIST
+**Albums**: I-LAND Part.1 Signal Song
 
-Last updated at 08/12/2020 05:39
+Last updated at 08/12/2020 05:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
