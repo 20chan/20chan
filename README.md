@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3lKAE8aEiOU4YJJgSI5xnn8R6xqe4_MLBg9pruzwXvRW_IW4MshDJ6H9B494voFfnYU5py7L1Q-yDr30">](https://music.youtube.com/channel/UCMq4mBpseBT4iR4i3aNpcUQ)
 
-Han Yo Han - Dance (feat. GIRIBOY)
+iamnot - Up All Night
 
-**Albums**: Exiv
+**Albums**: Color
 
-Last updated at 08/12/2020 02:35
+Last updated at 08/12/2020 02:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
