@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pg4XMQDQmIFgjHtM-pADE5URrjIoTsjEZbtnt1rVeVe0beRBZD4cCKUQkVCNI6RaOFd1dmNesIW6R9g">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
 
-Han Yo Han - 400km (feat. Kid Milli)
+E SENS - Writer`s Block
 
-**Albums**: Spirit Bomb
+**Albums**: The Anecdote
 
-Last updated at 08/11/2020 22:40
+Last updated at 08/11/2020 22:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
