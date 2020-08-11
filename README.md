@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oeiUvJlLEb7eZR9B1_FlRQWrlGffgX9eT_3mLgRkohaz-Y8g8V7hxtXOXKDOiKeTiRu-lx2GKHhHp58">](https://music.youtube.com/channel/UCylZUQKEBjVXOw9qaVqSbGw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-BUMKEY - Attraction feat.Dynamic Duo (feat. Dynamic Duo)
+Han Yo Han - 12:00 (feat. Kim Seung-min & Swings)
 
-**Albums**: Attractive
+**Albums**: Exiv
 
-Last updated at 08/12/2020 01:21
+Last updated at 08/12/2020 01:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
