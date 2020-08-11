@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ItbvuXJXbV-oSy0mz05uGLLZmaluBdP9uWwKCrGCtnprNzkwM3Q51aTDzdqWJWq84p14oH9nZHzR0Rs">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YcaUOgiPrDT4RYRAVLxGKVvd7gWDqAlIRAEaIsQTVL72VKdzSNLp38JhZ-o65RE5fHMYb5Z4x-0TZ-OX">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-The Quiett - 시간이 왔나봐 The Time Has Came (feat. Dead' P)
+GIRIBOY - Wewantourmoneyback (Prod. By Lemac) (feat. Young B & Kid Milli)
 
-**Albums**: Quiet Storm: A Night Record
+**Albums**: Graduation
 
-Last updated at 08/12/2020 06:55
+Last updated at 08/12/2020 06:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
