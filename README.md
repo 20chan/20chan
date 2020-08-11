@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3lKAE8aEiOU4YJJgSI5xnn8R6xqe4_MLBg9pruzwXvRW_IW4MshDJ6H9B494voFfnYU5py7L1Q-yDr30">](https://music.youtube.com/channel/UCMq4mBpseBT4iR4i3aNpcUQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XAYtmYDUhTHP8OYsTCWcAP7Lc5ONv1s4wIciqhVIVm-fEmvvpdCv7ArLnGQ0ImXd77j-WW1WabCQsiAytA">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-iamnot - Up All Night
+GIRIBOY - Why are we so tired (feat. Jclef)
 
-**Albums**: Color
+**Albums**: 100 Years College Course
 
-Last updated at 08/12/2020 02:38
+Last updated at 08/12/2020 02:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
