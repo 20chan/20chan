@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">](https://music.youtube.com/channel/UCO4p2LbFEEF1HKm4HnUVjfg)
 
-Han Yo Han - Oasis
+Young B - ROSE (feat. Skinny Brown & Homeboy)
 
-**Albums**: Exiv
+**Albums**: Stranger
 
-Last updated at 08/12/2020 00:23
+Last updated at 08/12/2020 00:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
