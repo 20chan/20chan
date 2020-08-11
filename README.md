@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dv2l0hb_71e3geWHrcMkb6nAEhK5C-3pT9_ItGRwcaw7qXqPxmf9y8MbuSbcxTFl_hfwrJAPgBPl4GbN">](https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GyPel3rxGMrn03Cb0yhECdJ2o9AFFgSW9CQND214uryQNVDvb0ZX7G1FEEvvwzpz1RaL85YxJaJpvNU">](https://music.youtube.com/channel/UC9LSNI4-MozOaLxDUIRxAtA)
 
-Jay Park - All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version]
+Bozorg - Yeki Dige (feat. Arash Dara)
 
-**Albums**: Everything You Wanted
+**Albums**: Bozorg, Vol. 2
 
-Last updated at 08/12/2020 08:12
+Last updated at 08/12/2020 08:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
