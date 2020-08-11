@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sUDi7jWREjXxtrOf0WlxQLWCX4Po0LHuyAFa3-cbWl5bMGfkwcX69bQEky8Q-1MaCIzBxUKPTFxmzduo">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/N_BSTeTKIhDp6gJxWk8zobi6wIVX15uwm5ZC4z8PkV5R81AUbPJ02v1DsLBK4W190YyTv8FZieYRGyrZIQ">](https://music.youtube.com/channel/UC8BHeNHXcNZoFPkAWApr7ZA)
 
-GIRIBOY - Because You're Pretty
+Owen Ovadoz - City
 
-**Albums**: Because You're Pretty
+**Albums**: City
 
-Last updated at 08/11/2020 21:42
+Last updated at 08/11/2020 21:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
