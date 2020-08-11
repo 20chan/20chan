@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
 
-JUSTHIS(저스디스) - Veni, Vidi, Bitch , Okasian(오케이션))
+Kid Milli - FLEX
 
-**Albums**: 2 MANY HOMES 4 1 KID
+**Albums**: AI, THE PLAYLIST
 
-Last updated at 08/12/2020 05:36
+Last updated at 08/12/2020 05:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
