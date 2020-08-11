@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LdF89sQ57UQSU4_V8U5csBwLHKt_uWhI2lffcdpxbhmAuZBlFhNJdPptHBnLyBNICieGpYNYasEpO4s64A">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
 
-Beenzino - Fashion Hoarder (feat. ZENE THE ZILLA)
+Kid Milli, Jvcki Wai - KOCEAN
 
-**Albums**: Fashion Hoarder
+**Albums**: Maiden Voyage III
 
-Last updated at 08/11/2020 16:37
+Last updated at 08/11/2020 16:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
