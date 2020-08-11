@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cecRHXqraZQl9d3GXWNFheyyuZY9E1EFJJA2T_3ECJd9At_QWl6mlSW0tCPZToi6bKqQifCvaVm3JhU">](https://music.youtube.com/channel/UCEpbkEUFdETT6qYvD4QMN3w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
 
-비프리(B-Free) (B-Free) - My Team (feat. Paloalto, Keith Ape, Huckleberry P & Okasian)
+Beenzino - Nike Shoes (feat. Dynamic Duo)
 
-**Albums**: My Team
+**Albums**: 24: 26 (5th Anniversary Remaster Edition)
 
-Last updated at 08/11/2020 20:48
+Last updated at 08/11/2020 20:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
