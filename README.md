@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZTKcuvN7pPtGraP8wmWfm6yVajkB63W53e5h3S0JWh14XxR-eW5TfjQF3Mi3dnqSQte92HAvjZ2XFdzK">](https://music.youtube.com/channel/UCbtGVbEiLOtjWBafQL_H2ww)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6uRh-PI7s-FQ5vGBfJnmxG6DKG_-xgXJgz2aTRuxsU10gnYbQv6ydHF9Aj9izJBadO6s2-gM2mo5nAdiXA">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
 
-Young Bro - Mind on Heaven
+Bryann T - Inside Looking Out
 
-**Albums**: Standing Still
+**Albums**: Red Letters
 
-Last updated at 08/11/2020 12:36
+Last updated at 08/11/2020 12:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
