@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-JUSTHIS(저스디스) - HOME. 3
+Nochang - WE ARE THE WORLD(위아더월드)
 
-**Albums**: 2 MANY HOMES 4 1 KID
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 08/12/2020 08:29
+Last updated at 08/12/2020 08:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
