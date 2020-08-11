@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J7j_iDYsKoZK-6K-9u_yPFdchAZ-mmxULra-uaDXGb-ncem8uRP7spoMn31GRmgdsT6jyPt7Iu_xSoVztA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
 
-Woo - We Are (feat. Loco & GRAY)
+Leellamarz & Panda Gomm - RUN
 
-**Albums**: We Are
+**Albums**: RUN
 
-Last updated at 08/12/2020 02:13
+Last updated at 08/12/2020 02:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
