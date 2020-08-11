@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/O-hsA08SAsnJwirqf3RAnI-gonN-nCv7zRBYsZVeiu23_JUuWKa9Lql6LRmpCTknUFhcZr5446iOwOg">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">](https://music.youtube.com/channel/UCWi6YRODdoeuEF5J7crTknQ)
 
-YUMDDA, The Quiett, Paloalto & Simon Dominic - Forever 84
+빈지노 Beenzino - Dali, Van, Picasso
 
-**Albums**: Dingo X DAMOIM (Part 1)
+**Albums**: 12
 
-Last updated at 08/12/2020 00:50
+Last updated at 08/12/2020 00:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
