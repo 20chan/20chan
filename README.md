@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M_VR8QmDKs3gfgj43AOFNT9T03HpyiJD3jWfHI-R8CLC78wwN8556vV9sIQ2tfRs0BYox4K3-HpHk11NLA">](https://music.youtube.com/channel/UCAt1TaImefanwmy-Owf3tkQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LQl3uRVihP78oKgnF9wc9KIy2Of4R26eFLH4C_x4TZXTQtHjqvh_ZgX9SqS25rb92oKTylFF6ygP1mMu0Q">](https://music.youtube.com/channel/UCtqhqHGK67suhS7RN2roTAw)
 
-ベリーグッドマン - ファンファーレ (2020 ver.)
+AK-69 - Start It Again
 
-**Albums**: Start Start Start
+**Albums**: The Independent King
 
-Last updated at 08/12/2020 02:20
+Last updated at 08/12/2020 02:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
