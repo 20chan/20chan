@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Han Yo Han - Reset (feat. Lil Boi)
+GIRIBOY - Tiger Den (feat. Jvcki Wai)
 
-**Albums**: Exiv
+**Albums**: Tiger Den
 
-Last updated at 08/11/2020 22:33
+Last updated at 08/11/2020 22:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
