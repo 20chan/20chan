@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OLKQFK2BShisvU_YSZiSCkcupqwEQZn_8RlA6HXLndG8zboLXn6e9s453AZsl7Pr_6vRdqCFJIc3liIT">](https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
 
-Swings & Han Yo Han - Fake Rock Star (feat. NO:EL)
+Leellamarz - TRUE (feat. Beenzino)
 
-**Albums**: Stuck Together
+**Albums**: MARZ 2 AMBITION
 
-Last updated at 08/12/2020 01:02
+Last updated at 08/12/2020 01:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
