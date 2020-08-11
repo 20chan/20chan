@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000592037303-m9i1e9-t120x120.jpg">](https://soundcloud.com/puticall/ji-eun-sunset-city-girl)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000149342142-3ge4w8-t120x120.jpg">](https://soundcloud.com/kendallmilesmusic/her_kendall)
 
-call - Ji-eun sunset city girl
+Kendall Miles - Her (feat. a l e x)
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 15:25
+Last updated at 08/11/2020 15:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
