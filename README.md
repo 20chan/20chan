@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwGUyzlVuoRBSsF7P_WZ2E0CbBSdUbA-cPUskYByT48qFhuBTOkUOQc2xzb1MhWqPZa_XgrHMZWzritk">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HjxNkiBNdEBjHwOXisKLUNme-nTknMDB8E3k1QY3i9GnYFqQH-RtLx6D1AGtj2wFMSh2QXBj7JRUqZ2PEg">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-E SENS - COLD WORLD
+GIRIBOY - EmptyHouse (Prod. By dnss) (feat. THAMA)
 
-**Albums**: 이방인 THE STRANGER
+**Albums**: 3Songs
 
-Last updated at 08/11/2020 21:54
+Last updated at 08/11/2020 21:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
