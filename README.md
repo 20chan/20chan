@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lDY390uWN1dHjm655nd3VpgTO53krx_bNOTImfaEXaujw4irQDlbmOfMPVOuV0_9FBYm52l02HD-tvwwXg">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Han Yo Han - A Corner Seat (feat. BLOO)
+GIRIBOY - Attention Whore (Prod. By GIRIBOY, Johnny) (feat. thama)
 
-**Albums**: Spirit Bomb
+**Albums**: Science Fiction Music : End
 
-Last updated at 08/11/2020 23:04
+Last updated at 08/11/2020 23:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
