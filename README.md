@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Bg2XdwT08DVNriH5MlB5se-ovIsicNSep3eetoK1QwWiek4tJxLBuz93EiRE9EqQD0DFWEOiEsxHUeBL">](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QAgi6VK8m6EaHYG44Q-G48-aWvQCTWcUdkdAXtR4LZX8ubOF7l94Se2qcXQozchiOcQkvsDy47bYU1E">](https://music.youtube.com/channel/UCCUPgHLfyUjv0UbQR426knQ)
 
-IU - Into the I-LAND
+Omoinotake - Stand Alone
 
-**Albums**: I-LAND Part.1 Signal Song
+**Albums**: Stand Alone
 
-Last updated at 08/12/2020 05:43
+Last updated at 08/12/2020 05:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
