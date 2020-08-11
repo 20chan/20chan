@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xp2e1iTDxpidKsW4OdbMnoJcKTeFW-O6K-IqAFaOyGYpdtf3Io2lXyxDFmxqsfr-9q2LbOi_dNu6PqHl">](https://music.youtube.com/channel/UCoNq-kohNtB6l7ChNheqW0g)
 
-Leellamarz & TOIL - GONE
+EPIK HIGH - 노땡큐(No Thanxxx) ft. MINO, SIMON DOMINIC, THE QUIETT
 
-**Albums**: TOYSTORY2
+**Albums**: We've Done Something Wonderful
 
-Last updated at 08/12/2020 01:55
+Last updated at 08/12/2020 01:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
