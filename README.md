@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/S27lTdYA1QI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCPGZyaFaJe0IXRIhVFXatBQ)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000090875546-igglgs-t120x120.jpg">](https://soundcloud.com/jinsangbeats/summers-day-version-2)
 
-PianiCast - 피아니캐스트 - 바다가 보이는 마을(A Town With An Ocean View) - 마녀 배달부 키키 OST | 피아노 커버
+jinsang - summer's day. [v2]
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 14:09
+Last updated at 08/11/2020 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
