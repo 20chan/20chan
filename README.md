@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bePtmMpZZ-zlC897bM7YxhRyJWVn67tfvBZmeW1T1CY8-itxdQ8ceaZLVN1dXIx_IYxsp1ldljwz2hZhDQ">](https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xI-DVBtEmfNFZ9le-QfRmN5xFff-DS59Vcjo8xfROcC64gEB5hNqlfgAfn7W-p-kBopIypAY9l9QrWxHXg">](https://music.youtube.com/channel/UCxVLY7rF47U7lznagLl8zKQ)
 
-C Jamm & BewhY - puzzle
+VASCO - Whoa Ha !
 
-**Albums**: puzzle
+**Albums**: MADMAX
 
-Last updated at 08/12/2020 01:40
+Last updated at 08/12/2020 01:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
