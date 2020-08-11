@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uKVnsF9-ezydp0eCTGaF3CNCsX1W5CTDuAIaTPFSWLoWdnOM9gQ0tAWBhS6w0pZUm5LeNk34jr3vnDg8">](https://music.youtube.com/channel/UCm8UEFhHUgn24DuHRFwa8mw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BEXGSQbyodbcK6dg8fxh3vNuGRWVfPC5k4GKcTjxwaaMpCVZKuuDc6SqHY1av4-QrjvxxIPkDMnzEfpl">](https://music.youtube.com/channel/UC2VEhRxYr6OD5Zn_PhhqH1A)
 
-레디(Reddy) (Reddy) - Ocean View
+MC MONG(MC몽) - Love mash(사랑범벅) (feat.Chancellor of the channels)
 
-**Albums**: Ocean View
+**Albums**: SONG FOR YOU
 
-Last updated at 08/12/2020 07:10
+Last updated at 08/12/2020 07:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
