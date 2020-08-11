@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Mm0Xp05N3j65H3zwbNou1YnaG9hC57NgqznSvI6P9f_FV5SJaWjtBoOS98of6nYOQmyIxbPAcJIk69Jdw">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n2UiLh2AhhVbMxtkkxPSVP1nudH9_5kZQqLUu1XVypIA_fNb1Bf6y7jHYb84Kvc7M5tceo6PpYodMck1YA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Hash Swan - Wang Like Alexander (feat. GRAY)
+HAN YO HAN - Casually (feat. Louie (Geeks))
 
-**Albums**: Alexandrite
+**Albums**: The Blade Dance
 
-Last updated at 08/12/2020 00:31
+Last updated at 08/12/2020 00:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
