@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kezQwtykubRS-2XENms-V9fuUClpaLKfDkUjo-uOAN9Qk0-BKoVnSW1RQt7gqbIc2vsQccx8g6tgvZpO">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xrkHPaZheno-dd9WXB9uSepIzuh03tLLRtXAuhfhs0h-FOFr_gMspUq4VeWomj3OkpvA_-JOrUg0kFyB">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-조광일 - KOREA
+조광일 - Grow back (feat. Brown Tigger)
 
-**Albums**: KOREA
+**Albums**: Grow back
 
-Last updated at 08/11/2020 15:44
+Last updated at 08/11/2020 15:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
