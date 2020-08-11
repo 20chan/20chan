@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">](https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">](https://music.youtube.com/browse/MPREb_Bf34UwjjIBi)
 
-Huckleberry P - One of Them (feat. EK & JUSTHIS)
+Just Music(스윙스, VASCO(바스코), 천재노창, 씨잼) - More(더)
 
-**Albums**: One of Them
+**Albums**: Ripple Effect(파급효과)
 
-Last updated at 08/11/2020 20:09
+Last updated at 08/11/2020 20:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
