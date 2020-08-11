@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fnp6aAGsiGxzqxev1UD0964U4D9Z3s4eT4APw3B-WI4ZerO0TjClSh8arIRSoS8-o4yZqRGoCcDgzkiX">](https://music.youtube.com/channel/UCkop82wxg40aqLNrEFPf-wg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CqsBQp8riim_Wub-geWJv1I8mNc0bdl87MuaHFKjmYNxSrX06VOp_z6DHQ8Vb-YJjnsZ1tO0lYBHieM">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Primary - 멀어 (Feat. BEENZINO) (Too far ) (feat. Beenzino)
+GIRIBOY - Traffic Control (feat. Heize)
 
-**Albums**: Primary and the Messengers Pt.2
+**Albums**: Traffic Control
 
-Last updated at 08/12/2020 04:15
+Last updated at 08/12/2020 04:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
