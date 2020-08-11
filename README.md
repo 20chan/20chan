@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A-46OxtqxGLFYbzbYoy8b5sCGCWj_FFBg-naSeFMVtX-87fHSYTAjC9Y4iLJb2LzZEqUqN_QgM3WBzSb7Q">](https://music.youtube.com/channel/UCCZkbN-eHBtrdRhOKFBGt6w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5HFvTdm0pnSpn9AMmO9peP-tl8slF023tatjKF-3FjFw-LkR4whSYS4ImmInN5-iQu_TYJ2QtqmP_DRX">](https://music.youtube.com/channel/UChcfLfBDmJKgbBLCeVGmIUg)
 
-GARY - gomin
+Woodie Gochild, BIG Naughty, Young B & CHOILB - BADA (feat. giriboy)
 
-**Albums**: gomin
+**Albums**: Show Me the Money 8 Episode 2
 
-Last updated at 08/12/2020 04:50
+Last updated at 08/12/2020 04:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
