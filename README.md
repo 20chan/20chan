@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wq88JQ6_x3dV8POT9HbDmILmn-k3EGq-NgQio7JutyO_supVX_6m-Zcgpeqi_XZF9MtEhETsXMKdG6Gs">](https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B62k4vD5ojsPVEd6My6MjBR-mPxBu-eW3cPKGvOHRz5zm5jliFrjqYO8YjEJt2biBIf5cx_yIpoP8fIT">](https://music.youtube.com/channel/UC2VEhRxYr6OD5Zn_PhhqH1A)
 
-박재범 Jay Park - All Day (Flex) & 염따 YUMDDA) (Prod. By OkayJJack)
+MC MONG - 인기 FAME (feat. Song Ga In & Chancellor)
 
-**Albums**: Nothing Matters
+**Albums**: CHANNEL 8
 
-Last updated at 08/12/2020 03:00
+Last updated at 08/12/2020 03:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
