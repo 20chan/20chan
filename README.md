@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EcYb1sPCsn3atuGcx_WmA1siSVDpH1fdumOcrojlpJHYqzhhPHJMXGfD1m8bLzIbpHfYOO08-eM6JWRT">](https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_2CGX0p0-MhmHS8wixz9oRrzEIrZC_-yPoRgsn03-0OG9Dmu4LOnh0jDYd91g_dy3flOUGiNrO9yBgA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Cjamm - Good Night
+HAN YO HAN - (Bonus Track) Lamborghini 2018
 
-**Albums**: Good Night
+**Albums**: MUSASHI Ⅱ
 
-Last updated at 08/11/2020 20:28
+Last updated at 08/11/2020 20:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
