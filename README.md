@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_2CGX0p0-MhmHS8wixz9oRrzEIrZC_-yPoRgsn03-0OG9Dmu4LOnh0jDYd91g_dy3flOUGiNrO9yBgA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/73Qqazs8LxMqwP5KrqidgPBrn7-Yko5-ZDq7vPnjLKLd32ypgQMVlXTwl46RDNXO-UCmrzujDMBto1CAyg">](https://music.youtube.com/channel/UCunjzcKZBTTQ94UaK6qgGRw)
 
-HAN YO HAN - (Bonus Track) Lamborghini 2018
+Y군 - 얼음처럼
 
-**Albums**: MUSASHI Ⅱ
+**Albums**: 얼음처럼
 
-Last updated at 08/11/2020 20:32
+Last updated at 08/11/2020 20:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
