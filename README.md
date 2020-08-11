@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PBSTJCLmYufhxxH2jZbWxJzFqoN_FCFkxxrZGM5nQDYMTQ57FOK443G5hytK8I6JwWj-yIw9HywswuCzQQ">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUjCncoU4L0PvGiHmOxlBAHMgJLsp6kvHBl5ckQ-3-I7nUoCH-_Ln1pG-e7hwTyG5cinW_1tpUZm3BjIYA">](https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA)
 
-Hash Swan, ASH ISLAND, Keem Hyo Eun & CHANGMO - Bition Boyz
+Swings, Kid Milli & Mad Clown - Not Enough (feat. YUMDDA & pH-1)
 
-**Albums**: Bition Boyz
+**Albums**: Show Me the Money 8 Episode 1
 
-Last updated at 08/12/2020 08:47
+Last updated at 08/12/2020 08:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
