@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dLEpuYur7-DpfINgWrEpVQ-hoc3Xe2rfJaLP497xKD0GiIF15b874PRF1u5OyFPuHYZwxoBZld1afgKA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fnp6aAGsiGxzqxev1UD0964U4D9Z3s4eT4APw3B-WI4ZerO0TjClSh8arIRSoS8-o4yZqRGoCcDgzkiX">](https://music.youtube.com/channel/UCkop82wxg40aqLNrEFPf-wg)
 
-델리스파이스 (DELISPICE) - 고백
+Primary - 멀어 (Feat. BEENZINO) (Too far ) (feat. Beenzino)
 
-**Albums**: Espresso
+**Albums**: Primary and the Messengers Pt.2
 
-Last updated at 08/12/2020 04:10
+Last updated at 08/12/2020 04:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
