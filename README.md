@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EmGLgqE0V5HfQ68bOGzCHjvfghJgTPBiZMoag2CCstBfGe6VnQbXlJ-jAMMYSluxXYMysXIRNpDJq8sL">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ItbvuXJXbV-oSy0mz05uGLLZmaluBdP9uWwKCrGCtnprNzkwM3Q51aTDzdqWJWq84p14oH9nZHzR0Rs">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-Giriboy - Different Look (feat. Crucial Star)
+The Quiett - 시간이 왔나봐 The Time Has Came (feat. Dead' P)
 
-**Albums**: Fetal Album II
+**Albums**: Quiet Storm: A Night Record
 
-Last updated at 08/12/2020 06:51
+Last updated at 08/12/2020 06:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
