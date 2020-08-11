@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PXlUYnxE7KN8Odw_tUxkdNIbBaOIOTwyoVPgtIEN5s6dmDoGc-AYtDbIxxtwOXwQ0RPOxE2TMbsb3s45">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jPGHmJovYvRbJ86alT_AUHIMDWkpmtP3x-YRBvPSyzKjONewH0G5aLqN4Cn2xvGhj_b7HvG0lH9POzAvug">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-Han Yo Han - L'OCCITANE
+GIRIBOY - Its Heavy
 
-**Albums**: Don't Worry
+**Albums**: KGVOVC from wybh vol.1
 
-Last updated at 08/11/2020 16:17
+Last updated at 08/11/2020 16:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
