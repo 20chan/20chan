@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/In5bzZ4Ol3JYM8qgiDaEfuexGMIBNgAdYZdChH8fU18k4yptH5XVedYQqJYUBvfuDT4ulteUjg2kmKkE">](https://music.youtube.com/channel/UCrYvLmsUZN_jlMgtIdkXtng)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NyFJFVf6LpgK6HRebKJfYBmzdVai6IFJuUw2uW3DnOl6ZyzYVItYBKq46AE86HZldnDLrYhG6Zf1m5U">](https://music.youtube.com/channel/UCpzsR9A-mycBKnbj7qLKm5A)
 
-Legit Goons - Trucker
+CRAY-G - Only One
 
-**Albums**: Junk Drunk Love
+**Albums**: Only One
 
-Last updated at 08/12/2020 03:52
+Last updated at 08/12/2020 03:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
