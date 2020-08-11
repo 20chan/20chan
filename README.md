@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Bia6PvwLa4QVlE6X16W_Jgs5NqFp3zO261vyhqQF1Nfq8PURAj7Xq18ZUxTyfNCqTNxg8QGQl-tG2PCn">](https://music.youtube.com/channel/UCOoeYFBb53aE2TvzhOiYv7Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cByk5JvPgjv0J1xXv4-6RsPYxi2WEizzCGPwuOU7OIrFu5QeYr6AzM8K0Y8BeaDl-WnjMHzjdjoW7-U">](https://music.youtube.com/channel/UCqm64m5IPrzOFIHETvcsa0A)
 
-Sweet Sorrow - Dear
+Kim Dong-ryul - Departure(출발) (feat.Hareem(하림))
 
-**Albums**: Sweet Sorrow 3 Viva
+**Albums**: KIMDONGRYUL LIVE 2012 Gratitude(감사) / 2014 Walking With(동행)
 
-Last updated at 08/11/2020 12:07
+Last updated at 08/11/2020 12:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
