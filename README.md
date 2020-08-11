@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ErImkV9z4yXSXw3UK0nMf5BFByAlqrW3QzmZ0tX-1qdOBJS-2AwTQEJHitI3eNeTp758-FckHRIe1GfqgQ">](https://music.youtube.com/channel/UCtG4HsHqMZw5UCxqYk8o2sw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/moxjw6JiWr3yFfu5LvBNpzi20IQzIMV5_MpodBOIrFpfdtQ7wjsS5IBdEyCOJwwVrJulZXl38m8bq2wD">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
 
-Fulminacci - I Nostri Corpi
+우원재 (Woo) - Taste (feat. GIRIBOY)
 
-**Albums**: La Vita Veramente
+**Albums**: Taste
 
-Last updated at 08/12/2020 06:27
+Last updated at 08/12/2020 06:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
