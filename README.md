@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6UVFv2UYkRBaZzALw9c_ZZTH2IyBJX_qMNiarkp3UNoEbjHlarEvEGkyH7dyBS9oxhafD82sAO7_esg">](https://music.youtube.com/channel/UCDG5Gd2xB3sQwVcciOQlnwg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yxPmzmEIX_ngzzbQYT5JeaxO4HaYEmlTGnT42896RnB_yFXrLwfPFu_VvXfUttqp6kmh7--8pV_-zhw">](https://music.youtube.com/channel/UCs-ppjzchrYIj0yPYKfI4bA)
 
-Colde & Zion.T - 헷갈려
+B1A4 - Aerumade
 
-**Albums**: 유플래쉬
+**Albums**: 5
 
-Last updated at 08/12/2020 06:01
+Last updated at 08/12/2020 06:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
