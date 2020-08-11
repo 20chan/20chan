@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dN3AVsshFbHfuq7_RuVzI6Ubq6HkQd5uDUWebM6U_3bD6zgzwCwTBoVZHL8G14383BqcUQ9y6i8nAxw">](https://music.youtube.com/channel/UCrWlSmZq0d2JG5_WOgon_cA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwGUyzlVuoRBSsF7P_WZ2E0CbBSdUbA-cPUskYByT48qFhuBTOkUOQc2xzb1MhWqPZa_XgrHMZWzritk">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
 
-Bassagong - Rainbow 레인보우 [Prod.iDeal] (feat. YDG)
+E SENS - COLD WORLD
 
-**Albums**: Dingo X Bassagong 뱃사공
+**Albums**: 이방인 THE STRANGER
 
-Last updated at 08/11/2020 21:48
+Last updated at 08/11/2020 21:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
