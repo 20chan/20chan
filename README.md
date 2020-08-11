@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WscRCBf0OSyKXamo7oEtxpw8nvcS7ySOQHxF7zdWSwHVORzwjdJ9ePPrNjSwBuITr4d3L4J-w5n1HBE">](https://music.youtube.com/channel/UCkop82wxg40aqLNrEFPf-wg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/A8e9Fge0S0Y0y6VqEOYDIJSt2PC2Ctu2a5i5uKkGBJPT-oidHVMhvRg8AXosOBDFsTMr5tjKDZ185fw">](https://music.youtube.com/channel/UC1yfXDUlpfEncDnLUMekHhQ)
 
-Primary - poison (feat. E-Sens of Supreme Team)
+NELL - 기억을 걷는 시간 (The time of walking on remembrance)
 
-**Albums**: Primary and the Messengers LP
+**Albums**: Separation Anxiety [4th Album Separation Anxiety]
 
-Last updated at 08/12/2020 03:13
+Last updated at 08/12/2020 03:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
