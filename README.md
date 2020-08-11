@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xYae6fkCp-dtyd69njrYn6ko1g4euKRz13JaJoiAt904hzWC1lOqqD2KY08Qczjp29mDu7-uxHvSFfFd">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CsHUwSyS9JtHoO2SZL8l-kK-muIpus3zO0w5dMvg2Vj5WR_tqI5RlPhw45novEzrc51T0TcMWwqrH2FVxA">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-GIRIBOY - Divorce Papers
+The Quiett - U Everything
 
-**Albums**: 2 Little Bites From [Fatal Album Ⅲ]
+**Albums**: Millionaire Poetry
 
-Last updated at 08/12/2020 03:22
+Last updated at 08/12/2020 03:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
