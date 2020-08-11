@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6uRh-PI7s-FQ5vGBfJnmxG6DKG_-xgXJgz2aTRuxsU10gnYbQv6ydHF9Aj9izJBadO6s2-gM2mo5nAdiXA">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VYMHVfstXJBq1zE69KjQMA7TBbOVkk8UTHGzWZK7PjOslUC8OO2ZRwO_au7RlX29TYmXU3I7dxCuS3o">](https://music.youtube.com/channel/UCf0geqeJPwNcxe1i5R-RwWA)
 
-Bryann T - Inside Looking Out
+Big Sam - Trust in You
 
-**Albums**: Red Letters
+**Albums**: Trust in You
 
-Last updated at 08/11/2020 12:41
+Last updated at 08/11/2020 12:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
