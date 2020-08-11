@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">](https://music.youtube.com/browse/MPREb_Bf34UwjjIBi)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aaBHQUg2GbFLmTJk4UltkcuNP6ypwiQWEJr7XXg5W3RQXxxMmENKMDAnyRY7LehRgZysg4KlpjbwxqGL">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Just Music(스윙스, VASCO(바스코), 천재노창, 씨잼) - More(더)
+HAN YO HAN - Green Bicycle
 
-**Albums**: Ripple Effect(파급효과)
+**Albums**: Dragon Bike
 
-Last updated at 08/11/2020 20:14
+Last updated at 08/11/2020 20:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
