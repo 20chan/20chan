@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TaZv7Dnrfs4BHLnYbltLdlNlNxrSqv0j1mf1GzhgA54PSef3Wq0DxSWgL_f3qKJuybAk04rWpuw5F5k">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwGUyzlVuoRBSsF7P_WZ2E0CbBSdUbA-cPUskYByT48qFhuBTOkUOQc2xzb1MhWqPZa_XgrHMZWzritk">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
 
-Beenzino - Up All Night (feat. Mayson The Soul)
+E SENS - CLOCK (FEAT. 김심야 KIM XIMYA)
 
-**Albums**: Up All Night EP
+**Albums**: 이방인 THE STRANGER
 
-Last updated at 08/11/2020 19:36
+Last updated at 08/11/2020 19:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
