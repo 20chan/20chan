@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000149342142-3ge4w8-t120x120.jpg">](https://soundcloud.com/kendallmilesmusic/her_kendall)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000160064187-g1vj9q-t120x120.jpg">](https://soundcloud.com/calebxbelkin/i-fall-in-love-too-easily-1)
 
-Kendall Miles - Her (feat. a l e x)
+Caleb Belkin - I fall in love, too easily
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 15:28
+Last updated at 08/11/2020 15:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
