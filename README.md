@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yxPmzmEIX_ngzzbQYT5JeaxO4HaYEmlTGnT42896RnB_yFXrLwfPFu_VvXfUttqp6kmh7--8pV_-zhw">](https://music.youtube.com/channel/UCs-ppjzchrYIj0yPYKfI4bA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XyS_uLiYNtxx2U3ttlRRdWre5D2B9TpCJv0c3TcfEWRNtxWBw3f2IFV8mOat9ud1JJGKfEAcEAi7sSM1">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
 
-B1A4 - Aerumade
+JUSTHIS, Kid Milli & Swings - Credit
 
-**Albums**: 5
+**Albums**: Credit
 
-Last updated at 08/12/2020 06:04
+Last updated at 08/12/2020 06:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
