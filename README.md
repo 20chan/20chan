@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xI-DVBtEmfNFZ9le-QfRmN5xFff-DS59Vcjo8xfROcC64gEB5hNqlfgAfn7W-p-kBopIypAY9l9QrWxHXg">](https://music.youtube.com/channel/UCxVLY7rF47U7lznagLl8zKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/j841aFz7uXsIuETUTIDqBPZ5Q9tr5N22sRO3wVnOHeju-jGdDLhe_JgjT1zBXMTohfvgx-79x3zZbds">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-VASCO - Whoa Ha !
+기리보이 - 하이에나 HYENA
 
-**Albums**: MADMAX
+**Albums**: 하이에나 OST Part.4 HYENA OST Part.4
 
-Last updated at 08/12/2020 01:45
+Last updated at 08/12/2020 01:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
