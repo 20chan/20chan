@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">](https://music.youtube.com/channel/UCye1kBGko8BG8QCyKjP9QEw)
 
-CHANGMO - wish
+이영지 Lee Young Ji - GO HIGH
 
-**Albums**: Boyhood
+**Albums**: School Rapper3 Final
 
-Last updated at 08/12/2020 07:38
+Last updated at 08/12/2020 07:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
