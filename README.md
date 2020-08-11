@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A8e9Fge0S0Y0y6VqEOYDIJSt2PC2Ctu2a5i5uKkGBJPT-oidHVMhvRg8AXosOBDFsTMr5tjKDZ185fw">](https://music.youtube.com/channel/UC1yfXDUlpfEncDnLUMekHhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xYae6fkCp-dtyd69njrYn6ko1g4euKRz13JaJoiAt904hzWC1lOqqD2KY08Qczjp29mDu7-uxHvSFfFd">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-NELL - 기억을 걷는 시간 (The time of walking on remembrance)
+GIRIBOY - Divorce Papers
 
-**Albums**: Separation Anxiety [4th Album Separation Anxiety]
+**Albums**: 2 Little Bites From [Fatal Album Ⅲ]
 
-Last updated at 08/12/2020 03:17
+Last updated at 08/12/2020 03:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
