@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000090875546-igglgs-t120x120.jpg">](https://soundcloud.com/jinsangbeats/summers-day-version-2)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000131749232-kuxqvn-t120x120.jpg">](https://soundcloud.com/nymano/solitude)
 
-jinsang - summer's day. [v2]
+nymano - solitude
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 14:39
+Last updated at 08/11/2020 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
