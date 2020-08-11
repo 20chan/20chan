@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/erPkpg4qaUlKX7PY2gc_vkgwDY3YAuIQQOrdBkpGyrQKu97ns9KsOV9AM6A-bzUOqwHmery3h1Vzjef7">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cecRHXqraZQl9d3GXWNFheyyuZY9E1EFJJA2T_3ECJd9At_QWl6mlSW0tCPZToi6bKqQifCvaVm3JhU">](https://music.youtube.com/channel/UCEpbkEUFdETT6qYvD4QMN3w)
 
-Beenzino - Blurry feat. DBO (prod by. PEEJAY) (feat. DBO)
+비프리(B-Free) (B-Free) - My Team (feat. Paloalto, Keith Ape, Huckleberry P & Okasian)
 
-**Albums**: Blurry (Prod. By PEEJAY)
+**Albums**: My Team
 
-Last updated at 08/11/2020 20:44
+Last updated at 08/11/2020 20:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
