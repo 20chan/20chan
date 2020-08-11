@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BEXGSQbyodbcK6dg8fxh3vNuGRWVfPC5k4GKcTjxwaaMpCVZKuuDc6SqHY1av4-QrjvxxIPkDMnzEfpl">](https://music.youtube.com/channel/UC2VEhRxYr6OD5Zn_PhhqH1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EA3OxN9nacCCCjtl6RGUYa1-OTVfJMf0KZLdqG7QNx7-3qkFyq-mHIHX3IHQ9G3TD-sjTkC8Kd6gWVWFnw">](https://music.youtube.com/channel/UCa5b_7ImijW-GNEt4hNUzWg)
 
-MC MONG(MC몽) - Love mash(사랑범벅) (feat.Chancellor of the channels)
+백예린 (Yerin Baek) - Square (2017)
 
-**Albums**: SONG FOR YOU
+**Albums**: Every letter I sent you.
 
-Last updated at 08/12/2020 07:13
+Last updated at 08/12/2020 07:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
