@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-GIRIBOY - Tiger Den (feat. Jvcki Wai)
+CHANGMO - WE UP (feat. Okasian & Uneducated Kid)
 
-**Albums**: Tiger Den
+**Albums**: Boyhood
 
-Last updated at 08/11/2020 16:27
+Last updated at 08/11/2020 16:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
