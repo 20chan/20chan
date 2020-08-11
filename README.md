@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pe8J5WHUvluI423uoYI3Ai-RQtxHmDCQD6UKxPWRVyekToOE5tireiEuQ-4mPgaUPgx7Eo9JCDhLwIU">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-조광일 & Brown Tigger - Two Harsh Carls
+CHANGMO - METEOR
 
-**Albums**: Two Harsh Carls
+**Albums**: Boyhood
 
-Last updated at 08/11/2020 15:50
+Last updated at 08/11/2020 15:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
