@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_BfU9eZFMI8SKhg9YNRLeQWAST6AzlD1j5luRWIwOVyynvt0OU2FAxDgSHe-2M0e0dTqcS7uYfiXj68z">](https://music.youtube.com/channel/UCcjuNZ-OgaF1xFHI2npHJsw)
 
-Beenzino - Boogie On & On
+행주 Hangzoo - Red Sun (feat. ZICO & Swings)
 
-**Albums**: 24: 26 (5th Anniversary Remaster Edition)
+**Albums**: Show Me the Money 6 Episode 4
 
-Last updated at 08/12/2020 01:10
+Last updated at 08/12/2020 01:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
