@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4iUCJfR_OAmv0Sm-RaNIcu8AHLjuP_C1owdQzyn4b_2bu0TCJAF2BaBO59C6zlCBBU0F1VBNTWtjNSXZ">](https://music.youtube.com/channel/UCx38UtcmU6vJ7IF1J6epxdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nnHCUCCYXNEOl3AwV4YI7i7yqxYIEn1Y9nXYWfcvi92OxaIVQNvwkz2fTgLN0-1L3_ia0gwKeTGikDg6ig">](https://music.youtube.com/channel/UCx38UtcmU6vJ7IF1J6epxdA)
 
-ADOY - Grace
+ADOY - Lemon
 
-**Albums**: CATNIP
+**Albums**: Vivid
 
-Last updated at 08/11/2020 16:57
+Last updated at 08/11/2020 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
