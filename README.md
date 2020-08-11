@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XyS_uLiYNtxx2U3ttlRRdWre5D2B9TpCJv0c3TcfEWRNtxWBw3f2IFV8mOat9ud1JJGKfEAcEAi7sSM1">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SVMhF7tn1KsFPTCiCKEt4Lh65HZnkZt7ZULGKY7Sa2bKIzDHMRlHQC_7OL4KFADjcjry7XD34Hm9-Xy9ww">](https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g)
 
-JUSTHIS, Kid Milli & Swings - Credit
+pH-1, Kid Milli & Loopy - Good Day (feat. Paloalto)
 
-**Albums**: Credit
+**Albums**: Show Me the Money 777 (Episode 1)
 
-Last updated at 08/12/2020 06:07
+Last updated at 08/12/2020 06:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
