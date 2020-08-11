@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FaKIHENRx2hFkL8gIRyI36bX07g_kw4ks9nSz8oTyXP_TNyuxXux07eVFE03rm3FCi0_EjUiBMV1V6k">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
 
-GIRIBOY - Sooljalee
+Leellamarz - AMBITION (feat. ASH ISLAND, KEEM HYO-EUN, Hash Swan & CHANGMO)
 
-**Albums**: Sooljalee
+**Albums**: MARZ 2 AMBITION
 
-Last updated at 08/11/2020 16:44
+Last updated at 08/11/2020 16:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
