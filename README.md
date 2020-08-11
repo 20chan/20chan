@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nnHCUCCYXNEOl3AwV4YI7i7yqxYIEn1Y9nXYWfcvi92OxaIVQNvwkz2fTgLN0-1L3_ia0gwKeTGikDg6ig">](https://music.youtube.com/channel/UCx38UtcmU6vJ7IF1J6epxdA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kezQwtykubRS-2XENms-V9fuUClpaLKfDkUjo-uOAN9Qk0-BKoVnSW1RQt7gqbIc2vsQccx8g6tgvZpO">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-ADOY - Someday
+조광일 - KOREA
 
-**Albums**: Vivid
+**Albums**: KOREA
 
-Last updated at 08/11/2020 17:26
+Last updated at 08/11/2020 18:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
