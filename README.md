@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Foctrr-Tbi1sujxJA-woShSUbnysDMgPWCcI1Dx8Um5_CBa1CLNHMMKti9eRM1-gHqK42TT3LWP0CvYg">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GbcfcBe2jH71hwl_-erqevODt2lHnC7tYepEAWAxyXdkoo7jfze8yRJPFE1sZIR9Ocnpah9cTaD6S6QU4w">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
 
-서영은 - 혼자가 아닌 나
+Jang Beom June - Spring Rain
 
-**Albums**: 서영은 4집(Gift)
+**Albums**: Jang Beom June 2nd Album
 
-Last updated at 08/10/2020 19:11
+Last updated at 08/11/2020 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
