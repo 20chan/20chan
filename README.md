@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XAYtmYDUhTHP8OYsTCWcAP7Lc5ONv1s4wIciqhVIVm-fEmvvpdCv7ArLnGQ0ImXd77j-WW1WabCQsiAytA">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-GIRIBOY - I'm Sick (feat. Lil tachi, C Jamm, Kim Seungmin & NO:EL)
+Han Yo Han - Villain Out (feat. Gary)
 
-**Albums**: 100 Years College Course
+**Albums**: Exiv
 
-Last updated at 08/11/2020 23:14
+Last updated at 08/11/2020 23:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
