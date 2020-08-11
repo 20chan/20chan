@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZWhY50xgNYuYTCOXkqeOVdvPtqgph0e0vnUv8ymcmpmxAbdBrhvenQdCbsIJAh0iSWr-89JWB9QDtp4">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/erPkpg4qaUlKX7PY2gc_vkgwDY3YAuIQQOrdBkpGyrQKu97ns9KsOV9AM6A-bzUOqwHmery3h1Vzjef7">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
 
-다이나믹 듀오 Dynamic Duo - YAYOUHWEI (feat. ZICO)
+Beenzino - Blurry feat. DBO (prod by. PEEJAY) (feat. DBO)
 
-**Albums**: GRAND CARNIVAL
+**Albums**: Blurry (Prod. By PEEJAY)
 
-Last updated at 08/11/2020 20:39
+Last updated at 08/11/2020 20:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
