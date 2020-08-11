@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xPH_XtwM56XKOwhLPRjJOZeyCmd_lI1TbJrNp3asrqMxZj9hYxzp0uGcGvSunhQy_b7zytOw5JSnlChe">](https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pg4XMQDQmIFgjHtM-pADE5URrjIoTsjEZbtnt1rVeVe0beRBZD4cCKUQkVCNI6RaOFd1dmNesIW6R9g">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
 
-C Jamm - Know
+E SENS - Tick Tock (feat. Kim Ximya)
 
-**Albums**: Know
+**Albums**: The Anecdote
 
-Last updated at 08/11/2020 19:44
+Last updated at 08/11/2020 19:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
