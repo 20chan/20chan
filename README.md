@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Han Yo Han - Day Off (feat. Ahn byeong woong)
+Nochang - CHING CHANG CHONG
 
-**Albums**: Spirit Bomb
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 08/11/2020 22:27
+Last updated at 08/11/2020 22:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
