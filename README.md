@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4AdOV7nmJu8NUWF_sNO6I2VBwWPmLlQ7vmQSH1sf9-ZfDQQKUv86aMMJc2OKpHbtveC0nbi-nxJR1I">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Beenzino - I'll Be Back
+Nochang - All Day (feat. Tablo)
 
-**Albums**: 24: 26 (5th Anniversary Remaster Edition)
+**Albums**: All Day
 
-Last updated at 08/11/2020 19:58
+Last updated at 08/11/2020 20:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
