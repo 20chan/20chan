@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000194092015-a3dme8-t120x120.jpg">](https://soundcloud.com/flayvors/ameba-flavors-hues)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000156865742-xpgduy-t120x120.jpg">](https://soundcloud.com/akashh_495/my-neighbor-totoro-path-of-the-wind-aekasora-chillhop-remix)
 
-flavors - ameba & flavors- tangerine hues
+aekasora - My Neighbor Totoro - Path Of The Wind (aekasora Chillhop Remix)
 
 **Albums**: undefined
 
-Last updated at 08/11/2020 15:18
+Last updated at 08/11/2020 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
