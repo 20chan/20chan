@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
 
-창모 (CHANGMO) - Selfmade Orange (feat. SUPERBEE)
+Woo - We Are (feat. Loco & GRAY)
 
-**Albums**: Dnsg
+**Albums**: We Are
 
-Last updated at 08/12/2020 02:09
+Last updated at 08/12/2020 02:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
