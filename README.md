@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xrkHPaZheno-dd9WXB9uSepIzuh03tLLRtXAuhfhs0h-FOFr_gMspUq4VeWomj3OkpvA_-JOrUg0kFyB">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-조광일 - Acrobat 곡예사
+조광일 - Grow back (feat. Brown Tigger)
 
-**Albums**: Acrobat 곡예사
+**Albums**: Grow back
 
-Last updated at 08/11/2020 18:29
+Last updated at 08/11/2020 18:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
