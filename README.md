@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VYMHVfstXJBq1zE69KjQMA7TBbOVkk8UTHGzWZK7PjOslUC8OO2ZRwO_au7RlX29TYmXU3I7dxCuS3o">](https://music.youtube.com/channel/UCf0geqeJPwNcxe1i5R-RwWA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tCpbAWj3U1SSJmtlR29vksdYMAu-X_9o7JBsCQ3vM1_lSnaYZXN2DykdDiz35MsOcdEX8X7JG6tp9HA">](https://music.youtube.com/channel/UCIX7_O0JnQ7BMHx_OQpVojQ)
 
-Big Sam - Trust in You
+Bryann T - God's Eyes on Me
 
-**Albums**: Trust in You
+**Albums**: Carry-On
 
-Last updated at 08/11/2020 12:44
+Last updated at 08/11/2020 12:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
