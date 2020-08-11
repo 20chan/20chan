@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2FkpgrRHAXDTQpPg9P_6uHihBa3gogz3BA2L2sbQ1S_ssCOmz9XpR6-4_ZTYI3wGLWLpbFgCXODy7okR">](https://music.youtube.com/channel/UCwd5_re23yrWXn_etIjjAlg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fMm1R9-l2oJSLzClBfwy9yTxKD0tJPZQ7oKGvNOBMYNkcrs5HUo-yU5D1XXRc-ckqZqMXbCeyJMsOYRwVQ">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-Beenzino - If I Die Tomorrow
+HAN YO HAN - Super Saiyan (feat. Black Nut)
 
-**Albums**: 24: 26 (5th Anniversary Remaster Edition)
+**Albums**: MUSASHI
 
-Last updated at 08/11/2020 19:30
+Last updated at 08/11/2020 19:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
