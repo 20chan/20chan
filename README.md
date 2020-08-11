@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AIr_2l-TAXUta2jeOKrNKC7Y6gFk5-NZtu6Dtq8xS3zxLqTBY58JZAJgC_Gch3sV0yZzXyeyCtAHZvDe">](https://music.youtube.com/channel/UCrWlSmZq0d2JG5_WOgon_cA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">](https://music.youtube.com/channel/UCWi6YRODdoeuEF5J7crTknQ)
 
-Bassagong - Giraffe 기린 [Prod.chilly] (feat. Take#1)
+빈지노 Beenzino - 젖고있어 So Wet
 
-**Albums**: Giraffe 기린
+**Albums**: 12
 
-Last updated at 08/11/2020 21:08
+Last updated at 08/11/2020 21:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
