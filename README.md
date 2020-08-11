@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kGQy9Js9nr8YziWSUdzLmLtSrJ6sFrhbFZk69fQToKSbJcUAvUZDBpqA5wgo8knC640VLBtI0i5BHavN">](https://music.youtube.com/channel/UC_VCwVJk7p9Hnle_7QS8xGQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Mm0Xp05N3j65H3zwbNou1YnaG9hC57NgqznSvI6P9f_FV5SJaWjtBoOS98of6nYOQmyIxbPAcJIk69Jdw">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-Ginger - Zonder Jou
+Hash Swan - Pass By
 
-**Albums**: Zonder Jou
+**Albums**: Alexandrite
 
-Last updated at 08/12/2020 07:57
+Last updated at 08/12/2020 08:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
