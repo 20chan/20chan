@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fJQ-xGHkUDjbk1JScw1MrHEOflw6QnM7tRepbSiRdLhFyXVgVAjpRncbNi1LQzn4UhrT4AcZHbGiPU4">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-장범준 Beom June Jang - Your Shampoo Scent In The Flowers
+Han Yo Han - Oasis
 
-**Albums**: Be Melodramatic (Original Television Soundtrack), Pt. 3
+**Albums**: Exiv
 
-Last updated at 08/12/2020 00:20
+Last updated at 08/12/2020 00:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
