@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zgMUBhJrrK-CUX3nMKbQKLdXBIYMjdOgLOjRb-0RE1RnTomyhGfX0H8hQ7lwR3m10eTs5llZO9kt_9g">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7dhZf4xqy4qqJOix4uucd4lpMBKWwofQJKY60Q3kOr3Fr9vvQnUCaXmT4oZ1jjcY700yh-ZCT0qHsdTj">](https://music.youtube.com/browse/MPREb_0ALPFS7dUOb)
 
-Kid Milli - Hiphop = money (feat. BRADYSTREET)
+징고 Zingo - 날 사랑하지 마요
 
-**Albums**: L I F E
+**Albums**: Zingo
 
-Last updated at 08/12/2020 09:45
+Last updated at 08/12/2020 09:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
