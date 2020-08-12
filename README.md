@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4SsLfKuQ3K8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoX6xakcaZLO526yc8WyQDw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/k5PDoyMGbHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzl3Tmv2-5n37_phOVQSfiQ)
 
-ZZ Ward - Sex & Stardust
+Alexander Jean - Roses and Violets (Acoustic)
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 12:17
+Last updated at 08/12/2020 12:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
