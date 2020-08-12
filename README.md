@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qeMRGiFSFC-w5qIAHrbnxuqs6_jrPj9PBXkjQQIMzMTO7UhBu_Df03yIuOS0F2QOn22FUwVXgj37ScY">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qeMRGiFSFC-w5qIAHrbnxuqs6_jrPj9PBXkjQQIMzMTO7UhBu_Df03yIuOS0F2QOn22FUwVXgj37ScY">](https://music.youtube.com/channel/UCn6FYFhIQLgA7qVKHuhKrZw)
 
-Goretexx, GIRIBOY, Black Nut & BILL STAX - Umm Umm
+Black Nut, GIRIBOY, Genius Nochang & Swings - Spoil You
 
 **Albums**: We Effect
 
-Last updated at 08/12/2020 11:04
+Last updated at 08/12/2020 11:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
