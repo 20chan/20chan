@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JOsBKOSbPETX9NFCCiu91nZWJ6GfBmaMpkkiWLhowwqUv5_pUi-1QqzyRUZuhfFQm7PuIcR5GdInCRDV">](https://music.youtube.com/channel/UCzlzcqX-BrJoXfAEc8qTRNw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pU3C03zClvL5oU47eiiK7o3z8QAqjICXJhDnhLmxByfuhvxn7es3SNKjUnCtugT0YNTzpbVgMB6ztUVJ">](https://music.youtube.com/channel/UC6O9zk3Qb-oHo6NtCfMbxXw)
 
-Pale Young Gentlemen - Clap Your Hands
+Autoheart - My Hallelujah
 
-**Albums**: Pale Young Gentlemen
+**Albums**: My Hallelujah
 
-Last updated at 08/12/2020 14:40
+Last updated at 08/12/2020 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
