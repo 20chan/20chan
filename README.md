@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/trpIqalKiETtptNAqYcLZKjqKE8JygCqxd6kQO8BgnsIbQrb-_sYW62M5SMnPTcGDZ2bYwnl27rkFOg">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qeMRGiFSFC-w5qIAHrbnxuqs6_jrPj9PBXkjQQIMzMTO7UhBu_Df03yIuOS0F2QOn22FUwVXgj37ScY">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
 
-Nochang(천재노창), Junggigo(정기고), Vasco(바스코) - Hieut(히읗) (feat. NO.MERCY)
+Goretexx, Black Nut, BILL STAX & C Jamm - The Cartel
 
-**Albums**: NO.MERCY(노머시) Part.5
+**Albums**: We Effect
 
-Last updated at 08/12/2020 10:54
+Last updated at 08/12/2020 10:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
