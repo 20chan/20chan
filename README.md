@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ce7d0ULt_4EmL42EF5UlNMNbWgbzxoQbjQV_35Cd88V7aPdOH8MfuRCtzWQm63g9_VbGbUWj8GOrBK4Z">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/y0p-yrBY7y7nB_mUSIQiqSf19rfGIEpTUybnTq5SDj-pOiM4JPpP_tcTRhkJOmzA1nOfnum8zKTIq6n4">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
 
-Orange Caramel - Shanghai Romance(샹하이 로맨스 (上海之戀))
+Orange Caramel - LIPSTICK
 
-**Albums**: Shanghai Romance
+**Albums**: LIPSTICK
 
-Last updated at 08/12/2020 11:41
+Last updated at 08/12/2020 11:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
