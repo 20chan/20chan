@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ODlguBHHrS3nQYe__TrZj6cpdd6Iz-zYM3gAYN5EvFLwpmmH3UzkWd76_Q909h-KpPHS1gbXMYhTYtn_">](https://music.youtube.com/channel/UCm8UEFhHUgn24DuHRFwa8mw)
 
-SUPERBEE - Selfmade Orange 2 (feat. CHANGMO & Paul Blanco)
+Reddy - Stand by You (Junseok Remix)
 
-**Albums**: Rap Legend 2
+**Albums**: Stand by You Remixes
 
-Last updated at 08/12/2020 08:55
+Last updated at 08/12/2020 09:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
