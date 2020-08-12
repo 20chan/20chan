@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/kQevK_bUV9g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOfnV4T9BSY77TGIfrveiEw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-hLukjxH95I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoX6xakcaZLO526yc8WyQDw)
 
-Lissie - Don't You Give up on Me
+ZZ Ward - ZZ Ward - Charlie Ain't Home ft. Ali Shaheed Muhammad
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 12:52
+Last updated at 08/12/2020 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
