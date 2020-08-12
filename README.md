@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/T_MrlKd00gvc51SvQ03ixItOlTpzKu5jSBsFqgTS8g0Z8GtEUJjnVQWIGs_MaxmGIzalGhi9BJwRz7LO4A">](https://music.youtube.com/channel/UCK8xKov3rStdaIJ1HhgtGKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dq2Uj8QwuzAL1J9Bz-jF_VKsYIXpr7eNZCuRRTGZwmXI_vnjtPrxzAjOKue7ET6qFurNqM9W9WdMeVg">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
 
-NO:EL - Heel (feat. LOCO)
+BLOO - Take me (feat. nafla)
 
-**Albums**: ELLEONOEL
+**Albums**: BLOO IN WONDERLAND
 
-Last updated at 08/12/2020 09:15
+Last updated at 08/12/2020 09:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
