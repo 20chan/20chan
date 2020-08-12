@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FDKdCv4901IVUKvvR_z5blfeC4Xp4rpc05Frm8WfFo9noMm9WR4vLk1qKHyGNGz0c8gdthE9BHXSpUpRvA">](https://music.youtube.com/channel/UCgU1YwYNIpruNyQEtnb0j8g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iTqFzzygYb5B01Jw3RqAXnlG2vk5XhAAohimjAh4WrYRyjWQhP7GJD2zW1TJQ2KWWSbZKNbNfPq4Twk">](https://music.youtube.com/channel/UCMcghb8JhNIYntWea9QKFGA)
 
-Steam Powered Giraffe - Honeybee
+The Lumineers - Where The Skies Are Blue
 
-**Albums**: The 2¢ Show
+**Albums**: Cleopatra (Deluxe)
 
-Last updated at 08/12/2020 14:50
+Last updated at 08/12/2020 14:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
