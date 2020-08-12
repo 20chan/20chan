@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bjRseYSl5vNxminuxriDu-5mgreX8LzFn3EXI7bcYi5uuienTR_ULVJvBtDdX5siM-XdpKEL6napVCs">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xbHlXWnC1Bw2p8vDGyhUBAo2g7EXVrBYtkJIEXElXQoI5xAinaoLvBEhALOl8APfwvA8JeRPrsUzXKF_">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
 
-Orange Caramel - A-ing♡(아잉♡)
+Orange Caramel - Abing Abing
 
-**Albums**: A-ing♡
+**Albums**: Abing abing
 
-Last updated at 08/12/2020 11:49
+Last updated at 08/12/2020 11:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
