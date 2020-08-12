@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EmGLgqE0V5HfQ68bOGzCHjvfghJgTPBiZMoag2CCstBfGe6VnQbXlJ-jAMMYSluxXYMysXIRNpDJq8sL">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/50DYxtVuXuAUwTuN9Vbbvh8gbF5TzTXTkqw4Nwg9VMNEpxXE4vhywbT6_oE96imRQtLrJ99H4EwqmJEz">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-Giriboy - Tik Tok (fall ver.)
+Hash Swan - Airplane Mode (feat. Leellamarz)
 
-**Albums**: Fetal Album II
+**Albums**: Peridot
 
-Last updated at 08/12/2020 09:25
+Last updated at 08/12/2020 09:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
