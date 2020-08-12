@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/y0p-yrBY7y7nB_mUSIQiqSf19rfGIEpTUybnTq5SDj-pOiM4JPpP_tcTRhkJOmzA1nOfnum8zKTIq6n4">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bjRseYSl5vNxminuxriDu-5mgreX8LzFn3EXI7bcYi5uuienTR_ULVJvBtDdX5siM-XdpKEL6napVCs">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
 
-Orange Caramel - LIPSTICK
+Orange Caramel - A-ing♡(아잉♡)
 
-**Albums**: LIPSTICK
+**Albums**: A-ing♡
 
-Last updated at 08/12/2020 11:45
+Last updated at 08/12/2020 11:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
