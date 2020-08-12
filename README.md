@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hBD-o3Od_s0KQ_YHe-IO4_P8n1IuVdzT9uvov9IoSrcdNswQFXrLWg71gJUGJb7TsU7JiKuJuFvLGZ10">](https://music.youtube.com/channel/UCp7rIi-WZHZ3Y0aNlAiVCbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8lGGAaal6nr4F2aJMDfjkAVsXK5qz1ODRYGwluXc-uofeEg-LnKQEY7VpF7CmjLVrRo0Gh5T7amI8YNZ">](https://music.youtube.com/channel/UCZxwihQYwXEogN-DGfngwcw)
 
-Gabriel Royal - Remember Us
+The Mountain Goats - Clemency for the Wizard King
 
-**Albums**: Gabriel Royal
+**Albums**: In League with Dragons
 
-Last updated at 08/12/2020 14:08
+Last updated at 08/12/2020 14:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
