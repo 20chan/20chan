@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K5w1Q1_fdzXRCjXnM3YwQWdoBbtzHez9nZJaDKzyAYevAg3kz_Ac-mpIm4UwLYk1NVxAlLMgoBknBq4z">](https://music.youtube.com/channel/UCA3Zs9A2IeetfGT3Omi9ivw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v9M2DtKmy59dW2qMEh_2FqcOCFC_19PgP4bNCpOCOW44AkpDpT5MVeG0N_EDdt-6XlkAiU8mFoBLuXUD">](https://music.youtube.com/channel/UCUvG6FzG4U6wJOTiXcFOFjA)
 
-Hozier - Nobody
+Dirt Poor Robins - We Forgot We Were Human
 
-**Albums**: Wasteland, Baby!
+**Albums**: The Raven Locks Act 1
 
-Last updated at 08/12/2020 14:22
+Last updated at 08/12/2020 14:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
