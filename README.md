@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B62k4vD5ojsPVEd6My6MjBR-mPxBu-eW3cPKGvOHRz5zm5jliFrjqYO8YjEJt2biBIf5cx_yIpoP8fIT">](https://music.youtube.com/channel/UC2VEhRxYr6OD5Zn_PhhqH1A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CIXUclmJeNM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzl3Tmv2-5n37_phOVQSfiQ)
 
-MC MONG - 인기 FAME (feat. Song Ga In & Chancellor)
+Alexander Jean - Nevermind
 
-**Albums**: CHANNEL 8
+**Albums**: undefined
 
-Last updated at 08/12/2020 12:01
+Last updated at 08/12/2020 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
