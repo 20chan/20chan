@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/tAIrcshufUA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8Gjcp5gFUT8tawQaD219Mg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kQevK_bUV9g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOfnV4T9BSY77TGIfrveiEw)
 
-Delta Rae - Run
+Lissie - Don't You Give up on Me
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 12:49
+Last updated at 08/12/2020 12:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
