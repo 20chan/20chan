@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/oIpQ72HDOAc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoX6xakcaZLO526yc8WyQDw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-6qkXMKmzAs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCDMBe4-bcE1M-j6IRidmOPQ)
 
-ZZ Ward - Bag of Bones
+Joydrop - Beautiful
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 12:38
+Last updated at 08/12/2020 12:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
