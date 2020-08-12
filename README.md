@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JDUt778ovDk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCiDc80uyW8IQsEQgsmO4Tug)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4SsLfKuQ3K8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoX6xakcaZLO526yc8WyQDw)
 
-Mitch King - Coming Back
+ZZ Ward - Sex & Stardust
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 12:12
+Last updated at 08/12/2020 12:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
