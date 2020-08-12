@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/lNxzFPTA1y4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCPNFnikPQBGx0ovvjtEd0hg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9gSV9o7bohM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe7hR1AkJ4x2KfTk9LpnzKw)
 
-Jay Brannan - Housewife
+Shred Kelly - Jupiter (any Other Way)
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 13:13
+Last updated at 08/12/2020 13:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
