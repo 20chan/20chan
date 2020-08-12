@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/DWpl2CaCnVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8-dO0yqwg_YyTwxYbh_Kgw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ICQXo55DDMk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxKmpRHAorfB3s2hNz1GaPQ)
 
-Girl's Day - Girl's Day(걸스데이) '반짝반짝' Official MV
+Ketchup-slayer - 사랑을 주세요 - 타이푼 [개구리 중사 케로로 2기 엔딩곡] Full Ver.
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 11:31
+Last updated at 08/12/2020 11:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
