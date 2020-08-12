@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dq2Uj8QwuzAL1J9Bz-jF_VKsYIXpr7eNZCuRRTGZwmXI_vnjtPrxzAjOKue7ET6qFurNqM9W9WdMeVg">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
 
-BLOO - Take me (feat. nafla)
+ASH ISLAND - Q Mark (feat. EK & Hash Swan)
 
-**Albums**: BLOO IN WONDERLAND
+**Albums**: ASH
 
-Last updated at 08/12/2020 09:18
+Last updated at 08/12/2020 09:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
