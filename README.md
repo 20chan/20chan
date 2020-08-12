@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8lGGAaal6nr4F2aJMDfjkAVsXK5qz1ODRYGwluXc-uofeEg-LnKQEY7VpF7CmjLVrRo0Gh5T7amI8YNZ">](https://music.youtube.com/channel/UCZxwihQYwXEogN-DGfngwcw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cLA1Co8QWbhsQPP9BzsrosHWRJ7OyhWLo5FvFXFgz74t5LOWHl7zjU-p-1Tz4Ul85LLgny4WqO6DaVLPWQ">](https://music.youtube.com/channel/UC7JlXAEJPpTUT6x1_E7ijrg)
 
-The Mountain Goats - Clemency for the Wizard King
+Saint Motel - Happy Accidents
 
-**Albums**: In League with Dragons
+**Albums**: saintmotelevision
 
-Last updated at 08/12/2020 14:11
+Last updated at 08/12/2020 14:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
