@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LuV1kYhjbfwvzaFojNBCb_IFdSg8GJEQfgeMER3Df4Lyos1snLirSIT870IcE2RyF9crVBQt8bw2VCBX">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RC0Krk-4KlE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsNChlwrxAvEnfOQCSRA1tA)
 
-Nochang - Ecnadance 1
+Shannon Gwiyomi - Orange Caramel(오렌지캬라멜) - Magic Girl(마법소녀) Color Coded Lyrics [Han/Rom/Eng]
 
-**Albums**: Ajoohcmoohc
+**Albums**: undefined
 
-Last updated at 08/12/2020 11:20
+Last updated at 08/12/2020 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
