@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/D-4Qd2BRd9F25cgI3yt85iRqonhW-9jTcsE6tXoSRLxmUIpHEMb617C03UxSF1OfZXePJx6Hevg-EHEc">](https://music.youtube.com/channel/UCnEkIGqtGcQMLk73Kp-Q5LQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JOsBKOSbPETX9NFCCiu91nZWJ6GfBmaMpkkiWLhowwqUv5_pUi-1QqzyRUZuhfFQm7PuIcR5GdInCRDV">](https://music.youtube.com/channel/UCzlzcqX-BrJoXfAEc8qTRNw)
 
-Matt Maeson - Legacy
+Pale Young Gentlemen - Clap Your Hands
 
-**Albums**: Bank On The Funeral
+**Albums**: Pale Young Gentlemen
 
-Last updated at 08/12/2020 14:37
+Last updated at 08/12/2020 14:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
