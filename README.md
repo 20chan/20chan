@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iTqFzzygYb5B01Jw3RqAXnlG2vk5XhAAohimjAh4WrYRyjWQhP7GJD2zW1TJQ2KWWSbZKNbNfPq4Twk">](https://music.youtube.com/channel/UCMcghb8JhNIYntWea9QKFGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVSmUpo88cd0mw7HWldRp_UBpdV4mGyQg6Dlfot-BgkvbdCJq4XFrpccXoajJC1naXFOUCr_PmKr-_SI">](https://music.youtube.com/channel/UCxcelUjL7OrIaR6_UnZv9TQ)
 
-The Lumineers - Where The Skies Are Blue
+Darren Korb - Vagrant Song
 
-**Albums**: Cleopatra (Deluxe)
+**Albums**: Pyre (Original Soundtrack)
 
-Last updated at 08/12/2020 14:55
+Last updated at 08/12/2020 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
