@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Nochang - God(행)
+Nochang - CHING CHANG CHONG
 
 **Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 08/12/2020 10:39
+Last updated at 08/12/2020 10:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
