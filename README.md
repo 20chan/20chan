@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pU3C03zClvL5oU47eiiK7o3z8QAqjICXJhDnhLmxByfuhvxn7es3SNKjUnCtugT0YNTzpbVgMB6ztUVJ">](https://music.youtube.com/channel/UC6O9zk3Qb-oHo6NtCfMbxXw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DzA6tmNob8ptuM2y_WhO0Xi52qG0yBQcQdgGISavD5215JEjbwgdLXJ7LzhDtDvpXD8gFyb02XIjv2OL">](https://music.youtube.com/channel/UCA3Zs9A2IeetfGT3Omi9ivw)
 
-Autoheart - My Hallelujah
+Hozier - Like Real People Do
 
-**Albums**: My Hallelujah
+**Albums**: Hozier (Special Edition)
 
-Last updated at 08/12/2020 14:43
+Last updated at 08/12/2020 14:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
