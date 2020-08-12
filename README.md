@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1CRmLpxeYRwkXlk78TlrJ4kiSBaI8pk4NmIIdCefEZuspIvmSCj2NZDnWHiqw0DgA4FTh9gC3qUIWrs">](https://music.youtube.com/channel/UCCCpqFMJafXJp57JNh1psiA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IrWECvEUMTszkZ3wVIVux3Pd1y09ZzlV4P6iC3TJIIpBlZ71ljYIsCywMekHNhK_GxOoNFzUmG-9aCK9">](https://music.youtube.com/channel/UC5VCJhyZM1tVz7IC2Uzdg8w)
 
-Hippo Campus - Think It Over
+Timber Timbre - Run From Me
 
-**Albums**: Bambi
+**Albums**: Hot Dreams
 
-Last updated at 08/12/2020 14:30
+Last updated at 08/12/2020 14:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
