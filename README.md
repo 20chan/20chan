@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-GIRIBOY, Kid Milli, NO:EL & Swings - flex (Prod. By GIRIBOY)
+The Quiett - Han gang gang (Megamix)
 
-**Albums**: Dingo X Indigo Music
+**Albums**: Han gang gang (Megamix)
 
-Last updated at 08/12/2020 09:05
+Last updated at 08/12/2020 09:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
