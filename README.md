@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A-nlTGFpbdtDQOkE1cy1dzWcqbz6cMB9t55dstt4kzhObtU2TMS1iS_Y8jYmM6rvkiAPm42XNWXhTqeqFQ">](https://music.youtube.com/channel/UCI5OIwx9z32Zurb8t4Umzwg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B62k4vD5ojsPVEd6My6MjBR-mPxBu-eW3cPKGvOHRz5zm5jliFrjqYO8YjEJt2biBIf5cx_yIpoP8fIT">](https://music.youtube.com/channel/UC2VEhRxYr6OD5Zn_PhhqH1A)
 
-BIGBANG - Love Song
+MC MONG - 인기 FAME (feat. Song Ga In & Chancellor)
 
-**Albums**: BIGBANG Special Edition
+**Albums**: CHANNEL 8
 
-Last updated at 08/12/2020 11:58
+Last updated at 08/12/2020 12:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
