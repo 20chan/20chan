@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DzA6tmNob8ptuM2y_WhO0Xi52qG0yBQcQdgGISavD5215JEjbwgdLXJ7LzhDtDvpXD8gFyb02XIjv2OL">](https://music.youtube.com/channel/UCA3Zs9A2IeetfGT3Omi9ivw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FDKdCv4901IVUKvvR_z5blfeC4Xp4rpc05Frm8WfFo9noMm9WR4vLk1qKHyGNGz0c8gdthE9BHXSpUpRvA">](https://music.youtube.com/channel/UCgU1YwYNIpruNyQEtnb0j8g)
 
-Hozier - Like Real People Do
+Steam Powered Giraffe - Honeybee
 
-**Albums**: Hozier (Special Edition)
+**Albums**: The 2¢ Show
 
-Last updated at 08/12/2020 14:47
+Last updated at 08/12/2020 14:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
