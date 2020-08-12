@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-hLukjxH95I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoX6xakcaZLO526yc8WyQDw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4SsLfKuQ3K8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoX6xakcaZLO526yc8WyQDw)
 
-ZZ Ward - ZZ Ward - Charlie Ain't Home ft. Ali Shaheed Muhammad
+ZZ Ward - Sex & Stardust
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 12:57
+Last updated at 08/12/2020 13:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
