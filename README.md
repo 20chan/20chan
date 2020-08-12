@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EmGLgqE0V5HfQ68bOGzCHjvfghJgTPBiZMoag2CCstBfGe6VnQbXlJ-jAMMYSluxXYMysXIRNpDJq8sL">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-ASH ISLAND - Q Mark (feat. EK & Hash Swan)
+Giriboy - Tik Tok (fall ver.)
 
-**Albums**: ASH
+**Albums**: Fetal Album II
 
-Last updated at 08/12/2020 09:21
+Last updated at 08/12/2020 09:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
