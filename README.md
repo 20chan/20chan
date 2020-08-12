@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IrWECvEUMTszkZ3wVIVux3Pd1y09ZzlV4P6iC3TJIIpBlZ71ljYIsCywMekHNhK_GxOoNFzUmG-9aCK9">](https://music.youtube.com/channel/UC5VCJhyZM1tVz7IC2Uzdg8w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/D-4Qd2BRd9F25cgI3yt85iRqonhW-9jTcsE6tXoSRLxmUIpHEMb617C03UxSF1OfZXePJx6Hevg-EHEc">](https://music.youtube.com/channel/UCnEkIGqtGcQMLk73Kp-Q5LQ)
 
-Timber Timbre - Run From Me
+Matt Maeson - Legacy
 
-**Albums**: Hot Dreams
+**Albums**: Bank On The Funeral
 
-Last updated at 08/12/2020 14:33
+Last updated at 08/12/2020 14:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
