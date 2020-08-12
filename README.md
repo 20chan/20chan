@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ajgIr0VEn89hFu7jc07qnOeTb5l2PCGZnZ4efQ06NW4P9DmrlFa1FKyQ8B4wiUjqfbfDwkLryU4mJ7Cm">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-ASH ISLAND - Empty Head
+GIRIBOY, Kid Milli, NO:EL & Swings - flex (Prod. By GIRIBOY)
 
-**Albums**: Empty Head
+**Albums**: Dingo X Indigo Music
 
-Last updated at 08/12/2020 09:02
+Last updated at 08/12/2020 09:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
