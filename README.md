@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7dhZf4xqy4qqJOix4uucd4lpMBKWwofQJKY60Q3kOr3Fr9vvQnUCaXmT4oZ1jjcY700yh-ZCT0qHsdTj">](https://music.youtube.com/browse/MPREb_0ALPFS7dUOb)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9YFoZ8bQtTdX1P0H3e-tHskonaO5Alwc7qW9Q5hPUkFhO69g98mv5IbjW-zggs2QowoOgDAS7OdAq_E">](https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA)
 
-징고 Zingo - 날 사랑하지 마요
+루피 (Loopy) - Save (feat. Paloalto)
 
-**Albums**: Zingo
+**Albums**: Show Me the Money 777 Episode 3
 
-Last updated at 08/12/2020 09:48
+Last updated at 08/12/2020 09:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
