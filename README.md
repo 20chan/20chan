@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/rXSs130Oo6s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfzxdvRc4RzUyYeQiIyHASQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lNxzFPTA1y4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCPNFnikPQBGx0ovvjtEd0hg)
 
-Bob Schneider - Lake Michigan
+Jay Brannan - Housewife
 
 **Albums**: undefined
 
-Last updated at 08/12/2020 13:11
+Last updated at 08/12/2020 13:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
