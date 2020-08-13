@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vokax9q1uiMlf3DUUySpIxavsodPrha4RiulYHNXx9rbMuq5NkA373YRhIHbVQF5YfVRfySz0516a_-x">](https://music.youtube.com/channel/UCjDVgI216nsZCPQ6Dxz5cqA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9F0dXmEZP1i7pD5VT6JheVqlPZS1MQP--STkADki8jauvXQCdahn6diIpDVtvZP3bwIg6hV5AgZswrey">](https://music.youtube.com/channel/UCSnmJ-fZYk2BasikStbwCwQ)
 
-방미 - 올가을엔 사랑할꺼야
+Yoon Si Nae - Old Tree
 
-**Albums**: 방미 골든 히트곡(이별은 아니야/주저하지 말아요)
+**Albums**: Yoon Si Nae 3rd Album (Diva Forever(My Life… My Story…))
 
-Last updated at 08/13/2020 11:45
+Last updated at 08/13/2020 11:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
