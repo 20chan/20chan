@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/idXQD22BjxkpisY_fIFdjOMjTd9KQV53UoHtZX_z8bG4YfPCP58P9Lqb7_uVrJ0b4hIMKDf9NuXxh1A">](https://music.youtube.com/browse/MPREb_EAGhNZ8qlo1)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q40HyKRR1ZGYrjNgmep9qhRUpuvUW-yDQGzMmf-eJCS3qnzylYlec2GXYBfw66oIXcRVCI8apqDGLvhrOw">](https://music.youtube.com/channel/UCn2DXuUW74HffzbXqMFk34A)
 
-자전거 탄 풍경 - 너에게 난, 나에게 넌
+혜은이 - 열정
 
-**Albums**: 1집 자전거 탄 풍경
+**Albums**: 골든 힛트송 퍼레이드
 
-Last updated at 08/13/2020 12:52
+Last updated at 08/13/2020 12:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
