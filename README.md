@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
 
-My Chemical Romance - Welcome to the Black Parade
+Paul Kim - Traffic Light
 
-**Albums**: The Black Parade
+**Albums**: Traffic Light
 
-Last updated at 08/13/2020 19:43
+Last updated at 08/13/2020 19:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
