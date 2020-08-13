@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-짙은 - 백야
+The Cross - 백설공주를 사랑한 난장이
 
-**Albums**: 백야 - EP
+**Albums**: Rush
 
-Last updated at 08/13/2020 18:46
+Last updated at 08/13/2020 18:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
