@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1QZBtYYChHZx-Yww5krXlWGsrUURGOI1gSEiM3LrbfO8Mx5Ew49IK5DFIku73wNEwvHaqOr1p2kQtqHjQQ">](https://music.youtube.com/channel/UCTMY_B5uWtWlqucZVFXC3ng)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TaOHRQg1BrgA2W4K_X2VY8RM7wNPV6-sc9D84vqQc6tqWT17Y2PojDOoKo6cv8oyawHTCRgxn1sEumi0">](https://music.youtube.com/channel/UClk7cQRXORdpcUV9fHDrS9A)
 
-백미현 - 난 바람 넌 눈물
+최진희 - 사랑의 미로
 
-**Albums**: 회상 7080(그대의 젊은날을 기억하며)
+**Albums**: 70,80 포크 발라드 카페명작 3,4집
 
-Last updated at 08/13/2020 12:02
+Last updated at 08/13/2020 12:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
