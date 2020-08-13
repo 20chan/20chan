@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AQrehECHg2yRxN3U1RKhHksrcaY3GeC6-Vv8vr9hh2FDPhDgcVsRag_hfvuHdN0rxSfcJiQrV1vjAfA">](https://music.youtube.com/channel/UCl6-24cszKqIYLkBzo02XzQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uuZE_IRwLNI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6VwktUsQQDCkHG1h6YftAQ)
 
-Lukas Graham - Love Someone
+Justin Timberlake - Mirrors
 
-**Albums**: 3 (The Purple Album)
+**Albums**: undefined
 
-Last updated at 08/13/2020 19:52
+Last updated at 08/13/2020 19:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
