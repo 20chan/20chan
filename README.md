@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W30d5TTOUK89--gXIZZM7leiNhKA_YsArEXHCdUzrJl5hYeKtPkmGC-V6biDPwiQLA8CZACz5WlVfPHN">](https://music.youtube.com/channel/UC959d12wXE5b5K7quFdRnVQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AQrehECHg2yRxN3U1RKhHksrcaY3GeC6-Vv8vr9hh2FDPhDgcVsRag_hfvuHdN0rxSfcJiQrV1vjAfA">](https://music.youtube.com/channel/UCl6-24cszKqIYLkBzo02XzQ)
 
-Paul Kim - Traffic Light
+Lukas Graham - Love Someone
 
-**Albums**: Traffic Light
+**Albums**: 3 (The Purple Album)
 
-Last updated at 08/13/2020 19:48
+Last updated at 08/13/2020 19:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
