@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0WhXaxQPZKyZE5413sXeuI4HQAXm7pz9JvPRIup4DzHJDMhszwVbmAJp1_dcyFdeN7BeOM0vQ1jwHX8j">](https://music.youtube.com/channel/UCzVeyTyDkvACk5yimlydIvQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZidIyqpp5wFyUJoRzsQ8mO84E7ic1cbKkrttpAw1wWFNyqKsxCaXrzHMO1MZyhS85YpdiLLOjnqnUXcXbQ">](https://music.youtube.com/channel/UCTPBE4JPSQz3WW1PZ5ENATg)
 
-박선주 - 귀로
+Lee Sun Hee - 나 항상 그대를
 
-**Albums**: 강변가요제 & 대학가요제 Best of best - 강변가요제
+**Albums**: 이선희 골든
 
-Last updated at 08/13/2020 11:09
+Last updated at 08/13/2020 11:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
