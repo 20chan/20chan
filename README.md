@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3SueB6wVEIzjor070EjtmJtyI9JTraX75vpcInrp_TLgNeBf3nsAIlVaST8FDZLtQc75AHNPyOb3kLeg">](https://music.youtube.com/channel/UCHCWD4PNqYN4iV8hNM8gG8A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dWBuktM9was9qvpLzozrrfk5HPC9tQhDvmJQv-uBOqHqR1Z1zaKWCDEfozQtGD_PqGGymg_lbnd8U6ITBg">](https://music.youtube.com/channel/UCmL-4sm0Ams0tONo5RCgb8g)
 
-나이트오프 Night Off - Sleep 잠
+Florina - Va va vis
 
-**Albums**: The Last Night 마지막 밤
+**Albums**: Va va vis
 
-Last updated at 08/13/2020 18:03
+Last updated at 08/13/2020 18:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
