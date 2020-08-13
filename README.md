@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/RC0Krk-4KlE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsNChlwrxAvEnfOQCSRA1tA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jxxoq7uqnbU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
 
-Shannon Gwiyomi - Orange Caramel(오렌지캬라멜) - Magic Girl(마법소녀) Color Coded Lyrics [Han/Rom/Eng]
+Orange Caramel - Shanghai Romance
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 10:45
+Last updated at 08/13/2020 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
