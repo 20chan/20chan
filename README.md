@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WoPvdpr69KsbQveo2MSZAm-CM3mNj2fYxoeJaKtmTtoqrhTqhdN1mjxp-N9WhGQ7wlJobG1rBzKNceM">](https://music.youtube.com/channel/UC9yfwE17kAbue4DtYlDeLpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iJpN4erBIkC5COrEMMcJjVd5JSWvg7unv42ShdEty6Dhi5ERegELS31P784lQZ_bo-wyRh0zR3esycaK">](https://music.youtube.com/channel/UCKCkXpxiR5aeLLCFT5zzzLw)
 
-Min Hae Kyung - One Girl's Love Story
+이미키 - 먼지가 되어(RADIO EDIT)
 
-**Albums**: Min Hae Kyung (Rose & Best)
+**Albums**: 이미키(Miki Lee) - 32nd Anniversary
 
-Last updated at 08/13/2020 11:32
+Last updated at 08/13/2020 11:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
