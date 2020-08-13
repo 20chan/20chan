@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZkGdtMrdMfozA7TntFuzIsC0iEf1_q0U3gFhZ0PTgCvEPd3N-pgijROapKrirJCN-GnuTeWwC3lsx9zTQw">](https://music.youtube.com/channel/UCMc0XdmjW3Z8BvWelbp9nww)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CCTnmGrAgt7_K0U6NmBsKNH8BBjOD7ezapFab96WmGGvSPX2jQA8aom1l3TO1pDmBVLgMp6gu7-1mGuBqQ">](https://music.youtube.com/channel/UCE1GxC20CwQK-T7Fsl_XKsQ)
 
-박명수 - 바다의 왕자 (Prince of the sea)
+Bank - I Can't Have You
 
-**Albums**: Dr. Park
+**Albums**: Gift
 
-Last updated at 08/13/2020 12:31
+Last updated at 08/13/2020 12:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
