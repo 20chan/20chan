@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/FDYJzsIlV4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxp1-v6TgE5XQFPDX5z6E8g)
 
-Conan Gray - Maniac
+Magictwinzleeplay - [AUDIO] 컨츄리꼬꼬 - Gimme! Gimme!
 
-**Albums**: Kid Krow
+**Albums**: undefined
 
-Last updated at 08/13/2020 19:07
+Last updated at 08/13/2020 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
