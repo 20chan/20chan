@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/C-dvTjK_07c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCILuIcqzJMtkxCmftNVjNBQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/NdYWuo9OFAw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCjOkbXu7vYeeQrA7R3-OfXQ)
 
-Usher - DJ Got Us Fallin' In Love
+Goo Goo Dolls - Iris
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 14:36
+Last updated at 08/13/2020 14:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
