@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OCgMadEejAf1WqP_i5H82cDSEJ_oyuLfIcxeTXih6QzC9KMB_3QRKG_qEyhPXDjVZ5BtvGb9Lo0pmeRR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
 
-pops8090 - 김정민 - 애인·愛人 (1996年)
+더 크로스 - 난장이가 쏘아올린 작은 공
 
-**Albums**: undefined
+**Albums**: Melody Quus
 
-Last updated at 08/13/2020 18:58
+Last updated at 08/13/2020 19:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
