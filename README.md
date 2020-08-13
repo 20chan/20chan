@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/CJ0djllyqwY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCn8HautpfHcctdk1v0_7Bww)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hvSxnAypJ2yHHukX3FT6BVr0x4TnZuKUlLJBerNY5hq0pTgqcscwlWnpgTFfF07hY9CVf_bZWTPdJyCTAA">](https://music.youtube.com/channel/UCtyGQw0sGamFxf199_GmcuA)
 
-T-ARA - Lovey-Dovey
+나미 - 슬픈 인연 Original Version
 
-**Albums**: undefined
+**Albums**: A Long Winter
 
-Last updated at 08/13/2020 10:59
+Last updated at 08/13/2020 11:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
