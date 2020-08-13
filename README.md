@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ZBovcIKD8ls/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/U3JkRKbeC20/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCMpr3n_MFdPE780mKcVbLyw)
 
-Stephen - Stray Nights
+Maya Official - MAYA(마야) - 서시
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 18:25
+Last updated at 08/13/2020 18:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
