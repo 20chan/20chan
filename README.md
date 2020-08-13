@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HnI_jVzE05eHyl13wN5itKblpLCid4m_Rp2OmCzUvMV6XegIzUeS8LmCPli_KFtem75oppFaUGz-UgPZfw">](https://music.youtube.com/channel/UCn2DXuUW74HffzbXqMFk34A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZkGdtMrdMfozA7TntFuzIsC0iEf1_q0U3gFhZ0PTgCvEPd3N-pgijROapKrirJCN-GnuTeWwC3lsx9zTQw">](https://music.youtube.com/channel/UCMc0XdmjW3Z8BvWelbp9nww)
 
-Hyeeunyi - I Love Only You
+박명수 - 바다의 왕자 (Prince of the sea)
 
-**Albums**: Hyeeunyi Golden Album (You wouldn&apos;t know/The third Han river bridge)
+**Albums**: Dr. Park
 
-Last updated at 08/13/2020 12:26
+Last updated at 08/13/2020 12:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
