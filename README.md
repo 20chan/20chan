@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5dkpk1gmaDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyfrr4gGevRfLcd7J5dnG2w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XEjLoHdbVeE/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCuubAXN9AYgtcmSrD0frggQ)
 
-Bad Boys Blue - You're a Woman
+ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) - Video Edit
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 15:01
+Last updated at 08/13/2020 15:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
