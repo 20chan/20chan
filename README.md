@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p47fEXGabaY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2rtpKv9X9pfwCuaEt9wsrQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fPO76Jlnz6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC48nZNzBVu13HPwJ3upxQnQ)
 
-Ricky Martin - Livin' la Vida Loca
+Coolio - Gangsta's Paradise (feat. L.V.)
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 14:43
+Last updated at 08/13/2020 14:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
