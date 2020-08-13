@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtzwLew9W3Igam672B19Vp7Kotr_tjTSkEY4L4DNjAvIkfLOxs34jYaAUJ3cCd5SUIzHwJfPyDIlHl_N">](https://music.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/iiVCJGAX2W0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-BLACKPINK - How You Like That
+Trap Nation - Philter - Revolver (Linko Remix)
 
-**Albums**: How You Like That
+**Albums**: undefined
 
-Last updated at 08/13/2020 17:57
+Last updated at 08/13/2020 18:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
