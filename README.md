@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wc2cR5DAiJmOT3XFiNciHIPJwEsYRScmv-xpq6Yq5zVfin8C6oBwaKCAAGiXrQJK_vMLRwKPIFlEryM">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
 
-Crying Nut - 밤이 깊었네 Oh! What a Shiny Night
+자두 (The Jadu) - 김밥 (Gimbap)
 
-**Albums**: Poor Hand Love Song
+**Albums**: 자두 3집 - The Jadu 3
 
-Last updated at 08/13/2020 17:18
+Last updated at 08/13/2020 17:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
