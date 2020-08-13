@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hvSxnAypJ2yHHukX3FT6BVr0x4TnZuKUlLJBerNY5hq0pTgqcscwlWnpgTFfF07hY9CVf_bZWTPdJyCTAA">](https://music.youtube.com/channel/UCtyGQw0sGamFxf199_GmcuA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JXxfsENmIPPfWsNigLbKUbTysVH3TRNaL4byHY0h5XJV_su3f2FmN-PuTelmWvX9cLUuNuBajgxr7Xf8">](https://music.youtube.com/channel/UCrKDRPLLKgU-GEtBBtIDRtA)
 
-나미 - 슬픈 인연 Original Version
+Won Junhee - Love is like a glass (feat. 최명섭)
 
-**Albums**: A Long Winter
+**Albums**: 원준희(사랑은 유리같은 것)
 
-Last updated at 08/13/2020 11:01
+Last updated at 08/13/2020 11:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
