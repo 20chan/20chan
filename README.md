@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l1awhWXYsklDIBIbs3dH2z_F9nym4f53x2S_NKS7L1dxejXIJTpm3rz6Ysz2gfxKnmunubRg_OhM1ac">](https://music.youtube.com/channel/UCAZhncaD-NlP4POlR-WjhGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HnI_jVzE05eHyl13wN5itKblpLCid4m_Rp2OmCzUvMV6XegIzUeS8LmCPli_KFtem75oppFaUGz-UgPZfw">](https://music.youtube.com/channel/UCn2DXuUW74HffzbXqMFk34A)
 
-정수라 - 난 너에게
+Hyeeunyi - I Love Only You
 
-**Albums**: 그시절 그노래 31집
+**Albums**: Hyeeunyi Golden Album (You wouldn&apos;t know/The third Han river bridge)
 
-Last updated at 08/13/2020 12:21
+Last updated at 08/13/2020 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
