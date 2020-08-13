@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/g_wL4NiuJE85U1ve-zVmY4lxHVeZ-57yT2gCqFOizJMqqzk9Qj9aLbW6t-jPcodbw_WbA9-W00BsNJ1d">](https://music.youtube.com/channel/UCVeotkf78jEm6Hjhp5pdnkg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UfVcWghzFMboO9Fp9wxisn5tn4qkG7b_x6co8p2Be1RXwp3LijwFlzeVyqq3D3d2HhiEhLC0QsId2QQ2">](https://music.youtube.com/channel/UC0hmSIclmQPYr7egFGCYgVw)
 
-남궁옥분 - 재회
+Lee Jiyeon - It was pain for me
 
-**Albums**: 남궁옥분 스타앨범21
+**Albums**: Ever since then
 
-Last updated at 08/13/2020 12:08
+Last updated at 08/13/2020 12:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
