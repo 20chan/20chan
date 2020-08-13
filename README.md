@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZidIyqpp5wFyUJoRzsQ8mO84E7ic1cbKkrttpAw1wWFNyqKsxCaXrzHMO1MZyhS85YpdiLLOjnqnUXcXbQ">](https://music.youtube.com/channel/UCTPBE4JPSQz3WW1PZ5ENATg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jLoX8rJOBL4LVXZq6O9CJOfnsqcYU_2_4mqNwPs5v8ZkNawkttS5YK_qwjke-bUuiotQxjbGxUuChNoG">](https://music.youtube.com/channel/UCoysf-mmb6qalfsYdhuZbXw)
 
-Lee Sun Hee - 나 항상 그대를
+Im Soojung - Story of couples
 
-**Albums**: 이선희 골든
+**Albums**: Love You
 
-Last updated at 08/13/2020 11:13
+Last updated at 08/13/2020 11:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
