@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Nj2U6rhnucI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
 
-Alan Walker - All Falls Down (feat. Noah Cyrus, Digital Farm Animals & Juliander)
+Dua Lipa - Break My Heart
 
-**Albums**: Different World
+**Albums**: undefined
 
-Last updated at 08/13/2020 19:34
+Last updated at 08/13/2020 19:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
