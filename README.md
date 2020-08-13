@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ARRUucD_SCw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFUMI05jgO_O88Px8qfCQeQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Tribal Trap - BL3R - Friends & Family
+pops8090 - 김정민 - 애인·愛人 (1996年)
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 17:30
+Last updated at 08/13/2020 17:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
