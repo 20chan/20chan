@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HaY_qZkFRvkaZzVfGl9tbhwM9xtn1GcJTxQ1LoYHcgLMOj9GcAxYUmaPUmefc0zhf-Os3vRN33metC-k">](https://music.youtube.com/channel/UCKBJ2L2Szj2XaZeChTSzGrQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eIGJdFhwpSkfXuC9NF2EtbObtJNno299cxhqL5Ru7ajlEXwKa9vJuApzhV7r2kKXdC6Fk4JcCTfD54U">](https://music.youtube.com/channel/UCcZ9No71pKWWEcgsKcypHwg)
 
-Lee Eun Ha - Like the Smile Saying Goodbye to Me
+Jang Hye Ri - I'll Give You All My Love
 
-**Albums**: The Golden Best of Lee Eun Ha
+**Albums**: Jang Hye Ri 3rd Album (I'll Give You All My Love/Buried Story)
 
-Last updated at 08/13/2020 11:25
+Last updated at 08/13/2020 11:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
