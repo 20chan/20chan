@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtg7-Ng8pTT0xCE0fXQm-DXtYdg6bRWO67vUsUtE0Ov0f7AaEBwcj9uOJGDaMTOUGBUHykrXS_Hd7nmX">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UCIanP7HQ-W6CwT_Vas4Fa2XWE_Uxx3V-f_myKFc5bX1FhbXtNEM84rrFUWzUwjxk3yEaRtArMUvb3bVEw">](https://music.youtube.com/channel/UCYn3oeyYbbHkm5j3Z6Jx5qA)
 
-Cool - 진실
+Suraj Jagan & Sharman Joshi - Give Me Some Sunshine
 
-**Albums**: Cool Best
+**Albums**: 3 Idiots
 
-Last updated at 08/13/2020 20:52
+Last updated at 08/13/2020 20:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
