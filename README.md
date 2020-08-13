@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/r00ikilDxW4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-Bebe Rexha - I'm a Mess
+Green Day - 21 Guns
 
-**Albums**: Expectations
+**Albums**: undefined
 
-Last updated at 08/13/2020 16:21
+Last updated at 08/13/2020 16:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
