@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/GpSsQGaGIw0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GpSsQGaGIw0)
 
-JuJu Club - 公主後遺症
+Kim Hyeon-jeong - 혼자한 사랑
 
-**Albums**: 16／20
+**Albums**: undefined
 
-Last updated at 08/13/2020 15:55
+Last updated at 08/13/2020 15:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
