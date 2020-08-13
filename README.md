@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hDp8XT99W-EWgwcv9MNyIhZjEQ9W5CPcZsAdlFDlnNUcp5KLhUWrG3-4DrZmZj_rHh2HqmK2bMMxxeODhQ">](https://music.youtube.com/browse/MPREb_rykYhToG0o6)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HaY_qZkFRvkaZzVfGl9tbhwM9xtn1GcJTxQ1LoYHcgLMOj9GcAxYUmaPUmefc0zhf-Os3vRN33metC-k">](https://music.youtube.com/channel/UCKBJ2L2Szj2XaZeChTSzGrQ)
 
-양수경 & Yang Soo Kyung - 당신은 어디 있나요
+Lee Eun Ha - Like the Smile Saying Goodbye to Me
 
-**Albums**: 양수경 베스트 | Yang Soo Kyung Best
+**Albums**: The Golden Best of Lee Eun Ha
 
-Last updated at 08/13/2020 11:21
+Last updated at 08/13/2020 11:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
