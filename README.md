@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/jluGhxUwEdc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/channel/UC527A_XB_c7XftocVOIVNeA)
 
-10cm - [Cover] 아로하 (원곡 - 쿨)
+My Chemical Romance - Welcome to the Black Parade
 
-**Albums**: undefined
+**Albums**: The Black Parade
 
-Last updated at 08/13/2020 19:41
+Last updated at 08/13/2020 19:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
