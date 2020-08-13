@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-pops8090 - 김정민 - 애인·愛人 (1996年)
+짙은 - 백야
 
-**Albums**: undefined
+**Albums**: 백야 - EP
 
-Last updated at 08/13/2020 17:35
+Last updated at 08/13/2020 17:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
