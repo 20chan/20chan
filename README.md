@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TaOHRQg1BrgA2W4K_X2VY8RM7wNPV6-sc9D84vqQc6tqWT17Y2PojDOoKo6cv8oyawHTCRgxn1sEumi0">](https://music.youtube.com/channel/UClk7cQRXORdpcUV9fHDrS9A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/g_wL4NiuJE85U1ve-zVmY4lxHVeZ-57yT2gCqFOizJMqqzk9Qj9aLbW6t-jPcodbw_WbA9-W00BsNJ1d">](https://music.youtube.com/channel/UCVeotkf78jEm6Hjhp5pdnkg)
 
-최진희 - 사랑의 미로
+남궁옥분 - 재회
 
-**Albums**: 70,80 포크 발라드 카페명작 3,4집
+**Albums**: 남궁옥분 스타앨범21
 
-Last updated at 08/13/2020 12:05
+Last updated at 08/13/2020 12:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
