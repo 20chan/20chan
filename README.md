@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eIGJdFhwpSkfXuC9NF2EtbObtJNno299cxhqL5Ru7ajlEXwKa9vJuApzhV7r2kKXdC6Fk4JcCTfD54U">](https://music.youtube.com/channel/UCcZ9No71pKWWEcgsKcypHwg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WoPvdpr69KsbQveo2MSZAm-CM3mNj2fYxoeJaKtmTtoqrhTqhdN1mjxp-N9WhGQ7wlJobG1rBzKNceM">](https://music.youtube.com/channel/UC9yfwE17kAbue4DtYlDeLpg)
 
-Jang Hye Ri - I'll Give You All My Love
+Min Hae Kyung - One Girl's Love Story
 
-**Albums**: Jang Hye Ri 3rd Album (I'll Give You All My Love/Buried Story)
+**Albums**: Min Hae Kyung (Rose & Best)
 
-Last updated at 08/13/2020 11:28
+Last updated at 08/13/2020 11:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
