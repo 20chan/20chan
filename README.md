@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i6p3prYi_IGrQtJv4yryScT-3RkiQaRQoGprjS3uq2JqtwUl-RaWZchGIybB6OjnpKyZd5SjCkL76dI">](https://music.youtube.com/channel/UC6IUhrLnYGhrktga3Zh7BjQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gpG9QRV9gTk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe5SlSvnHTsnmBBXoFYXXGg)
 
-Kim Feel - Someday, The Boy
+KALEO - I Can't Go on Without You
 
-**Albums**: ITAEWON CLASS (Original Television Soundtrack) Pt. 6
+**Albums**: undefined
 
-Last updated at 08/13/2020 16:07
+Last updated at 08/13/2020 16:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
