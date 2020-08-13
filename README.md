@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwR8jr3rqrANnex4aLDG1askb5jay1vSRmKpPneHx_Dvr0N9-xhlMbTXFsU2b2sPtBJ-50ss9oL4uyZF">](https://music.youtube.com/channel/UCoEdj_6p3v5aBp8WqrJ0zIg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtzwLew9W3Igam672B19Vp7Kotr_tjTSkEY4L4DNjAvIkfLOxs34jYaAUJ3cCd5SUIzHwJfPyDIlHl_N">](https://music.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg)
 
-Wengie - Deja Vu
+BLACKPINK - How You Like That
 
-**Albums**: Deja Vu
+**Albums**: How You Like That
 
-Last updated at 08/13/2020 17:53
+Last updated at 08/13/2020 17:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
