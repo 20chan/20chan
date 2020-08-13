@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xHpX9HBzAszwqyQ_jD8TbsPxT7VjcbaQD1F8a8KzRYhc9iDtoZh82W9x93at3QPa43kiwrvKC12evxo">](https://music.youtube.com/channel/UCzl3Tmv2-5n37_phOVQSfiQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
 
-Alexander Jean - Whiskey and Morphine
+SURL (설) - Dry Flower
 
-**Albums**: Head High
+**Albums**: I Know
 
-Last updated at 08/13/2020 20:28
+Last updated at 08/13/2020 20:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
