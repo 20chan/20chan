@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/l1_cDipA620/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCqFY7sm9isBYsSsof9z6_Vg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0dkXaItUiyA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
 
-Rick and Morty, Jemaine Clement, & Ryan Elder - Goodbye Moonmen
+le prince - 유리상자 - 아름다운 세상
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 17:07
+Last updated at 08/13/2020 17:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
