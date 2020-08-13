@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UCIanP7HQ-W6CwT_Vas4Fa2XWE_Uxx3V-f_myKFc5bX1FhbXtNEM84rrFUWzUwjxk3yEaRtArMUvb3bVEw">](https://music.youtube.com/channel/UCYn3oeyYbbHkm5j3Z6Jx5qA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xkg25KwCqeUkhAXSzBP_SJslX9GkkNXRZJEh7B6BE5j33HIr87qyCmV0b9b76krLHuW650DIYaaTMMpW">](https://music.youtube.com/channel/UCYiBYNKBZY3OtdRSENzz8BA)
 
-Suraj Jagan & Sharman Joshi - Give Me Some Sunshine
+Space A - Maturity
 
-**Albums**: 3 Idiots
+**Albums**: Space A 2nd(Power Bit Techno Space A)
 
-Last updated at 08/13/2020 20:55
+Last updated at 08/13/2020 20:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
