@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lwGLtxPwboM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMpr3n_MFdPE780mKcVbLyw)
 
-The Cross - 백설공주를 사랑한 난장이
+Maya Official - MAYA(마야) - 그 흔한 반지도 뮤직비디오 Official M/V
 
-**Albums**: Rush
+**Albums**: undefined
 
-Last updated at 08/13/2020 18:40
+Last updated at 08/13/2020 18:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
