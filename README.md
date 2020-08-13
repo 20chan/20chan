@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/p5vuNBjZcNhXCl5NX47KWwY_uLxQpHbz6iwR3aGlA8qcKj085r0SFGk0HGlA591EBvVnrd8pN3qv-TqPHg">](https://music.youtube.com/channel/UCAZhncaD-NlP4POlR-WjhGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1QZBtYYChHZx-Yww5krXlWGsrUURGOI1gSEiM3LrbfO8Mx5Ew49IK5DFIku73wNEwvHaqOr1p2kQtqHjQQ">](https://music.youtube.com/channel/UCTMY_B5uWtWlqucZVFXC3ng)
 
-정수라 - 환희
+백미현 - 난 바람 넌 눈물
 
-**Albums**: Jung Su Ra 35th Anniversary Edition
+**Albums**: 회상 7080(그대의 젊은날을 기억하며)
 
-Last updated at 08/13/2020 11:57
+Last updated at 08/13/2020 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
