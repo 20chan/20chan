@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8WqEp8nbgPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrBP154FanZWf4D8oItOZyQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2kaDZdEdKfVdFZgmJaWbYLFIIxhRZmVxCzl8pZTHzBzTkyZj9GjtIYifh8qfRBTEtUx-U540uQtaR8pA9Q">](https://music.youtube.com/channel/UC_Plcc9JrHvJKfqePUm8vnQ)
 
-Ailee - Evening Sky
+Cher Lloyd - None Of My Business
 
-**Albums**: undefined
+**Albums**: None Of My Business
 
-Last updated at 08/13/2020 15:40
+Last updated at 08/13/2020 15:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
