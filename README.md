@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/rQqwG_rQx7A/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCbnwEjKmWKfhRpvaen5oQHg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6Ejga4kJUts/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCE5eDJ9T05bGzDvJ5QYsdJQ)
 
-Magiskekulen - The pointer sisters - I'm so excited
+The Cranberries - Zombie
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 20:17
+Last updated at 08/13/2020 20:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
