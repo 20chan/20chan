@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Ahif51hqeA8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5twWbB8RtkiZ0JkoTSMq1g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CJ0djllyqwY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCn8HautpfHcctdk1v0_7Bww)
 
-Orange Caramel - Catallena
+T-ARA - Lovey-Dovey
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 10:56
+Last updated at 08/13/2020 10:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
