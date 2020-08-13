@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JXxfsENmIPPfWsNigLbKUbTysVH3TRNaL4byHY0h5XJV_su3f2FmN-PuTelmWvX9cLUuNuBajgxr7Xf8">](https://music.youtube.com/channel/UCrKDRPLLKgU-GEtBBtIDRtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0WhXaxQPZKyZE5413sXeuI4HQAXm7pz9JvPRIup4DzHJDMhszwVbmAJp1_dcyFdeN7BeOM0vQ1jwHX8j">](https://music.youtube.com/channel/UCzVeyTyDkvACk5yimlydIvQ)
 
-Won Junhee - Love is like a glass (feat. 최명섭)
+박선주 - 귀로
 
-**Albums**: 원준희(사랑은 유리같은 것)
+**Albums**: 강변가요제 & 대학가요제 Best of best - 강변가요제
 
-Last updated at 08/13/2020 11:05
+Last updated at 08/13/2020 11:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
