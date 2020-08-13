@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J">](https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtg7-Ng8pTT0xCE0fXQm-DXtYdg6bRWO67vUsUtE0Ov0f7AaEBwcj9uOJGDaMTOUGBUHykrXS_Hd7nmX">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-NF - The Search
+Cool - 아로하
 
-**Albums**: The Search
+**Albums**: Cool Best
 
-Last updated at 08/13/2020 20:39
+Last updated at 08/13/2020 20:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
