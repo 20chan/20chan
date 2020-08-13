@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CCTnmGrAgt7_K0U6NmBsKNH8BBjOD7ezapFab96WmGGvSPX2jQA8aom1l3TO1pDmBVLgMp6gu7-1mGuBqQ">](https://music.youtube.com/channel/UCE1GxC20CwQK-T7Fsl_XKsQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q40HyKRR1ZGYrjNgmep9qhRUpuvUW-yDQGzMmf-eJCS3qnzylYlec2GXYBfw66oIXcRVCI8apqDGLvhrOw">](https://music.youtube.com/channel/UCn2DXuUW74HffzbXqMFk34A)
 
-Bank - I Can't Have You
+혜은이 - 제 3 한강교
 
-**Albums**: Gift
+**Albums**: 골든 힛트송 퍼레이드
 
-Last updated at 08/13/2020 12:35
+Last updated at 08/13/2020 12:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
