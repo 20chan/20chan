@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/lwGLtxPwboM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMpr3n_MFdPE780mKcVbLyw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Maya Official - MAYA(마야) - 그 흔한 반지도 뮤직비디오 Official M/V
+짙은 - 백야
 
-**Albums**: undefined
+**Albums**: 백야 - EP
 
-Last updated at 08/13/2020 18:42
+Last updated at 08/13/2020 18:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
