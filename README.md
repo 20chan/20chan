@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i6p3prYi_IGrQtJv4yryScT-3RkiQaRQoGprjS3uq2JqtwUl-RaWZchGIybB6OjnpKyZd5SjCkL76dI">](https://music.youtube.com/channel/UC6IUhrLnYGhrktga3Zh7BjQ)
 
-SEAMO - Cry Baby
+Kim Feel - Someday, The Boy
 
-**Albums**: perfect seamo
+**Albums**: ITAEWON CLASS (Original Television Soundtrack) Pt. 6
 
-Last updated at 08/13/2020 16:02
+Last updated at 08/13/2020 16:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
