@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Stqa6daHk9mDQd-DYKwszIiBFFGOtBw-2zqN2HZW6dl38tBs9uOu44lLVb-z4FFS7pYWfx5QO0ZIHVCK">](https://music.youtube.com/channel/UCSnmJ-fZYk2BasikStbwCwQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l1awhWXYsklDIBIbs3dH2z_F9nym4f53x2S_NKS7L1dxejXIJTpm3rz6Ysz2gfxKnmunubRg_OhM1ac">](https://music.youtube.com/channel/UCAZhncaD-NlP4POlR-WjhGA)
 
-윤시내 - 열애
+정수라 - 난 너에게
 
-**Albums**: OASIS Golden Best 제1집
+**Albums**: 그시절 그노래 31집
 
-Last updated at 08/13/2020 12:16
+Last updated at 08/13/2020 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
