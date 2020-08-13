@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RG92soY11tCRckJuiLvwUF0YACEyBcC4m-GUre3ffB6afsGiRGJw1n-8CWtHkC7Q049HmyfU4aPGNtQ">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ICaR_4ULV9e0alMZFwkp3GxhCnzAJWLtq7brlj5R0Ee6e2DvyExlLV83Nbp3G-Q6zOCY4j5eoz0TxX7J">](https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA)
 
-Billie Eilish - bad guy
+NF - The Search
 
-**Albums**: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+**Albums**: The Search
 
-Last updated at 08/13/2020 20:36
+Last updated at 08/13/2020 20:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
