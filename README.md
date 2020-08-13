@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/FDYJzsIlV4s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxp1-v6TgE5XQFPDX5z6E8g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/O_n2TQfU5hN23qmhpDmkhfcGs6h0AbN4dhPAsbJXD1696-5Qs6hzFuUBG5juc8h4GwSNLzW92uv7i322">](https://music.youtube.com/channel/UCjEDeUJ2tplNj_TGxq9x4eQ)
 
-Magictwinzleeplay - [AUDIO] 컨츄리꼬꼬 - Gimme! Gimme!
+영턱스클럽 (YTC) - 타인
 
-**Albums**: undefined
+**Albums**: 2nd Album
 
-Last updated at 08/13/2020 19:10
+Last updated at 08/13/2020 19:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
