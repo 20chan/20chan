@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q40HyKRR1ZGYrjNgmep9qhRUpuvUW-yDQGzMmf-eJCS3qnzylYlec2GXYBfw66oIXcRVCI8apqDGLvhrOw">](https://music.youtube.com/channel/UCn2DXuUW74HffzbXqMFk34A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8DDqkKH4dUQNw-kfxEpc-VrasH0RwXXPoOd7YbleyL_l6K75FgQjpqZzGGfvAi2QbXtYe-gLHZNoBh2E">](https://music.youtube.com/channel/UCTPBE4JPSQz3WW1PZ5ENATg)
 
-혜은이 - 열정
+Lee Sun Hee - Destiny
 
-**Albums**: 골든 힛트송 퍼레이드
+**Albums**: puberty
 
-Last updated at 08/13/2020 12:55
+Last updated at 08/13/2020 12:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
