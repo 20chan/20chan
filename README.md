@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zu5did6sjuNeGw3vf4iSxsMyEJ4lc6rPysVMJOtH800aklaNsc-b06fz_w5BhgXSLRL9RJZ_F9o_yck">](https://music.youtube.com/channel/UC_hqZWcuNgQnRTulFy6BN7w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
 
-Sodagreen - Violently Sad And Beautiful
+Alan Walker - Different World (feat. CORSAK)
 
-**Albums**: Violently Sad And Beautiful
+**Albums**: Different World
 
-Last updated at 08/13/2020 17:44
+Last updated at 08/13/2020 17:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
