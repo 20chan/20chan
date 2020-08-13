@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8DDqkKH4dUQNw-kfxEpc-VrasH0RwXXPoOd7YbleyL_l6K75FgQjpqZzGGfvAi2QbXtYe-gLHZNoBh2E">](https://music.youtube.com/channel/UCTPBE4JPSQz3WW1PZ5ENATg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/D9BTg8DDCoPrKQM_GyO_knAJZlrFOGkjOBUrRl83qrbZ1FqkKjmhmTBgmF0bWkILlwKYNVJWXM9SujA">](https://music.youtube.com/channel/UC_gOGjL-kLIsQ71s_Ieqv8A)
 
-Lee Sun Hee - Destiny
+Yeojin - Only More Yearning
 
-**Albums**: puberty
+**Albums**: Collection of songs
 
-Last updated at 08/13/2020 12:58
+Last updated at 08/13/2020 14:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
