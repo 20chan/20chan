@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DVSmUpo88cd0mw7HWldRp_UBpdV4mGyQg6Dlfot-BgkvbdCJq4XFrpccXoajJC1naXFOUCr_PmKr-_SI">](https://music.youtube.com/channel/UCxcelUjL7OrIaR6_UnZv9TQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RC0Krk-4KlE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsNChlwrxAvEnfOQCSRA1tA)
 
-Darren Korb - Vagrant Song
+Shannon Gwiyomi - Orange Caramel(오렌지캬라멜) - Magic Girl(마법소녀) Color Coded Lyrics [Han/Rom/Eng]
 
-**Albums**: Pyre (Original Soundtrack)
+**Albums**: undefined
 
-Last updated at 08/12/2020 14:58
+Last updated at 08/13/2020 10:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
