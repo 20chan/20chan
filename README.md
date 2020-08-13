@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fPO76Jlnz6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC48nZNzBVu13HPwJ3upxQnQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9jK-NcRmVcw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0BozWvZixt1XMFBwQTFeOA)
 
-Coolio - Gangsta's Paradise (feat. L.V.)
+Europe - Europe - The Final Countdown (Official Video)
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 14:47
+Last updated at 08/13/2020 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
