@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q40HyKRR1ZGYrjNgmep9qhRUpuvUW-yDQGzMmf-eJCS3qnzylYlec2GXYBfw66oIXcRVCI8apqDGLvhrOw">](https://music.youtube.com/channel/UCn2DXuUW74HffzbXqMFk34A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8vPxoSryY8hd6In5rwVz0nUSF55Bd6jQ5rDPcMMJMChhMyQ6jA8U19dVTCgO7KYiZnwCJ1yS609jP6bEoA">](https://music.youtube.com/channel/UCTPBE4JPSQz3WW1PZ5ENATg)
 
-혜은이 - 제 3 한강교
+Lee Sun Hee - Meet him among them
 
-**Albums**: 골든 힛트송 퍼레이드
+**Albums**: LEE SUN HEE 15th Album “SERENDIPITY” - DEBUT 30th Anniversary
 
-Last updated at 08/13/2020 12:40
+Last updated at 08/13/2020 12:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
