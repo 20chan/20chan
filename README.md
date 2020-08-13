@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwR8jr3rqrANnex4aLDG1askb5jay1vSRmKpPneHx_Dvr0N9-xhlMbTXFsU2b2sPtBJ-50ss9oL4uyZF">](https://music.youtube.com/channel/UCoEdj_6p3v5aBp8WqrJ0zIg)
 
-Alan Walker - Different World (feat. CORSAK)
+Wengie - Deja Vu
 
-**Albums**: Different World
+**Albums**: Deja Vu
 
-Last updated at 08/13/2020 17:50
+Last updated at 08/13/2020 17:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
