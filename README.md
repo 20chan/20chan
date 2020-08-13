@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RG92soY11tCRckJuiLvwUF0YACEyBcC4m-GUre3ffB6afsGiRGJw1n-8CWtHkC7Q049HmyfU4aPGNtQ">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
 
-SURL (설) - Dry Flower
+Billie Eilish - bad guy
 
-**Albums**: I Know
+**Albums**: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 
-Last updated at 08/13/2020 20:33
+Last updated at 08/13/2020 20:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
