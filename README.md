@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iiVCJGAX2W0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3SueB6wVEIzjor070EjtmJtyI9JTraX75vpcInrp_TLgNeBf3nsAIlVaST8FDZLtQc75AHNPyOb3kLeg">](https://music.youtube.com/channel/UCHCWD4PNqYN4iV8hNM8gG8A)
 
-Trap Nation - Philter - Revolver (Linko Remix)
+나이트오프 Night Off - Sleep 잠
 
-**Albums**: undefined
+**Albums**: The Last Night 마지막 밤
 
-Last updated at 08/13/2020 18:00
+Last updated at 08/13/2020 18:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
