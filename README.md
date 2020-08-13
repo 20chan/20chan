@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Nj2U6rhnucI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jluGhxUwEdc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
 
-Dua Lipa - Break My Heart
+10cm - [Cover] 아로하 (원곡 - 쿨)
 
 **Albums**: undefined
 
-Last updated at 08/13/2020 19:37
+Last updated at 08/13/2020 19:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
