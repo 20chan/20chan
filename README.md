@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-자두 (The Jadu) - 김밥 (Gimbap)
+SID - Rain
 
-**Albums**: 자두 3집 - The Jadu 3
+**Albums**: Rain
 
-Last updated at 08/13/2020 17:22
+Last updated at 08/13/2020 17:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
