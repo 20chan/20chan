@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BMfwuvvMLeiiYe1WtdbV9hBKkzEupwlwKccsxdY4DStHDxEJsDYChV-WTiZWw5FFUdv_rpmcx7ZrMA">](https://music.youtube.com/channel/UCfeJiV0Xu-C4z4DApRcznig)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rtg7-Ng8pTT0xCE0fXQm-DXtYdg6bRWO67vUsUtE0Ov0f7AaEBwcj9uOJGDaMTOUGBUHykrXS_Hd7nmX">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-Glass Animals - Pork Soda
+Cool - 진실
 
-**Albums**: How To Be A Human Being
+**Albums**: Cool Best
 
-Last updated at 08/13/2020 20:47
+Last updated at 08/13/2020 20:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
