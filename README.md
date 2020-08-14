@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3U-Wh9ghTJgqAhrq6peZ0dr26QF0e49JxEGnJw7SIg3fKpR-TuydwBJmhu7BZbeKDLt4ZaZyDVchs7g">](https://music.youtube.com/channel/UCkmCGbrGa7yNrRl_NHrOaTw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l07aUoJyY1hBKx6f_kW-MTPe-O3J6OM5aRPQpe_upoUATk7p9RnySN-ipIG-pUnqbCbNgb0dhmxmwFiG">](https://music.youtube.com/channel/UCZa7crFd_TP-vDn4fUdzqTw)
 
-Florence + The Machine - Hunger
+Alex Clare - Too Close
 
-**Albums**: High As Hope
+**Albums**: The Lateness Of The Hour
 
-Last updated at 08/14/2020 19:47
+Last updated at 08/14/2020 19:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
