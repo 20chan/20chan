@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/N9NFfoYgwBRNeNbIJoOY2rss0V-GOB_vQ7qkV1hiQcKyVZwaCDrGU61MW9DU4-8KpN3fMnfioY5Saqc">](https://music.youtube.com/channel/UCHqD2OBWbcWGmCve99uw47A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7OUhu3Oitjkm4YiAjtgXq-l4qRakOk3NAL78Ybp0ePV0_-fYNbK-KqLtQRUPHDUiNNQ2dDPd07YNRco7hw">](https://music.youtube.com/channel/UCXvAK640Ko85SLbI-zA0ZCg)
 
-Kings Of Leon - Radioactive
+Arcade Fire - Everything Now
 
-**Albums**: Come Around Sundown (Expanded Edition)
+**Albums**: Everything Now
 
-Last updated at 08/14/2020 20:14
+Last updated at 08/14/2020 20:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
