@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xkg25KwCqeUkhAXSzBP_SJslX9GkkNXRZJEh7B6BE5j33HIr87qyCmV0b9b76krLHuW650DIYaaTMMpW">](https://music.youtube.com/channel/UCYiBYNKBZY3OtdRSENzz8BA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Space A - Maturity
+CHANGMO - METEOR
 
-**Albums**: Space A 2nd(Power Bit Techno Space A)
+**Albums**: Boyhood
 
-Last updated at 08/13/2020 20:59
+Last updated at 08/14/2020 10:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
