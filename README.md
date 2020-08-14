@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0j6ARlDLUq8wNHYDPFobBSf5g0O2olu2mtbFgvYkoR0FLL8ydJEOtC5elAFuZ_bE84fwavHFHGv1knKE5A">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-CHANGMO - Interlude
+창모 CHANGMO - I Always
 
-**Albums**: Dnsg
+**Albums**: The Best Hit (Original Television Soundtrack), Pt. 7
 
-Last updated at 08/14/2020 11:16
+Last updated at 08/14/2020 11:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
