@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/puiBcgumdSNkoP6NeClJpJSWGaKmPWr5_JthyhX3Zi_bNqSA2Qnnx6sU_0RuEFJlA74otbdxiCuERcs">](https://music.youtube.com/channel/UCMcghb8JhNIYntWea9QKFGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ITHOtgKXOOUBGrT9vkMwyHlsRSgLjJNmoJ6Fq1pn6zaoz2f0tapdpPGHVe4y1o50E5bq5OQPqSY3YQw">](https://music.youtube.com/channel/UCjV4ZrPmJ19TtUzGscyEZMw)
 
-The Lumineers - Ho Hey
+Catfish and the Bottlemen - Cocoon
 
-**Albums**: The Lumineers (Deluxe Edition)
+**Albums**: The Balcony
 
-Last updated at 08/14/2020 17:51
+Last updated at 08/14/2020 17:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
