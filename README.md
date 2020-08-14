@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8SZoBu3ZXl5IrMEQAonz8tW1GXJFLQWz8kquNycvBAO0aRIOHlkrdlNtHXuJX4vkdVZxYHxQRKLQ4LAn">](https://music.youtube.com/channel/UCe5SlSvnHTsnmBBXoFYXXGg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0jfI1XCkrIYVTtiwMImpwEnePZ2X_BHHI6Oq8tnt1WWpsCNglsVCK_tbXsI6181_gZh61MRQkzOTtS3p">](https://music.youtube.com/channel/UCw81Qqzprmu2NKgRpZHiPrg)
 
-KALEO - Way down We Go
+Bastille - Pompeii
 
-**Albums**: A/B
+**Albums**: Bad Blood (The Extended Cut)
 
-Last updated at 08/14/2020 19:02
+Last updated at 08/14/2020 19:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
