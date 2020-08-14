@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UfKFIzGI2qUQ0HVOddKmC9_XYYS2pD3brEcvvCk4LaaDHepoIqZ3eEQGqZabd8m7buOmGzSFf6-r7hw">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-CHANGMO - Swoosh Flow
+CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo Eun - Beer (Prod.Way Ched)
 
-**Albums**: BIPOLAR
+**Albums**: Dingo X Ambition Musik
 
-Last updated at 08/14/2020 10:31
+Last updated at 08/14/2020 10:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
