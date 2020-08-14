@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uO6SxSnn-wMCpCQUk3BY-5hYUhiotkqm0lrAIiGBqf6vBkDKUZxFbMXUCzo-fWHmIknAB77JDqBamtKc">](https://music.youtube.com/channel/UC6EQ-tdoGO0kSxvoPgyAsKw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
 
-The Struts - Could Have Been Me
+Nothing But Thieves - Trip Switch
 
-**Albums**: Everybody Wants
+**Albums**: Nothing But Thieves (Deluxe)
 
-Last updated at 08/14/2020 19:54
+Last updated at 08/14/2020 19:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
