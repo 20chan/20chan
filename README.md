@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iTqFzzygYb5B01Jw3RqAXnlG2vk5XhAAohimjAh4WrYRyjWQhP7GJD2zW1TJQ2KWWSbZKNbNfPq4Twk">](https://music.youtube.com/channel/UCMcghb8JhNIYntWea9QKFGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YAskym9JuOSiLw8Gt8w3MQirM3qPQSrRFOp17qtVurfRyeeMay8tlMPh2IFEzOCvCP2ZX2IOhNC3b2A">](https://music.youtube.com/channel/UCfgmSmdaYvNi2g7-VyGlEcg)
 
-The Lumineers - Cleopatra
+The Head and the Heart - All We Ever Knew
 
-**Albums**: Cleopatra (Deluxe)
+**Albums**: Signs of Light
 
-Last updated at 08/14/2020 19:17
+Last updated at 08/14/2020 19:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
