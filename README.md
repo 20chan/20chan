@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oXkMqBsAK1FwXEdhwgRIpnWt989JE2eW7aJZtIa93lpZoFDYkyRtRbqut7v8DCDeA8ZL3zre4cbcQYKBnw">](https://music.youtube.com/channel/UCchwuI134MUX4GSZqYLpYGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8SZoBu3ZXl5IrMEQAonz8tW1GXJFLQWz8kquNycvBAO0aRIOHlkrdlNtHXuJX4vkdVZxYHxQRKLQ4LAn">](https://music.youtube.com/channel/UCe5SlSvnHTsnmBBXoFYXXGg)
 
-The Black Keys - Lonely Boy
+KALEO - Way down We Go
 
-**Albums**: El Camino
+**Albums**: A/B
 
-Last updated at 08/14/2020 18:59
+Last updated at 08/14/2020 19:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
