@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RGBL_TdrmZHUU4aO_IqCjpc7gPwZJc4141Jz4Cg1ff_0XLkGTZrKTB30YYDC7dB4P4OJP0ybhptVBA2g">](https://music.youtube.com/channel/UCcGxQntsBYoh5ui9wn9Baig)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1C2mQTCETtWxDJTgqm0hW6X6T2L3j0gAwoY368jcs_cxkHGPqBV48k_roO_wFkIzjk0Fzpnn_YOAK7s">](https://music.youtube.com/channel/UCaPHikQGkyaAoH_zwrZmY1w)
 
-Royal Blood - Lights Out
+M.I.A. - Bad Girls
 
-**Albums**: How Did We Get So Dark?
+**Albums**: Matangi
 
-Last updated at 08/14/2020 21:10
+Last updated at 08/14/2020 21:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
