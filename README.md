@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/C_Wsvrqk0E7nO6RIpv-PKjE-T2DopCSlrHLAsUZXP_OOW4F-RZ63P_SMCiYx8KGp2RuSJhnL1OC8hzw">](https://music.youtube.com/channel/UCtgFWXl1mpHy_zeHcnbB8Iw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oXkMqBsAK1FwXEdhwgRIpnWt989JE2eW7aJZtIa93lpZoFDYkyRtRbqut7v8DCDeA8ZL3zre4cbcQYKBnw">](https://music.youtube.com/channel/UCchwuI134MUX4GSZqYLpYGA)
 
-Alabama Shakes - Hold On
+The Black Keys - Lonely Boy
 
-**Albums**: Boys & Girls
+**Albums**: El Camino
 
-Last updated at 08/14/2020 18:55
+Last updated at 08/14/2020 18:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
