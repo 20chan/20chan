@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RG92soY11tCRckJuiLvwUF0YACEyBcC4m-GUre3ffB6afsGiRGJw1n-8CWtHkC7Q049HmyfU4aPGNtQ">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x2TGq3OmB-i4xpTiwI4bEqHbAXIYJou6ndPj12jQOQWCaVS_UyajyUNK83_BqnG0YjewCGH-keTTmK5m">](https://music.youtube.com/channel/UCcV2wQpCkgb34u4O22WG8Dw)
 
-Billie Eilish - bad guy
+X Ambassadors - Renegades
 
-**Albums**: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+**Albums**: VHS 2.0
 
-Last updated at 08/14/2020 15:57
+Last updated at 08/14/2020 16:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
