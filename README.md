@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ldVVO7vktLrUuW13A3oCdDlgrxfTQxmIyyMwAxef5W07pkRxdbgu3GLV8BaIZkW_RDR7qxd9utQy7Wqj">](https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iT0bP_t5lkMAK0YRmzFemsGVcB7JQo2ibPLtwUyDJD_XiUvHBxwzpQKwUm_gibACWSEsrMH08hlJwNs">](https://music.youtube.com/channel/UC8fxkahdLdfHk8pF1fRYD-w)
 
-LINKIN PARK - BURN IT DOWN
+Beck - Up All Night
 
-**Albums**: LIVING THINGS
+**Albums**: Colors
 
-Last updated at 08/14/2020 16:53
+Last updated at 08/14/2020 16:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
