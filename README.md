@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0egdYGPCkIgCjEzMTtly0HiHmTrlbnHyq4jtoUE7azX_1Z1gXCm4h1fJh-Wdve-evcuk0RnrKO-mRNI">](https://music.youtube.com/channel/UCJlu3bHpzWc2fKG_GbBIk8Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vYXM7WiI89SlIAhCwhcobdRy9ACugdaEuk8ZytQzQk92Wgu02IwjX9b7HfsWS0UB14KQ4S0ro6Nw2Sm9A">](https://music.youtube.com/channel/UCSYiZYcIRsDGJMd3eLJ4T1g)
 
-Silversun Pickups - Circadian Rhythm (Last Dance)
+Big Data - Dangerous (feat. Joywave)
 
-**Albums**: Better Nature
+**Albums**: 2.0
 
-Last updated at 08/14/2020 18:25
+Last updated at 08/14/2020 18:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
