@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/igQY2TFgzpk5K8mHQB3VKJtJ00LKrvVrfFnycWz32IRqRqffGCiyA-_FmB0R-OhTMgaCy5PTx-tYImZB">](https://music.youtube.com/channel/UCqcu4xFW9T7kYSll5ch7pvQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RGBL_TdrmZHUU4aO_IqCjpc7gPwZJc4141Jz4Cg1ff_0XLkGTZrKTB30YYDC7dB4P4OJP0ybhptVBA2g">](https://music.youtube.com/channel/UCcGxQntsBYoh5ui9wn9Baig)
 
-Bishop Briggs - River
+Royal Blood - Lights Out
 
-**Albums**: Bishop Briggs
+**Albums**: How Did We Get So Dark?
 
-Last updated at 08/14/2020 21:07
+Last updated at 08/14/2020 21:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
