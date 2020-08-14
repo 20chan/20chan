@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qeMRGiFSFC-w5qIAHrbnxuqs6_jrPj9PBXkjQQIMzMTO7UhBu_Df03yIuOS0F2QOn22FUwVXgj37ScY">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
 
-Nochang - No Chainz(해방자유)
+Goretexx, GIRIBOY, Black Nut & Genius Nochang - Money Counting Fingers
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: We Effect
 
-Last updated at 08/14/2020 13:09
+Last updated at 08/14/2020 13:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
