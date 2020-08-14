@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mrqdZT-UuDInyOvtNoCFZMMUNVp9gAK-0npgEk83K9VvlpJHxXdYIrQ3q9o3UW6O5uuDj6mBiRHS1zRp">](https://music.youtube.com/channel/UCNrTdctAV0JMT7RBQvpA5lw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RLSYx1_XbbORnr1EKt8PxOureAZkOjukB1EHmElHA5Ac1vNX9GnmWXSIq650uOIXQaSLDBlINJPeM8MAgg">](https://music.youtube.com/channel/UC5pM41KCkRVXpGjjvvpVfhw)
 
-The 1975 - Somebody Else
+AWOLNATION - Hollow Moon (Bad Wolf)
 
-**Albums**: I like it when you sleep, for you are so beautiful yet so unaware of it
+**Albums**: Run
 
-Last updated at 08/14/2020 18:33
+Last updated at 08/14/2020 18:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
