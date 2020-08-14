@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0lZVmTqE-M5vj5PmVQLI89IBHjRC2N17fPHRf7FzVlNLamTQio2c2ZjmuCBgmb-JCUjdKSAolWmZ3i31">](https://music.youtube.com/channel/UCiX0EqRfobz765eBovS1BNQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5c_grICraher_LR3t6vO-Glzx36nL_DekneXpYV77AAz0QInJhYQlj49T9KwhF1_YKLHdPAeNzJHcFlq">](https://music.youtube.com/channel/UCU_JWX1agawhZ2lek-6ip8g)
 
-Modest Mouse - Lampshades on Fire
+The Strumbellas - Spirits
 
-**Albums**: Strangers to Ourselves
+**Albums**: Hope
 
-Last updated at 08/14/2020 17:42
+Last updated at 08/14/2020 17:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
