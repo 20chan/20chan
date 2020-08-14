@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/m2nCAThlsFA_cNd7WrZyDzmxOGtvg2JrEQJ6ercmsdJQNs_bcktsLYV0vyiEL5vVCqS_pcTzkS1Ce23p">](https://music.youtube.com/channel/UCILoG0-vdgLDnrwtRuM_0GQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kpou11BKf67DIDca-Hh1Wg4Hvkx8EFJC1U5rzVEl1sOTe4bQmYa0D7rpe0xAErM2K93Fgo6odZBrA8CR">](https://music.youtube.com/channel/UC8Yu1_yfN5qPh601Y4btsYw)
 
-Lorde - Green Light
+Arctic Monkeys - Do I Wanna Know?
 
-**Albums**: Melodrama
+**Albums**: AM
 
-Last updated at 08/14/2020 17:07
+Last updated at 08/14/2020 17:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
