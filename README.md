@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-PeaX4afQwY5AjELhwSe_DPTNCb7p7gqQme5_zFVbcVJRWODzgpCutF7o9_dzdPlyPzt06yn1z9UoNHCmA">](https://music.youtube.com/channel/UCn27y010kAJSwpKKBhTwUuA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/900NMT78LfXO4rfgQdEHbHA4alClPgHDnNYxh6d0fFTaeqVxUz9xtTygCxySs3MXqkEgVZpjWCT80PGN">](https://music.youtube.com/channel/UCNXdVRjxdHoW3BHYn-czkFg)
 
-American Authors - Best Day Of My Life
+Milky Chance - Stolen Dance
 
-**Albums**: Oh, What A Life
+**Albums**: Sadnecessary (Bonus Track Version)
 
-Last updated at 08/14/2020 16:11
+Last updated at 08/14/2020 16:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
