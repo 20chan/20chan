@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9x8NO8xsn6YMmMNiZyWE_1Ybyq86IYi99POqsHrNIOp7d_5aUu1X9eVssD2zIbTxk22d0X9iw2WTHdYY">](https://music.youtube.com/channel/UChTOXkDhGJ0JftnfMWjpCCg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fjb78OoY9IQ3qXDgJJE_PTHmoqVxf9rMr3BK7d7OXxk_6ZKg6-UzBe0m5JMU76I-IWRC6BokFeVY8Eff">](https://music.youtube.com/channel/UClxuMOFeLBJXk8nt-SolPvw)
 
-K.Flay - Blood In The Cut
+Capital Cities - Safe And Sound
 
-**Albums**: Every Where Is Some Where (Deluxe Version)
+**Albums**: In A Tidal Wave Of Mystery (Deluxe Edition)
 
-Last updated at 08/14/2020 20:34
+Last updated at 08/14/2020 20:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
