@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z5KbUX6J4RVWVgJs4LE91CRgTCFnaL-aTlJN_wNy9afGpeSuGWH4Ie0ptv2yRgkyqjMrJEr2fAgaIeQ">](https://music.youtube.com/channel/UCNIV5B_aJnLrKDSnW_MOmcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/igQY2TFgzpk5K8mHQB3VKJtJ00LKrvVrfFnycWz32IRqRqffGCiyA-_FmB0R-OhTMgaCy5PTx-tYImZB">](https://music.youtube.com/channel/UCqcu4xFW9T7kYSll5ch7pvQ)
 
-Gorillaz - On Melancholy Hill
+Bishop Briggs - River
 
-**Albums**: Plastic Beach
+**Albums**: Bishop Briggs
 
-Last updated at 08/14/2020 21:03
+Last updated at 08/14/2020 21:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
