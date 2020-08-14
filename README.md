@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/KGZHA-WHaZUnnHxTBVeIzdU0P_REr4J9c2_TwNZootA16upGHNMdu_xovvYv_oCl_BW9JQlFRM8UZQA">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
 
-BewhY - CHALLAN
+BewhY - Transcend (feat. C Jamm)
 
-**Albums**: CHALLAN
+**Albums**: The Movie Star
 
-Last updated at 08/14/2020 11:57
+Last updated at 08/14/2020 11:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
