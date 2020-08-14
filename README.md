@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-CHANGMO - METEOR
+CHANGMO - Swoosh Flow (Remix) (feat. 365LIT, ZENE THE ZILLA, Chamane & Paul Blanco)
 
-**Albums**: Boyhood
+**Albums**: Swoosh Flow (Remix)
 
-Last updated at 08/14/2020 10:12
+Last updated at 08/14/2020 10:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
