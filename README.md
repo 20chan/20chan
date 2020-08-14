@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WMIe4F-ry87kxCErdPj5H_KQDi1yt_OU5nIF0zjj_6YhAWwT9SGOywzpVkNaBjwqEJ7FDnEUMN3Cq1US">](https://music.youtube.com/channel/UCEzKJjoeTTya-UhPmuLMiIg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/a36isbIbmOGd6VYH6j61aatMj94BUftO-xeBfeUAv0yUNGZME6Arcfk10cjJTq6D5UFgRWZl9MX8aax9">](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw)
 
-The Revivalists - Wish I Knew You
+twenty one pilots - Stressed Out
 
-**Albums**: Men Amongst Mountains
+**Albums**: Blurryface
 
-Last updated at 08/14/2020 19:28
+Last updated at 08/14/2020 19:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
