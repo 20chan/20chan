@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/06OPfX7sqg28dYZnCct8TYW2Cl8S9Ikgq12KIoEp-tyiK4JinlCeaGH3gT_G6s-wGrR5E75TRrnzQ1w">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EqoHbVCQ_6-D1RceUn09rGTNdkdsfwSYh2mY4bBiUyZKY0WggWsJoW0MYKb6lWg7WWrtc9SDlrFxvEr6">](https://music.youtube.com/channel/UCKMgWfptDaiDIwtexaavX5w)
 
-Goretexx - Umm Umm
+So!YoON! (황소윤) - FNTSY
 
-**Albums**: Umm Umm
+**Albums**: So!YoON!
 
-Last updated at 08/14/2020 15:40
+Last updated at 08/14/2020 15:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
