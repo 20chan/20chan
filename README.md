@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tUNZ57vAPKygLyIhL6VON2E42U2YHFMDPNrZz6AAdDIA8QqdCoTEfBOcaf9iEQ2EMVlIaEFuXObLtXc">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0WUlTNEY2LUObVdmU2L01V9NowN3FGewn84UiPBLuDKnWCG14var02owLk4J1LbKuGG-JBzdYiA9TPF">](https://music.youtube.com/channel/UC3M2IkAU3VrLfyMtVjp8pPA)
 
-SUPERBEE & Uneducated Kid - Trouble Child (Full Ver.) (Full Version)
+김건모 - Excuses
 
-**Albums**: Catch Me If You Can
+**Albums**: 핑계
 
-Last updated at 08/14/2020 15:29
+Last updated at 08/14/2020 15:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
