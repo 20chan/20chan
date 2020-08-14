@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4AdOV7nmJu8NUWF_sNO6I2VBwWPmLlQ7vmQSH1sf9-ZfDQQKUv86aMMJc2OKpHbtveC0nbi-nxJR1I">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qeMRGiFSFC-w5qIAHrbnxuqs6_jrPj9PBXkjQQIMzMTO7UhBu_Df03yIuOS0F2QOn22FUwVXgj37ScY">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
 
-Nochang - All Day (feat. Tablo)
+Goretexx, Black Nut, BILL STAX & C Jamm - The Cartel
 
-**Albums**: All Day
+**Albums**: We Effect
 
-Last updated at 08/14/2020 12:29
+Last updated at 08/14/2020 12:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
