@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wUzMZsVyZ2uDsKKZ_-9mWwXZ5oRtuiIAwmVNv4OXu6iDSPSaocpPC3klxAuRA5ujzHSDpm52OfyXuBo">](https://music.youtube.com/channel/UChT-gK2vEdLZcVu6Z1nXcIA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/trWSJMR2GIw4TTSX4CiK5Sk6bLrk-ylcYCFDj7X0h9zCo5z0UM9Fp_EJP16ydPRjHcvEsv_WxO9yy1DX">](https://music.youtube.com/channel/UCpjxqiRSP5nQ4tp1fT2bjHg)
 
-Nothing But Thieves - Trip Switch
+Of Monsters And Men - Little Talks
 
-**Albums**: Nothing But Thieves (Deluxe)
+**Albums**: My Head Is An Animal
 
-Last updated at 08/14/2020 19:58
+Last updated at 08/14/2020 20:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
