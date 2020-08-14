@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/qeMRGiFSFC-w5qIAHrbnxuqs6_jrPj9PBXkjQQIMzMTO7UhBu_Df03yIuOS0F2QOn22FUwVXgj37ScY">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
 
-Goretexx, Black Nut, BILL STAX & C Jamm - The Cartel
+Goretexx, GIRIBOY, Black Nut & BILL STAX - Umm Umm
 
 **Albums**: We Effect
 
-Last updated at 08/14/2020 12:35
+Last updated at 08/14/2020 12:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
