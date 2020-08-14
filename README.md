@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/a36isbIbmOGd6VYH6j61aatMj94BUftO-xeBfeUAv0yUNGZME6Arcfk10cjJTq6D5UFgRWZl9MX8aax9">](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rkgOq94m1PFFOTfY7Q9Ma2WqEqE4qOXjQkeIlR6_5g0FvHamspYh4VI0lIcb3au3NMVLQ8m85Hz9FTVbkg">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-twenty one pilots - Stressed Out
+Green Day - Bang Bang
 
-**Albums**: Blurryface
+**Albums**: Revolution Radio
 
-Last updated at 08/14/2020 19:32
+Last updated at 08/14/2020 19:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
