@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9sEKCZ90V__YWlPdMpjVTOixRVNIKs14DKNKnnuIPQCo6igBPzRjbwZHB0-7dH2qPoM8tnpC_DZbku3l">](https://music.youtube.com/channel/UCzsEmTSzPLxL0w0Ff6n8rEA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lfoN-xmx2Qt8thNGRDA3yKKbv4zZX9puqmQqwp_Lg8w2doH_bnHrBC2PUuy5Oruq_KZ5OZ-2FwxKmUyf">](https://music.youtube.com/channel/UCqWx-Zlnt0wv-7ziGjA-f6w)
 
-Miike Snow - Animal
+Elle King - Ex's & Oh's
 
-**Albums**: Miike Snow
+**Albums**: Love Stuff
 
-Last updated at 08/14/2020 18:43
+Last updated at 08/14/2020 18:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
