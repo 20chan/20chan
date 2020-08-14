@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qx5CCpfn5_VJw0TKJRDkuNBrch1gom88ssv8lUQBBEE1V1atYSfMXBR3fU8b5q3wO5hs4Azri8SsM6bC">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0fwxWy4PhaIpGje7n3umflSZx3pk2inzix-RKOPix4SV9v37FEfaCx8Je0gQs1FqyJZI5K8Sg0pxKyA">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
 
-창모 (Changmo) - D.O.N
+BewhY - The Time Goes On
 
-**Albums**: 돈 벌 시간 2
+**Albums**: Time Travel
 
-Last updated at 08/14/2020 11:40
+Last updated at 08/14/2020 11:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
