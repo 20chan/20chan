@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EqoHbVCQ_6-D1RceUn09rGTNdkdsfwSYh2mY4bBiUyZKY0WggWsJoW0MYKb6lWg7WWrtc9SDlrFxvEr6">](https://music.youtube.com/channel/UCKMgWfptDaiDIwtexaavX5w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xKS1GIQRC4PkSVmvY5ayZFD7v3hypngxiIOUA86DLIvuYH5Jkt2vALAcwvpLV2BGT9FCH7BX_3j4zVN">](https://music.youtube.com/channel/UCrxpwXq8wCTskOQq5d_KoqQ)
 
-So!YoON! (황소윤) - FNTSY
+Marshmello & Bastille - Happier
 
-**Albums**: So!YoON!
+**Albums**: Happier
 
-Last updated at 08/14/2020 15:42
+Last updated at 08/14/2020 15:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
