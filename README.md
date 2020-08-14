@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x2TGq3OmB-i4xpTiwI4bEqHbAXIYJou6ndPj12jQOQWCaVS_UyajyUNK83_BqnG0YjewCGH-keTTmK5m">](https://music.youtube.com/channel/UCcV2wQpCkgb34u4O22WG8Dw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xBAPxjCdD-8QVT0f8joMGrSmgbJyd1v2b4xzQXmt_L17JjxHmy21DMBYDy3sy-IIxhIy5cx0egupmacM">](https://music.youtube.com/channel/UCyzh4EnNuEO3Jk_mlXJCIag)
 
-X Ambassadors - Renegades
+alt-J - Breezeblocks
 
-**Albums**: VHS 2.0
+**Albums**: An Awesome Wave
 
-Last updated at 08/14/2020 16:00
+Last updated at 08/14/2020 16:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
