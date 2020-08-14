@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5NjZiDy3KShHY_A0cC1vQeHcBZZZQOu_oJ-ubDAoHUgz6n-NfwbeM8F2Yai6x8gXrKdjkRKepOvzTOU9lw">](https://music.youtube.com/channel/UCNpObHElUk-URbs0wvC6rTw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-KIM SEUNG MIN - Chase the Star
+GIRIBOY - Tiger Den (feat. Jvcki Wai)
 
-**Albums**: Chase the Star
+**Albums**: Tiger Den
 
-Last updated at 08/14/2020 12:05
+Last updated at 08/14/2020 12:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
