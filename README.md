@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0jfI1XCkrIYVTtiwMImpwEnePZ2X_BHHI6Oq8tnt1WWpsCNglsVCK_tbXsI6181_gZh61MRQkzOTtS3p">](https://music.youtube.com/channel/UCw81Qqzprmu2NKgRpZHiPrg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ggvIg3cRvHVhS78uA4WjnpyFRY_vxwlgfqXdeeebf9jE9sKfL9ZxfyXkZfn1FEsEmkZNMaW8QXW7oGp">](https://music.youtube.com/channel/UCyqq-aiu3vEHuf5NhwmOJcw)
 
-Bastille - Pompeii
+Lana Del Rey - Born To Die
 
-**Albums**: Bad Blood (The Extended Cut)
+**Albums**: Born To Die - The Paradise Edition
 
-Last updated at 08/14/2020 19:06
+Last updated at 08/14/2020 19:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
