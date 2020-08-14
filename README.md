@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0fwxWy4PhaIpGje7n3umflSZx3pk2inzix-RKOPix4SV9v37FEfaCx8Je0gQs1FqyJZI5K8Sg0pxKyA">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xVsPbDmp_QSFxHVCIjgVFRtB_VohWdQG5sGtTlnLKH5gISSTB6Azdov0jy6oJ3Re_CMNGwet9fjewc">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
 
-BewhY - The Time Goes On
+BewhY - Day Day (feat. Jay Park)
 
-**Albums**: Time Travel
+**Albums**: Show Me the Money 5 Episode 4
 
-Last updated at 08/14/2020 11:44
+Last updated at 08/14/2020 11:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
