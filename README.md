@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ITHOtgKXOOUBGrT9vkMwyHlsRSgLjJNmoJ6Fq1pn6zaoz2f0tapdpPGHVe4y1o50E5bq5OQPqSY3YQw">](https://music.youtube.com/channel/UCjV4ZrPmJ19TtUzGscyEZMw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1PRIvZunuz7YL04_V8JcLWpiymv75O7UmAIyT7jw-fqRRlNG8JCLWC8tXhZounHPjAZH8V-IkmgWBAHd">](https://music.youtube.com/channel/UCtHZHneyvFGwxg6MHcbMLAw)
 
-Catfish and the Bottlemen - Cocoon
+Weezer - Africa
 
-**Albums**: The Balcony
+**Albums**: Weezer (Teal Album)
 
-Last updated at 08/14/2020 17:54
+Last updated at 08/14/2020 17:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
