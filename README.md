@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cC7xzkqYds9eL7wDlzc569X7ndIp7cgpyR2_Y_YHmIpNAysJ8AEpyUpmzQ6MTQZO1P-_IHeNkKhjVx-k">](https://music.youtube.com/channel/UCC9O7DK78DWe1A4hV6p_ieA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PASCfipUn_piu1wRRgHZJs16jLNzlcYIJF6Rs1-ZkQ54VzIFZvh2LJlKZ654Wp6qKOEPYge-th9knuk">](https://music.youtube.com/channel/UCZZjopQPSArcZG8SxknPIDQ)
 
-The Preatures - Is This How You Feel?
+Grouplove - Tongue Tied
 
-**Albums**: Is This How You Feel?
+**Albums**: Never Trust a Happy Song
 
-Last updated at 08/14/2020 17:28
+Last updated at 08/14/2020 17:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
