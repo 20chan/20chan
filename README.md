@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sW7oSE9bAFNU5DC_TFr0IoeNPDWrhHVGoGcQp8t9GXob00AbyL42Y1BFqStc2NkQ0icZ3Z1VToz7qbhreA">](https://music.youtube.com/channel/UCdlcUL-Va_WnVQ-kENAfjkA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RG92soY11tCRckJuiLvwUF0YACEyBcC4m-GUre3ffB6afsGiRGJw1n-8CWtHkC7Q049HmyfU4aPGNtQ">](https://music.youtube.com/channel/UCERrDZ8oN0U_n9MphMKERcg)
 
-lovelytheband - broken
+Billie Eilish - bad guy
 
-**Albums**: everything i could never say...
+**Albums**: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 
-Last updated at 08/14/2020 15:54
+Last updated at 08/14/2020 15:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
