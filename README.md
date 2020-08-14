@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/95VwtMY87dW2fu2NCretCxPdEzcNU52CgV70Ib9dSj9fnsKZaz27fnNKy-WFzxZYYXTNwDTGJj92UzwT5Q">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-CHANGMO - High With Me
+Changmo, ASH ISLAND & Junggigo - PAY DAY
 
-**Albums**: Gettin Money Moment
+**Albums**: PAY DAY with KozyPop
 
-Last updated at 08/14/2020 11:30
+Last updated at 08/14/2020 11:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
