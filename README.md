@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vYXM7WiI89SlIAhCwhcobdRy9ACugdaEuk8ZytQzQk92Wgu02IwjX9b7HfsWS0UB14KQ4S0ro6Nw2Sm9A">](https://music.youtube.com/channel/UCSYiZYcIRsDGJMd3eLJ4T1g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mrqdZT-UuDInyOvtNoCFZMMUNVp9gAK-0npgEk83K9VvlpJHxXdYIrQ3q9o3UW6O5uuDj6mBiRHS1zRp">](https://music.youtube.com/channel/UCNrTdctAV0JMT7RBQvpA5lw)
 
-Big Data - Dangerous (feat. Joywave)
+The 1975 - Somebody Else
 
-**Albums**: 2.0
+**Albums**: I like it when you sleep, for you are so beautiful yet so unaware of it
 
-Last updated at 08/14/2020 18:29
+Last updated at 08/14/2020 18:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
