@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Aw8zGRYNjORyJdsTDmZU5ii3AE7KObfOF2r9AGRVdEgJoRxeW5hLC0xZ4v8luHgiKVyTjlfgnzCA5_kY">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-The Quiett, Sik-K, Beenzino & CHANGMO - The Fearless Ones
+CHANGMO - Interlude
 
-**Albums**: The Fearless Ones
+**Albums**: Dnsg
 
-Last updated at 08/14/2020 11:13
+Last updated at 08/14/2020 11:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
