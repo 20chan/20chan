@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J-SmSNMHaLyrh1CloGoFmycbSqlXDnpNW3-fxBNpt2z0TQTRwDWfKD-GcHPzJt4bjoPBg9ZfjwjQ6RM">](https://music.youtube.com/channel/UC7xy1_cEwDPN2Ffk1fyFbIQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ldVVO7vktLrUuW13A3oCdDlgrxfTQxmIyyMwAxef5W07pkRxdbgu3GLV8BaIZkW_RDR7qxd9utQy7Wqj">](https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw)
 
-Young the Giant - Cough Syrup
+LINKIN PARK - BURN IT DOWN
 
-**Albums**: Young The Giant (Special Edition)
+**Albums**: LIVING THINGS
 
-Last updated at 08/14/2020 16:49
+Last updated at 08/14/2020 16:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
