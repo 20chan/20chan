@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vbzlk2m5uuvj6HA6jiXOfqrZq-kO9Fe14CUr52ZVQOfR59kiQ--nGpzrYPzX7rU_GnP8mSsHzV4ZV4YN">](https://music.youtube.com/channel/UCNEOs26SV8KlC9XxqdR7jew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QyrJFqcxXiYic9cTdkEGZJ4pTflPELVIogytzraWvnmv_rvlx_6FiL2tNCUwogXNPzV8M0f4JIGFT66T">](https://music.youtube.com/channel/UCKbSM-2Qu8hCdLDdzpFa0eQ)
 
-Rise Against - Help Is On The Way
+Foals - Mountain at My Gates
 
-**Albums**: Endgame
+**Albums**: What Went Down
 
-Last updated at 08/14/2020 18:02
+Last updated at 08/14/2020 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
