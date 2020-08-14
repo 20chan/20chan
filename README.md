@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fjb78OoY9IQ3qXDgJJE_PTHmoqVxf9rMr3BK7d7OXxk_6ZKg6-UzBe0m5JMU76I-IWRC6BokFeVY8Eff">](https://music.youtube.com/channel/UClxuMOFeLBJXk8nt-SolPvw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w1RdeWZ2cu6vz5iQ9KNzvqHWQmpp_1g1QpsniknFKbFKnMa_wmZ16gnLusVVsTPuuo3lMX2-ZeFbgBES">](https://music.youtube.com/channel/UCu2RsGHaGIWwQbBgYaxcdvg)
 
-Capital Cities - Safe And Sound
+Passion Pit - Carried Away
 
-**Albums**: In A Tidal Wave Of Mystery (Deluxe Edition)
+**Albums**: Gossamer
 
-Last updated at 08/14/2020 20:37
+Last updated at 08/14/2020 20:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
