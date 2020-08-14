@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WQNIvC4Nis2klMH5EIGDjJGP06rTreadYPGPVwwqrgma4iO8TZmdaBWbTka5gXnipJT6HsXU9q5hSJw">](https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5NjZiDy3KShHY_A0cC1vQeHcBZZZQOu_oJ-ubDAoHUgz6n-NfwbeM8F2Yai6x8gXrKdjkRKepOvzTOU9lw">](https://music.youtube.com/channel/UCNpObHElUk-URbs0wvC6rTw)
 
-C JAMM - Pokerface
+KIM SEUNG MIN - Chase the Star
 
-**Albums**: KEUNG
+**Albums**: Chase the Star
 
-Last updated at 08/14/2020 12:02
+Last updated at 08/14/2020 12:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
