@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/u0htw6OuJtLoqaqfcXERYfyTieWDkFZT0dUqdJ4_udvDuS_i2T-JLt_fF2HTUD-Xbvqk9nJQo1yleMyY">](https://music.youtube.com/channel/UC1cnYMXqKdazz-gDPKaDFyg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HsEwUQH8tH10S_G33c9a-iv7iUJ7Ksbfbdpemb2B_uNqjYvf-hB4AMGHNf6gDurP4g4ZTa-3GnMGGwIa">](https://music.youtube.com/channel/UC39pUcAh8ipNPkA1W0dR0cA)
 
-The Neighbourhood - Sweater Weather
+Empire Of The Sun - Walking On A Dream
 
-**Albums**: I Love You.
+**Albums**: Walking On A Dream (10th Anniversary Edition)
 
-Last updated at 08/14/2020 16:20
+Last updated at 08/14/2020 16:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
