@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AUxZNat2bDQVLKR-OK4lmlOU4KGTsqdHeyf7dr9shdu89LGc2x6_JH0sGtgg-q3x0TJb5UfifdaIKgs">](https://music.youtube.com/channel/UCfY9T6xD-ZNscDnZDEmJQWA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WFppSCeaPUG8wHlE3muUmk3uEYc0ixMb0-_DXv3YoFLYVuilTD8yEYykMK5XCwqWunF_l9oTLauqzRo0GQ">](https://music.youtube.com/channel/UC2H7T-NCJUD9uAvLZI8qHOw)
 
-Sultan Of The Disco - Shining Road
+Yada - An Already Sad Love
 
-**Albums**: Easy Listening For Love
+**Albums**: Wear To Hearing
 
-Last updated at 08/14/2020 15:17
+Last updated at 08/14/2020 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
