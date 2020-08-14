@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WkwAJA45WQYivDAUmCAUK-hPHHxQrGVPPmLi_LA4wrjE6c_QR_ft_oUT3SIa8srv9X23IB0jT8Mk2Ye0">](https://music.youtube.com/channel/UCEYapch47TYc3ldsQIrC3Uw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/puiBcgumdSNkoP6NeClJpJSWGaKmPWr5_JthyhX3Zi_bNqSA2Qnnx6sU_0RuEFJlA74otbdxiCuERcs">](https://music.youtube.com/channel/UCMcghb8JhNIYntWea9QKFGA)
 
-Mura Masa - Lovesick
+The Lumineers - Ho Hey
 
-**Albums**: Someday Somewhere
+**Albums**: The Lumineers (Deluxe Edition)
 
-Last updated at 08/14/2020 17:48
+Last updated at 08/14/2020 17:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
