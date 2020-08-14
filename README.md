@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XuAvrVpjJ2ryQ3jHnCWFTyazRxzvG889b-6KzFFcKbIYLFsWCz9ybWFPAwsoOCQiCvrbk90CqSNwfa8">](https://music.youtube.com/channel/UCneQ7UWyu9USLDgMya6T7IA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9x8NO8xsn6YMmMNiZyWE_1Ybyq86IYi99POqsHrNIOp7d_5aUu1X9eVssD2zIbTxk22d0X9iw2WTHdYY">](https://music.youtube.com/channel/UChTOXkDhGJ0JftnfMWjpCCg)
 
-The Killers - Runaways
+K.Flay - Blood In The Cut
 
-**Albums**: Battle Born (Deluxe Edition)
+**Albums**: Every Where Is Some Where (Deluxe Version)
 
-Last updated at 08/14/2020 20:30
+Last updated at 08/14/2020 20:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
