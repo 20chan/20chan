@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KNOd5RzsCc40M8wpPfdgWas-vSLvMk0qJ32GK__ETzlg4_RzY_ABPSfeRMk2dzMeDoI0FLq5Wigxykx2Kg">](https://music.youtube.com/channel/UCuHOLiNuJIwQsbYC4Q0k4Qw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fFO8LUveaTl9bn4tPNIppHuv1J1XpMeg9lIUKN6Jb20B360-Mis0kC4Q1CfpGkR7LTqZWLMYjLkR-66T">](https://music.youtube.com/channel/UCwNoBkSn4w8l4olCKDCTplQ)
 
-Santigold - Disparate Youth
+Vance Joy - Riptide
 
-**Albums**: Master Of My Make-Believe
+**Albums**: Dream Your Life Away (Special Edition)
 
-Last updated at 08/14/2020 16:28
+Last updated at 08/14/2020 16:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
