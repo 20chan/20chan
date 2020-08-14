@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YAskym9JuOSiLw8Gt8w3MQirM3qPQSrRFOp17qtVurfRyeeMay8tlMPh2IFEzOCvCP2ZX2IOhNC3b2A">](https://music.youtube.com/channel/UCfgmSmdaYvNi2g7-VyGlEcg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pYgnBzawCzglwcT9Ff6tbVha6rTTGrTOciJ88wvwrltzNR8MPbsSFDUPQpmByyMRzN4vswfeY1xuU7MJ">](https://music.youtube.com/channel/UCL5YsYJMZ-S5SU4_RQOWEPw)
 
-The Head and the Heart - All We Ever Knew
+Jack White - Lazaretto
 
-**Albums**: Signs of Light
+**Albums**: Lazaretto
 
-Last updated at 08/14/2020 19:21
+Last updated at 08/14/2020 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
