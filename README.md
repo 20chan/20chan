@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dTaLSBJmPtDdl69KdOGmYmfEb6EEwGkaEcm3j3ksWgdppIUjfNnVLE_jxLTkJl7KBliu5_YjMPfGLDuV">](https://music.youtube.com/channel/UC0NqJ6MhRnkRaWAmBgyyjTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/N9NFfoYgwBRNeNbIJoOY2rss0V-GOB_vQ7qkV1hiQcKyVZwaCDrGU61MW9DU4-8KpN3fMnfioY5Saqc">](https://music.youtube.com/channel/UCHqD2OBWbcWGmCve99uw47A)
 
-Fall Out Boy - Centuries
+Kings Of Leon - Radioactive
 
-**Albums**: American Beauty/American Psycho
+**Albums**: Come Around Sundown (Expanded Edition)
 
-Last updated at 08/14/2020 20:10
+Last updated at 08/14/2020 20:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
