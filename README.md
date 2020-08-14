@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7OUhu3Oitjkm4YiAjtgXq-l4qRakOk3NAL78Ybp0ePV0_-fYNbK-KqLtQRUPHDUiNNQ2dDPd07YNRco7hw">](https://music.youtube.com/channel/UCXvAK640Ko85SLbI-zA0ZCg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zfkX7dIBJ_Ik0Klwy3jKO5aE0wdERCWanaaeXLMVelrZmsFsgAp33aawtWYHY-QNv78fpJR6M7KpIKU">](https://music.youtube.com/channel/UCUslN5d3K5iQ7s65GNPrjQQ)
 
-Arcade Fire - Everything Now
+Phantogram - Fall In Love
 
-**Albums**: Everything Now
+**Albums**: Voices
 
-Last updated at 08/14/2020 20:17
+Last updated at 08/14/2020 20:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
