@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/trWSJMR2GIw4TTSX4CiK5Sk6bLrk-ylcYCFDj7X0h9zCo5z0UM9Fp_EJP16ydPRjHcvEsv_WxO9yy1DX">](https://music.youtube.com/channel/UCpjxqiRSP5nQ4tp1fT2bjHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Om_5j95G4alBB36QmOAp5u3e3PCL06xmUqEXyj06Gd3TyqKcilr6md857pELW1vKQvX7aIAZ3sCEe9g">](https://music.youtube.com/channel/UC0UUzwcmD3s1S7NYAxHfs1w)
 
-Of Monsters And Men - Little Talks
+M83 - Midnight City
 
-**Albums**: My Head Is An Animal
+**Albums**: Hurry Up, We're Dreaming
 
-Last updated at 08/14/2020 20:02
+Last updated at 08/14/2020 20:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
