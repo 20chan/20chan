@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb">](https://music.youtube.com/channel/UC0aXrjVxG5pZr99v77wZdPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z5KbUX6J4RVWVgJs4LE91CRgTCFnaL-aTlJN_wNy9afGpeSuGWH4Ie0ptv2yRgkyqjMrJEr2fAgaIeQ">](https://music.youtube.com/channel/UCNIV5B_aJnLrKDSnW_MOmcQ)
 
-Imagine Dragons - Radioactive
+Gorillaz - On Melancholy Hill
 
-**Albums**: Night Visions
+**Albums**: Plastic Beach
 
-Last updated at 08/14/2020 21:00
+Last updated at 08/14/2020 21:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
