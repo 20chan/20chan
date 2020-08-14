@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xBAPxjCdD-8QVT0f8joMGrSmgbJyd1v2b4xzQXmt_L17JjxHmy21DMBYDy3sy-IIxhIy5cx0egupmacM">](https://music.youtube.com/channel/UCyzh4EnNuEO3Jk_mlXJCIag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-alt-J - Breezeblocks
+The Chainsmokers & Coldplay - Something Just Like This
 
-**Albums**: An Awesome Wave
+**Albums**: Something Just Like This
 
-Last updated at 08/14/2020 16:04
+Last updated at 08/14/2020 16:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
