@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xVsPbDmp_QSFxHVCIjgVFRtB_VohWdQG5sGtTlnLKH5gISSTB6Azdov0jy6oJ3Re_CMNGwet9fjewc">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KGZHA-WHaZUnnHxTBVeIzdU0P_REr4J9c2_TwNZootA16upGHNMdu_xovvYv_oCl_BW9JQlFRM8UZQA">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
 
-BewhY - Day Day (feat. Jay Park)
+BewhY - CHALLAN
 
-**Albums**: Show Me the Money 5 Episode 4
+**Albums**: CHALLAN
 
-Last updated at 08/14/2020 11:56
+Last updated at 08/14/2020 11:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
