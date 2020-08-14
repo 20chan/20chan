@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/d7bJNoH_IybM9ZOI9Q7uQrT-5rBpNwxXFb-DHysqjLzjlwr9NRCmOmwE3Hv61INMN9At6KCYBWVTxKD_">](https://music.youtube.com/channel/UCqR2ATuiV-PN2fWzuRYjcbg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/C_Wsvrqk0E7nO6RIpv-PKjE-T2DopCSlrHLAsUZXP_OOW4F-RZ63P_SMCiYx8KGp2RuSJhnL1OC8hzw">](https://music.youtube.com/channel/UCtgFWXl1mpHy_zeHcnbB8Iw)
 
-Fun. - We Are Young (feat. Janelle Monáe)
+Alabama Shakes - Hold On
 
-**Albums**: Some Nights
+**Albums**: Boys & Girls
 
-Last updated at 08/14/2020 18:51
+Last updated at 08/14/2020 18:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
