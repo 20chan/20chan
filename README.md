@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JBTA0qrraPnaOpb3i0dPEHLBoAd_6dQGU_zJXka_Harjho1Jh4L47Rd3lWaRumhY5fJHb3jD5ZC4wU4">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iGP5HeyZao8SD7kH7VC872iseyKldFaV1ceAxaUAGrWfe1M9fEu1SudK5YO3BPJjvHMTg1XZWsYWowODLQ">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-YUMDDA & CHANGMO - Don't Touch My Phone (feat. Zoorumpug)
+창모 Changmo - AIYA (feat. Beenzino)
 
-**Albums**: Don't Touch My Phone
+**Albums**: DBSG 3
 
-Last updated at 08/14/2020 10:49
+Last updated at 08/14/2020 10:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
