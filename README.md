@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">](https://music.youtube.com/channel/UCO4p2LbFEEF1HKm4HnUVjfg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/06OPfX7sqg28dYZnCct8TYW2Cl8S9Ikgq12KIoEp-tyiK4JinlCeaGH3gT_G6s-wGrR5E75TRrnzQ1w">](https://music.youtube.com/channel/UCcLMZJjuTemcPcBevnlxdTg)
 
-Young B - Business class (feat. JUSTHIS)
+Goretexx - Umm Umm
 
-**Albums**: Stranger
+**Albums**: Umm Umm
 
-Last updated at 08/14/2020 15:39
+Last updated at 08/14/2020 15:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
