@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qPNZ5FAYm9Uvix4PxWdd4DjRacONnam5C1G4RDrZMBDkBDBItUyS5P74AyZ4VkCAej_93u9mMgfS8I3z">](https://music.youtube.com/channel/UCT5O41GykmKuyD2lQlwm5DA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Es3MmLI0wMxQqXuY-wfUqGHIOAYd1PpJF4dDydJvYhWtbvHhbRHJEfraQlRBFvUhck9WXgiyJK2Ni1Ng">](https://music.youtube.com/channel/UCwDw2KaS8jRUxAPScL2U8og)
 
-Lykke Li - I Follow Rivers
+Foo Fighters - Something from Nothing
 
-**Albums**: Wounded Rhymes
+**Albums**: Sonic Highways
 
-Last updated at 08/14/2020 20:44
+Last updated at 08/14/2020 20:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
