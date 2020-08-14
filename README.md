@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Om_5j95G4alBB36QmOAp5u3e3PCL06xmUqEXyj06Gd3TyqKcilr6md857pELW1vKQvX7aIAZ3sCEe9g">](https://music.youtube.com/channel/UC0UUzwcmD3s1S7NYAxHfs1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dTaLSBJmPtDdl69KdOGmYmfEb6EEwGkaEcm3j3ksWgdppIUjfNnVLE_jxLTkJl7KBliu5_YjMPfGLDuV">](https://music.youtube.com/channel/UC0NqJ6MhRnkRaWAmBgyyjTA)
 
-M83 - Midnight City
+Fall Out Boy - Centuries
 
-**Albums**: Hurry Up, We're Dreaming
+**Albums**: American Beauty/American Psycho
 
-Last updated at 08/14/2020 20:06
+Last updated at 08/14/2020 20:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
