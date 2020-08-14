@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QGvj937bpsLfYNyXXfPEsJQ2yzGBe-p7Q705OHip3zPbyjGWDzTfUCD4IYU3BXTwnM1xhqLOZ0M_lINs">](https://music.youtube.com/channel/UCP7PYrn4CYd3YrwVP22nGBQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DzA6tmNob8ptuM2y_WhO0Xi52qG0yBQcQdgGISavD5215JEjbwgdLXJ7LzhDtDvpXD8gFyb02XIjv2OL">](https://music.youtube.com/channel/UCA3Zs9A2IeetfGT3Omi9ivw)
 
-The Gaslight Anthem - "45"
+Hozier - Take Me To Church
 
-**Albums**: Handwritten (Deluxe Version)
+**Albums**: Hozier (Special Edition)
 
-Last updated at 08/14/2020 19:39
+Last updated at 08/14/2020 19:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
