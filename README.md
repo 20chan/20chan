@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RLSYx1_XbbORnr1EKt8PxOureAZkOjukB1EHmElHA5Ac1vNX9GnmWXSIq650uOIXQaSLDBlINJPeM8MAgg">](https://music.youtube.com/channel/UC5pM41KCkRVXpGjjvvpVfhw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9sEKCZ90V__YWlPdMpjVTOixRVNIKs14DKNKnnuIPQCo6igBPzRjbwZHB0-7dH2qPoM8tnpC_DZbku3l">](https://music.youtube.com/channel/UCzsEmTSzPLxL0w0Ff6n8rEA)
 
-AWOLNATION - Hollow Moon (Bad Wolf)
+Miike Snow - Animal
 
-**Albums**: Run
+**Albums**: Miike Snow
 
-Last updated at 08/14/2020 18:39
+Last updated at 08/14/2020 18:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
