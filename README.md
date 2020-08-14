@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TBZwGVexVwKqB72dcGGW1Y7gCWE_J5gD9Wa_3LHo0goLo5vWmNq-BvPp_4Jav8FN8Z3sXanpO-AU8-Zt">](https://music.youtube.com/channel/UC3zDBc-LGuLP4WXe0JPn8ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ond7bzyvLRgppE6e31TdY8T3R1JDC5dZOdPZjb1cPoB49HDwhoZknvgkFAFvO2YISdg8UQjcs9bK9UQ5">](https://music.youtube.com/channel/UC93q7WvkXEJBlk_QcO8aAuA)
 
-WALK THE MOON - Shut Up and Dance
+Macklemore & Ryan Lewis - Thrift Shop (feat. Wanz)
 
-**Albums**: TALKING IS HARD
+**Albums**: The Heist
 
-Last updated at 08/14/2020 20:53
+Last updated at 08/14/2020 20:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
