@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PBSTJCLmYufhxxH2jZbWxJzFqoN_FCFkxxrZGM5nQDYMTQ57FOK443G5hytK8I6JwWj-yIw9HywswuCzQQ">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Hash Swan, ASH ISLAND, Keem Hyo Eun & CHANGMO - Bition Boyz
+CHANGMO - S T A R T
 
-**Albums**: Bition Boyz
+**Albums**: Boyhood
 
-Last updated at 08/14/2020 11:22
+Last updated at 08/14/2020 11:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
