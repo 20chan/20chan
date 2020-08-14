@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S0WUlTNEY2LUObVdmU2L01V9NowN3FGewn84UiPBLuDKnWCG14var02owLk4J1LbKuGG-JBzdYiA9TPF">](https://music.youtube.com/channel/UC3M2IkAU3VrLfyMtVjp8pPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YsUr50gMskioyLbYBLwOPUkGw5NfbjjyZGez4atzEL8PDcXJWDgxITJFMN43PVYuL08wDodgCfrbrjHa">](https://music.youtube.com/channel/UCYpxys9EDJAq4-7vUX-ihig)
 
-김건모 - Excuses
+Lee Juck - With you(그대랑)
 
-**Albums**: 핑계
+**Albums**: LOVE
 
-Last updated at 08/14/2020 15:32
+Last updated at 08/14/2020 15:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
