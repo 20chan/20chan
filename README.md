@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-창모 CHANGMO - One More Rollie (feat. Keem Hyo Eun & Hash Swan)
+CHANGMO - Wait For Me
 
 **Albums**: Gettin Money Moment
 
-Last updated at 08/14/2020 11:04
+Last updated at 08/14/2020 11:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
