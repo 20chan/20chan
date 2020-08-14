@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pYgnBzawCzglwcT9Ff6tbVha6rTTGrTOciJ88wvwrltzNR8MPbsSFDUPQpmByyMRzN4vswfeY1xuU7MJ">](https://music.youtube.com/channel/UCL5YsYJMZ-S5SU4_RQOWEPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WMIe4F-ry87kxCErdPj5H_KQDi1yt_OU5nIF0zjj_6YhAWwT9SGOywzpVkNaBjwqEJ7FDnEUMN3Cq1US">](https://music.youtube.com/channel/UCEzKJjoeTTya-UhPmuLMiIg)
 
-Jack White - Lazaretto
+The Revivalists - Wish I Knew You
 
-**Albums**: Lazaretto
+**Albums**: Men Amongst Mountains
 
-Last updated at 08/14/2020 19:24
+Last updated at 08/14/2020 19:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
