@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QyrJFqcxXiYic9cTdkEGZJ4pTflPELVIogytzraWvnmv_rvlx_6FiL2tNCUwogXNPzV8M0f4JIGFT66T">](https://music.youtube.com/channel/UCKbSM-2Qu8hCdLDdzpFa0eQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0egdYGPCkIgCjEzMTtly0HiHmTrlbnHyq4jtoUE7azX_1Z1gXCm4h1fJh-Wdve-evcuk0RnrKO-mRNI">](https://music.youtube.com/channel/UCJlu3bHpzWc2fKG_GbBIk8Q)
 
-Foals - Mountain at My Gates
+Silversun Pickups - Circadian Rhythm (Last Dance)
 
-**Albums**: What Went Down
+**Albums**: Better Nature
 
-Last updated at 08/14/2020 18:21
+Last updated at 08/14/2020 18:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
