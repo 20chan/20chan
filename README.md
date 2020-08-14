@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rkgOq94m1PFFOTfY7Q9Ma2WqEqE4qOXjQkeIlR6_5g0FvHamspYh4VI0lIcb3au3NMVLQ8m85Hz9FTVbkg">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QGvj937bpsLfYNyXXfPEsJQ2yzGBe-p7Q705OHip3zPbyjGWDzTfUCD4IYU3BXTwnM1xhqLOZ0M_lINs">](https://music.youtube.com/channel/UCP7PYrn4CYd3YrwVP22nGBQ)
 
-Green Day - Bang Bang
+The Gaslight Anthem - "45"
 
-**Albums**: Revolution Radio
+**Albums**: Handwritten (Deluxe Version)
 
-Last updated at 08/14/2020 19:36
+Last updated at 08/14/2020 19:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
