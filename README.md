@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lfoN-xmx2Qt8thNGRDA3yKKbv4zZX9puqmQqwp_Lg8w2doH_bnHrBC2PUuy5Oruq_KZ5OZ-2FwxKmUyf">](https://music.youtube.com/channel/UCqWx-Zlnt0wv-7ziGjA-f6w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/d7bJNoH_IybM9ZOI9Q7uQrT-5rBpNwxXFb-DHysqjLzjlwr9NRCmOmwE3Hv61INMN9At6KCYBWVTxKD_">](https://music.youtube.com/channel/UCqR2ATuiV-PN2fWzuRYjcbg)
 
-Elle King - Ex's & Oh's
+Fun. - We Are Young (feat. Janelle Monáe)
 
-**Albums**: Love Stuff
+**Albums**: Some Nights
 
-Last updated at 08/14/2020 18:48
+Last updated at 08/14/2020 18:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
