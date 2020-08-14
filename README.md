@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-PeaX4afQwY5AjELhwSe_DPTNCb7p7gqQme5_zFVbcVJRWODzgpCutF7o9_dzdPlyPzt06yn1z9UoNHCmA">](https://music.youtube.com/channel/UCn27y010kAJSwpKKBhTwUuA)
 
-The Chainsmokers & Coldplay - Something Just Like This
+American Authors - Best Day Of My Life
 
-**Albums**: Something Just Like This
+**Albums**: Oh, What A Life
 
-Last updated at 08/14/2020 16:07
+Last updated at 08/14/2020 16:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
