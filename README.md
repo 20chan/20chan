@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zPolhu6KIY5HDyFYwKVK7L3lRHCPOy2ehGJ8S2UgTBPkqGb9KMZ5rlcyR6dFm2_S4P5yVT-WzmOrjzaJ">](https://music.youtube.com/channel/UCYDHG41CGrBZhbFw7lZMI9w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iTqFzzygYb5B01Jw3RqAXnlG2vk5XhAAohimjAh4WrYRyjWQhP7GJD2zW1TJQ2KWWSbZKNbNfPq4Twk">](https://music.youtube.com/channel/UCMcghb8JhNIYntWea9QKFGA)
 
-Fitz and The Tantrums - Out of My League
+The Lumineers - Cleopatra
 
-**Albums**: More Than Just a Dream
+**Albums**: Cleopatra (Deluxe)
 
-Last updated at 08/14/2020 19:14
+Last updated at 08/14/2020 19:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
