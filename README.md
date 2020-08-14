@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4xVsPbDmp_QSFxHVCIjgVFRtB_VohWdQG5sGtTlnLKH5gISSTB6Azdov0jy6oJ3Re_CMNGwet9fjewc">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mQ0MYG70jp7ZJ-ov7zJzdc-YaZ483vBO5OvRuY3OBpkMPqmswZJGlMoG0eD1bUo6BunVhL3MA3Yywdnc_A">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
 
-BewhY - Day Day (feat. Jay Park)
+BewhY & Simba Zawadi - Hymn
 
-**Albums**: Show Me the Money 5 Episode 4
+**Albums**: NEO CHRISTIAN
 
-Last updated at 08/14/2020 11:49
+Last updated at 08/14/2020 11:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
