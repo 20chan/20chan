@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PASCfipUn_piu1wRRgHZJs16jLNzlcYIJF6Rs1-ZkQ54VzIFZvh2LJlKZ654Wp6qKOEPYge-th9knuk">](https://music.youtube.com/channel/UCZZjopQPSArcZG8SxknPIDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DD8wg-0AtQ3GcGHUgDdjzkaJnuCvMD73hhQ_y9uiFn0gClyXxM_LB9Z-KbF_9Pbd_XjOO-JHpYSIkFMY">](https://music.youtube.com/channel/UCmSTAuwJPwjky-UTjpjbgZg)
 
-Grouplove - Tongue Tied
+White Reaper - Judy French
 
-**Albums**: Never Trust a Happy Song
+**Albums**: The World's Best American Band
 
-Last updated at 08/14/2020 17:31
+Last updated at 08/14/2020 17:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
