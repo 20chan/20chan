@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iT0bP_t5lkMAK0YRmzFemsGVcB7JQo2ibPLtwUyDJD_XiUvHBxwzpQKwUm_gibACWSEsrMH08hlJwNs">](https://music.youtube.com/channel/UC8fxkahdLdfHk8pF1fRYD-w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yUEMoQwp6r_5GUA69rM3gJ68gyDAxJnXDyD01bnSFAOuVZqfdZkgll1Qhn9D43EsvTlke8lnrnRhyMiC">](https://music.youtube.com/channel/UCXvAK640Ko85SLbI-zA0ZCg)
 
-Beck - Up All Night
+Arcade Fire - Reflektor
 
-**Albums**: Colors
+**Albums**: Reflektor (Deluxe)
 
-Last updated at 08/14/2020 16:57
+Last updated at 08/14/2020 17:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
