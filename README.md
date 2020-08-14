@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l07aUoJyY1hBKx6f_kW-MTPe-O3J6OM5aRPQpe_upoUATk7p9RnySN-ipIG-pUnqbCbNgb0dhmxmwFiG">](https://music.youtube.com/channel/UCZa7crFd_TP-vDn4fUdzqTw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uO6SxSnn-wMCpCQUk3BY-5hYUhiotkqm0lrAIiGBqf6vBkDKUZxFbMXUCzo-fWHmIknAB77JDqBamtKc">](https://music.youtube.com/channel/UC6EQ-tdoGO0kSxvoPgyAsKw)
 
-Alex Clare - Too Close
+The Struts - Could Have Been Me
 
-**Albums**: The Lateness Of The Hour
+**Albums**: Everybody Wants
 
-Last updated at 08/14/2020 19:50
+Last updated at 08/14/2020 19:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
