@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yUEMoQwp6r_5GUA69rM3gJ68gyDAxJnXDyD01bnSFAOuVZqfdZkgll1Qhn9D43EsvTlke8lnrnRhyMiC">](https://music.youtube.com/channel/UCXvAK640Ko85SLbI-zA0ZCg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/m2nCAThlsFA_cNd7WrZyDzmxOGtvg2JrEQJ6ercmsdJQNs_bcktsLYV0vyiEL5vVCqS_pcTzkS1Ce23p">](https://music.youtube.com/channel/UCILoG0-vdgLDnrwtRuM_0GQ)
 
-Arcade Fire - Reflektor
+Lorde - Green Light
 
-**Albums**: Reflektor (Deluxe)
+**Albums**: Melodrama
 
-Last updated at 08/14/2020 17:00
+Last updated at 08/14/2020 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
