@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0j6ARlDLUq8wNHYDPFobBSf5g0O2olu2mtbFgvYkoR0FLL8ydJEOtC5elAFuZ_bE84fwavHFHGv1knKE5A">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PBSTJCLmYufhxxH2jZbWxJzFqoN_FCFkxxrZGM5nQDYMTQ57FOK443G5hytK8I6JwWj-yIw9HywswuCzQQ">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-창모 CHANGMO - I Always
+Hash Swan, ASH ISLAND, Keem Hyo Eun & CHANGMO - Bition Boyz
 
-**Albums**: The Best Hit (Original Television Soundtrack), Pt. 7
+**Albums**: Bition Boyz
 
-Last updated at 08/14/2020 11:18
+Last updated at 08/14/2020 11:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
