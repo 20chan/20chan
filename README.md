@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/95VwtMY87dW2fu2NCretCxPdEzcNU52CgV70Ib9dSj9fnsKZaz27fnNKy-WFzxZYYXTNwDTGJj92UzwT5Q">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qx5CCpfn5_VJw0TKJRDkuNBrch1gom88ssv8lUQBBEE1V1atYSfMXBR3fU8b5q3wO5hs4Azri8SsM6bC">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Changmo, ASH ISLAND & Junggigo - PAY DAY
+창모 (Changmo) - 돈이 하게 했어
 
-**Albums**: PAY DAY with KozyPop
+**Albums**: 돈 벌 시간 2
 
-Last updated at 08/14/2020 11:34
+Last updated at 08/14/2020 11:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
