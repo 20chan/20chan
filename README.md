@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1PRIvZunuz7YL04_V8JcLWpiymv75O7UmAIyT7jw-fqRRlNG8JCLWC8tXhZounHPjAZH8V-IkmgWBAHd">](https://music.youtube.com/channel/UCtHZHneyvFGwxg6MHcbMLAw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vbzlk2m5uuvj6HA6jiXOfqrZq-kO9Fe14CUr52ZVQOfR59kiQ--nGpzrYPzX7rU_GnP8mSsHzV4ZV4YN">](https://music.youtube.com/channel/UCNEOs26SV8KlC9XxqdR7jew)
 
-Weezer - Africa
+Rise Against - Help Is On The Way
 
-**Albums**: Weezer (Teal Album)
+**Albums**: Endgame
 
-Last updated at 08/14/2020 17:58
+Last updated at 08/14/2020 18:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
