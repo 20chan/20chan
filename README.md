@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/eW8G5ASsDUuAF7IlbbcYnGXZfOl2QESHeBxC2rAUbF0R_y8H3mosuODyCG6TFIyfo2OUticrYQry1Wzo1w">](https://music.youtube.com/channel/UCD-Zpy6nj1PamZaFGK5LY2w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JBTA0qrraPnaOpb3i0dPEHLBoAd_6dQGU_zJXka_Harjho1Jh4L47Rd3lWaRumhY5fJHb3jD5ZC4wU4">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-HYOLYN & CHANGMO - BLUE MOON (Prod. GroovyRoom)
+YUMDDA & CHANGMO - Don't Touch My Phone (feat. Zoorumpug)
 
-**Albums**: BLUE MOON
+**Albums**: Don't Touch My Phone
 
-Last updated at 08/14/2020 10:46
+Last updated at 08/14/2020 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
