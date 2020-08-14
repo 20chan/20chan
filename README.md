@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VdUJgl2GVAVVL4Ejr6ALbfJ-YEeSHaYR5f1IzShffXkKgRue4Q3_UAaFQ3DouNbMbZmgFUI75sb_sUbM">](https://music.youtube.com/channel/UCx1134TOoCCPpzjJSv1OxtQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ghX-i25jiFe7OaZl74B8tSZrnUm9B9IdAncfqzX9pz-B9rVr8bfNfG3HUj-4Lhk99B7_KKQnHnwDWsgb">](https://music.youtube.com/channel/UCa-eC6HHF4wFVB0bXM9vk1w)
 
-The Naked And Famous - Young Blood
+Kongos - Come with Me Now
 
-**Albums**: Passive Me, Aggressive You
+**Albums**: Lunatic
 
-Last updated at 08/14/2020 15:46
+Last updated at 08/14/2020 15:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
