@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5c_grICraher_LR3t6vO-Glzx36nL_DekneXpYV77AAz0QInJhYQlj49T9KwhF1_YKLHdPAeNzJHcFlq">](https://music.youtube.com/channel/UCU_JWX1agawhZ2lek-6ip8g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WkwAJA45WQYivDAUmCAUK-hPHHxQrGVPPmLi_LA4wrjE6c_QR_ft_oUT3SIa8srv9X23IB0jT8Mk2Ye0">](https://music.youtube.com/channel/UCEYapch47TYc3ldsQIrC3Uw)
 
-The Strumbellas - Spirits
+Mura Masa - Lovesick
 
-**Albums**: Hope
+**Albums**: Someday Somewhere
 
-Last updated at 08/14/2020 17:45
+Last updated at 08/14/2020 17:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
