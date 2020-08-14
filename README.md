@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gLT6AuLKrhAlVtEZKQCNwPiVb0-HmdxXDZYQiRrTDPXxvC1lGjTDEh7TN_U8bsO3Mfzh-3OxvqkOViU">](https://music.youtube.com/channel/UCBSGgAD3UXDPzm2kVVAOEag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tIv02S1fHlsosoGYTmHk0iA5ZvuKAqCG2JYIq_8cmCfSsh25AYBCl-c3GnVLCjOpCjgxbaDV1qqWvuHbIA">](https://music.youtube.com/channel/UCfeJiV0Xu-C4z4DApRcznig)
 
-Portugal. The Man - Feel It Still
+Glass Animals - Gooey
 
-**Albums**: Woodstock
+**Albums**: ZABA (Deluxe)
 
-Last updated at 08/14/2020 17:16
+Last updated at 08/14/2020 17:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
