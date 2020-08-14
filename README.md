@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY">](https://music.youtube.com/channel/UCwDw2KaS8jRUxAPScL2U8og)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XuAvrVpjJ2ryQ3jHnCWFTyazRxzvG889b-6KzFFcKbIYLFsWCz9ybWFPAwsoOCQiCvrbk90CqSNwfa8">](https://music.youtube.com/channel/UCneQ7UWyu9USLDgMya6T7IA)
 
-Foo Fighters - Rope
+The Killers - Runaways
 
-**Albums**: Wasting Light
+**Albums**: Battle Born (Deluxe Edition)
 
-Last updated at 08/14/2020 20:26
+Last updated at 08/14/2020 20:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
