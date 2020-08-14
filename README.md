@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fFO8LUveaTl9bn4tPNIppHuv1J1XpMeg9lIUKN6Jb20B360-Mis0kC4Q1CfpGkR7LTqZWLMYjLkR-66T">](https://music.youtube.com/channel/UCwNoBkSn4w8l4olCKDCTplQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wMJUvYX8DSMZ3gON1bkL9vs7eH9RoZIIUTLnZ71PXyt2xV6lj8CodlrYNJfxI66zJqMstNrrGUP7B2oY">](https://music.youtube.com/channel/UCJ3Q_kExh0ZZMMT05o0FXzA)
 
-Vance Joy - Riptide
+Mumford & Sons - Little Lion Man
 
-**Albums**: Dream Your Life Away (Special Edition)
+**Albums**: Sigh No More
 
-Last updated at 08/14/2020 16:33
+Last updated at 08/14/2020 16:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
