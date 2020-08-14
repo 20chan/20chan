@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OEtMJYgHWu4wN237YyE3nvsuEAPaTT0ZAFAia9Id9_fnBksrM1qm_zh_ZwyolADp5-_HcylN05KDzyI">](https://music.youtube.com/channel/UCU3rXoHt2bCYbpV3s_sJlgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0lZVmTqE-M5vj5PmVQLI89IBHjRC2N17fPHRf7FzVlNLamTQio2c2ZjmuCBgmb-JCUjdKSAolWmZ3i31">](https://music.youtube.com/channel/UCiX0EqRfobz765eBovS1BNQ)
 
-Cage The Elephant - Cigarette Daydreams
+Modest Mouse - Lampshades on Fire
 
-**Albums**: Melophobia
+**Albums**: Strangers to Ourselves
 
-Last updated at 08/14/2020 17:38
+Last updated at 08/14/2020 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
