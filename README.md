@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qx5CCpfn5_VJw0TKJRDkuNBrch1gom88ssv8lUQBBEE1V1atYSfMXBR3fU8b5q3wO5hs4Azri8SsM6bC">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo Eun - Beer (Prod.Way Ched)
+창모 (Changmo) - 아름다워
 
-**Albums**: Dingo X Ambition Musik
+**Albums**: 돈 벌 시간 2
 
-Last updated at 08/14/2020 10:34
+Last updated at 08/14/2020 10:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
