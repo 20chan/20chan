@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wMJUvYX8DSMZ3gON1bkL9vs7eH9RoZIIUTLnZ71PXyt2xV6lj8CodlrYNJfxI66zJqMstNrrGUP7B2oY">](https://music.youtube.com/channel/UCJ3Q_kExh0ZZMMT05o0FXzA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uayvoXhXwnNiJDGZ94gST4qDD6e-PKtiXZXSKd0zoKyPfst3-zNX3FustUNK3xV-8p65rPRl1T3eR2kL">](https://music.youtube.com/channel/UCIzEvQ6PlJ9XxeDrT9jEBTA)
 
-Mumford & Sons - Little Lion Man
+Foster The People - Pumped Up Kicks
 
-**Albums**: Sigh No More
+**Albums**: Torches
 
-Last updated at 08/14/2020 16:36
+Last updated at 08/14/2020 16:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
