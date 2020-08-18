@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7Cj_hDwaJHM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/HWRMtEb1nQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCp57m_15RPFgvjsx3FrCE_A)
 
-pops8090 - 최혜영 - 그것은 인생 (1983年)
+HANKOOK NORE - 이원진 시작하는 연인들을위해 (가사 첨부)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 17:00
+Last updated at 08/18/2020 17:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
