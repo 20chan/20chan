@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Hes89GwN6C4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCl5nx62PvIupxkuuCJvej6A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/GpSsQGaGIw0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClCyNTTT-46Mdb8dgYaufCg)
 
-againsolitude - 느낌 OST 그대와 함께 - 더 블루(손지창&김민종)
+Kim Hyun Jung - 혼자한 사랑
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 18:06
+Last updated at 08/18/2020 18:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
