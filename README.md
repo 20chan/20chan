@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 최용준 - 아마도 그건 (1989年)
+pops8090 - 김정민 - 애인·愛人 (1996年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 18:21
+Last updated at 08/18/2020 18:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
