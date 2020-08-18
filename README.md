@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ZvSoboE8zKg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wGvgAlwAHa4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 박정수 - 그대 품에서 잠들었으면 (1991年)
+pops8090 - 비워낼 수 없는 슬픔 - 남자대탐험 OST (1996年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 16:50
+Last updated at 08/18/2020 16:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
