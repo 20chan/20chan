@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-VAKnhroAxw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC-JRLqONDH6jvDgwHBymGYQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LPTSzFaO0VM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Eve - 너 그럴때면
+pops8090 - 원준희 - 사랑은 유리같은 것 (1988年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 13:59
+Last updated at 08/18/2020 14:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
