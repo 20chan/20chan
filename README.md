@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/58_vtKKgQV4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/FL285FjFT74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 이정석＆조갑경 - 사랑의 대화 (1988年)
+pops8090 - 이정봉 - 어떤가요 (1996年) MV
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 13:14
+Last updated at 08/18/2020 13:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
