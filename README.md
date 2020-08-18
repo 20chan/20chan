@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/yVu-ZNImJhk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Hes89GwN6C4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCl5nx62PvIupxkuuCJvej6A)
 
-Byun Jin Sub - 너에게로 또다시
+againsolitude - 느낌 OST 그대와 함께 - 더 블루(손지창&김민종)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 18:02
+Last updated at 08/18/2020 18:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
