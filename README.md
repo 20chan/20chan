@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/B7EKtj7XBCg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=B7EKtj7XBCg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/n2eko173xNc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
 
-southkoreanfolksongs - 꽃밭에서 -- 조관우
+COOL - 작은 기다림
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 15:57
+Last updated at 08/18/2020 16:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
