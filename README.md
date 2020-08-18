@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Cs8Qf2Hw_vw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
 
-Byun Jin Sub - 숙녀에게
+Choi Hosub - When Time Passes
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 15:31
+Last updated at 08/18/2020 15:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
