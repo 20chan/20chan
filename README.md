@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/HWRMtEb1nQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCp57m_15RPFgvjsx3FrCE_A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UbUILnjmOPU/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC0MMq1Whr1aODbFeeKCjjJQ)
 
-HANKOOK NORE - 이원진 시작하는 연인들을위해 (가사 첨부)
+Nareusha Jeong - 박영미 - 나는 외로움 그대는그리움 kpop 韓國歌謠
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 17:04
+Last updated at 08/18/2020 17:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
