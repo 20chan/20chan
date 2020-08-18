@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ANRsBtI7A0U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcV_FzsBhOMimcBedfe1WSQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/PiVRrmiAXrw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnc7G4tBZ218MOwP-G0Ik5Q)
 
-Miss | Mister - It is for you
+Hye-Kyoung Park - One day
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 12:44
+Last updated at 08/18/2020 12:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
