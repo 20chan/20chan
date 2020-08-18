@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pQaI9lgPEDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLonV7kSeHc23AuVnldIf9Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/x4YGWPZTFLY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-風音色* - 北斗 N,S,P
+pops8090 - 부활 - 회상 III (1987年) 마지막 콘서트
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 17:16
+Last updated at 08/18/2020 17:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
