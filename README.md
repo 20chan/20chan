@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4h4ZLDvpwOQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qqu358S6qaU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 나미 - 슬픈 인연 (1985年)
+pops8090 - 수와진 - 파초 芭蕉 (1988年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 16:12
+Last updated at 08/18/2020 16:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
