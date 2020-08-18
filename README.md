@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/26lw0_Z8oAA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ANRsBtI7A0U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCcV_FzsBhOMimcBedfe1WSQ)
 
-pops8090 - 이승환 - 너를 향한 마음 (1991年)
+Miss | Mister - It is for you
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 12:39
+Last updated at 08/18/2020 12:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
