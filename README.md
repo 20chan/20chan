@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Z8tUhGJ4Y5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Z8tUhGJ4Y5U)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XNHYLmNhNvI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCjaLKKvigkB2VwY85VJL4Yg)
 
-천성길 - 송재호 - 늦지 않았음을(Song Jae-Ho - It's not too late)
+HJ S - 토이 - 좋은사람
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 16:21
+Last updated at 08/18/2020 16:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
