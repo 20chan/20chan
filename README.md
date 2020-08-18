@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1KxHQxJmUhc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8aAib0YvMhM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 박화요비 - 어떤가요 (2002年)
+pops8090 - 김정민 - 무한지애·無恨之愛 (1996年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 14:41
+Last updated at 08/18/2020 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
