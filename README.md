@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3Ce03uSKNYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
+pops8090 - 박지윤 - 하늘색 꿈 (1997年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 15:23
+Last updated at 08/18/2020 15:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
