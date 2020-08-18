@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/BRUpkrez7Tk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sjFNeQyUfQg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCIjo5btnh9xttNHVYce0mZQ)
 
-southkoreanfolksongs - 나에게로의 초대 -- 정경화
+sujin0302 - 김형중 그랬나봐
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 15:48
+Last updated at 08/18/2020 15:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
