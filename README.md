@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1C2mQTCETtWxDJTgqm0hW6X6T2L3j0gAwoY368jcs_cxkHGPqBV48k_roO_wFkIzjk0Fzpnn_YOAK7s">](https://music.youtube.com/channel/UCaPHikQGkyaAoH_zwrZmY1w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
 
-M.I.A. - Bad Girls
+southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
 
-**Albums**: Matangi
+**Albums**: undefined
 
-Last updated at 08/14/2020 21:14
+Last updated at 08/18/2020 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
