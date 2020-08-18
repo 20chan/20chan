@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/vEIGCXWop3I/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3KxhuJdDV6A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 이승환 - 화려하지 않은 고백 (1993年)
+pops8090 - 부활 - Never Ending Story + MR (2002年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 16:38
+Last updated at 08/18/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
