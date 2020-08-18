@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/n2eko173xNc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCYz8SkesOW9PBgo7tr8E9mQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VGBtuIOXvww/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-COOL - 작은 기다림
+pops8090 - 이문세 - 그녀의 웃음소리뿐 (1987年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 16:02
+Last updated at 08/18/2020 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
