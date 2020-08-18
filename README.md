@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/PiVRrmiAXrw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnc7G4tBZ218MOwP-G0Ik5Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nCpdJtrd4UM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Hye-Kyoung Park - One day
+pops8090 - 양수경 - 사랑은 창밖에 빗물 같아요 (1989年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 14:24
+Last updated at 08/18/2020 14:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
