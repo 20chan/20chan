@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/x4YGWPZTFLY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/cy4YEZCy8Rw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOzNl-egSzuZF9Dm7EmvghQ)
 
-pops8090 - 부활 - 회상 III (1987年) 마지막 콘서트
+미위그 MIDNIGHT WITH GROOVE - 나는 외로움 그대는 그리움 - 박영미 (Park Young Mi)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 17:22
+Last updated at 08/18/2020 17:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
