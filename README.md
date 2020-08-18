@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XNHYLmNhNvI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCjaLKKvigkB2VwY85VJL4Yg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YlOsw9ZryQI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-HJ S - 토이 - 좋은사람
+pops8090 - 이문세 - 少女 소녀 (1985年)
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 16:27
+Last updated at 08/18/2020 16:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
