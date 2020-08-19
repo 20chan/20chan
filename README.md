@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pQaI9lgPEDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLonV7kSeHc23AuVnldIf9Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JU0VGkPJm-E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
 
-風音色* - 北斗 N,S,P
+Byun Jin Sub - 새들처럼
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 15:32
+Last updated at 08/19/2020 15:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
