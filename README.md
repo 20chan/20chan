@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JU0VGkPJm-E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VGBtuIOXvww/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Byun Jin Sub - 새들처럼
+pops8090 - 이문세 - 그녀의 웃음소리뿐 (1987年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 15:37
+Last updated at 08/19/2020 15:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
