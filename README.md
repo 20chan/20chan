@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3w9qasqk200/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/v-cQvm6-rPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=v-cQvm6-rPw)
 
-pops8090 - 원미연 - 이별여행 (1990年)
+Do Won Kyung - If I love again
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 11:41
+Last updated at 08/19/2020 11:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
