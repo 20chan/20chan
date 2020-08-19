@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCE4Qz27gKHV8_RrKn5xL8Pw)
+[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJzjpOCA4DPehoC6FwT0VeYuHP1rs5d13p38E5bk=s176-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UC73Vs9KZ2ugM5pX6ng_4v2w)
 
-Cash Cash - How To Love ft Sofia Reyes (Official Video)
+DNCE Music - DNCE - Cake By The Ocean
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 18:52
+Last updated at 08/19/2020 18:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
