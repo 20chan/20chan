@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/f0WazFNxWXU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMdaNj7qRWfX_Gh14pUKHlQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pIjqBVxHyOc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCYeMcKj7l6px8xmEGpdXAdw)
 
-MAY - At Jongno
+Mono - You are Always
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:57
+Last updated at 08/19/2020 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
