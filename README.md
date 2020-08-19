@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/wRbXnlc6Yvw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCSK7dM4ZDBgVPA_gk8Q1FoQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/anO1yZ65SB8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCeYIL2G0-ApOfHTo_MQpYEQ)
 
-Boohwal - 사랑할수록
+balkorak - kpop / 더 클래식 - 여우야(女雨夜) 1995년
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:05
+Last updated at 08/19/2020 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
