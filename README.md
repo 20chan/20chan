@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/EZEX3QEbfCQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8aAib0YvMhM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 최연제 - 너의 마음을 내게 준다면 (1993年)
+pops8090 - 김정민 - 무한지애·無恨之愛 (1996年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 11:58
+Last updated at 08/19/2020 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
