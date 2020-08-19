@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LMczQxgrgCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/K2PtquCwp-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8YFejuKnlO-S0Okj6_AdAQ)
 
-Suh Young Eun - I'm Not Alone
+손글씨가사 - [손글씨가사33 Lyrics]나미(Nami) - 슬픈 인연(Sad relations)(Lyrics, 가사 HAN)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:18
+Last updated at 08/19/2020 16:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
