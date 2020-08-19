@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/2FYTP6Fvfpc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XNHYLmNhNvI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCjaLKKvigkB2VwY85VJL4Yg)
 
-pops8090 - 이상은 - 언젠가는 (1993年)
+HJ S - 토이 - 좋은사람
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 12:11
+Last updated at 08/19/2020 12:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
