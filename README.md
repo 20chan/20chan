@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/At9OtMUwfIw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFFzNXXislcOXdJuBaoy_cA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
 
-흥돋은 세포 - 플라워(Flower) 추천곡&인기곡 16곡 노래 모음♡♥ [반복x2]
+southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
 
 **Albums**: undefined
 
-Last updated at 08/18/2020 21:05
+Last updated at 08/19/2020 10:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
