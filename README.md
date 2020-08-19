@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JY04B2j4Yr8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvFdTV_UN2FHw0lxytma2LQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/D27PWMu1DoA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCOpTFt95NxV5FRpWKpwXZNg)
 
-NARO - 신윤미 - 사랑의 불꽃 1989
+UnInvited Guest - 그대 고운 내 사랑 - 이정열(1999)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 15:54
+Last updated at 08/19/2020 15:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
