@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJxRK3Xl9lhqxokQPofqijVGcWGXHS1kjinJzL8=s176-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCvkOJJ9uFi9hto95bD3XO7Q)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-SPYAIR Official YouTube Channel - SPYAIR - Some Like It Hot!!
+장범준 - 자우림 '스물다섯, 스물하나' 어쿠스틱커버 by 장범준 Acoustic COVER
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 17:08
+Last updated at 08/19/2020 17:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
