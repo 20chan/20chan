@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFC9LamNMmLioW643VZ40OA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCCBSAJ-B8QNfds8zAkjn51A)
 
-gotyemusic - Gotye - Somebody That I Used To Know (feat. Kimbra) - official music video
+Moonchild - "Little Ghost" (Full Album)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 19:10
+Last updated at 08/19/2020 20:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
