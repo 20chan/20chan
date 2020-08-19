@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="">](https://www.youtube.com/channel/UCCBSAJ-B8QNfds8zAkjn51A)
 
-Moonchild - "Little Ghost" (Full Album)
+Moonchild - Voyager (Full Album) /// Tru Thoughts
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 20:28
+Last updated at 08/19/2020 21:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
