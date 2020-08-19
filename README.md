@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/EnEdPPChcxY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1XPu7aMRZaJsb-9PHMQt8g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/j2rXghm282o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCq6xagDeejJo60VPW1v96Gg)
 
-RIAK Official - [Official Audio] 조덕배(Jo duck bai) - 꿈에(Ggume)
+B612(비육일이) - 나만의 그대모습
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 18:12
+Last updated at 08/19/2020 18:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
