@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QVE6xmJyZQI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LPTSzFaO0VM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 박성신 - 한번만 더 (1989年)
+pops8090 - 원준희 - 사랑은 유리같은 것 (1988年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 12:30
+Last updated at 08/19/2020 12:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
