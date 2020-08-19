@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/v-cQvm6-rPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=v-cQvm6-rPw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uRxjd_71XYI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjGUwFeKfns6thNX63Gc4Yw)
 
-Do Won Kyung - If I love again
+Beo Deu Ri - 버드리 빛나는 별이되어 우리곁에 남아주세요.
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 11:45
+Last updated at 08/19/2020 11:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
