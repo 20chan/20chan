@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8h_7IN-O9xE/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC2gn4BXU-YCGfO46fPsxagA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/P-8RW3gwsAA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-WarZimi - 정수라 - 바람이었나 1983
+pops8090 - 고은희＆이정란 - 사랑해요 (1985年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:26
+Last updated at 08/19/2020 16:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
