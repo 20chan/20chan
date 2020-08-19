@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/P-8RW3gwsAA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/c4iUAUKSJiQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK4FlD7CfnZNtmmwLyvqThQ)
 
-pops8090 - 고은희＆이정란 - 사랑해요 (1985年)
+occhan55 - 田中好子　　Feel My Love Inside
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:30
+Last updated at 08/19/2020 16:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
