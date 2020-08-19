@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/j2rXghm282o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCq6xagDeejJo60VPW1v96Gg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ELxP24tpJE7sQ0cu5NnQCp-8g60Rl7lCKu6-MD2xdZtavD0qtwlSg529UPjJtHmmEgh-SC75GoF0v0PI">](https://music.youtube.com/channel/UCNg3biLWdUesAJ7N8X6GJNQ)
 
-B612(비육일이) - 나만의 그대모습
+강수지 - 보랏빛향기
 
-**Albums**: undefined
+**Albums**: 강수지1집
 
-Last updated at 08/19/2020 18:16
+Last updated at 08/19/2020 18:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
