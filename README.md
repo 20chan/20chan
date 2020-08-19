@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/r1KuvS6FhYM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/EZEX3QEbfCQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 장혜진 - 키작은 하늘 (1992年)
+pops8090 - 최연제 - 너의 마음을 내게 준다면 (1993年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 11:53
+Last updated at 08/19/2020 11:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
