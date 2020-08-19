@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zMv3z3ipqaQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCS1b3QEjciN7iLmHqB7KO1A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LMczQxgrgCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
 
-남기웅 - 김성헌(시나위) 그대를 위해
+Suh Young Eun - I'm Not Alone
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:14
+Last updated at 08/19/2020 16:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
