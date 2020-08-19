@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p6ZIoQMPvyE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1KxHQxJmUhc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 박영미 - 나는 외로움 그대는 그리움 (1990年)
+pops8090 - 박화요비 - 어떤가요 (2002年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 11:31
+Last updated at 08/19/2020 11:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
