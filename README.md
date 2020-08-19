@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fFUWZAaf2-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fFUWZAaf2-Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wRbXnlc6Yvw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCSK7dM4ZDBgVPA_gk8Q1FoQ)
 
-Lee Ji Yeon - 그이유가내겐아픔이었네
+Boohwal - 사랑할수록
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:01
+Last updated at 08/19/2020 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
