@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5EmCp6bNd-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsopbWWjl9znTnf3grvuG7g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/vEIGCXWop3I/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-TheKpopClassic - 김돈규(with 에스더)-다시 태어나도
+pops8090 - 이승환 - 화려하지 않은 고백 (1993年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 15:01
+Last updated at 08/19/2020 15:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
