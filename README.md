@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/HWRMtEb1nQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCp57m_15RPFgvjsx3FrCE_A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3KxhuJdDV6A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-HANKOOK NORE - 이원진 시작하는 연인들을위해 (가사 첨부)
+pops8090 - 부활 - Never Ending Story + MR (2002年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 13:26
+Last updated at 08/19/2020 13:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
