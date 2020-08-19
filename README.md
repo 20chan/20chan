@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/lrtqb2jMQr0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nCpdJtrd4UM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - K2 김성면 - 슬프도록 아름다운 (1995年)
+pops8090 - 양수경 - 사랑은 창밖에 빗물 같아요 (1989年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 14:09
+Last updated at 08/19/2020 14:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
