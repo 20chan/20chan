@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8G1Y_fYkIDc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCOpTFt95NxV5FRpWKpwXZNg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Uz6L5EYMZN0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCd0TyPN4lk7NhnoiiZkEglA)
 
-UnInvited Guest - 저 깊고 푸른 밤에 - 조갑경(1990)
+꼬부기의 추억여행 - 이희승 항상함께할수있도록 노래/가사
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:49
+Last updated at 08/19/2020 16:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
