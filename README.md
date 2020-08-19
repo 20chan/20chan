@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Cs8Qf2Hw_vw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
+[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJzjpOCA4DPehoC6FwT0VeYuHP1rs5d13p38E5bk=s176-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UC73Vs9KZ2ugM5pX6ng_4v2w)
 
-Byun Jin Sub - 숙녀에게
+DNCE Music - DNCE - Toothbrush (Official Video)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 18:45
+Last updated at 08/19/2020 18:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
