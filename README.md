@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Uz6L5EYMZN0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCd0TyPN4lk7NhnoiiZkEglA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/f0WazFNxWXU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCMdaNj7qRWfX_Gh14pUKHlQ)
 
-꼬부기의 추억여행 - 이희승 항상함께할수있도록 노래/가사
+MAY - At Jongno
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:52
+Last updated at 08/19/2020 16:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
