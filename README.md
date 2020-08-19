@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/D27PWMu1DoA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCOpTFt95NxV5FRpWKpwXZNg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fFUWZAaf2-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fFUWZAaf2-Q)
 
-UnInvited Guest - 그대 고운 내 사랑 - 이정열(1999)
+Lee Ji Yeon - 그이유가내겐아픔이었네
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 15:58
+Last updated at 08/19/2020 16:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
