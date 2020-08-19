@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/cy4YEZCy8Rw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOzNl-egSzuZF9Dm7EmvghQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YlOsw9ZryQI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-미위그 MIDNIGHT WITH GROOVE - 나는 외로움 그대는 그리움 - 박영미 (Park Young Mi)
+pops8090 - 이문세 - 少女 소녀 (1985年)
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 15:09
+Last updated at 08/19/2020 15:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
