@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/K2PtquCwp-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8YFejuKnlO-S0Okj6_AdAQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8h_7IN-O9xE/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC2gn4BXU-YCGfO46fPsxagA)
 
-손글씨가사 - [손글씨가사33 Lyrics]나미(Nami) - 슬픈 인연(Sad relations)(Lyrics, 가사 HAN)
+WarZimi - 정수라 - 바람이었나 1983
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:21
+Last updated at 08/19/2020 16:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
