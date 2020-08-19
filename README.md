@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/s-Gh9lXmqNA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sjFNeQyUfQg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCIjo5btnh9xttNHVYce0mZQ)
 
-pops8090 - 김민우 - 사랑일뿐야 (1990年)
+sujin0302 - 김형중 그랬나봐
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 11:00
+Last updated at 08/19/2020 11:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
