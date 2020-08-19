@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/c4iUAUKSJiQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCK4FlD7CfnZNtmmwLyvqThQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LmG1rPr5nbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCd8gHZH2qVGNieTOhUWD-qw)
 
-occhan55 - 田中好子　　Feel My Love Inside
+임현정 - Love is like spring rain, Breakup is like winter rain
 
 **Albums**: undefined
 
-Last updated at 08/19/2020 16:34
+Last updated at 08/19/2020 16:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
