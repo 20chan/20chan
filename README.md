@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/y9B6YlZ_PpM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQIkKNChuWPHeHS_R6UwlNA)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-2RXyNNIGB9hDzssZ-Vag16g-t50x50.jpg">](https://soundcloud.com/seradotwav/childhood-dreams)
 
-Hoon Channel 1 - Hoon - Vastness
+seradotwav - Childhood Dreams
 
 **Albums**: undefined
 
-Last updated at 08/20/2020 13:20
+Last updated at 08/20/2020 13:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
