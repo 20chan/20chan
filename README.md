@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/v-cQvm6-rPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=v-cQvm6-rPw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjU2-4QDBGw16stNPyGHw0Q)
 
-Do Won Kyung - If I love again
+OOHYO 우효 - Dandelion (민들레) (full ver.)
 
 **Albums**: undefined
 
-Last updated at 08/20/2020 12:35
+Last updated at 08/20/2020 13:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
