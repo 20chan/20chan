@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1XyVYq3Vcuk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/FL285FjFT74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 컬트(김준선) - 너를 품에 안으면 (1995年)
+pops8090 - 이정봉 - 어떤가요 (1996年) MV
 
 **Albums**: undefined
 
-Last updated at 08/20/2020 12:27
+Last updated at 08/20/2020 12:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
