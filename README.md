@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-2RXyNNIGB9hDzssZ-Vag16g-t50x50.jpg">](https://soundcloud.com/seradotwav/childhood-dreams)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-seradotwav - Childhood Dreams
+JuJu Club - 公主後遺症
 
-**Albums**: undefined
+**Albums**: 16／20
 
-Last updated at 08/20/2020 13:41
+Last updated at 08/20/2020 17:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
