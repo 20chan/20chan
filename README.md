@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v-k-dV49ZiFEveSJVK5ikh7ev8am_S5JTk8antjVG50AxzlYgIvOoprf8He3K3I45M-QZzfLBbysgmIfAQ">](https://music.youtube.com/channel/UC3jUl0woujpHwRN4lD3MOrw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Wuv_DTtgyg58GDS-Xs5cFe8Vm0FHwvi5eLdP8IN_vEKEwlfc0PlA6Es8a--q5TFxWViOJOmcEm27srwmvw">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
 
-Mawi - Patience
+Shoffy - Movin On
 
-**Albums**: More Than Meets the Eye
+**Albums**: somewhere between nostalgia and paradise
 
-Last updated at 08/21/2020 13:18
+Last updated at 08/21/2020 13:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
