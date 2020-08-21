@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/b-HP2TJV0GWCgeWG88LZ1GBE8aexCut21fLCAUTh90vKXsZVyJk4z0CcaXbF38l1yMFAFtY95AusEgjl">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RJP2N4736itgkIoQAFp6IpvJdaYulE_YAC92wCdQm6eXlZfIjygAV1VH0eQSrNk_vmSkRF_f3GBpdhVMhQ">](https://music.youtube.com/channel/UCeD9pckAtu-oSbb_fQkGccg)
 
-Shoffy - Takes My Body Higher (feat. Lincoln Jesser)
+Rationale - Oil and Water
 
-**Albums**: Takes My Body Higher
+**Albums**: Rationale
 
-Last updated at 08/21/2020 13:06
+Last updated at 08/21/2020 13:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
