@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dBXsV7CMd_Yhla_upldTLd0le2jniopHvWuNl2ejNruLiuU9nYvBnRR6lUqp3Pw013X18z0czYddqxQ">](https://music.youtube.com/channel/UCavoULmaoVxJTUnf5fZryHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/I3oqmbR93-ayuwOQv-LoK_dF2eUsg7ekjRnQ5MPD3m6FT7IGQQaoUhRciv_Wpo9If6ywMqi_LgT0wixn">](https://music.youtube.com/channel/UC2Zf5q2dnfW-9RIHEAGs_Tw)
 
-Litany - Bedroom
+bülow - Not A Love Song
 
-**Albums**: 4 Track EP
+**Albums**: Damaged Vol. 1
 
-Last updated at 08/21/2020 13:24
+Last updated at 08/21/2020 13:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
