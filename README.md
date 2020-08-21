@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OEAb0t0COsWZpFN0BKwu4sdrVYNs3oGymt3wPiTvoWZ3GCUGetZdG6YgTEoutPjRqBQIUyxNWPU1fkg">](https://music.youtube.com/channel/UC7v8FmgoKhIHnETb9IRGLVg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v-k-dV49ZiFEveSJVK5ikh7ev8am_S5JTk8antjVG50AxzlYgIvOoprf8He3K3I45M-QZzfLBbysgmIfAQ">](https://music.youtube.com/channel/UC3jUl0woujpHwRN4lD3MOrw)
 
-Anna of the North - Sway (Chainsmokers Remix)
+Mawi - Patience
 
-**Albums**: Sway (Chainsmokers Remix)
+**Albums**: More Than Meets the Eye
 
-Last updated at 08/21/2020 13:14
+Last updated at 08/21/2020 13:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
