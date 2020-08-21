@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Wuv_DTtgyg58GDS-Xs5cFe8Vm0FHwvi5eLdP8IN_vEKEwlfc0PlA6Es8a--q5TFxWViOJOmcEm27srwmvw">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dBXsV7CMd_Yhla_upldTLd0le2jniopHvWuNl2ejNruLiuU9nYvBnRR6lUqp3Pw013X18z0czYddqxQ">](https://music.youtube.com/channel/UCavoULmaoVxJTUnf5fZryHQ)
 
-Shoffy - Movin On
+Litany - Bedroom
 
-**Albums**: somewhere between nostalgia and paradise
+**Albums**: 4 Track EP
 
-Last updated at 08/21/2020 13:20
+Last updated at 08/21/2020 13:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
