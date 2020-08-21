@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vgDYn-URRv3-_MCrL8W8sEeZetNC96SSaJE2gWA_52Ix7fAXXOzuxvwC2hwq5np6uyo-I3kgkhwfJ2F3dg">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
 
-JuJu Club - 公主後遺症
+Shoffy - Different Skies
 
-**Albums**: 16／20
+**Albums**: Different Skies
 
-Last updated at 08/20/2020 17:47
+Last updated at 08/21/2020 11:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
