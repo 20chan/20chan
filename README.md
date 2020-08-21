@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RJP2N4736itgkIoQAFp6IpvJdaYulE_YAC92wCdQm6eXlZfIjygAV1VH0eQSrNk_vmSkRF_f3GBpdhVMhQ">](https://music.youtube.com/channel/UCeD9pckAtu-oSbb_fQkGccg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OEAb0t0COsWZpFN0BKwu4sdrVYNs3oGymt3wPiTvoWZ3GCUGetZdG6YgTEoutPjRqBQIUyxNWPU1fkg">](https://music.youtube.com/channel/UC7v8FmgoKhIHnETb9IRGLVg)
 
-Rationale - Oil and Water
+Anna of the North - Sway (Chainsmokers Remix)
 
-**Albums**: Rationale
+**Albums**: Sway (Chainsmokers Remix)
 
-Last updated at 08/21/2020 13:10
+Last updated at 08/21/2020 13:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
