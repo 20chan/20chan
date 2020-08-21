@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NBVyqB4zLoeHTKVFXP9un-nfutzSU5mq51AzaWt3DtN7aGOTd5TK_dtCsKpxwTLqesr4TnSvqzxSp3U">](https://music.youtube.com/channel/UCsp5sSjpDuxKrdEFTFLUO9A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vgDYn-URRv3-_MCrL8W8sEeZetNC96SSaJE2gWA_52Ix7fAXXOzuxvwC2hwq5np6uyo-I3kgkhwfJ2F3dg">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
 
-Hook N Sling, Parson James & Betty Who - If You're Hearing This
+Shoffy - Different Skies
 
-**Albums**: If You're Hearing This
+**Albums**: Different Skies
 
-Last updated at 08/21/2020 13:03
+Last updated at 08/21/2020 13:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
