@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/B7EKtj7XBCg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lrtqb2jMQr0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-southkoreanfolksongs - 꽃밭에서 -- 조관우
+pops8090 - K2 김성면 - 슬프도록 아름다운 (1995年)
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 16:30
+Last updated at 08/24/2020 16:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
