@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sHaLPB-P8iHk2jDR0ai5igX20e6VJ75Lt5F1xHStYPWdhwdw49zISpLkyMVw-4FjP6ywd3lEQdIMEUganA">](https://music.youtube.com/channel/UCuPi1yvGOr2PBCl2eCJcrpg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/owX-hV3BLKcr7LIPxqg7ZQu-cmDANhlzsdfW6VTG3WcMY9kDIIP0CzZcLxVlFA8jzqSYaoHraDnAW2lNgw">](https://music.youtube.com/channel/UCfjOgViez3pPTRAuIuRwdtw)
 
-사준 - Memories
+주다인 - Sentimental
 
-**Albums**: 사랑이 흘린 눈물 Vol. 1
+**Albums**: Double
 
-Last updated at 08/24/2020 11:42
+Last updated at 08/24/2020 11:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
