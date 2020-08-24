@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1z5FCmMVheyat7MiO5kMROMksV1YFL4z7e-iVWZ3zw0gh4WoQHCebzEwheL2ia0gnGBH-8dJSMLBlMP_2A">](https://music.youtube.com/channel/UCYIzuDz3iLkcHBpYhCa-MPQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c4MGMVoraMSXEtA8Ryk42qHzYjp5YHxkYtA6wUgAVcH41PAhyXD2MCIHQhD0ps6AcxQRndpq1cwFK68">](https://music.youtube.com/channel/UCp_uCNIqcdY7cuE-rZxLLuw)
 
-BUCK - Barefoot Youth
+Kyunghwa Jung - Invitation to Me
 
-**Albums**: BUCK 2nd(Barefoot Youth)
+**Albums**: My Blue Dreams
 
-Last updated at 08/24/2020 11:22
+Last updated at 08/24/2020 11:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
