@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CCTnmGrAgt7_K0U6NmBsKNH8BBjOD7ezapFab96WmGGvSPX2jQA8aom1l3TO1pDmBVLgMp6gu7-1mGuBqQ">](https://music.youtube.com/channel/UCE1GxC20CwQK-T7Fsl_XKsQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6ga1MUhTyVm5m7IFcRbOn7Q1DpNMn8APKhQ-tHawQEExWqQQIlrZJYI3zoKGQxj2LMls192jGd2yVHI">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
 
-Bank - I Can't Have You
+공일오비(015B) - 아주 오래된 연인들
 
-**Albums**: Gift
+**Albums**: 015B The Best Collection
 
-Last updated at 08/24/2020 12:26
+Last updated at 08/24/2020 12:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
