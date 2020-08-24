@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I3oqmbR93-ayuwOQv-LoK_dF2eUsg7ekjRnQ5MPD3m6FT7IGQQaoUhRciv_Wpo9If6ywMqi_LgT0wixn">](https://music.youtube.com/channel/UC2Zf5q2dnfW-9RIHEAGs_Tw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-bülow - Not A Love Song
+JuJu Club - 公主後遺症
 
-**Albums**: Damaged Vol. 1
+**Albums**: 16／20
 
-Last updated at 08/21/2020 13:26
+Last updated at 08/24/2020 11:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
