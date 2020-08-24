@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aXT5g4-6z77nPHwoc3p9ASYrUlkQu-jhpEQQj2b3svYPJImTBIhH_CfM2VgVIz-S2zfFFSSSK8AHGzuS">](https://music.youtube.com/channel/UCldxOKMiWjehdybzCNVYm8w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eX3gXdc6a6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-터보 - Love Forever
+pops8090 - 조갑경 - 바보같은 미소 (1989年)
 
-**Albums**: Turbo - Reboot：The Best
+**Albums**: undefined
 
-Last updated at 08/24/2020 12:46
+Last updated at 08/24/2020 12:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
