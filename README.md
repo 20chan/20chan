@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gxs-18h8VNQpAaHmwJmWIPgUG1BFdYOq4QVksvTG8VggGUjNddj0ezje_EOpWSVyjQ6yIM2nwmPxN557">](https://music.youtube.com/channel/UCwCzQzpYZ9N5AvNxZUmrl3A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/owX-hV3BLKcr7LIPxqg7ZQu-cmDANhlzsdfW6VTG3WcMY9kDIIP0CzZcLxVlFA8jzqSYaoHraDnAW2lNgw">](https://music.youtube.com/channel/UCfjOgViez3pPTRAuIuRwdtw)
 
-김원준 (Kim Won Jun) - 모두 잠든후에
+주다인 - 나는 나
 
-**Albums**: 눈에 띄고 싶어 (1집) (Wanna Be Sexy)
+**Albums**: Double
 
-Last updated at 08/24/2020 11:30
+Last updated at 08/24/2020 11:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
