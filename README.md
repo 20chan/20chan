@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Nm-8zP5hJKHXjy4JgznPSfkdeqSdosHyU8qpROQm5YXaAS19yw7rg5QBDubZkoUW6pLDe8q5fcMDx1vc">](https://music.youtube.com/channel/UCKnpc2T6FS9dgh7jmpuPuRw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aXT5g4-6z77nPHwoc3p9ASYrUlkQu-jhpEQQj2b3svYPJImTBIhH_CfM2VgVIz-S2zfFFSSSK8AHGzuS">](https://music.youtube.com/channel/UCldxOKMiWjehdybzCNVYm8w)
 
-Girl - Aspirin
+터보 - Love Forever
 
-**Albums**: Girl 1st(Rock'N Roll Revolution)
+**Albums**: Turbo - Reboot：The Best
 
-Last updated at 08/24/2020 12:42
+Last updated at 08/24/2020 12:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
