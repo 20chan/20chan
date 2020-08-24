@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nCpdJtrd4UM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Choi Hosub - When Time Passes
+pops8090 - 양수경 - 사랑은 창밖에 빗물 같아요 (1989年)
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 16:52
+Last updated at 08/24/2020 16:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
