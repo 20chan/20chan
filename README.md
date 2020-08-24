@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/a3qg3-DH5xx9LN6t_4eqT8kVlq69VDgWmR3U7CIrEuxVL-oMPkNPT-8yyZgIQrDo93Jyx_bwsdZFhUw">](https://music.youtube.com/channel/UCgX9AAxncWN0z8B_HKtAXvA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZL9uDKAmTBHVhgZIN0C4eg6_OJmFxqCT046aSId6Wv0i5UyCJlJhhJv5-e9toax25ulcRDd0E70sfOA">](https://music.youtube.com/channel/UCdPY6dOk4MthB--eNuTBPLA)
 
-Jinusean - How Deep Is Your Love
+The Blue - For my friend
 
-**Albums**: 태권 V
+**Albums**: The Blue
 
-Last updated at 08/24/2020 12:06
+Last updated at 08/24/2020 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
