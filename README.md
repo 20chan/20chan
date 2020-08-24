@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZAZ2SkTy7MWq9DyxBYSkTJS5RQvFqRotiE3AIEtk_xrFNxxQY7WNGr1K-VWieX7qndUte1rs6Jfqr040fQ">](https://music.youtube.com/channel/UCq5b9jTD49q5Wgm1z-iCKcQ)
 
-JuJu Club - 講真Ah!
+이승환 Lee Seung Hwan - 이별에 대처하는 우리의 자세
 
-**Albums**: 16／20
+**Albums**: Human
 
-Last updated at 08/24/2020 11:56
+Last updated at 08/24/2020 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
