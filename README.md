@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XNHYLmNhNvI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCjaLKKvigkB2VwY85VJL4Yg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VGBtuIOXvww/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-HJ S - 토이 - 좋은사람
+pops8090 - 이문세 - 그녀의 웃음소리뿐 (1987年)
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 17:26
+Last updated at 08/24/2020 17:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
