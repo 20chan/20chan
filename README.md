@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Y_EJ0lDCaZw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QVE6xmJyZQI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 신해철 - 슬픈표정 하지 말아요 (1990年)
+pops8090 - 박성신 - 한번만 더 (1989年)
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 15:20
+Last updated at 08/24/2020 15:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
