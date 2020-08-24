@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R4gwn2gaVGx-GxyczlLmpi1FQJzk5brbVYuKHLxyAi6v2sSwWDvJ2vuP_wJ-osFxbv3zaj_D5hxhcWDp">](https://music.youtube.com/channel/UCHVLTiXEcAuBcGAgkARgAuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YHJg9sNZI3PPxz4zJfZkZraN83dMvizp3oU6Ql24uqdCQXqy6ayNubdBnsmJTfQeOt2dK2lwOGvL087pQQ">](https://music.youtube.com/channel/UCgX9AAxncWN0z8B_HKtAXvA)
 
-이범학 - 이별 아닌 이별
+JINUSEAN - 말해줘(Tell Me)
 
-**Albums**: 내 기억속의 발라드
+**Albums**: JINUSEAN
 
-Last updated at 08/24/2020 12:18
+Last updated at 08/24/2020 12:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
