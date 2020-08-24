@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/owX-hV3BLKcr7LIPxqg7ZQu-cmDANhlzsdfW6VTG3WcMY9kDIIP0CzZcLxVlFA8jzqSYaoHraDnAW2lNgw">](https://music.youtube.com/channel/UCfjOgViez3pPTRAuIuRwdtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uRc_GoGwECFOc0NdOZ7lEXCtmnSYWv6cZCzRokgZqCytptAw8MML9bER1JUX2E2G4M3fgoG6HFfRCsOTZg">](https://music.youtube.com/channel/UC5jyPg3YVdIoVs50xhA9mfg)
 
-주다인 - Sentimental
+차태현 Cha Tae Hyun - I Love You
 
-**Albums**: Double
+**Albums**: Accident
 
-Last updated at 08/24/2020 11:46
+Last updated at 08/24/2020 11:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
