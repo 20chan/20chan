@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/m9Wc39NWqf8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5EmCp6bNd-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsopbWWjl9znTnf3grvuG7g)
 
-pops8090 - 푸른하늘(유영석) - 눈물나는 날에는 (1989年)
+TheKpopClassic - 김돈규(with 에스더)-다시 태어나도
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 16:42
+Last updated at 08/24/2020 16:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
