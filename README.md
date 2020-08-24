@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c4MGMVoraMSXEtA8Ryk42qHzYjp5YHxkYtA6wUgAVcH41PAhyXD2MCIHQhD0ps6AcxQRndpq1cwFK68">](https://music.youtube.com/channel/UCp_uCNIqcdY7cuE-rZxLLuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gxs-18h8VNQpAaHmwJmWIPgUG1BFdYOq4QVksvTG8VggGUjNddj0ezje_EOpWSVyjQ6yIM2nwmPxN557">](https://music.youtube.com/channel/UCwCzQzpYZ9N5AvNxZUmrl3A)
 
-Kyunghwa Jung - Invitation to Me
+김원준 (Kim Won Jun) - 모두 잠든후에
 
-**Albums**: My Blue Dreams
+**Albums**: 눈에 띄고 싶어 (1집) (Wanna Be Sexy)
 
-Last updated at 08/24/2020 11:26
+Last updated at 08/24/2020 11:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
