@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hiSkmo4xbvw/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCsO-1WiiZxFAf7skDI68ksg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/anO1yZ65SB8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCeYIL2G0-ApOfHTo_MQpYEQ)
 
-our_psalm - 동물원 - 시청 앞 지하철역에서
+balkorak - kpop / 더 클래식 - 여우야(女雨夜) 1995년
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 17:16
+Last updated at 08/24/2020 17:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
