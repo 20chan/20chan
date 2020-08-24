@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-JuJu Club - 公主後遺症
+JuJu Club - 16
 
 **Albums**: 16／20
 
-Last updated at 08/24/2020 11:14
+Last updated at 08/24/2020 11:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
