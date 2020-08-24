@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZL9uDKAmTBHVhgZIN0C4eg6_OJmFxqCT046aSId6Wv0i5UyCJlJhhJv5-e9toax25ulcRDd0E70sfOA">](https://music.youtube.com/channel/UCdPY6dOk4MthB--eNuTBPLA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6ga1MUhTyVm5m7IFcRbOn7Q1DpNMn8APKhQ-tHawQEExWqQQIlrZJYI3zoKGQxj2LMls192jGd2yVHI">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
 
-The Blue - For my friend
+공일오비(015B) - 신(新) 인류의 사랑
 
-**Albums**: The Blue
+**Albums**: 015B The Best Collection
 
-Last updated at 08/24/2020 12:10
+Last updated at 08/24/2020 12:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
