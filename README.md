@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YHJg9sNZI3PPxz4zJfZkZraN83dMvizp3oU6Ql24uqdCQXqy6ayNubdBnsmJTfQeOt2dK2lwOGvL087pQQ">](https://music.youtube.com/channel/UCgX9AAxncWN0z8B_HKtAXvA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CCTnmGrAgt7_K0U6NmBsKNH8BBjOD7ezapFab96WmGGvSPX2jQA8aom1l3TO1pDmBVLgMp6gu7-1mGuBqQ">](https://music.youtube.com/channel/UCE1GxC20CwQK-T7Fsl_XKsQ)
 
-JINUSEAN - 말해줘(Tell Me)
+Bank - I Can't Have You
 
-**Albums**: JINUSEAN
+**Albums**: Gift
 
-Last updated at 08/24/2020 12:22
+Last updated at 08/24/2020 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
