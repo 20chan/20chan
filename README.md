@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RPjN7KxwdC5XiBIY2TDFZ-WaD-A9hsoMtAbaOb1TJzmDYd1DXwZzu1izIDwK2jKM6Ga_xgqcKBvC6GFK">](https://music.youtube.com/channel/UCCB2_351SXEVTFuWnkQSjPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Nm-8zP5hJKHXjy4JgznPSfkdeqSdosHyU8qpROQm5YXaAS19yw7rg5QBDubZkoUW6pLDe8q5fcMDx1vc">](https://music.youtube.com/channel/UCKnpc2T6FS9dgh7jmpuPuRw)
 
-god - 거짓말 Lie
+Girl - Aspirin
 
-**Albums**: Chapter 3
+**Albums**: Girl 1st(Rock'N Roll Revolution)
 
-Last updated at 08/24/2020 12:38
+Last updated at 08/24/2020 12:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
