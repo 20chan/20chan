@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Fp2ZF36ZP0U/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/m9Wc39NWqf8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 이승환 - 기다린날도 지워질날도 (1989年)
+pops8090 - 푸른하늘(유영석) - 눈물나는 날에는 (1989年)
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 16:38
+Last updated at 08/24/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
