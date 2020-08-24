@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kKLxrGAzvfPW4I8Yxfsg9nym2pK2yO5u75rnU9FsE4cdrels3PMlLB786r5HiJgTRgV-c7RoS6ZQYlk">](https://music.youtube.com/channel/UCd_KYG9fysTUAdJ5x6ImnNg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-Kim Won Jun - Show
+JuJu Club - 講真Ah!
 
-**Albums**: 김원준 5집
+**Albums**: 16／20
 
-Last updated at 08/24/2020 11:52
+Last updated at 08/24/2020 11:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
