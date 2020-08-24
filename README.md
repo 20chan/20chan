@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZAZ2SkTy7MWq9DyxBYSkTJS5RQvFqRotiE3AIEtk_xrFNxxQY7WNGr1K-VWieX7qndUte1rs6Jfqr040fQ">](https://music.youtube.com/channel/UCq5b9jTD49q5Wgm1z-iCKcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lCBgeMmyKq8t6gFAHMH-KZmws-1qpMuDl4GyliXdhzDhWsoCDpYEbcx8p3vces9c5Yf_5Bo0Ci6AcLHGA">](https://music.youtube.com/channel/UCnX-pc6HvaOhiMFXRO6zfLA)
 
-이승환 Lee Seung Hwan - 이별에 대처하는 우리의 자세
+Seo Taiji - Take Five
 
-**Albums**: Human
+**Albums**: Seotaiji V
 
-Last updated at 08/24/2020 12:00
+Last updated at 08/24/2020 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
