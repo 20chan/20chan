@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rKdYM5gWjW60e_j6vX1fPb6mwOVkUK1VTcxps6FRwAkPOM--1urfgMyOiNg95_e46XYd97THYHs225Xv">](https://music.youtube.com/channel/UCCB2_351SXEVTFuWnkQSjPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sHaLPB-P8iHk2jDR0ai5igX20e6VJ75Lt5F1xHStYPWdhwdw49zISpLkyMVw-4FjP6ywd3lEQdIMEUganA">](https://music.youtube.com/channel/UCuPi1yvGOr2PBCl2eCJcrpg)
 
-god - 사랑해 그리고 기억해 Love You and Remember You
+사준 - Memories
 
-**Albums**: Chapter 2
+**Albums**: 사랑이 흘린 눈물 Vol. 1
 
-Last updated at 08/24/2020 11:36
+Last updated at 08/24/2020 11:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
