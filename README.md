@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5EmCp6bNd-A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsopbWWjl9znTnf3grvuG7g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
 
-TheKpopClassic - 김돈규(with 에스더)-다시 태어나도
+Choi Hosub - When Time Passes
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 16:48
+Last updated at 08/24/2020 16:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
