@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/VGBtuIOXvww/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 이문세 - 그녀의 웃음소리뿐 (1987年)
+pops8090 - 최용준 - 아마도 그건 (1989年)
 
 **Albums**: undefined
 
-Last updated at 08/24/2020 17:32
+Last updated at 08/24/2020 17:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
