@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1z5FCmMVheyat7MiO5kMROMksV1YFL4z7e-iVWZ3zw0gh4WoQHCebzEwheL2ia0gnGBH-8dJSMLBlMP_2A">](https://music.youtube.com/channel/UCYIzuDz3iLkcHBpYhCa-MPQ)
 
-JuJu Club - 16
+BUCK - Barefoot Youth
 
-**Albums**: 16／20
+**Albums**: BUCK 2nd(Barefoot Youth)
 
-Last updated at 08/24/2020 11:18
+Last updated at 08/24/2020 11:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
