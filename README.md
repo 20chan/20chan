@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QJpP4WEvcKo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs4uzdvxIkgVO3E3m4EU_IQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/p6ZIoQMPvyE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-실버타운-SilverTown-銀髮村 - 고추 잠자리 1981 조용필
+pops8090 - 박영미 - 나는 외로움 그대는 그리움 (1990年)
 
 **Albums**: undefined
 
-Last updated at 08/25/2020 16:58
+Last updated at 08/25/2020 17:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
