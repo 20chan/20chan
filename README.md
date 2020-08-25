@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/D27PWMu1DoA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCOpTFt95NxV5FRpWKpwXZNg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vgDYn-URRv3-_MCrL8W8sEeZetNC96SSaJE2gWA_52Ix7fAXXOzuxvwC2hwq5np6uyo-I3kgkhwfJ2F3dg">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
 
-UnInvited Guest - 그대 고운 내 사랑 - 이정열(1999)
+Shoffy - Different Skies
 
-**Albums**: undefined
+**Albums**: Different Skies
 
-Last updated at 08/24/2020 17:56
+Last updated at 08/25/2020 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
