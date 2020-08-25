@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wc2cR5DAiJmOT3XFiNciHIPJwEsYRScmv-xpq6Yq5zVfin8C6oBwaKCAAGiXrQJK_vMLRwKPIFlEryM">](https://music.youtube.com/channel/UCRU0hoqPi-bqE7KVqI0REDg)
 
-pops8090 - 김정민 - 애인·愛人 (1996年)
+Crying Nut - 밤이 깊었네 Oh! What a Shiny Night
 
-**Albums**: undefined
+**Albums**: Poor Hand Love Song
 
-Last updated at 08/25/2020 17:24
+Last updated at 08/25/2020 17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
