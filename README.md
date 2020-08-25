@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8WqEp8nbgPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrBP154FanZWf4D8oItOZyQ)
 
-southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
+Ailee - Evening Sky
 
 **Albums**: undefined
 
-Last updated at 08/25/2020 14:28
+Last updated at 08/25/2020 14:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
