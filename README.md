@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sHaLPB-P8iHk2jDR0ai5igX20e6VJ75Lt5F1xHStYPWdhwdw49zISpLkyMVw-4FjP6ywd3lEQdIMEUganA">](https://music.youtube.com/channel/UCuPi1yvGOr2PBCl2eCJcrpg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/CiTbFgyxyHY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnmF6Fy8t1aIDl5jlLqSAqw)
 
-사준 - Memories
+MAGIC STRAWBERRY SOUND - 윤지영 (Yoon Ji Young) - 언젠가 너와 나 (feat.카더가든) [MV]
 
-**Albums**: 사랑이 흘린 눈물 Vol. 1
+**Albums**: undefined
 
-Last updated at 08/25/2020 12:24
+Last updated at 08/25/2020 12:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
