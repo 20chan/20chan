@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ARRUucD_SCw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFUMI05jgO_O88Px8qfCQeQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/63U8vjgiegkbgJbJYrkIvZYnvp7GP6gh7Q7IaiM9zbBrfBK-riJzMILrGEyohWiegRSrIOFuQra7yNkJ">](https://music.youtube.com/channel/UC2xBk-gFSmnO__ZtHrXFEmg)
 
-Tribal Trap - BL3R - Friends & Family
+짙은 - 백야
 
-**Albums**: undefined
+**Albums**: 백야 - EP
 
-Last updated at 08/25/2020 17:40
+Last updated at 08/25/2020 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
