@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5dkpk1gmaDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCyfrr4gGevRfLcd7J5dnG2w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xQwtw5dswyE1kci8uZ0qvB5wYakS-ATfizB_wG8slC8WHv1JpzIYa2cReTgFt6qzuj4Its1OQRWzxKU">](https://music.youtube.com/channel/UChzerXfJbu4RXPl25dDzA7w)
 
-Bad Boys Blue - You're a Woman
+London Boys - I'm Gonna Give My Heart
 
-**Albums**: undefined
+**Albums**: The Twelve Commandments Of Dance
 
-Last updated at 08/25/2020 14:00
+Last updated at 08/25/2020 14:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
