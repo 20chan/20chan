@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0dkXaItUiyA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCX-nPJDBXspZb1j5HVQu88g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/UlxkpcS6r6g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-le prince - 유리상자 - 아름다운 세상
+pops8090 - 김정민 - 애인·愛人 (1996年)
 
 **Albums**: undefined
 
-Last updated at 08/25/2020 17:20
+Last updated at 08/25/2020 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
