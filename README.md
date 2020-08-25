@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zvS2WZEqD7Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXueYIC-HSrXO73B0vGSEsw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KGZHA-WHaZUnnHxTBVeIzdU0P_REr4J9c2_TwNZootA16upGHNMdu_xovvYv_oCl_BW9JQlFRM8UZQA">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
 
-SnowprinceAS6 - Orange Caramel (오렌지캬라멜) - Bangkok City (방콕시티) (2012 New Recording)
+BewhY - Transcend (feat. C Jamm)
 
-**Albums**: undefined
+**Albums**: The Movie Star
 
-Last updated at 08/25/2020 12:36
+Last updated at 08/25/2020 13:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
