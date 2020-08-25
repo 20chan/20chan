@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ARRUucD_SCw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCFUMI05jgO_O88Px8qfCQeQ)
 
-SID - Rain
+Tribal Trap - BL3R - Friends & Family
 
-**Albums**: Rain
+**Albums**: undefined
 
-Last updated at 08/25/2020 17:36
+Last updated at 08/25/2020 17:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
