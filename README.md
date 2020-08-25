@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-UZnpcufkbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zvS2WZEqD7Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXueYIC-HSrXO73B0vGSEsw)
 
-pops8090 - 신승훈 - I Believe (2001年)
+SnowprinceAS6 - Orange Caramel (오렌지캬라멜) - Bangkok City (방콕시티) (2012 New Recording)
 
 **Albums**: undefined
 
-Last updated at 08/25/2020 12:32
+Last updated at 08/25/2020 12:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
