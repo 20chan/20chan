@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SX4xqF9KjxVXYXC167mBSIVit_1AYHXaqOea756aoFeE9UMazXKxQ-qxmMV-ny1-kmb0ANVZk-Et6HLS">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/65niALh646akmAD6eh9pmxvQR9_AOoG2jsNoqL2YBDprZDJ8GoSxpx22Kj2A19F1-0qvhZ4JJLZUYrQ">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
 
-HAN YO HAN - Helicopter (feat. NO:EL & Kid Milli)
+BLOO - Downtown Baby
 
-**Albums**: Helicopter
+**Albums**: Downtown Baby
 
-Last updated at 08/25/2020 17:12
+Last updated at 08/25/2020 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
