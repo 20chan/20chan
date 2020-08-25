@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/RC0Krk-4KlE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsNChlwrxAvEnfOQCSRA1tA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4AdOV7nmJu8NUWF_sNO6I2VBwWPmLlQ7vmQSH1sf9-ZfDQQKUv86aMMJc2OKpHbtveC0nbi-nxJR1I">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Shannon Gwiyomi - Orange Caramel(오렌지캬라멜) - Magic Girl(마법소녀) Color Coded Lyrics [Han/Rom/Eng]
+Nochang - All Day (feat. Tablo)
 
-**Albums**: undefined
+**Albums**: All Day
 
-Last updated at 08/25/2020 14:18
+Last updated at 08/25/2020 14:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
