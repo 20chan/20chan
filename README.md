@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WbQvmYqxKwEbLPj5zSlYe5vrxipjJAaCxqB1cJxyzljnvIr9i4Ix9fyxK9h9BXq5a3jyvPdvGKI_2vWXnA">](https://music.youtube.com/channel/UCaXJEi-wOOVe2eZZHzyz4mQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/iiVCJGAX2W0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Alan Walker - Different World (feat. CORSAK)
+Trap Nation - Philter - Revolver (Linko Remix)
 
-**Albums**: Different World
+**Albums**: undefined
 
-Last updated at 08/25/2020 17:54
+Last updated at 08/25/2020 18:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
