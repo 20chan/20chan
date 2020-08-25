@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vgDYn-URRv3-_MCrL8W8sEeZetNC96SSaJE2gWA_52Ix7fAXXOzuxvwC2hwq5np6uyo-I3kgkhwfJ2F3dg">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sHaLPB-P8iHk2jDR0ai5igX20e6VJ75Lt5F1xHStYPWdhwdw49zISpLkyMVw-4FjP6ywd3lEQdIMEUganA">](https://music.youtube.com/channel/UCuPi1yvGOr2PBCl2eCJcrpg)
 
-Shoffy - Different Skies
+사준 - Memories
 
-**Albums**: Different Skies
+**Albums**: 사랑이 흘린 눈물 Vol. 1
 
-Last updated at 08/25/2020 12:21
+Last updated at 08/25/2020 12:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
