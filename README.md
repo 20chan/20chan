@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KGZHA-WHaZUnnHxTBVeIzdU0P_REr4J9c2_TwNZootA16upGHNMdu_xovvYv_oCl_BW9JQlFRM8UZQA">](https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XEjLoHdbVeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuubAXN9AYgtcmSrD0frggQ)
 
-BewhY - Transcend (feat. C Jamm)
+ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) - Video Edit
 
-**Albums**: The Movie Star
+**Albums**: undefined
 
-Last updated at 08/25/2020 13:54
+Last updated at 08/25/2020 13:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
