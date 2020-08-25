@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/65niALh646akmAD6eh9pmxvQR9_AOoG2jsNoqL2YBDprZDJ8GoSxpx22Kj2A19F1-0qvhZ4JJLZUYrQ">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l1_cDipA620/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCJhUhrOkIaqMhc_SQGmBWmg)
 
-BLOO - Downtown Baby
+Rick & Morty - Goodbye Moonmen
 
-**Albums**: Downtown Baby
+**Albums**: undefined
 
-Last updated at 08/25/2020 17:14
+Last updated at 08/25/2020 17:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
