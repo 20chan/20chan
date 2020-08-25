@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i6p3prYi_IGrQtJv4yryScT-3RkiQaRQoGprjS3uq2JqtwUl-RaWZchGIybB6OjnpKyZd5SjCkL76dI">](https://music.youtube.com/channel/UC6IUhrLnYGhrktga3Zh7BjQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/channel/UChwSjx8SnvG6k96a9xqYw1g)
 
-Kim Feel - Someday, The Boy
+Bebe Rexha - I'm a Mess
 
-**Albums**: ITAEWON CLASS (Original Television Soundtrack) Pt. 6
+**Albums**: Expectations
 
-Last updated at 08/25/2020 16:32
+Last updated at 08/25/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
