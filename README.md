@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wbzpqii_E_cZe7CNVYdUGpaMsoykILIAkoSzXPXz231z5I0o8Rklfg-H98c11alRK7nN2lGoOV8GskEU">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-염따 YUMDDA - zoom
+CHANGMO - wish
 
-**Albums**: Breathe 2
+**Albums**: Boyhood
 
-Last updated at 08/26/2020 13:20
+Last updated at 08/26/2020 13:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
