@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/58_vtKKgQV4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4lrs6YgqwQE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChx647YdNwLBmhjMgYzY0Sg)
 
-pops8090 - 이정석＆조갑경 - 사랑의 대화 (1988年)
+unofficialkjh - 김장훈 Kim Jang Hoon - 나와 같다면 Live
 
 **Albums**: undefined
 
-Last updated at 08/26/2020 13:48
+Last updated at 08/26/2020 13:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
