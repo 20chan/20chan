@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7onba82HwUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCNrLN0zQurCGOd_orGyWz9w)
 
-Maroon 5 - Memories
+Dippin' Carls Records Official - 조광일 (Gwangil Jo), 브라운티거 (Brown tigger) - Two Harsh Carls | Official Live Clip
 
-**Albums**: Memories
+**Albums**: undefined
 
-Last updated at 08/26/2020 14:57
+Last updated at 08/26/2020 16:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
