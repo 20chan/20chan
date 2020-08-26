@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/i2jBxW9GUh0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOHryyzDqHGbfzfv9uqAlTw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wGX1oy21nf0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5AX-PYpmYQiMxR5rjb-4jg)
 
-월간 브라운 - Gwangil Jo(조광일) - KOREA(한국) 【Official M/V】
+Outsider - Octagon (feat. 2TAK, Kuan, BewhY & Tymee)
 
 **Albums**: undefined
 
-Last updated at 08/26/2020 12:26
+Last updated at 08/26/2020 12:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
