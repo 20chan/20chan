@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PGMHym4bIQ9Nn_VxxMrVE4O7ZjaRbz6OXWs-umoYcTR7rj2_RYtEnm9gykOu-Rvm8b_8lyCf7mouYym_AA">](https://music.youtube.com/channel/UC40bAhduiI5dXS6Skp3aH5Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-ZICO - Daredevil (feat. Jvcki Wai & YUMDDA)
+창모 (CHANGMO) - Selfmade Orange (feat. SUPERBEE)
 
-**Albums**: THINKING Part.1
+**Albums**: Dnsg
 
-Last updated at 08/26/2020 12:34
+Last updated at 08/26/2020 12:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
