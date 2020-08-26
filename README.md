@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/wGX1oy21nf0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5AX-PYpmYQiMxR5rjb-4jg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/abuTb3qMOsY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Outsider - Octagon (feat. 2TAK, Kuan, BewhY & Tymee)
+CHANGMO - METEOR
 
 **Albums**: undefined
 
-Last updated at 08/26/2020 12:28
+Last updated at 08/26/2020 12:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
