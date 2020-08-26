@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/moxjw6JiWr3yFfu5LvBNpzi20IQzIMV5_MpodBOIrFpfdtQ7wjsS5IBdEyCOJwwVrJulZXl38m8bq2wD">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-우원재 (Woo) - Taste (feat. GIRIBOY)
+CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo-Eun - BAND
 
-**Albums**: Taste
+**Albums**: BAND
 
-Last updated at 08/26/2020 13:14
+Last updated at 08/26/2020 13:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
