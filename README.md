@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jcx8IYD5gllW1hlZiKP_OfUO6O17JV3As9pcaT4QO_Bx6myyT5vF43-l6sdVEfecQ62SEX5TbUx-G-nC">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3E8ZOUs_zi-l3vtSSLA6WOSh57D7kDAdk7lF2N7-81l-S-Tr3vXglunNZuXssdKH3hKhy0HawfJupF76">](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ)
 
-SHY Martin - Lose You Too
+Hoang - Don't Say (feat. Nevve)
 
-**Albums**: Lose You Too
+**Albums**: Don't Say (feat. Nevve)
 
-Last updated at 08/26/2020 17:40
+Last updated at 08/26/2020 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
