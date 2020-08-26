@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t8ecJEKVBwitjsaBFk6I7m368fi3_vNhX1LKQSQio7IZa6RLYJXrOUQdVLdZ6CYToao_qBq0wMPaxkbo">](https://music.youtube.com/channel/UCFovJ6oJ3ITB-ZXdrskKT5Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Tritonal - Little by Little (feat. Lourdiz)
+Gryffin & ZOHARA - Remember
 
-**Albums**: U & Me
+**Albums**: Gravity
 
-Last updated at 08/26/2020 17:08
+Last updated at 08/26/2020 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
