@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PGMHym4bIQ9Nn_VxxMrVE4O7ZjaRbz6OXWs-umoYcTR7rj2_RYtEnm9gykOu-Rvm8b_8lyCf7mouYym_AA">](https://music.youtube.com/channel/UC40bAhduiI5dXS6Skp3aH5Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-ZICO - Human
+CHANGMO - METEOR
 
-**Albums**: THINKING Part.1
+**Albums**: Boyhood
 
-Last updated at 08/26/2020 12:42
+Last updated at 08/26/2020 12:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
