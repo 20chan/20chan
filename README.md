@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3E8ZOUs_zi-l3vtSSLA6WOSh57D7kDAdk7lF2N7-81l-S-Tr3vXglunNZuXssdKH3hKhy0HawfJupF76">](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7STdAnBVNiYOFuh2ucmfeKPSBu1XVjz3WEM50R-x8zF6PF3Jg9Sz76vsQOJZ-b1qSdfdTw4Vhno5XxA">](https://music.youtube.com/channel/UCl6VFPKF465F-hSkhtyWtEw)
 
-Hoang - Don't Say (feat. Nevve)
+Nevada & Loote - Don't Call Me
 
-**Albums**: Don't Say (feat. Nevve)
+**Albums**: Don’t Call Me
 
-Last updated at 08/26/2020 17:44
+Last updated at 08/26/2020 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
