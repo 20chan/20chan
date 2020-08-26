@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dYA1pOj4mYaSEr063XKLOnzapKsyC2KK7-VfRCXhonf7QqgCO4x7y7IJ1RaN6fxm5Luzn-dK0RtqcAAUaQ">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-SHY Martin - Make Us Never Happen
+Loote - High Without Your Love
 
-**Albums**: Make Us Never Happen
+**Albums**: single.
 
-Last updated at 08/26/2020 17:18
+Last updated at 08/26/2020 17:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
