@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WvKZAyibWo3AG2D7mbCRKwHlQ_Zfoi0gG1qsJmlT_5ScA2WskjSgc2K5xybBeONveJV22B8fRxtAqWozSg">](https://music.youtube.com/channel/UC3nK3iXMKTjee8WpIBlmakg)
 
-Loote - High Without Your Love
+Tiffany Alvord - Karma
 
-**Albums**: single.
+**Albums**: Karma
 
-Last updated at 08/26/2020 17:20
+Last updated at 08/26/2020 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
