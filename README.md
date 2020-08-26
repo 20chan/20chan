@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aKuS6T2SZoI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/i2jBxW9GUh0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOHryyzDqHGbfzfv9uqAlTw)
 
-Gwangil Jo - 곡예사
+월간 브라운 - Gwangil Jo(조광일) - KOREA(한국) 【Official M/V】
 
 **Albums**: undefined
 
-Last updated at 08/26/2020 12:21
+Last updated at 08/26/2020 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
