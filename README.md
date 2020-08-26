@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WBYrnGWgjgAxhRnWQ-p4Zx_P4aKiX3QxzldNaidWlUVLo7-qjg53nVfDMR7XJK8VU5u4OcbWQ7R7r3TsTw">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kUwgu2HKDV8zsEejZsQ7eG0IeoVH-NyBjsn9TcFlg-fpnYTYK-G1QKafy1AjoqbNEQoFUt1x5jZ8Apo">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-SUPERBEE - 억 Uck (feat. CHANGMO)
+YUMDDA, The Quiett, Deepflow & Simon Dominic - I'MMA DO 아마두 (feat. Huckleberry P, Keem Hyo-Eun, Paloalto & Woo)
 
-**Albums**: Show Me the Money 777 (Episode 4)
+**Albums**: Dingo X DAMOIM (Part 2)
 
-Last updated at 08/26/2020 13:00
+Last updated at 08/26/2020 13:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
