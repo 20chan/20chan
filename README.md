@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kUwgu2HKDV8zsEejZsQ7eG0IeoVH-NyBjsn9TcFlg-fpnYTYK-G1QKafy1AjoqbNEQoFUt1x5jZ8Apo">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
 
-YUMDDA, The Quiett, Deepflow & Simon Dominic - I'MMA DO 아마두 (feat. Huckleberry P, Keem Hyo-Eun, Paloalto & Woo)
+ASH ISLAND - Paranoid
 
-**Albums**: Dingo X DAMOIM (Part 2)
+**Albums**: ASH
 
-Last updated at 08/26/2020 13:04
+Last updated at 08/26/2020 13:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
