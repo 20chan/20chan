@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2slph_dapZ0DxV3qMHo6I7LeYixscqVBRj3v-RmyRFR2RHv22aUTQ_BmgMxKVBognbcZ-iIOTW6j8Htt">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zt4BOkzs2jnOsP0daW082022lPgD0zklqGPUb2Y80CraTLE1FPwylQ2CLlVMMgsxzyFJqmu-kOEhCTOZ">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-Gryffin & Elley Duhé - Tie Me Down
+NOTD - Been There Done That (feat. Tove Styrke)
 
-**Albums**: Tie Me Down
+**Albums**: Been There Done That
 
-Last updated at 08/26/2020 16:44
+Last updated at 08/26/2020 16:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
