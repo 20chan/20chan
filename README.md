@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUjCncoU4L0PvGiHmOxlBAHMgJLsp6kvHBl5ckQ-3-I7nUoCH-_Ln1pG-e7hwTyG5cinW_1tpUZm3BjIYA">](https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MIV2PQdpBFy9Ujm1JYSJBr02NWFON1nC8DqYwq2BSCdZkDuTp4kKNIkoLlzPfyUWaPC4DyZbE-ZfSefR">](https://music.youtube.com/channel/UCn43KiGYfy53lZj8lIxPRYw)
 
-Swings, Kid Milli & Mad Clown - Not Enough (feat. YUMDDA & pH-1)
+Soovi, Paloalto, Swervy & Owell Mood - Trynna Be
 
-**Albums**: Show Me the Money 8 Episode 1
+**Albums**: Legacy
 
-Last updated at 08/26/2020 12:54
+Last updated at 08/26/2020 12:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
