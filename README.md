@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iiVCJGAX2W0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJxOZ7-aK45PY4Nc6WKDbzFJFLIuBe7r98QtmV723Q=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCjU2-4QDBGw16stNPyGHw0Q)
 
-Trap Nation - Philter - Revolver (Linko Remix)
+OOHYO 우효 - Dandelion (민들레) (full ver.)
 
 **Albums**: undefined
 
-Last updated at 08/25/2020 18:12
+Last updated at 08/26/2020 09:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
