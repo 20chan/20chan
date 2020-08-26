@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5pMQsZ8Nkfof-KXJGR2QTLRZ36pcqOTkXKosumpZj8wx6rorfx0X9Q1NjiPNwxQazYC1kb3oWyQVzhxz">](https://music.youtube.com/channel/UC5EtjJLEqaSDZ8kVcnhNNGQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6fC0bRTWcV5IQmVm4P_4QoHkygZUV2c6Ay1k4oINYjg6LsgilNAzS5PxKQ7H_s3YGHtXE6W-26Z1nWc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Cash Cash - How to Love (feat. Sofia Reyes)
+Gryffin & Bipolar Sunshine - Whole Heart
 
-**Albums**: Blood, Sweat & 3 Years
+**Albums**: Whole Heart
 
-Last updated at 08/26/2020 17:34
+Last updated at 08/26/2020 17:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
