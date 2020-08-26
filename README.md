@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2slph_dapZ0DxV3qMHo6I7LeYixscqVBRj3v-RmyRFR2RHv22aUTQ_BmgMxKVBognbcZ-iIOTW6j8Htt">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-NOTD & Shy Martin - Keep You Mine
+Gryffin & Elley Duhé - Tie Me Down
 
-**Albums**: Keep You Mine
+**Albums**: Tie Me Down
 
-Last updated at 08/26/2020 16:40
+Last updated at 08/26/2020 16:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
