@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LN1mD4sngNKUtdG8gdkEfokAtSeZUqvXih-1o_2Crh9CBWVYbdMRLK-56yNnbTq8mc3CEN85yjYkNJ8">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/t8ecJEKVBwitjsaBFk6I7m368fi3_vNhX1LKQSQio7IZa6RLYJXrOUQdVLdZ6CYToao_qBq0wMPaxkbo">](https://music.youtube.com/channel/UCFovJ6oJ3ITB-ZXdrskKT5Q)
 
-NOTD - Start It Over (feat. CVBZ & Shy Martin)
+Tritonal - Little by Little (feat. Lourdiz)
 
-**Albums**: Ninjawerks (Vol. 1)
+**Albums**: U & Me
 
-Last updated at 08/26/2020 17:06
+Last updated at 08/26/2020 17:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
