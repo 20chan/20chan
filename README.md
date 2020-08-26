@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/eX3gXdc6a6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LPTSzFaO0VM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 조갑경 - 바보같은 미소 (1989年)
+pops8090 - 원준희 - 사랑은 유리같은 것 (1988年)
 
 **Albums**: undefined
 
-Last updated at 08/26/2020 13:26
+Last updated at 08/26/2020 13:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
