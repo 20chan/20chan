@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">](https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/moxjw6JiWr3yFfu5LvBNpzi20IQzIMV5_MpodBOIrFpfdtQ7wjsS5IBdEyCOJwwVrJulZXl38m8bq2wD">](https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA)
 
-ASH ISLAND - Paranoid
+우원재 (Woo) - Taste (feat. GIRIBOY)
 
-**Albums**: ASH
+**Albums**: Taste
 
-Last updated at 08/26/2020 13:10
+Last updated at 08/26/2020 13:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
