@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MIV2PQdpBFy9Ujm1JYSJBr02NWFON1nC8DqYwq2BSCdZkDuTp4kKNIkoLlzPfyUWaPC4DyZbE-ZfSefR">](https://music.youtube.com/channel/UCn43KiGYfy53lZj8lIxPRYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WBYrnGWgjgAxhRnWQ-p4Zx_P4aKiX3QxzldNaidWlUVLo7-qjg53nVfDMR7XJK8VU5u4OcbWQ7R7r3TsTw">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
 
-Soovi, Paloalto, Swervy & Owell Mood - Trynna Be
+SUPERBEE - 억 Uck (feat. CHANGMO)
 
-**Albums**: Legacy
+**Albums**: Show Me the Money 777 (Episode 4)
 
-Last updated at 08/26/2020 12:58
+Last updated at 08/26/2020 13:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
