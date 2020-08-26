@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6fC0bRTWcV5IQmVm4P_4QoHkygZUV2c6Ay1k4oINYjg6LsgilNAzS5PxKQ7H_s3YGHtXE6W-26Z1nWc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jcx8IYD5gllW1hlZiKP_OfUO6O17JV3As9pcaT4QO_Bx6myyT5vF43-l6sdVEfecQ62SEX5TbUx-G-nC">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
 
-Gryffin & Bipolar Sunshine - Whole Heart
+SHY Martin - Lose You Too
 
-**Albums**: Whole Heart
+**Albums**: Lose You Too
 
-Last updated at 08/26/2020 17:38
+Last updated at 08/26/2020 17:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
