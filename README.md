@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kdxNs0ahH_gfU8my_Oyd9Tw_3lUkwxXkR6gKrVIhmMi45g5M2zfteMgE5NwxG4u13FSAnNDBjzCXVBi6">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
 
-Gryffin - Out of My Mind
+SHY Martin - Out of My Hands
 
-**Albums**: Gravity
+**Albums**: Out of My Hands
 
-Last updated at 08/26/2020 17:26
+Last updated at 08/26/2020 17:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
