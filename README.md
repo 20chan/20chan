@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xBoFHV-k8eLGjVo0a7fuT3bGCtMJzgH42GRlbkVz6crNd7dyW6Kn9_XeudDLhe8poygeQMl7sDWjdAxR">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9ilraY4HmVAcSYYM-HhkSO3aSVmrDaQnOXRK1E-yQg-cs4S-3M60WLs_1a85chocWvwuC0UjiWx0EgV3">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-NOTD & Daya - Wanted
+Loote - tomorrow tonight
 
-**Albums**: Wanted
+**Albums**: lost
 
-Last updated at 08/26/2020 16:56
+Last updated at 08/26/2020 16:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
