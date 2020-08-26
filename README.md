@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">](https://music.youtube.com/channel/UCQgUHOPJJrmzCjExg-ISupA)
 
-Loote - Wish I Never Met You
+The Chainsmokers - Takeaway (feat. Lennon Stella)
 
-**Albums**: single.
+**Albums**: World War Joy...Takeaway
 
-Last updated at 08/26/2020 16:50
+Last updated at 08/26/2020 16:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
