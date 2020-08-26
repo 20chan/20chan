@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">](https://music.youtube.com/channel/UCoERzGw4bv2nRMoMOJFwmkQ)
 
-CHANGMO - METEOR
+Way Ched - REC (feat. Coogie & The Quiett)
 
-**Albums**: Boyhood
+**Albums**: 2MONTHS
 
-Last updated at 08/26/2020 12:46
+Last updated at 08/26/2020 12:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
