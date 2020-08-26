@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJxOZ7-aK45PY4Nc6WKDbzFJFLIuBe7r98QtmV723Q=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCjU2-4QDBGw16stNPyGHw0Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aKuS6T2SZoI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-OOHYO 우효 - Dandelion (민들레) (full ver.)
+Gwangil Jo - 곡예사
 
 **Albums**: undefined
 
-Last updated at 08/26/2020 09:44
+Last updated at 08/26/2020 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
