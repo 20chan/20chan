@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4lrs6YgqwQE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChx647YdNwLBmhjMgYzY0Sg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/NaU9C6d8I50/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7ntf58K59TD19r9OeK-1kQ)
 
-unofficialkjh - 김장훈 Kim Jang Hoon - 나와 같다면 Live
+lala Roy - 김장훈 소나기
 
 **Albums**: undefined
 
-Last updated at 08/26/2020 13:50
+Last updated at 08/26/2020 13:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
