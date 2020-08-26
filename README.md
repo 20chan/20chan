@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wbzpqii_E_cZe7CNVYdUGpaMsoykILIAkoSzXPXz231z5I0o8Rklfg-H98c11alRK7nN2lGoOV8GskEU">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-CHANGMO, Hash Swan, ASH ISLAND & Keem Hyo-Eun - BAND
+염따 YUMDDA - zoom
 
-**Albums**: BAND
+**Albums**: Breathe 2
 
-Last updated at 08/26/2020 13:16
+Last updated at 08/26/2020 13:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
