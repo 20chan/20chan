@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6kpWzSi7EdcTZZxzYYhJvAYIaSDsZtegg_YMJqasouHbEI8Z0zuThrKBMR6MLT1kdkevsANzKShh3_gD">](https://music.youtube.com/channel/UCx_jEchNDJ7Juc-lylVBYNA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pGOQ63r16c0zuIY-dFHLHWcJuUN9Ar6PYpHaIHr2ICXt85q35B_ejsHw4jFLkJElbYXOoxfc_tIEyLTu">](https://music.youtube.com/channel/UCX-gkzlYGuLxcQuo0WAWodA)
 
-Jon Boden, Sam Sweeney & Ben Coleman - How Long Will I Love You
+Amanda Palmer & The Grand Theft Orchestra - The Bed Song
 
-**Albums**: About Time
+**Albums**: Theatre Is Evil
 
-Last updated at 08/27/2020 19:05
+Last updated at 08/27/2020 19:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
