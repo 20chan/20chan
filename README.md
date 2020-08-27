@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i_kBmSFJ-F2BQsOccvjGvDCxjWxac9yfGzl1tdB4pvBy0SYiftLvo_TPCubJlX9rIfD1F1Pkry3qB41A">](https://music.youtube.com/channel/UCBfIRqiUk_-57izXvbZPYlA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
 
-BENEE - Supalonely (feat. Gus Dapperton)
+Harry Styles - Lights Up
 
-**Albums**: STELLA & STEVE
+**Albums**: Fine Line
 
-Last updated at 08/27/2020 17:11
+Last updated at 08/27/2020 17:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
