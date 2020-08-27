@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8IOAaKBmQQwxFz78Gg9rhPbH7c3NoyQJU4q7Zbe4D8wFZVut6sRYrLlgHmwhzrGSVxiO7_3XRhyRRuPbsQ">](https://music.youtube.com/channel/UCxzPYglSubx_3uF14WqqP_Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y61SlU66iiQSjwwdrnPb7LiwPhHFLaFRg0NwCDYsYWIJTaU3IqZQH_T3UefPp82lEIO2OugLHMgbPCz3NA">](https://music.youtube.com/channel/UCi-kAl0YSpCJOt7Irwylx6A)
 
-Emma Stone - Audition (The Fools Who Dream)
+Adam Levine - Go Now (From "Sing Street" Original Motion Picture Soundtrack)
 
-**Albums**: La La Land (Original Motion Picture Soundtrack)
+**Albums**: Sing Street (Original Motion Picture Soundtrack)
 
-Last updated at 08/27/2020 18:57
+Last updated at 08/27/2020 19:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
