@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nbqJdgIdT9RA1fnw6noomu0ql_JspjOvbF_8AMhjrfqyi0Nkp1aTTLZ_l6R37puu6Z_m9hWhlcXDuWEA">](https://music.youtube.com/channel/UCcIU9xhkIqW0oQh-xJpJTZQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OGVRNPkSMM36p2Fbze4OwKusm0xDtGiakKqOL4x7kTnKuFxf0JDA9qrUb9N107NxRv-WUFOjfL-rX7l3pg">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
 
-Wallows - Are You Bored Yet? (feat. Clairo)
+Dua Lipa - Physical
 
-**Albums**: Nothing Happens
+**Albums**: Future Nostalgia
 
-Last updated at 08/27/2020 17:37
+Last updated at 08/27/2020 17:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
