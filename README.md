@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/BON4fgIrFYA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCi14bJWs6zQFmDtkCel8nIw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vNwFYLWFJNBOUWScdFj9KLt-bocOQ1Qjtp_7O210bWtsJlCP63seqQqThFsO3AYT0t0G_Nd5lQ4smUS0">](https://music.youtube.com/channel/UC66brMsPseg5NxktTUupCKw)
 
-Alrota Music - Put It On [Instrumental Version] by Craig Reever - [2010s Pop Music]
+Ryan Gosling & Emma Stone - City Of Stars (From "La La Land" Soundtrack)
 
-**Albums**: undefined
+**Albums**: City Of Stars (From La La Land Soundtrack)
 
-Last updated at 08/27/2020 18:33
+Last updated at 08/27/2020 18:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
