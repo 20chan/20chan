@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9mA1S2xg38Rgb-CWP_R1YdUwEPnZ9EKZD6Gn6P0nxrCSv6TkbZwwRWF3uga8gF6N5PtxjvwZGSMZu3u">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qDT-T4eTWrbXSYrgIwEyHE5qsxq6iivhi34xDztf_NWSP8C3hUI8zGqZayxtkFz4tmPNvxRjWccOI-cN">](https://music.youtube.com/channel/UCoN5y13tQwDzd02G1sKVXMA)
 
-SID - Cafe de Bossa
+ORANGE RANGE - *Asterisk
 
-**Albums**: M&W
+**Albums**: Natural
 
-Last updated at 08/27/2020 11:45
+Last updated at 08/27/2020 11:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
