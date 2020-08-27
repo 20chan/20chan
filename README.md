@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZiPfq90LtAxtNwB_3WlwX21XbQqOxA5lK3lQpwURSwOOrb3J8phMF-WVyQ6jZcDtBcC4RuW_2PWQqUj7">](https://music.youtube.com/channel/UCGKXb1syicud01CJOOFRykg)
 
-Harry Styles - Golden
+Lady Gaga - Stupid Love
 
-**Albums**: Fine Line
+**Albums**: Chromatica
 
-Last updated at 08/27/2020 17:53
+Last updated at 08/27/2020 17:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
