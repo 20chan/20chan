@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XkjSuV_Fb-6oFew4Mz8Z49rLuSVhIq8WhHn0-bPPaeWXD9nY7MNrU3GEk_Oznrr33WgaaCALYzWBLN8xhg">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
 
-SID - Ash
+CHEMISTRY - Period
 
-**Albums**: SID Anime Best 2008-2017
+**Albums**: Chemistry 2001-2011
 
-Last updated at 08/27/2020 19:13
+Last updated at 08/27/2020 19:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
