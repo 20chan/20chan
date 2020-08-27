@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v1_Dr9TE-gjW3FYknLP8DzXSiBKcEjHLDx6HevzGU85C5ScehkgmfFWJ5ZGSLmKy-3tuZkxoZaeGBBeRAw">](https://music.youtube.com/channel/UCnJP89qgdM49vFxz91Vftwg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
 
-The Mowgli's - Norman Rockwell
+Harry Styles - Fine Line
 
-**Albums**: American Feelings
+**Albums**: Fine Line
 
-Last updated at 08/27/2020 17:59
+Last updated at 08/27/2020 18:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
