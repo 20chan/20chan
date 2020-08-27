@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OGVRNPkSMM36p2Fbze4OwKusm0xDtGiakKqOL4x7kTnKuFxf0JDA9qrUb9N107NxRv-WUFOjfL-rX7l3pg">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JqVZS2oAJsyXEj5MBtGAR-l_c1DG9j4nYHAdyKscfGHsUg5JzOo3HmXBxDbuyCpSgcz3WhhDKI-GklU">](https://music.youtube.com/channel/UCREdEwBdZcnQLIT0ThaAtmQ)
 
-Dua Lipa - Physical
+Miley Cyrus - Malibu
 
-**Albums**: Future Nostalgia
+**Albums**: Younger Now
 
-Last updated at 08/27/2020 17:39
+Last updated at 08/27/2020 17:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
