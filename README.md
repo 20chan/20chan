@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OGVRNPkSMM36p2Fbze4OwKusm0xDtGiakKqOL4x7kTnKuFxf0JDA9qrUb9N107NxRv-WUFOjfL-rX7l3pg">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8">](https://music.youtube.com/channel/UCyD3XWRK9ko-izf2nBSFitw)
 
-Dua Lipa - Hallucinate
+Post Malone - Circles
 
-**Albums**: Future Nostalgia
+**Albums**: Hollywood's Bleeding
 
-Last updated at 08/27/2020 16:57
+Last updated at 08/27/2020 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
