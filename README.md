@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI">](https://music.youtube.com/channel/UClYV6hHlupm_S_ObS1W-DYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OGVRNPkSMM36p2Fbze4OwKusm0xDtGiakKqOL4x7kTnKuFxf0JDA9qrUb9N107NxRv-WUFOjfL-rX7l3pg">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
 
-The Weeknd - Blinding Lights
+Dua Lipa - Hallucinate
 
-**Albums**: Blinding Lights
+**Albums**: Future Nostalgia
 
-Last updated at 08/27/2020 16:53
+Last updated at 08/27/2020 16:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
