@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/swqEoId81xLrsAEPMFDqEQavtV3ywMs6EblpeZkHDVnEtOdpdkg1H-aIyq-9Rk5ZmL3KGKQxbOsThkry">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-SID - Uso
+NOTD & Shy Martin - Keep You Mine
 
-**Albums**: Hikari
+**Albums**: Keep You Mine
 
-Last updated at 08/27/2020 19:35
+Last updated at 08/27/2020 19:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
