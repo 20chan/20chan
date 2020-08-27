@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/SUJc0s9AsQg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/s-Gh9lXmqNA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 박혜경(더더) - 내게 다시 (1997年)
+pops8090 - 김민우 - 사랑일뿐야 (1990年)
 
 **Albums**: undefined
 
-Last updated at 08/27/2020 15:57
+Last updated at 08/27/2020 16:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
