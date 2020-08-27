@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PKISqInyqwR8leb1fdJ6jQBjOBE9NUZ2roEvcFb0b9UvmLsbEI3db6RSJPqQE6kE_ad9Am31V7jt0osu">](https://music.youtube.com/channel/UCu4DT36ncDBhuBo1w_vZsFg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
 
-Ashe - Moral of the Story
+Harry Styles - Sunflower, Vol. 6
 
-**Albums**: Moral of the Story: Chapter 1
+**Albums**: Fine Line
 
-Last updated at 08/27/2020 17:27
+Last updated at 08/27/2020 17:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
