@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZiPfq90LtAxtNwB_3WlwX21XbQqOxA5lK3lQpwURSwOOrb3J8phMF-WVyQ6jZcDtBcC4RuW_2PWQqUj7">](https://music.youtube.com/channel/UCGKXb1syicud01CJOOFRykg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v1_Dr9TE-gjW3FYknLP8DzXSiBKcEjHLDx6HevzGU85C5ScehkgmfFWJ5ZGSLmKy-3tuZkxoZaeGBBeRAw">](https://music.youtube.com/channel/UCnJP89qgdM49vFxz91Vftwg)
 
-Lady Gaga - Stupid Love
+The Mowgli's - Norman Rockwell
 
-**Albums**: Chromatica
+**Albums**: American Feelings
 
-Last updated at 08/27/2020 17:55
+Last updated at 08/27/2020 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
