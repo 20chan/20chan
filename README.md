@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/c4MGMVoraMSXEtA8Ryk42qHzYjp5YHxkYtA6wUgAVcH41PAhyXD2MCIHQhD0ps6AcxQRndpq1cwFK68">](https://music.youtube.com/channel/UCp_uCNIqcdY7cuE-rZxLLuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lCBgeMmyKq8t6gFAHMH-KZmws-1qpMuDl4GyliXdhzDhWsoCDpYEbcx8p3vces9c5Yf_5Bo0Ci6AcLHGA">](https://music.youtube.com/channel/UCnX-pc6HvaOhiMFXRO6zfLA)
 
-Kyunghwa Jung - Invitation to Me
+Seo Taiji - Take Five
 
-**Albums**: My Blue Dreams
+**Albums**: Seotaiji V
 
-Last updated at 08/27/2020 11:19
+Last updated at 08/27/2020 11:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
