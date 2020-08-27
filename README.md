@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
 
-Harry Styles - Watermelon Sugar
+Harry Styles - Adore You
 
 **Albums**: Fine Line
 
-Last updated at 08/27/2020 16:47
+Last updated at 08/27/2020 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
