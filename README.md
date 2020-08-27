@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQg5Gmm5pxzSwcx9-CT6jknLPw2FmxIlyWZIW6jzZo1NYOtfyKrXdlLToeO5leifFlO28ynxfp6XjUHw">](https://music.youtube.com/channel/UCUbDhozXHgq2Hr1bEasYuHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
 
-YUI - Again
+CHEMISTRY - Period
 
-**Albums**: Again
+**Albums**: Chemistry 2001-2011
 
-Last updated at 08/27/2020 19:29
+Last updated at 08/27/2020 19:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
