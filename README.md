@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mR48stP4CzzU0qgDRfo_NF6pDjdUcm6hPvdrymi4nM_NEAl4XjnUOXWJA3QXg1mu2ixizZQwUa2U4Z8R">](https://music.youtube.com/channel/UCxm9sS8Dd2aRthr_O3rVLJQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
 
-Niall Horan - No Judgement
+Harry Styles - Golden
 
-**Albums**: Heartbreak Weather
+**Albums**: Fine Line
 
-Last updated at 08/27/2020 17:49
+Last updated at 08/27/2020 17:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
