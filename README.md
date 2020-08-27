@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/s-Gh9lXmqNA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
 
-pops8090 - 김민우 - 사랑일뿐야 (1990年)
+Conan Gray - Maniac
 
-**Albums**: undefined
+**Albums**: Kid Krow
 
-Last updated at 08/27/2020 16:03
+Last updated at 08/27/2020 16:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
