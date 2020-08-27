@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3qNxKujQ-39qCeK-BpqU7P2QgM08S0meNUTS4RcDgyHNSARAoAGdxINOwzciIDjvC2Vraa2PljC3hV0Tkw">](https://music.youtube.com/channel/UCArltdyEcKiCVki3ZDZJW-A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8IOAaKBmQQwxFz78Gg9rhPbH7c3NoyQJU4q7Zbe4D8wFZVut6sRYrLlgHmwhzrGSVxiO7_3XRhyRRuPbsQ">](https://music.youtube.com/browse/MPREb_9SNL6kzrfqy)
 
-Camille - Le Festin
+Justin Hurwitz & La La Land Cast - Another Day Of Sun
 
-**Albums**: Disney/Pixar Greatest
+**Albums**: La La Land (Original Motion Picture Soundtrack)
 
-Last updated at 08/27/2020 18:43
+Last updated at 08/27/2020 18:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
