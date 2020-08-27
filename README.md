@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rKdYM5gWjW60e_j6vX1fPb6mwOVkUK1VTcxps6FRwAkPOM--1urfgMyOiNg95_e46XYd97THYHs225Xv">](https://music.youtube.com/channel/UCCB2_351SXEVTFuWnkQSjPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c4MGMVoraMSXEtA8Ryk42qHzYjp5YHxkYtA6wUgAVcH41PAhyXD2MCIHQhD0ps6AcxQRndpq1cwFK68">](https://music.youtube.com/channel/UCp_uCNIqcdY7cuE-rZxLLuw)
 
-god - 사랑해 그리고 기억해 Love You and Remember You
+Kyunghwa Jung - Invitation to Me
 
-**Albums**: Chapter 2
+**Albums**: My Blue Dreams
 
-Last updated at 08/27/2020 11:13
+Last updated at 08/27/2020 11:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
