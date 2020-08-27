@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/L1xDBwD84LXwydnAyi5Oco31KIeRSqIc-0Ptvp2dW28PjG_PIZ5w3dlHBlVpoMvfomo-hLRFnk3m33E">](https://music.youtube.com/channel/UCAtLPtdf3NxaabgXCqYehoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9mA1S2xg38Rgb-CWP_R1YdUwEPnZ9EKZD6Gn6P0nxrCSv6TkbZwwRWF3uga8gF6N5PtxjvwZGSMZu3u">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-Aqua Timez - Alones
+SID - Cafe de Bossa
 
-**Albums**: Darekanochijoue
+**Albums**: M&W
 
-Last updated at 08/27/2020 11:39
+Last updated at 08/27/2020 11:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
