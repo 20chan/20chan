@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8">](https://music.youtube.com/channel/UCyD3XWRK9ko-izf2nBSFitw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
 
-Post Malone - Circles
+Harry Styles - She
 
-**Albums**: Hollywood's Bleeding
+**Albums**: Fine Line
 
-Last updated at 08/27/2020 17:01
+Last updated at 08/27/2020 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
