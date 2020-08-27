@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7STdAnBVNiYOFuh2ucmfeKPSBu1XVjz3WEM50R-x8zF6PF3Jg9Sz76vsQOJZ-b1qSdfdTw4Vhno5XxA">](https://music.youtube.com/channel/UCl6VFPKF465F-hSkhtyWtEw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/J1XLJWt8MtA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0C7YchtHRJtCYOEfgMcrLA)
 
-Nevada & Loote - Don't Call Me
+Mike Leite - Mike Leite - All You Need Is Love
 
-**Albums**: Don’t Call Me
+**Albums**: undefined
 
-Last updated at 08/26/2020 17:46
+Last updated at 08/27/2020 10:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
