@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/swqEoId81xLrsAEPMFDqEQavtV3ywMs6EblpeZkHDVnEtOdpdkg1H-aIyq-9Rk5ZmL3KGKQxbOsThkry">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-CHEMISTRY - Period
+SID - Uso
 
-**Albums**: Chemistry 2001-2011
+**Albums**: Hikari
 
-Last updated at 08/27/2020 11:33
+Last updated at 08/27/2020 11:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
