@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JqVZS2oAJsyXEj5MBtGAR-l_c1DG9j4nYHAdyKscfGHsUg5JzOo3HmXBxDbuyCpSgcz3WhhDKI-GklU">](https://music.youtube.com/channel/UCREdEwBdZcnQLIT0ThaAtmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vdjlqaBIgtqm81awZKd6D-Yn6pOSJPu1FmfGtzD23mRAek3yik2IIgCUDTcPz7vPuE42Tn8w69EG-drs">](https://music.youtube.com/channel/UCEQMQGDI9F7R4qlPBrWGqdA)
 
-Miley Cyrus - Malibu
+SAYGRACE - Boys Ain't Shit
 
-**Albums**: Younger Now
+**Albums**: Boys Ain't Shit
 
-Last updated at 08/27/2020 17:43
+Last updated at 08/27/2020 17:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
