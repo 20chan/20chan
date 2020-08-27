@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/L1xDBwD84LXwydnAyi5Oco31KIeRSqIc-0Ptvp2dW28PjG_PIZ5w3dlHBlVpoMvfomo-hLRFnk3m33E">](https://music.youtube.com/channel/UCAtLPtdf3NxaabgXCqYehoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
 
-Aqua Timez - Alones
+CHEMISTRY - Period
 
-**Albums**: Darekanochijoue
+**Albums**: Chemistry 2001-2011
 
-Last updated at 08/27/2020 19:23
+Last updated at 08/27/2020 19:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
