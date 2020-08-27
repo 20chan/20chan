@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pGOQ63r16c0zuIY-dFHLHWcJuUN9Ar6PYpHaIHr2ICXt85q35B_ejsHw4jFLkJElbYXOoxfc_tIEyLTu">](https://music.youtube.com/channel/UCX-gkzlYGuLxcQuo0WAWodA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XkjSuV_Fb-6oFew4Mz8Z49rLuSVhIq8WhHn0-bPPaeWXD9nY7MNrU3GEk_Oznrr33WgaaCALYzWBLN8xhg">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-Amanda Palmer & The Grand Theft Orchestra - The Bed Song
+SID - Ash
 
-**Albums**: Theatre Is Evil
+**Albums**: SID Anime Best 2008-2017
 
-Last updated at 08/27/2020 19:07
+Last updated at 08/27/2020 19:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
