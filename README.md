@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ttaLKBKJCZdF-3HLVMORYdSAwdqF_60ShFLSzQisQfxhrO1QX-3sHaT2aXhZggjf5dm3TM9Ob19Y0p5p">](https://music.youtube.com/channel/UCkHCFYazoDQyBdOopGGQnwg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/eO_XesGgJx061MJJbDIFduI0rCD50ORTblUe_3gggzkVuJseQ77HXC4IOMnIxWG7JvO0mMNQ-U0e0_nNxA">](https://music.youtube.com/channel/UCq5b9jTD49q5Wgm1z-iCKcQ)
 
-BoA - 아틀란티스 소녀 Atlantis Princess
+이승환 Lee Seung Hwan - 기다린 날도 지워질 날도
 
-**Albums**: Atlantis Princess - The 3rd Album
+**Albums**: B.C 603
 
-Last updated at 08/27/2020 12:05
+Last updated at 08/27/2020 12:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
