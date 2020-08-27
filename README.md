@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8IOAaKBmQQwxFz78Gg9rhPbH7c3NoyQJU4q7Zbe4D8wFZVut6sRYrLlgHmwhzrGSVxiO7_3XRhyRRuPbsQ">](https://music.youtube.com/browse/MPREb_9SNL6kzrfqy)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8IOAaKBmQQwxFz78Gg9rhPbH7c3NoyQJU4q7Zbe4D8wFZVut6sRYrLlgHmwhzrGSVxiO7_3XRhyRRuPbsQ">](https://music.youtube.com/channel/UCxzPYglSubx_3uF14WqqP_Q)
 
-Justin Hurwitz & La La Land Cast - Another Day Of Sun
+Emma Stone, Callie Hernandez, Sonoya Mizuno & Jessica Rothe - Someone In The Crowd
 
 **Albums**: La La Land (Original Motion Picture Soundtrack)
 
-Last updated at 08/27/2020 18:47
+Last updated at 08/27/2020 18:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
