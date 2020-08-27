@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lCBgeMmyKq8t6gFAHMH-KZmws-1qpMuDl4GyliXdhzDhWsoCDpYEbcx8p3vces9c5Yf_5Bo0Ci6AcLHGA">](https://music.youtube.com/channel/UCnX-pc6HvaOhiMFXRO6zfLA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/channel/UC62CjlrklkrLDtbs5nfVsbw)
 
-Seo Taiji - Take Five
+SID - Rain
 
-**Albums**: Seotaiji V
+**Albums**: Rain
 
-Last updated at 08/27/2020 11:23
+Last updated at 08/27/2020 11:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
