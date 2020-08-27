@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OGVRNPkSMM36p2Fbze4OwKusm0xDtGiakKqOL4x7kTnKuFxf0JDA9qrUb9N107NxRv-WUFOjfL-rX7l3pg">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
 
-Harry Styles - Lights Up
+Dua Lipa - Break My Heart
 
-**Albums**: Fine Line
+**Albums**: Future Nostalgia
 
-Last updated at 08/27/2020 17:13
+Last updated at 08/27/2020 17:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
