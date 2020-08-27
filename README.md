@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/J1XLJWt8MtA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0C7YchtHRJtCYOEfgMcrLA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sqVNhH74qX4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOHUt0wknxOp_c7YpCwLj8w)
 
-Mike Leite - Mike Leite - All You Need Is Love
+Pollux - Pollux - Different Way
 
 **Albums**: undefined
 
-Last updated at 08/27/2020 10:37
+Last updated at 08/27/2020 10:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
