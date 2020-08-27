@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/59l37AJUEGY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC2dNfNzUk_DYTPzwnlRqAVg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/hHeF9SYnsVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClyjMvs5f7rjv7b3eJv0IVg)
 
-EDM Triforce - Adam Trigger - Fix
+Probackmusic - Fyre - Moonwake
 
 **Albums**: undefined
 
-Last updated at 08/27/2020 10:47
+Last updated at 08/27/2020 10:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
