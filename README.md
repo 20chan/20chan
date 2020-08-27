@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P40AFqu8aMn1KsONRp63llwR9wWc2FKjm-QbK2nzhQgpIEFsWu0hzYDr67WIJClBNzG4mb6prv6Eooj6Bg">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UsVCMLjHuXF88kZU-mDEvjpJcjEG-hBfe_59DwGIvvtHKXN59Unpp_3P2HQ9hx3uUvvD0W-skRwX4tNn">](https://music.youtube.com/channel/UCDfnnzgPNShOXOYM9V4QIsQ)
 
-Conan Gray - Maniac
+Conan Gray - Crush Culture
 
-**Albums**: Kid Krow
+**Albums**: Sunset Season
 
-Last updated at 08/27/2020 16:43
+Last updated at 08/27/2020 16:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
