@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UbcmZxvF1oAXlOsrMo2L6VCpeelfmi1UJFx0-NBzMD895SBKNrLDFvucbW7PlFopcLuFeSgqC-XUOr-Q">](https://music.youtube.com/channel/UCE-7-YofEUSr-AnfiqKI92g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ttaLKBKJCZdF-3HLVMORYdSAwdqF_60ShFLSzQisQfxhrO1QX-3sHaT2aXhZggjf5dm3TM9Ob19Y0p5p">](https://music.youtube.com/channel/UCkHCFYazoDQyBdOopGGQnwg)
 
-최진영 - 영원
+BoA - 아틀란티스 소녀 Atlantis Princess
 
-**Albums**: Final Fantasy -The Best Is Yet To Come
+**Albums**: Atlantis Princess - The 3rd Album
 
-Last updated at 08/27/2020 11:59
+Last updated at 08/27/2020 12:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
