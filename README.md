@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/6ga1MUhTyVm5m7IFcRbOn7Q1DpNMn8APKhQ-tHawQEExWqQQIlrZJYI3zoKGQxj2LMls192jGd2yVHI">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
 
-공일오비(015B) - 신(新) 인류의 사랑
+공일오비(015B) - 아주 오래된 연인들
 
 **Albums**: 015B The Best Collection
 
-Last updated at 08/28/2020 16:14
+Last updated at 08/28/2020 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
