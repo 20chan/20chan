@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6ga1MUhTyVm5m7IFcRbOn7Q1DpNMn8APKhQ-tHawQEExWqQQIlrZJYI3zoKGQxj2LMls192jGd2yVHI">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPy_ZSLiRa8e6jn-2D9qV7OaxghRHUCDFSmJhvyUqlwFtYn9CtGBDuPfPwJH5LoqgFMBHDp0ow2rY9QB">](https://music.youtube.com/channel/UCxdjAtOEGsnjvPlgqKbi5jw)
 
-공일오비(015B) - 아주 오래된 연인들
+DEUX - To Put In Word
 
-**Albums**: 015B The Best Collection
+**Albums**: Forever
 
-Last updated at 08/28/2020 16:42
+Last updated at 08/28/2020 16:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
