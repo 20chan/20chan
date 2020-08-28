@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/M646_lJiFvA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzVeyTyDkvACk5yimlydIvQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KsfZydnDywg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQgxZHaoqntwvVrDZvZ1pKg)
 
-Pak Sun Zoo - 귀로
+박태섬 - 장덕노래모음 30곡
 
 **Albums**: undefined
 
-Last updated at 08/28/2020 11:26
+Last updated at 08/28/2020 11:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
