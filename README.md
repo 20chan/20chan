@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R4gwn2gaVGx-GxyczlLmpi1FQJzk5brbVYuKHLxyAi6v2sSwWDvJ2vuP_wJ-osFxbv3zaj_D5hxhcWDp">](https://music.youtube.com/channel/UCHVLTiXEcAuBcGAgkARgAuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6ga1MUhTyVm5m7IFcRbOn7Q1DpNMn8APKhQ-tHawQEExWqQQIlrZJYI3zoKGQxj2LMls192jGd2yVHI">](https://music.youtube.com/channel/UC_8W0BtpDDAufJdDpjq4OOQ)
 
-이범학 - 이별 아닌 이별
+공일오비(015B) - 신(新) 인류의 사랑
 
-**Albums**: 내 기억속의 발라드
+**Albums**: 015B The Best Collection
 
-Last updated at 08/28/2020 16:10
+Last updated at 08/28/2020 16:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
