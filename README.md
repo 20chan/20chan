@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0k0f5Z0aytY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/M646_lJiFvA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCzVeyTyDkvACk5yimlydIvQ)
 
-Choi Hosub - When Time Passes
+Pak Sun Zoo - 귀로
 
 **Albums**: undefined
 
-Last updated at 08/28/2020 11:22
+Last updated at 08/28/2020 11:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
