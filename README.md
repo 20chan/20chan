@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/kFcuKy3zsOE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGY7g-MxiE-MJqgDBbnOpAg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0k0f5Z0aytY)
 
-Hyun-i & Deok-i - 님 떠난 후
+Choi Hosub - When Time Passes
 
 **Albums**: undefined
 
-Last updated at 08/28/2020 11:19
+Last updated at 08/28/2020 11:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
