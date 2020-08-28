@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qIYDPXazpQ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe_Oix16q2bJPrIaW24pdRQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KSq5zz2AVwZ1SE2NM2DHqA50cSg_hblduclAp7LDPVMPrmkwgP64YkzO0osKL5dfwF68db7xcohBsxU">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
 
-가요10선새여울 - 장덕 히트가요(10-1)선***여섯번째곡은 "정수라"노래입니다...
+변진섭 - 새들처럼
 
-**Albums**: undefined
+**Albums**: 변진섭 The Golden Best
 
-Last updated at 08/28/2020 16:04
+Last updated at 08/28/2020 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
