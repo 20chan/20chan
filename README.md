@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KSq5zz2AVwZ1SE2NM2DHqA50cSg_hblduclAp7LDPVMPrmkwgP64YkzO0osKL5dfwF68db7xcohBsxU">](https://music.youtube.com/channel/UCZpXSa4x_zaC-XKoQoheEUg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/R4gwn2gaVGx-GxyczlLmpi1FQJzk5brbVYuKHLxyAi6v2sSwWDvJ2vuP_wJ-osFxbv3zaj_D5hxhcWDp">](https://music.youtube.com/channel/UCHVLTiXEcAuBcGAgkARgAuw)
 
-변진섭 - 새들처럼
+이범학 - 이별 아닌 이별
 
-**Albums**: 변진섭 The Golden Best
+**Albums**: 내 기억속의 발라드
 
-Last updated at 08/28/2020 16:06
+Last updated at 08/28/2020 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
