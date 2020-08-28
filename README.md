@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KsfZydnDywg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCQgxZHaoqntwvVrDZvZ1pKg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qIYDPXazpQ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe_Oix16q2bJPrIaW24pdRQ)
 
-박태섬 - 장덕노래모음 30곡
+가요10선새여울 - 장덕 히트가요(10-1)선***여섯번째곡은 "정수라"노래입니다...
 
 **Albums**: undefined
 
-Last updated at 08/28/2020 11:30
+Last updated at 08/28/2020 16:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
