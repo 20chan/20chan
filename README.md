@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8WqEp8nbgPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCrBP154FanZWf4D8oItOZyQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/cOyA7aK0HqU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3iP3I50PJGXanuf0a5f1Tg)
 
-Ailee - Evening Sky
+mod elo - 60's garage rock mix
 
 **Albums**: undefined
 
-Last updated at 08/30/2020 02:10
+Last updated at 08/30/2020 05:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
