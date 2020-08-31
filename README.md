@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/s-Gh9lXmqNA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-米津玄師 - 米津玄師 MV「 灰色と青（ ＋菅田将暉 ）」
+pops8090 - 김민우 - 사랑일뿐야 (1990年)
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 11:27
+Last updated at 08/31/2020 11:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
