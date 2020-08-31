@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zt_nQjorbww/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCrpNGwefo6ZmDVIUZ1fDifQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LM6aLLo9liI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs7KgQu3g_3in3JTcy8cq2w)
 
-newstarsm - 윤성기,조재일 말하는 대로 가사 듣기
+애란TV - 말하는대로-윤성기,조재일(가사첨부)
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 13:51
+Last updated at 08/31/2020 13:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
