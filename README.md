@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/kFcuKy3zsOE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGY7g-MxiE-MJqgDBbnOpAg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ryJwOagJnhY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ryJwOagJnhY)
 
-Hyun-i & Deok-i - 님 떠난 후
+Yang Hayeong - 가슴앓이
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 15:01
+Last updated at 08/31/2020 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
