@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/glfM8p8UEAZF_eKPIviDvMnBdgVO_J_H63w-qNX9cLgTBO5zBzDbzE-KAekljzPszadn4p4wlhsNHIc">](https://music.youtube.com/channel/UCRvS5IgCgo50TCNWbzGs7KQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
 
-윤하 - 날 울리지마
+SURL (설) - Dry Flower
 
-**Albums**: 나는 가수다 2 9월의 가수전
+**Albums**: I Know
 
-Last updated at 08/31/2020 14:17
+Last updated at 08/31/2020 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
