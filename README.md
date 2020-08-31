@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJyayGnE57Y5zTU9pc0tKbZlWh3pfdfHL_Js2RuG8Q=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCbuPS57FykCbIfLMk_eTeag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uuLT8ivo-aBq1nrUUR9bK6ot-RtqA2aSdnVmrs6HXQGoIvkWk5I3QU1HlqeOlFNoUheKdbAWazwoDHX-Sg">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
 
-Juke Ross - Fresh Roses (Official Lyric Video)
+10cm - 짝사랑 Crush
 
-**Albums**: undefined
+**Albums**: 3.0
 
-Last updated at 08/31/2020 16:11
+Last updated at 08/31/2020 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
