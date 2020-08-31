@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/nCpdJtrd4UM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/d-BLyye9QZo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 양수경 - 사랑은 창밖에 빗물 같아요 (1989年)
+pops8090 - 백미현 - 다시 사랑할 수 있다면 (1990年)
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 11:57
+Last updated at 08/31/2020 12:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
