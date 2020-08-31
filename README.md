@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/s-Gh9lXmqNA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/FL285FjFT74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 김민우 - 사랑일뿐야 (1990年)
+pops8090 - 이정봉 - 어떤가요 (1996年) MV
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 11:35
+Last updated at 08/31/2020 11:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
