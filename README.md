@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K-RRxxh7YmE7IgG281GRAS-ejMhIZ4x8ffwu16l_fgkFQvf3YBn_RqA0hKLdckAdSmou0ZJf10AouQh-ig">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_5eg8XMrdHEGsSIQfnijg3t2B1sGKYhgDeQqpHH91fiDNTqOZRCyfMPnTaKKZpIxSvzicPNyYHQQmbqvkQ">](https://music.youtube.com/channel/UCs-ppjzchrYIj0yPYKfI4bA)
 
-10cm - Perfect
+B1A4 - Unrequited love
 
-**Albums**: Love Playlist3 Part.1
+**Albums**: IGNITION (SPECIAL EDITION)
 
-Last updated at 08/31/2020 19:14
+Last updated at 08/31/2020 19:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
