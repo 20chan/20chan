@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GOnPZpXsFQ42Q76bJpkd9BTJBEYDbW-XBVBTYXVO89QV3FoNblU3JqZOrhcBqAdypWao2sKVq2udaK0-Tg">](https://music.youtube.com/channel/UCNVYjXuC3WdKCsdl8Hef0lg)
 
-SURL (설) - 열기구 Hot Air Balloon
+O.O.O - 모래
 
-**Albums**: I Know
+**Albums**: HOME
 
-Last updated at 08/31/2020 14:55
+Last updated at 08/31/2020 14:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
