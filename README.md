@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/2FYTP6Fvfpc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
 
-pops8090 - 이상은 - 언젠가는 (1993年)
+米津玄師 - 米津玄師 MV「 灰色と青（ ＋菅田将暉 ）」
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 10:49
+Last updated at 08/31/2020 11:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
