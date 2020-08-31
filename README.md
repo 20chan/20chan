@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/cOyA7aK0HqU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3iP3I50PJGXanuf0a5f1Tg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/2FYTP6Fvfpc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-mod elo - 60's garage rock mix
+pops8090 - 이상은 - 언젠가는 (1993年)
 
 **Albums**: undefined
 
-Last updated at 08/30/2020 05:28
+Last updated at 08/31/2020 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
