@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/EZEX3QEbfCQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3w9qasqk200/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 최연제 - 너의 마음을 내게 준다면 (1993年)
+pops8090 - 원미연 - 이별여행 (1990年)
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 12:13
+Last updated at 08/31/2020 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
