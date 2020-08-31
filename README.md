@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_5eg8XMrdHEGsSIQfnijg3t2B1sGKYhgDeQqpHH91fiDNTqOZRCyfMPnTaKKZpIxSvzicPNyYHQQmbqvkQ">](https://music.youtube.com/channel/UCs-ppjzchrYIj0yPYKfI4bA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z0pGAtZSzQ9nJCbsnqnppFE9GSBwhNlOxcsr04OrDou-GhYGIMGqFiwji7IjZ5WfqkTKYyU0PBrXoFA">](https://music.youtube.com/channel/UC5lfkKEQTGOjmauwUD9arFQ)
 
-B1A4 - Unrequited love
+Epitone Project - 그대 내게 어떤 사랑이었나
 
-**Albums**: IGNITION (SPECIAL EDITION)
+**Albums**: Words in the mind
 
-Last updated at 08/31/2020 19:16
+Last updated at 08/31/2020 19:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
