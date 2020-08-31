@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uuLT8ivo-aBq1nrUUR9bK6ot-RtqA2aSdnVmrs6HXQGoIvkWk5I3QU1HlqeOlFNoUheKdbAWazwoDHX-Sg">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K-RRxxh7YmE7IgG281GRAS-ejMhIZ4x8ffwu16l_fgkFQvf3YBn_RqA0hKLdckAdSmou0ZJf10AouQh-ig">](https://music.youtube.com/channel/UC9oomNHPNLrh819sxCgcYTA)
 
-10cm - 짝사랑 Crush
+10cm - Perfect
 
-**Albums**: 3.0
+**Albums**: Love Playlist3 Part.1
 
-Last updated at 08/31/2020 19:10
+Last updated at 08/31/2020 19:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
