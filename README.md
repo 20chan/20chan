@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0k0f5Z0aytY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/n8-jILf-Wpc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvFyKYfq4xa9txMHTfFlO1Q)
 
-Choi Hosub - When Time Passes
+Chang Deok - I thought it was a break-up
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 15:07
+Last updated at 08/31/2020 15:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
