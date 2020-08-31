@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KnlLQTpKurs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nu3YsyDplUQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSJsKyOD00L9Q03NewdjSBw)
 
-Yoon Jong Shin - Exhaustion
+Yoon Band - YB- 흰수염고래(Blue Whale) Official MV
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 14:03
+Last updated at 08/31/2020 14:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
