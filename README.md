@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/40WklavZYEs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KnlLQTpKurs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC9vrsMkxQUvpugdAbIC9r-w)
 
-Jang Beom June - Reminiscence
+Yoon Jong Shin - Exhaustion
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 13:57
+Last updated at 08/31/2020 14:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
