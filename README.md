@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gMbqagfXSWw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC36aiFmZYNZHAp7a-xAei4w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zt_nQjorbww/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCrpNGwefo6ZmDVIUZ1fDifQ)
 
-Jane - 말하는 대로 - 처진 달팽이 [ENG SUB + KOR 가사]
+newstarsm - 윤성기,조재일 말하는 대로 가사 듣기
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 13:47
+Last updated at 08/31/2020 13:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
