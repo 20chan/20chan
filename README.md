@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z0pGAtZSzQ9nJCbsnqnppFE9GSBwhNlOxcsr04OrDou-GhYGIMGqFiwji7IjZ5WfqkTKYyU0PBrXoFA">](https://music.youtube.com/channel/UC5lfkKEQTGOjmauwUD9arFQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JHFIvDHWaNB0MbTqyu2NX21Zi4dK14FFeQky4Hm6Ey9CeXyv3YG3Q1imxbdnsElIFf3DDGfcFsXsyiY">](https://music.youtube.com/channel/UCYRTFLr5vZYylBQCbWlFbzw)
 
-Epitone Project - 그대 내게 어떤 사랑이었나
+ACOURVE - The night we parted
 
-**Albums**: Words in the mind
+**Albums**: The night we parted
 
-Last updated at 08/31/2020 19:20
+Last updated at 08/31/2020 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
