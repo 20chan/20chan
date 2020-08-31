@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/nu3YsyDplUQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCSJsKyOD00L9Q03NewdjSBw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ZfGzXCUqlJg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvl1p-9xtOCY9j5ZlbweGCg)
 
-Yoon Band - YB- 흰수염고래(Blue Whale) Official MV
+Yi Sung Yol - Fly
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 14:07
+Last updated at 08/31/2020 14:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
