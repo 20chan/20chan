@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7oBfZAgBZJA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gMbqagfXSWw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC36aiFmZYNZHAp7a-xAei4w)
 
-pops8090 - 김건모 - 아름다운 이별 (1995年)
+Jane - 말하는 대로 - 처진 달팽이 [ENG SUB + KOR 가사]
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 12:39
+Last updated at 08/31/2020 13:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
