@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/D1MSSJpiR5M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCncmhEMto4MiCLj5kyaV3ag)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/crBVVxNkLhc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCOpZnbC0-nh48xQqyZsWpXQ)
 
-Jeon You Na - Even If I Love You
+Baettaragi - 그댄 봄비를 무척 좋아하나요
 
 **Albums**: undefined
 
-Last updated at 08/31/2020 15:15
+Last updated at 08/31/2020 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
