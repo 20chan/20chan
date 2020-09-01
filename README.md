@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/a6dwchTCoAI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vfSH54GStWsZ9jTe1fPz32Bhx_YODLBrOXDrcdBob3mgl6xQPuTMuZmB6uL66NhTNoTZO0smMh_qdMJ1">](https://music.youtube.com/channel/UCwMueAq3c3V4iRw1fSYWs5w)
 
-Jaurim - [MV] 자우림(Jaurim) - 있지
+YAS - empty crown
 
-**Albums**: undefined
+**Albums**: empty crown
 
-Last updated at 09/01/2020 19:34
+Last updated at 09/01/2020 19:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
