@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dYA1pOj4mYaSEr063XKLOnzapKsyC2KK7-VfRCXhonf7QqgCO4x7y7IJ1RaN6fxm5Luzn-dK0RtqcAAUaQ">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
 
-NOTD & Shy Martin - Keep You Mine
+SHY Martin - Make Us Never Happen
 
-**Albums**: Keep You Mine
+**Albums**: Make Us Never Happen
 
-Last updated at 09/02/2020 01:33
+Last updated at 09/02/2020 01:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
