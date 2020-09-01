@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/avuhx1G0CwY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs7xDuJ_OjDL5Am0Ui_5FOA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/b8uLwICM59M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXyfUkEbZ3291XzSprCkzoQ)
 
-BB - Heaven&apos;s Land Star&apos;s Land
+로제네일 - 마야 사랑은 영원하다
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 17:46
+Last updated at 09/01/2020 17:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
