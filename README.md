@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2UIDNN036t0gnkiVfTK_JsrVVrfVeDQ7AU5iam5qfhZ3RnQ-ZpQz-rfZ_XcB0sNtMO_UscvQutL2D9s">](https://music.youtube.com/channel/UC2Zf5q2dnfW-9RIHEAGs_Tw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GpBDhl_N--al2zdIqMRjLXkabV_iI3sezGc0OYsJWzwmlOohNcEH1ZVId0kqjwBUDaY_pvGx3AmsQIej">](https://music.youtube.com/channel/UC7Nq2bti8IlQ6jW5E81soGw)
 
-bülow - Own Me
+Haywyre - Never Count On Me
 
-**Albums**: The Contender
+**Albums**: Never Count On Me
 
-Last updated at 09/01/2020 19:56
+Last updated at 09/01/2020 20:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
