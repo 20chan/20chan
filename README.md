@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-po0avn07GFDcp6SmpWsY_hBQaZO-m5c9M5fJZNlVDg6w4LNUzgbNgKbm36BQspWbaEKJM2_YlfDOvs">](https://music.youtube.com/channel/UCAMzM-IormpVWao_CDNEQow)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9vqSI4Bk6o8B35DYt2JAVO84l4IWSQ2i5cj_nd0CNKAcjic58GovTDe-K0-If3pIdHQynJV4D9BJGQqs">](https://music.youtube.com/channel/UCjwEG3B4d01HSC_xoyXx7lw)
 
-J^p^n - Amend
+Yung Bae & Macross 82-99 - Welcome to the Disco
 
-**Albums**: Spoils
+**Albums**: Bae 5
 
-Last updated at 09/01/2020 14:18
+Last updated at 09/01/2020 14:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
