@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/G4cS64wdzpXcT6kfgCurY4bqMSspimArrrePzIoKWcIgZgM6htEiO2iYw6StCgyADG1t-QqgvnRzBdU">](https://music.youtube.com/channel/UCNg3biLWdUesAJ7N8X6GJNQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-강수지 - 시간속의향기
+NOTD & Shy Martin - Keep You Mine
 
-**Albums**: 강수지2집
+**Albums**: Keep You Mine
 
-Last updated at 09/01/2020 14:48
+Last updated at 09/01/2020 14:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
