@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WNHa11JhzHoNAkMImJRSvQYZ3vXZuT_zvTTMrGgVvlerHgKJBBYbpEGnCdTCosboUxGUhS_6ICf8PCkz">](https://music.youtube.com/channel/UCq660_VzSeVipP9LbGuI9qg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2UIDNN036t0gnkiVfTK_JsrVVrfVeDQ7AU5iam5qfhZ3RnQ-ZpQz-rfZ_XcB0sNtMO_UscvQutL2D9s">](https://music.youtube.com/channel/UC2Zf5q2dnfW-9RIHEAGs_Tw)
 
-EXGF - We are the Hearts
+bülow - Own Me
 
-**Albums**: We are the Hearts
+**Albums**: The Contender
 
-Last updated at 09/01/2020 19:52
+Last updated at 09/01/2020 19:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
