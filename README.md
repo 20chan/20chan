@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/p4mVypXVhbaAx42ER69ZmjpZEiM3Aei9y7ao47kK-BVpMBjMePT8fp_-w1rOleQM5qOWx0NUU1I2AIQ">](https://music.youtube.com/channel/UCTo9NBjM57pYKvtajAFxgnA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WNHa11JhzHoNAkMImJRSvQYZ3vXZuT_zvTTMrGgVvlerHgKJBBYbpEGnCdTCosboUxGUhS_6ICf8PCkz">](https://music.youtube.com/channel/UCq660_VzSeVipP9LbGuI9qg)
 
-Echos - Guest Room
+EXGF - We are the Hearts
 
-**Albums**: Saints / Guest Room (Acoustic)
+**Albums**: We are the Hearts
 
-Last updated at 09/01/2020 19:48
+Last updated at 09/01/2020 19:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
