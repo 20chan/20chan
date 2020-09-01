@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GpBDhl_N--al2zdIqMRjLXkabV_iI3sezGc0OYsJWzwmlOohNcEH1ZVId0kqjwBUDaY_pvGx3AmsQIej">](https://music.youtube.com/channel/UC7Nq2bti8IlQ6jW5E81soGw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/89IhhElfyRVLWBx-rxhq-TZ4b90Oyz57bqIU4PRxF0lKiS6uAsi5psiDmZ8YjHuLislbokqKPncpeB4">](https://music.youtube.com/channel/UC9Vh-Nrcj9lOj8pN8_O91BQ)
 
-Haywyre - Never Count On Me
+Baker Grace - Illest
 
-**Albums**: Never Count On Me
+**Albums**: Girl, I Know
 
-Last updated at 09/01/2020 20:00
+Last updated at 09/01/2020 20:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
