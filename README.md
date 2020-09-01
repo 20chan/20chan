@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/RC0Krk-4KlE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsNChlwrxAvEnfOQCSRA1tA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-Shannon Gwiyomi - Orange Caramel(오렌지캬라멜) - Magic Girl(마법소녀) Color Coded Lyrics [Han/Rom/Eng]
+JuJu Club - 公主後遺症
 
-**Albums**: undefined
+**Albums**: 16／20
 
-Last updated at 09/01/2020 18:04
+Last updated at 09/01/2020 18:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
