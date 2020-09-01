@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/MqNmKnCNLyM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MqNmKnCNLyM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/bmNaKW1JI58/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdoIuYI2-MJRJX06157aJoA)
 
-rerulili & もじゃ - 聖槍爆裂ボーイ - れるりりfeat.鏡音レン / Holy Lance Explosion Boy - rerulili feat.KagamineLen
+covolog - 【AIきりたん】高音厨音域テスト(Arrange Cover)【NEUTRINO】
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:40
+Last updated at 09/01/2020 20:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
