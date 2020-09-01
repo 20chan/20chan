@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">](https://music.youtube.com/channel/UCO4p2LbFEEF1HKm4HnUVjfg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mJlDsJvEthfhzUaaFVI5J_4TdjOpbsm1VhxplrtURuNfzpbTe_C6RDsHri7Aa_v8Hr53m6HdsAL5TW4">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-Young B - REVENGE (feat. Kuzi & 210)
+Hash Swan - Gethsemane
 
-**Albums**: Stranger
+**Albums**: Silence of the REM
 
-Last updated at 09/01/2020 16:22
+Last updated at 09/01/2020 17:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
