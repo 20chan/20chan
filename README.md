@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/bmNaKW1JI58/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdoIuYI2-MJRJX06157aJoA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Ngj9bXui9EQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCBgSvef0axHAZzem3o9P_qw)
 
-covolog - 【AIきりたん】高音厨音域テスト(Arrange Cover)【NEUTRINO】
+darklinege - [Rin, Len] Black cats of Halloween (English subs, Romaji in more info.)
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:44
+Last updated at 09/01/2020 20:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
