@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/anO1yZ65SB8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCeYIL2G0-ApOfHTo_MQpYEQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/avuhx1G0CwY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs7xDuJ_OjDL5Am0Ui_5FOA)
 
-balkorak - kpop / 더 클래식 - 여우야(女雨夜) 1995년
+BB - Heaven&apos;s Land Star&apos;s Land
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 17:42
+Last updated at 09/01/2020 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
