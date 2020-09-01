@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-CHANGMO - METEOR
+CHANGMO - wish
 
 **Albums**: Boyhood
 
-Last updated at 09/01/2020 16:16
+Last updated at 09/01/2020 16:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
