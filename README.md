@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/IMB-t2j02XQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCucpxchmSJXNGoUT-jC95wA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/hLsMmLzLsGg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCxnvNDcEqhqCiQgVB0aHgSA)
 
-HAKASE K aka kimpaksa - [SeeU] Alone
+-Lio K - 리부 - 도넛홀 ( 우타이테 )
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:18
+Last updated at 09/01/2020 20:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
