@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/o1wzlgAuCds/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCkrhGXkoP98agsSwAZDdozg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/IMB-t2j02XQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCucpxchmSJXNGoUT-jC95wA)
 
-ri bu - 카가미네 린-도쿄 테디베어
+HAKASE K aka kimpaksa - [SeeU] Alone
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:14
+Last updated at 09/01/2020 20:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
