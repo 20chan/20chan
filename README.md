@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5fqnfiwBfIo/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCO09XS2R7k30AmcTC4natww)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fGSZGRp45pA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC5OIL0B-__qlRdWO_d8ZBaw)
 
-koushikyoku - X Japan - Forever Love
+이준호 - 부활 6집 너에게로
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 19:00
+Last updated at 09/01/2020 19:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
