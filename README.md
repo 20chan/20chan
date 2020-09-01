@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xMPRPN3quFhvJyfD_nZDmd510hdPnGuwLlLkiOjp3bfRjPJp2-f55PTQj1xC9ipDdougYsbn0KO7v5KiTg">](https://music.youtube.com/channel/UC0vYeUJZ4qpvtZGS8h_2WYQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ThA2l-LJ61FO1uVSs8g9WOh-mWdtDmnOHH0USdJS-Uv8kkHgWk7X1QCGYUzmVfCZZHDujUcTJknLaA8">](https://music.youtube.com/channel/UCYIQZpv7Jv9GImzgknNZNPA)
 
-Taeko Onuki - 4:00A.M.
+Macross 82-99 - 『82.99 F.M』
 
-**Albums**: Mignonne
+**Albums**: A Millions Miles Away
 
-Last updated at 09/01/2020 14:00
+Last updated at 09/01/2020 14:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
