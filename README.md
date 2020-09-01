@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pbxfyuD9EueoDWZtLyyv3TFC0QUE-bFUZsy9R72zJ_4wpTv73aoNV90N4I3qi-JT6_nqwR5Tb6QQEv64GQ">](https://music.youtube.com/browse/MPREb_SxzQGXuwRXp)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rydXAfSP1E5EQMXzANmUOEnsMNrXyXxN78jikyManj-t5YRklUlRc7_22wq9A_liP4puIc-oIIMu4ueT">](https://music.youtube.com/channel/UCoX4FonlfRjWE_g681tHYxg)
 
-rfri on ig - Mayonaka No Joke
+Engelwood - Crystal Dolphin
 
-**Albums**: Mayonaka No Joke
+**Albums**: Crust Fm
 
-Last updated at 09/01/2020 14:12
+Last updated at 09/01/2020 14:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
