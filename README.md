@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJyPH7rCe8qcqjNIhjLNYH5-jBKw2qf_C0PYDQAIrw=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCztiH7D-fHwsMyUF8r15vsQ)
 
-Nochang - Trunt(털ㄴ업해야해)
+Earth Wind & Fire - Earth, Wind & Fire - September (Official Video)
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: undefined
 
-Last updated at 09/01/2020 12:12
+Last updated at 09/01/2020 13:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
