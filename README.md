@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M24XvsCNBmofeGL1nFvYTt3M99alUJ6bVok2NKQBzZJCVGAOIJXkGOpvY-LvJ3pSnQcLTdtq_ej6OG8W3w">](https://music.youtube.com/channel/UCS_ELczdYWXOZxUDIXgMlOA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XrGCIfVUDPw8-3hDJiEQyGrd010fvIag3YmwQySahFLTFKgVX39Gyx5brQgg0jMlYBciG36EiTUDnwA">](https://music.youtube.com/channel/UCWvOYwCl5b-v10Bdj4BwW7w)
 
-동물원 - 혜화동
+James Smith - Hollow (Acoustic)
 
-**Albums**: 동물원 2집(흐린 가을 하늘에 편지를 써/별빛 가득한 밤에)
+**Albums**: Hollow (Acoustic)
 
-Last updated at 09/01/2020 19:26
+Last updated at 09/01/2020 19:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
