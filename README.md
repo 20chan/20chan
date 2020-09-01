@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hLsMmLzLsGg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCxnvNDcEqhqCiQgVB0aHgSA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6U68Y5P-Sz8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCscl_4gPntf4DatveHszwVw)
 
--Lio K - 리부 - 도넛홀 ( 우타이테 )
+wholose _ - [듣기/자막] 캬리 파뮤파뮤(きゃりーぱみゅぱみゅ) - 너에게 100%(キミに100パーセント) | 크레용신짱 OST
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:22
+Last updated at 09/01/2020 20:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
