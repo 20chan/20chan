@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-창모 (CHANGMO) - Selfmade Orange (feat. SUPERBEE)
+CHANGMO - METEOR
 
-**Albums**: Dnsg
+**Albums**: Boyhood
 
-Last updated at 09/01/2020 16:12
+Last updated at 09/01/2020 16:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
