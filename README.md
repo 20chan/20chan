@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/b8uLwICM59M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCXyfUkEbZ3291XzSprCkzoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WA_4o0Hm1Re2V-LF7ysS6KsxU2I2NAkrNABeXKeurIzgs5F2PxS5_plW31P2l-NgER8t_mQKH7Uv3Q">](https://music.youtube.com/channel/UCrbZcTv3iAHqMHWGbk0IYFA)
 
-로제네일 - 마야 사랑은 영원하다
+FINNEAS - Let's Fall in Love for the Night
 
-**Albums**: undefined
+**Albums**: Let’s Fall In Love For The Night
 
-Last updated at 09/01/2020 17:50
+Last updated at 09/01/2020 17:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
