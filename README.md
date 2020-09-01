@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rUGzUCC2_XfbugW22E0vduGU4dkQp8WUQ_BcoXzHt1OHziwiuAMsu7XbXYanKRAMeBrKUjLujI8lUH8ZSA">](https://music.youtube.com/channel/UCLzpexgTBDGJXZzNiI_bQKQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3kHqys8r0-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Masayoshi Yamazaki - One More Time, One More Chance (Hikigatari Version)
+pops8090 - 장혜리 - 내게 남은 사랑을 드릴께요 (1988年)
 
-**Albums**: The Road To Yamazaki-The Best For Beginners- Solo Acoustics
+**Albums**: undefined
 
-Last updated at 09/01/2020 14:30
+Last updated at 09/01/2020 14:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
