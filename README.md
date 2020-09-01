@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vfSH54GStWsZ9jTe1fPz32Bhx_YODLBrOXDrcdBob3mgl6xQPuTMuZmB6uL66NhTNoTZO0smMh_qdMJ1">](https://music.youtube.com/channel/UCwMueAq3c3V4iRw1fSYWs5w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mx-r6gEq1LL8rM_ty7CjcoGJSu8qX9mIWr-SlTcZfocTJ9NS2qa7PxH5eMhzyStKvhwIitzk55HfjLY2Dw">](https://music.youtube.com/channel/UCKBrpZF_1ljJEaLzoSA2IZQ)
 
-YAS - empty crown
+Royal & the Serpent - Weddings & Funerals
 
-**Albums**: empty crown
+**Albums**: Weddings & Funerals
 
-Last updated at 09/01/2020 19:36
+Last updated at 09/01/2020 19:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
