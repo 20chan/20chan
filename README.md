@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qPC8AeU0_-8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCn4YUzEKjXeAy6DbePTrVBg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aT6rpIvrV5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7t9XbQkjexijrKdtA-U3QA)
 
-Juke Ross - Fresh Roses
+ClassicKpop427 - Classic Kpop - 터보 (Turbo) - White Love (스키장에서) + DL
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 18:32
+Last updated at 09/01/2020 18:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
