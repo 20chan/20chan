@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zt4BOkzs2jnOsP0daW082022lPgD0zklqGPUb2Y80CraTLE1FPwylQ2CLlVMMgsxzyFJqmu-kOEhCTOZ">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-NOTD & Shy Martin - Keep You Mine
+NOTD - Been There Done That (feat. Tove Styrke)
 
-**Albums**: Keep You Mine
+**Albums**: Been There Done That
 
-Last updated at 09/01/2020 14:52
+Last updated at 09/01/2020 14:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
