@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qxSTWBJJ7eI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5q3qQueyAo0K_Qcd2_n3ng)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/IrOyWQ8AjZM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLDyVAWdK79VvW2o_h1tU9g)
 
-Bread Feet - 김준선 - Arabian Night (아라비안 나이트) [가요톱10 역대 1위곡 #162]
+포포링 - 버스커 버스커 자작곡 - 잊는단거 지운단거2
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 18:14
+Last updated at 09/01/2020 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
