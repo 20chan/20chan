@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/NyzFgvKnoqw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5wuMuauYXlJWp0_LZyWG1w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/TeVhHLggZ5U/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCGb6atTUKikXBoEo8y4d5Hw)
 
-PinocchioP - 不思議のコハナサイチ (feat. Hatsune Miku)
+Kanannon - 【Kagamine Len】 Paradichlorobenzene ~English Subbed~ 【Destructive-type Brainwashing Song】
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:30
+Last updated at 09/01/2020 20:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
