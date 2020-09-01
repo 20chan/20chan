@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jwBBhbtTcqXNfP7xFB9KQyz4E-rkrGu0ccmDZi83mHOqtrUU0bPNxKMNgMN0YWYAG0VnMp3OrUUqJefLRQ">](https://music.youtube.com/channel/UCjwEG3B4d01HSC_xoyXx7lw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4CrkDDw4vprP0-olLrVw3PeUIP4X4K-3O93rWam6Dd1f2uApGzKDuDpR9RlgU7QoflZT6ZuR1MeRD2HG">](https://music.youtube.com/channel/UCMpTLRvc46Nwq9yrWtw1txQ)
 
-Yung Bae - Bae City Rollaz
+Adrianwave - It's Good to See You Again!!
 
-**Albums**: Bae
+**Albums**: Wave 02: Ocean Daydream
 
-Last updated at 09/01/2020 13:52
+Last updated at 09/01/2020 13:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
