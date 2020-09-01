@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/tvTRZJ-4EyI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCprAFmT0C6O4X0ToEXpeFTQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kFcuKy3zsOE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCGY7g-MxiE-MJqgDBbnOpAg)
 
-Kendrick Lamar - HUMBLE.
+Hyun-i & Deok-i - 님 떠난 후
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 19:10
+Last updated at 09/01/2020 19:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
