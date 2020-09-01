@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xBoFHV-k8eLGjVo0a7fuT3bGCtMJzgH42GRlbkVz6crNd7dyW6Kn9_XeudDLhe8poygeQMl7sDWjdAxR">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-NOTD & Daya - Wanted
+Gryffin, Seven Lions & Noah Kahan - Need Your Love
 
-**Albums**: Wanted
+**Albums**: Gravity
 
-Last updated at 09/01/2020 15:08
+Last updated at 09/01/2020 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
