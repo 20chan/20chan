@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Ngj9bXui9EQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCBgSvef0axHAZzem3o9P_qw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sCCSx9LhZs8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCm2tb38rqrkeQB3tF8ORNOA)
 
-darklinege - [Rin, Len] Black cats of Halloween (English subs, Romaji in more info.)
+fara_ujde - Nitrobenzene [Ethnomusical Brainwashing Song][Kagamine Len·Rin][english sub]
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:46
+Last updated at 09/01/2020 20:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
