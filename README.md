@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OeLfUW-JcqY8dJlKe7xSmFaEBbSSjRX0hvzquXgKU0llTWK08cvQsNUKfc8Ti9Pf-VNMEH7jQViX_2rr6w">](https://music.youtube.com/channel/UCl0u3Lz68nAtlJMt6HQ3Gzw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Midnight Kids - Find Our Way (feat. klei)
+Gryffin - Bye Bye (feat. Ivy Adara)
 
-**Albums**: Find Our Way
+**Albums**: Gravity
 
-Last updated at 09/01/2020 15:48
+Last updated at 09/01/2020 15:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
