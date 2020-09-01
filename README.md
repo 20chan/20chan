@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WA_4o0Hm1Re2V-LF7ysS6KsxU2I2NAkrNABeXKeurIzgs5F2PxS5_plW31P2l-NgER8t_mQKH7Uv3Q">](https://music.youtube.com/channel/UCrbZcTv3iAHqMHWGbk0IYFA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qxSTWBJJ7eI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5q3qQueyAo0K_Qcd2_n3ng)
 
-FINNEAS - Let's Fall in Love for the Night
+Bread Feet - 김준선 - Arabian Night (아라비안 나이트) [가요톱10 역대 1위곡 #162]
 
-**Albums**: Let’s Fall In Love For The Night
+**Albums**: undefined
 
-Last updated at 09/01/2020 18:12
+Last updated at 09/01/2020 18:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
