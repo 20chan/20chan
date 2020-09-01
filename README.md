@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6fC0bRTWcV5IQmVm4P_4QoHkygZUV2c6Ay1k4oINYjg6LsgilNAzS5PxKQ7H_s3YGHtXE6W-26Z1nWc">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3E8ZOUs_zi-l3vtSSLA6WOSh57D7kDAdk7lF2N7-81l-S-Tr3vXglunNZuXssdKH3hKhy0HawfJupF76">](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ)
 
-Gryffin & Bipolar Sunshine - Whole Heart
+Hoang - Don't Say (feat. Nevve)
 
-**Albums**: Whole Heart
+**Albums**: Don't Say (feat. Nevve)
 
-Last updated at 09/01/2020 15:02
+Last updated at 09/01/2020 15:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
