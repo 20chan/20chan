@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/f4AdOV7nmJu8NUWF_sNO6I2VBwWPmLlQ7vmQSH1sf9-ZfDQQKUv86aMMJc2OKpHbtveC0nbi-nxJR1I">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Nochang - CHING CHANG CHONG
+Nochang - All Day (feat. Tablo)
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: All Day
 
-Last updated at 09/01/2020 12:00
+Last updated at 09/01/2020 12:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
