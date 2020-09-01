@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/mJlDsJvEthfhzUaaFVI5J_4TdjOpbsm1VhxplrtURuNfzpbTe_C6RDsHri7Aa_v8Hr53m6HdsAL5TW4">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-Hash Swan - Gethsemane
+Hash Swan - goodbye June
 
 **Albums**: Silence of the REM
 
-Last updated at 09/01/2020 17:20
+Last updated at 09/01/2020 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
