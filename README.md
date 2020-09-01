@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Nochang - God(행)
+창모 (CHANGMO) - Selfmade Orange (feat. SUPERBEE)
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: Dnsg
 
-Last updated at 09/01/2020 16:06
+Last updated at 09/01/2020 16:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
