@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yTj7IOYvI_6N0cFX-FIGGF48cIqemM3S8xF6kwQDfxvqdLaVgSQlL30DgDik0Ec-_EFh-SykyUpuIf6hMQ">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Mm0Xp05N3j65H3zwbNou1YnaG9hC57NgqznSvI6P9f_FV5SJaWjtBoOS98of6nYOQmyIxbPAcJIk69Jdw">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-Hash Swan & dKash - Ay
+Hash Swan - Gotta Sleep
 
-**Albums**: Ay
+**Albums**: Alexandrite
 
-Last updated at 09/01/2020 17:26
+Last updated at 09/01/2020 17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
