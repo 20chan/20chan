@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0YwYG9b14ik0_3mrBxZMgQVeoe2hlt4Vm7zzCBFxMhWsOlSy5CVoggq-HsOuxKDmRGHhS-VB0PKgTBM">](https://music.youtube.com/channel/UCd83kU1R4SWyJAgeyUMb1Tw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rUGzUCC2_XfbugW22E0vduGU4dkQp8WUQ_BcoXzHt1OHziwiuAMsu7XbXYanKRAMeBrKUjLujI8lUH8ZSA">](https://music.youtube.com/channel/UCLzpexgTBDGJXZzNiI_bQKQ)
 
-No Buses - Pretty Old Man
+Masayoshi Yamazaki - One More Time, One More Chance (Hikigatari Version)
 
-**Albums**: Boys Missed The Bus
+**Albums**: The Road To Yamazaki-The Best For Beginners- Solo Acoustics
 
-Last updated at 09/01/2020 14:24
+Last updated at 09/01/2020 14:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
