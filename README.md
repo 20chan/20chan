@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/dtIyuMzy_6o/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aT6rpIvrV5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7t9XbQkjexijrKdtA-U3QA)
 
-southkoreanfolksongs - 그녀와의 이별 -- 김현정
+ClassicKpop427 - Classic Kpop - 터보 (Turbo) - White Love (스키장에서) + DL
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 18:40
+Last updated at 09/01/2020 18:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
