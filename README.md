@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/vfkn9FvjH90/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCGb6atTUKikXBoEo8y4d5Hw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/MqNmKnCNLyM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MqNmKnCNLyM)
 
-Kanannon - 【Kagamine Rin】 Antichlorobenzene ~English Subbed~ 【Sin-cleansing type brainwashing song】
+rerulili & もじゃ - 聖槍爆裂ボーイ - れるりりfeat.鏡音レン / Holy Lance Explosion Boy - rerulili feat.KagamineLen
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 20:36
+Last updated at 09/01/2020 20:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
