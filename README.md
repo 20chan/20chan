@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/h-sJzdFx7YY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCg7TJXg8uv1SwULLuh2mOAw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PryOx2As4Kqxj-Yt8VkJX5FscTIsncvZO0HRym8XkaYA3Y2BAN9PQJ4nkRdyHjmOlJlXfeSTOdbLr6Wo">](https://music.youtube.com/channel/UCqdzjL6QabfYCnFZ-enRyQw)
 
-carcass1178 - 장현철(Jang Hyun Cheol) - 걸어서 하늘까지 -LP source-
+Guckkasten - 이방인 Electronic Version
 
-**Albums**: undefined
+**Albums**: STRANGER
 
-Last updated at 09/01/2020 18:26
+Last updated at 09/01/2020 18:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
