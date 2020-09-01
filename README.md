@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3G2yVWEv5qu61C0OW9dOK5r1yNtTWJNrvZC7V0UIJUhdH3gBWqREGB9hJlQxM1uQQmh51rsp-06NMich">](https://music.youtube.com/channel/UC3ifJO3dHAk0clY2x5lu2yw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jwBBhbtTcqXNfP7xFB9KQyz4E-rkrGu0ccmDZi83mHOqtrUU0bPNxKMNgMN0YWYAG0VnMp3OrUUqJefLRQ">](https://music.youtube.com/channel/UCjwEG3B4d01HSC_xoyXx7lw)
 
-杏里 - Last Summer Whisper
+Yung Bae - Bae City Rollaz
 
-**Albums**: Heaven Beach
+**Albums**: Bae
 
-Last updated at 09/01/2020 13:46
+Last updated at 09/01/2020 13:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
