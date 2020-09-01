@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ThA2l-LJ61FO1uVSs8g9WOh-mWdtDmnOHH0USdJS-Uv8kkHgWk7X1QCGYUzmVfCZZHDujUcTJknLaA8">](https://music.youtube.com/channel/UCYIQZpv7Jv9GImzgknNZNPA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RhVJr8Kin51N7U5659q5Um3xJrm17gx5VERh95MJ_VQfxyjeE4up9GJe27QwB2hNLtiBzu_afui2-K0k">](https://music.youtube.com/channel/UCxgYLmDpn3snrMunYhhFm4A)
 
-Macross 82-99 - 『82.99 F.M』
+DUCAT - Nu Diskette
 
-**Albums**: A Millions Miles Away
+**Albums**: Nu Diskette
 
-Last updated at 09/01/2020 14:06
+Last updated at 09/01/2020 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
