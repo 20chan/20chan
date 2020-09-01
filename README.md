@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zt4BOkzs2jnOsP0daW082022lPgD0zklqGPUb2Y80CraTLE1FPwylQ2CLlVMMgsxzyFJqmu-kOEhCTOZ">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-NOTD - Been There Done That (feat. Tove Styrke)
+Loote - Wish I Never Met You
 
-**Albums**: Been There Done That
+**Albums**: single.
 
-Last updated at 09/01/2020 14:56
+Last updated at 09/01/2020 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
