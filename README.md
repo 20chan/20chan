@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kknRLRdwe1RiRjPn1b6StOfvG1gsp5w01RjEbQmZwV6vG89BEPB6hsIPVOEFkUb-pIzgwwovm6yu8snz">](https://music.youtube.com/channel/UCGEfxrwIPBuRqxeh-3JUSkg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S5ikIkNuStYq05OcGPwelhGgDoGqkyNGbOAjiI6zSE0rU2wTxjFj_d4Ct1jsFwYQ0v9gXBDg4sgYXvi0">](https://music.youtube.com/channel/UCCf1RpKM14WlW57iXksGI2Q)
 
-Billy Joel - Piano Man
+O.WHEN - Today
 
-**Albums**: Rock Classics Of The '70s
+**Albums**: When I Begin
 
-Last updated at 09/01/2020 17:32
+Last updated at 09/01/2020 17:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
