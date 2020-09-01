@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4CrkDDw4vprP0-olLrVw3PeUIP4X4K-3O93rWam6Dd1f2uApGzKDuDpR9RlgU7QoflZT6ZuR1MeRD2HG">](https://music.youtube.com/channel/UCMpTLRvc46Nwq9yrWtw1txQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xMPRPN3quFhvJyfD_nZDmd510hdPnGuwLlLkiOjp3bfRjPJp2-f55PTQj1xC9ipDdougYsbn0KO7v5KiTg">](https://music.youtube.com/channel/UC0vYeUJZ4qpvtZGS8h_2WYQ)
 
-Adrianwave - It's Good to See You Again!!
+Taeko Onuki - 4:00A.M.
 
-**Albums**: Wave 02: Ocean Daydream
+**Albums**: Mignonne
 
-Last updated at 09/01/2020 13:56
+Last updated at 09/01/2020 14:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
