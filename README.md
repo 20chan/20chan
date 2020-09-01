@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w72CTHbdIzF7rpMVqmleuJ4OSJGo33hyT0o3NObd5C2ugKdl9oK5TIugZAWW3vs0ru_eKms7oOOM8aqR">](https://music.youtube.com/channel/UCYVBzfV5IEk3bCMyPeqV1fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WA_4o0Hm1Re2V-LF7ysS6KsxU2I2NAkrNABeXKeurIzgs5F2PxS5_plW31P2l-NgER8t_mQKH7Uv3Q">](https://music.youtube.com/channel/UCrbZcTv3iAHqMHWGbk0IYFA)
 
-The Cross - 백설공주를 사랑한 난장이
+FINNEAS - Let's Fall in Love for the Night
 
-**Albums**: Rush
+**Albums**: Let’s Fall In Love For The Night
 
-Last updated at 09/01/2020 18:10
+Last updated at 09/01/2020 18:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
