@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/p9DSmOlc1GfVNljHllul4Z_4SPiXtW2wW7QGj5YQAEfpJSNGO0VUcnm9nRX2fuJKPYWueuCJ7JRnA0A">](https://music.youtube.com/channel/UCUmN1h1SWYmvBD5z6wJOfoQ)
 
-Gryffin - Bye Bye (feat. Ivy Adara)
+Hoang - When You're Lonely
 
-**Albums**: Gravity
+**Albums**: When You're Lonely
 
-Last updated at 09/01/2020 15:52
+Last updated at 09/01/2020 15:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
