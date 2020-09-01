@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2slph_dapZ0DxV3qMHo6I7LeYixscqVBRj3v-RmyRFR2RHv22aUTQ_BmgMxKVBognbcZ-iIOTW6j8Htt">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9ilraY4HmVAcSYYM-HhkSO3aSVmrDaQnOXRK1E-yQg-cs4S-3M60WLs_1a85chocWvwuC0UjiWx0EgV3">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-Gryffin & Elley Duhé - Tie Me Down
+Loote - tomorrow tonight
 
-**Albums**: Tie Me Down
+**Albums**: lost
 
-Last updated at 09/01/2020 15:18
+Last updated at 09/01/2020 15:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
