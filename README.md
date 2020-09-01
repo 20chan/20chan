@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JHFIvDHWaNB0MbTqyu2NX21Zi4dK14FFeQky4Hm6Ey9CeXyv3YG3Q1imxbdnsElIFf3DDGfcFsXsyiY">](https://music.youtube.com/channel/UCYRTFLr5vZYylBQCbWlFbzw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-ACOURVE - The night we parted
+Nochang - CHING CHANG CHONG
 
-**Albums**: The night we parted
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 08/31/2020 19:24
+Last updated at 09/01/2020 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
