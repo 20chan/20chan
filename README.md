@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dYA1pOj4mYaSEr063XKLOnzapKsyC2KK7-VfRCXhonf7QqgCO4x7y7IJ1RaN6fxm5Luzn-dK0RtqcAAUaQ">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2slph_dapZ0DxV3qMHo6I7LeYixscqVBRj3v-RmyRFR2RHv22aUTQ_BmgMxKVBognbcZ-iIOTW6j8Htt">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-SHY Martin - Make Us Never Happen
+Gryffin & Elley Duhé - Tie Me Down
 
-**Albums**: Make Us Never Happen
+**Albums**: Tie Me Down
 
-Last updated at 09/01/2020 15:16
+Last updated at 09/01/2020 15:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
