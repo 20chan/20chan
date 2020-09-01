@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3m_i1XOtEiRhXGkoMnCSlUqku-wqOW2bhGyTAVzJrvBjg3xPFZ-PgegT-shTX_OmVOHdXpX9_OKnBUs">](https://music.youtube.com/channel/UCGOuSzuMPbaCY2KfQJpzXSw)
 
-Gryffin & ZOHARA - Remember
+William Black & RØRY - Drown the Sky
 
-**Albums**: Gravity
+**Albums**: Drown the Sky
 
-Last updated at 09/01/2020 15:32
+Last updated at 09/01/2020 15:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
