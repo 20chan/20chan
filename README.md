@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/IrOyWQ8AjZM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLDyVAWdK79VvW2o_h1tU9g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/yppX5RftcIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4gijmjwPUPbKqAPHO813Vg)
 
-포포링 - 버스커 버스커 자작곡 - 잊는단거 지운단거2
+장석훈 - 2019. 3. 22 Seoul, KOR
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 18:18
+Last updated at 09/01/2020 18:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
