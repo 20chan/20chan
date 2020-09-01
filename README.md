@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/F4LAA-MmcUM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCdap7DgCz7aXhn9OhErvWEQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5fqnfiwBfIo/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCO09XS2R7k30AmcTC4natww)
 
-Kiwoong kim - 브라보마이 라이프 - 봄여름가을겨울 -
+koushikyoku - X Japan - Forever Love
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 18:54
+Last updated at 09/01/2020 19:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
