@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S5ikIkNuStYq05OcGPwelhGgDoGqkyNGbOAjiI6zSE0rU2wTxjFj_d4Ct1jsFwYQ0v9gXBDg4sgYXvi0">](https://music.youtube.com/channel/UCCf1RpKM14WlW57iXksGI2Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/anO1yZ65SB8/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCeYIL2G0-ApOfHTo_MQpYEQ)
 
-O.WHEN - Today
+balkorak - kpop / 더 클래식 - 여우야(女雨夜) 1995년
 
-**Albums**: When I Begin
+**Albums**: undefined
 
-Last updated at 09/01/2020 17:38
+Last updated at 09/01/2020 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
