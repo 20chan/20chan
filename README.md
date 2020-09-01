@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vJ9Ejv3y8oCuVsp4a4v5Qo1LGhecV6RzXpjHuBnIXEYK7X_WV31yKlvA64uadTo5CO0cjNgR2YNzuR7J">](https://music.youtube.com/channel/UCVPTdqweUvTZ0hbnmgQ6nVw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/tvTRZJ-4EyI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCprAFmT0C6O4X0ToEXpeFTQ)
 
-Shin Sungwoo - Prelude
+Kendrick Lamar - HUMBLE.
 
-**Albums**: Shin Sungwoo 3rd(Prologue)
+**Albums**: undefined
 
-Last updated at 09/01/2020 19:06
+Last updated at 09/01/2020 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
