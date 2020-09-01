@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Nochang - God(행)
+CHANGMO - METEOR
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: Boyhood
 
-Last updated at 09/01/2020 13:12
+Last updated at 09/01/2020 13:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
