@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3kHqys8r0-Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ELxP24tpJE7sQ0cu5NnQCp-8g60Rl7lCKu6-MD2xdZtavD0qtwlSg529UPjJtHmmEgh-SC75GoF0v0PI">](https://music.youtube.com/channel/UCNg3biLWdUesAJ7N8X6GJNQ)
 
-pops8090 - 장혜리 - 내게 남은 사랑을 드릴께요 (1988年)
+강수지 - 보랏빛향기
 
-**Albums**: undefined
+**Albums**: 강수지1집
 
-Last updated at 09/01/2020 14:38
+Last updated at 09/01/2020 14:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
