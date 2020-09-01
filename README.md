@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aT6rpIvrV5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7t9XbQkjexijrKdtA-U3QA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/es64WqSnC0M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCByla2UZxqScv1IaUa7693w)
 
-ClassicKpop427 - Classic Kpop - 터보 (Turbo) - White Love (스키장에서) + DL
+Archive TBC - [이재영] 대단한 너
 
 **Albums**: undefined
 
-Last updated at 09/01/2020 18:44
+Last updated at 09/01/2020 18:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
