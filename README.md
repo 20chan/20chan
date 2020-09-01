@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WvKZAyibWo3AG2D7mbCRKwHlQ_Zfoi0gG1qsJmlT_5ScA2WskjSgc2K5xybBeONveJV22B8fRxtAqWozSg">](https://music.youtube.com/channel/UC3nK3iXMKTjee8WpIBlmakg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Jcx8IYD5gllW1hlZiKP_OfUO6O17JV3As9pcaT4QO_Bx6myyT5vF43-l6sdVEfecQ62SEX5TbUx-G-nC">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
 
-Tiffany Alvord - Karma
+SHY Martin - Lose You Too
 
-**Albums**: Karma
+**Albums**: Lose You Too
 
-Last updated at 09/01/2020 15:24
+Last updated at 09/01/2020 15:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
