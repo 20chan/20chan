@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mJlDsJvEthfhzUaaFVI5J_4TdjOpbsm1VhxplrtURuNfzpbTe_C6RDsHri7Aa_v8Hr53m6HdsAL5TW4">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yTj7IOYvI_6N0cFX-FIGGF48cIqemM3S8xF6kwQDfxvqdLaVgSQlL30DgDik0Ec-_EFh-SykyUpuIf6hMQ">](https://music.youtube.com/channel/UCbjP4q2i6QbjX8pE2jveOKQ)
 
-Hash Swan - goodbye June
+Hash Swan & dKash - Ay
 
-**Albums**: Silence of the REM
+**Albums**: Ay
 
-Last updated at 09/01/2020 17:24
+Last updated at 09/01/2020 17:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
