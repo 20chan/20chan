@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">](https://music.youtube.com/channel/UCO4p2LbFEEF1HKm4HnUVjfg)
 
-CHANGMO - wish
+Young B - REVENGE (feat. Kuzi & 210)
 
-**Albums**: Boyhood
+**Albums**: Stranger
 
-Last updated at 09/01/2020 16:18
+Last updated at 09/01/2020 16:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
