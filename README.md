@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XrGCIfVUDPw8-3hDJiEQyGrd010fvIag3YmwQySahFLTFKgVX39Gyx5brQgg0jMlYBciG36EiTUDnwA">](https://music.youtube.com/channel/UCWvOYwCl5b-v10Bdj4BwW7w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/a6dwchTCoAI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbypb9u1bZaH7N2_h5cMLuw)
 
-James Smith - Hollow (Acoustic)
+Jaurim - [MV] 자우림(Jaurim) - 있지
 
-**Albums**: Hollow (Acoustic)
+**Albums**: undefined
 
-Last updated at 09/01/2020 19:30
+Last updated at 09/01/2020 19:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
