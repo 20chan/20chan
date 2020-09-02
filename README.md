@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJyrVXWfAHP8kPLIgV23YlX_vG0bzj6hnMsdHZwp=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCX8pxyrMe7tJDhpM2DRgHvw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCpVAQ0XOruoDl64x97LHAHA)
 
-KoolandthegangShow - Kool & The Gang - Celebration (Official Music Video)
+KIM FEEL - 그때 그 아인 (Someday, The Boy)
 
 **Albums**: undefined
 
-Last updated at 09/02/2020 10:19
+Last updated at 09/02/2020 10:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
