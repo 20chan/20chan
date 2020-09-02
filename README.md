@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/daNYIq2mV4M5_Lt9VhaQGKZ2gH7j5s6yWW1ghD5e8nd7qu7m_mPAtbuar-HsG81h2psHkQoYQMWceIzJ">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xbHxUn4QZUucJGDELni6px4LHOSLkObCtq_ktrHRTAoVtGL5wzEAxoACspDxNJEYfieV6dK3o1nMBnxn">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-Stephen - Man That I'll Miss
+Stephen - Wavin'
 
-**Albums**: Man That I'll Miss
+**Albums**: it's too much love to know my dear
 
-Last updated at 09/02/2020 15:53
+Last updated at 09/02/2020 15:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
