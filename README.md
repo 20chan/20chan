@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RPbBuR-vdTpRxVytQl7VxHHZSAe-L-a-jAxt7j497656LhZFoiaZBXEHwVVx-bvd3AUL8n_Nx57d5Uk">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Q2pzajxMmZ59biDkpeiokeOH2PQKbfRrYFB90dvKl-hSw_AvObgji29rewm5Hh2-gyae9QmQvaJUi7J">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-Stephen - Play Me Like A Violin
+Stephen - Crossfire, Part II (feat. KillaGraham & Talib Kweli)
 
-**Albums**: Play Me Like A Violin
+**Albums**: Crossfire, Part II
 
-Last updated at 09/02/2020 14:55
+Last updated at 09/02/2020 14:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
