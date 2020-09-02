@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Paq4ggxhajHqUlak4C6S_J-Zu5BfOjffR2rBD7zuEaV_Dd4KH0EKEw-DVlvsylvM1ZNECcCTFlxIwVI">](https://music.youtube.com/channel/UCJpF7W5irnHky2yPhGqotWw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oTiv3HsyAH_ueQgtA_4dB9BsSv0Ya2wihYjMIid14hkPccIynISPYPF7BDMmOpjsq3JT4zPz-7bymwDY">](https://music.youtube.com/channel/UCle1vWLaiCk1FcYOnECZgDA)
 
-Chelsea Peretti - GREENTEA (feat. Wale)
+montythehokage - If You Wanna
 
-**Albums**: Phosphorescent Panic
+**Albums**: If You Wanna
 
-Last updated at 09/02/2020 14:43
+Last updated at 09/02/2020 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
