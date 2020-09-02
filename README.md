@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qE33YetphcTzprytXLpQXOp4UXZVE-BAcfWqU8Vm5Ki_ZAOkcPMk2wWTnXUMT2GKC5Moqc-Zzbl9P5WE">](https://music.youtube.com/channel/UCePq2plduaK7wGozqDZYF5A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/J07PSayQ8NitKtlHe2m-FWHLbsCgD3LKIJvGm90IhiMOLAgq9RCr3tuiJHTeWOi3oEJbOJijSI0hanYh">](https://music.youtube.com/channel/UCvfjizX8aIDWRKl9ff70qmQ)
 
-Jacob Latimore & Eric Bellinger - Dat Ass
+SAINt JHN - N***a Sh*t (Swoosh)
 
-**Albums**: Dat Ass
+**Albums**: Collection One
 
-Last updated at 09/02/2020 14:37
+Last updated at 09/02/2020 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
