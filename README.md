@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCpVAQ0XOruoDl64x97LHAHA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/br2wbFHAVM7i5fPbmj2vAzVnGu5qCl5dM4xRjvLDZCYDODIzHLk1xPrASZIScRjVLEnWrMBi47385S1u4A">](https://music.youtube.com/channel/UChuCpN1p8z59urPXLEhxIRg)
 
-KIM FEEL - 그때 그 아인 (Someday, The Boy)
+YellowStraps - Something (feat. Dvtch Norris & Blackwave.)
 
-**Albums**: undefined
+**Albums**: Something
 
-Last updated at 09/02/2020 10:35
+Last updated at 09/02/2020 13:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
