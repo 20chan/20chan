@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/meMq0NRNEUnR2bXYpAKXG0TGn3sgjWQs-UWqltsL2sEr6T_kI8xAeOY0leE6fo4XmLu3tMQXEmfXTMUQ">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ega0BDzxaO8JGm7kbH__bmeJz7YemRg4aDo_SrzjeHunwj30rU24JqYcDguB4GvqMOFBx89STzmU3Ys">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-Stephen - Mr. Man
+Stephen - TRACER
 
-**Albums**: Sincerely
+**Albums**: TRACER
 
-Last updated at 09/02/2020 15:25
+Last updated at 09/02/2020 15:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
