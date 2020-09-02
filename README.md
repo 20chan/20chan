@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-UZnpcufkbc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-pops8090 - 신승훈 - I Believe (2001年)
+JuJu Club - 公主後遺症
 
-**Albums**: undefined
+**Albums**: 16／20
 
-Last updated at 09/02/2020 16:17
+Last updated at 09/02/2020 16:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
