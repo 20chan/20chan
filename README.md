@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oTiv3HsyAH_ueQgtA_4dB9BsSv0Ya2wihYjMIid14hkPccIynISPYPF7BDMmOpjsq3JT4zPz-7bymwDY">](https://music.youtube.com/channel/UCle1vWLaiCk1FcYOnECZgDA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q1IspoNyYYWIO__fW0fzXfQbQ001sg9m7pF1xUCC6GfMmwVJ_4NnJ_qeadRvNp9Vjuwqs80jeKShELjR">](https://music.youtube.com/channel/UC6k37AmWNol7iDF5IOe-Jmg)
 
-montythehokage - If You Wanna
+MistaDC - New Soul (feat. Nyles Davis)
 
-**Albums**: If You Wanna
+**Albums**: Sorry We Lost You
 
-Last updated at 09/02/2020 14:45
+Last updated at 09/02/2020 14:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
