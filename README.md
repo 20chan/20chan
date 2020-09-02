@@ -1,8 +1,8 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QJpP4WEvcKo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCs4uzdvxIkgVO3E3m4EU_IQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6tVIfLWCOGg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCaL-27RAFbi3V5a9xQXXtAA)
 
-실버타운-SilverTown-銀髮村 - 고추 잠자리 1981 조용필
+Lâm Nguyễn - 어느산골소년의 사랑이야기 예민 1992年 YouTube
 
 **Albums**: undefined
 
