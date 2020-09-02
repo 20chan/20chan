@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dYA1pOj4mYaSEr063XKLOnzapKsyC2KK7-VfRCXhonf7QqgCO4x7y7IJ1RaN6fxm5Luzn-dK0RtqcAAUaQ">](https://music.youtube.com/channel/UC2hDtcsUN8G5RYvHTt9CJtw)
+[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJyPH7rCe8qcqjNIhjLNYH5-jBKw2qf_C0PYDQAIrw=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCztiH7D-fHwsMyUF8r15vsQ)
 
-SHY Martin - Make Us Never Happen
+Earth Wind & Fire - Earth, Wind & Fire - September (Official Video)
 
-**Albums**: Make Us Never Happen
+**Albums**: undefined
 
-Last updated at 09/02/2020 01:37
+Last updated at 09/02/2020 10:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
