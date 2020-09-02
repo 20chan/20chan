@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Q2pzajxMmZ59biDkpeiokeOH2PQKbfRrYFB90dvKl-hSw_AvObgji29rewm5Hh2-gyae9QmQvaJUi7J">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/67WtuPt2MgjSM60MhtlmdAqqLP6XGmKI09bJKEMWevX2hu67CwsgyVUjOkE7ORaBWGjE3Cq_EQCirTGs">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-Stephen - Crossfire, Part II (feat. KillaGraham & Talib Kweli)
+Stephen Swartz - Bullet Train (feat. Joni Fatora)
 
-**Albums**: Crossfire, Part II
+**Albums**: Bullet Train (feat. Joni Fatora)
 
-Last updated at 09/02/2020 14:59
+Last updated at 09/02/2020 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
