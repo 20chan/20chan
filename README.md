@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJyPH7rCe8qcqjNIhjLNYH5-jBKw2qf_C0PYDQAIrw=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCztiH7D-fHwsMyUF8r15vsQ)
+[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJyrVXWfAHP8kPLIgV23YlX_vG0bzj6hnMsdHZwp=s48-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UCX8pxyrMe7tJDhpM2DRgHvw)
 
-Earth Wind & Fire - Earth, Wind & Fire - Let's Groove (Official Video)
+KoolandthegangShow - Kool & The Gang - Celebration (Official Music Video)
 
 **Albums**: undefined
 
-Last updated at 09/02/2020 10:15
+Last updated at 09/02/2020 10:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
