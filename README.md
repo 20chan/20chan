@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J07PSayQ8NitKtlHe2m-FWHLbsCgD3LKIJvGm90IhiMOLAgq9RCr3tuiJHTeWOi3oEJbOJijSI0hanYh">](https://music.youtube.com/channel/UCvfjizX8aIDWRKl9ff70qmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Paq4ggxhajHqUlak4C6S_J-Zu5BfOjffR2rBD7zuEaV_Dd4KH0EKEw-DVlvsylvM1ZNECcCTFlxIwVI">](https://music.youtube.com/channel/UCJpF7W5irnHky2yPhGqotWw)
 
-SAINt JHN - N***a Sh*t (Swoosh)
+Chelsea Peretti - GREENTEA (feat. Wale)
 
-**Albums**: Collection One
+**Albums**: Phosphorescent Panic
 
-Last updated at 09/02/2020 14:39
+Last updated at 09/02/2020 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
