@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Q1IspoNyYYWIO__fW0fzXfQbQ001sg9m7pF1xUCC6GfMmwVJ_4NnJ_qeadRvNp9Vjuwqs80jeKShELjR">](https://music.youtube.com/channel/UC6k37AmWNol7iDF5IOe-Jmg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_h9Tdj8bwTeKtGYQxdaAObWmw_jS6Ba9UtEcwc2Pd1YKE_erebQ0NOj2c3rwuTGyv29iZDo24I8hM3XG">](https://music.youtube.com/channel/UC-pWHpBjdGG69N9mM2auIAA)
 
-MistaDC - New Soul (feat. Nyles Davis)
+Stephen - Stray Nights
 
-**Albums**: Sorry We Lost You
+**Albums**: Stray Nights
 
-Last updated at 09/02/2020 14:47
+Last updated at 09/02/2020 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
