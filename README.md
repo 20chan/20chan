@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRnoBo60_joBvIQCoAiNCqg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qE33YetphcTzprytXLpQXOp4UXZVE-BAcfWqU8Vm5Ki_ZAOkcPMk2wWTnXUMT2GKC5Moqc-Zzbl9P5WE">](https://music.youtube.com/channel/UCePq2plduaK7wGozqDZYF5A)
 
-월간 윤종신 - Like it (좋니)
+Jacob Latimore & Eric Bellinger - Dat Ass
 
-**Albums**: undefined
+**Albums**: Dat Ass
 
-Last updated at 09/02/2020 14:35
+Last updated at 09/02/2020 14:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
