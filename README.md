@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-OFvqzzme-en4ECVXOzmVGx0hYRf-H9iubWNX8uwVDRZ3NOdpz-f5it9UwRYbXz-81M_WBnrwBbD0tRN">](https://music.youtube.com/channel/UCKC7Xqy0UXT370RvFR2kXYg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPy_ZSLiRa8e6jn-2D9qV7OaxghRHUCDFSmJhvyUqlwFtYn9CtGBDuPfPwJH5LoqgFMBHDp0ow2rY9QB">](https://music.youtube.com/channel/UCxdjAtOEGsnjvPlgqKbi5jw)
 
-Logic - I'm Gone
+DEUX - To Put In Word
 
-**Albums**: Under Pressure
+**Albums**: Forever
 
-Last updated at 09/02/2020 16:29
+Last updated at 09/02/2020 16:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
