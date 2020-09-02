@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPy_ZSLiRa8e6jn-2D9qV7OaxghRHUCDFSmJhvyUqlwFtYn9CtGBDuPfPwJH5LoqgFMBHDp0ow2rY9QB">](https://music.youtube.com/channel/UCxdjAtOEGsnjvPlgqKbi5jw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YHJg9sNZI3PPxz4zJfZkZraN83dMvizp3oU6Ql24uqdCQXqy6ayNubdBnsmJTfQeOt2dK2lwOGvL087pQQ">](https://music.youtube.com/channel/UCgX9AAxncWN0z8B_HKtAXvA)
 
-DEUX - In the Summer
+JINUSEAN - 말해줘(Tell Me)
 
-**Albums**: Forever
+**Albums**: JINUSEAN
 
-Last updated at 09/02/2020 16:43
+Last updated at 09/02/2020 16:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
