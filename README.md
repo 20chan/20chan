@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gpG9QRV9gTk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCe5SlSvnHTsnmBBXoFYXXGg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/r00ikilDxW4/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UC4JNeITH4P7G51C1hJoG6vQ)
 
-KALEO - KALEO - "I Can't Go On Without You" LIVE
+Green Day - 21 Guns
 
 **Albums**: undefined
 
-Last updated at 09/02/2020 17:09
+Last updated at 09/02/2020 17:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
