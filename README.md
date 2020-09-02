@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/br2wbFHAVM7i5fPbmj2vAzVnGu5qCl5dM4xRjvLDZCYDODIzHLk1xPrASZIScRjVLEnWrMBi47385S1u4A">](https://music.youtube.com/channel/UChuCpN1p8z59urPXLEhxIRg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCRnoBo60_joBvIQCoAiNCqg)
 
-YellowStraps - Something (feat. Dvtch Norris & Blackwave.)
+월간 윤종신 - Like it (좋니)
 
-**Albums**: Something
+**Albums**: undefined
 
-Last updated at 09/02/2020 13:11
+Last updated at 09/02/2020 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
