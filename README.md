@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dfDqgkQH5kKHip1phDRIZ3Z16G5iac8ab0lgFEumnwIcA9P4qQrXNn2flG32nlS6pBPAjEzClxifXbbj8w">](https://music.youtube.com/channel/UC_MeQvJZmgAHP5tgt8MgjzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPy_ZSLiRa8e6jn-2D9qV7OaxghRHUCDFSmJhvyUqlwFtYn9CtGBDuPfPwJH5LoqgFMBHDp0ow2rY9QB">](https://music.youtube.com/channel/UCxdjAtOEGsnjvPlgqKbi5jw)
 
-자두 (The Jadu) - 김밥 (Gimbap)
+DEUX - In the Summer
 
-**Albums**: 자두 3집 - The Jadu 3
+**Albums**: Forever
 
-Last updated at 09/02/2020 16:39
+Last updated at 09/02/2020 16:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
