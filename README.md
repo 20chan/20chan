@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pqC4X3461ECWld1__O9j5nXXCtY7TDb9G-gBTxkpT7sXlx7bPFn0iOtWyYUb1fmJRM_LY8rJFT1RrQiS1A">](https://music.youtube.com/channel/UCwgX_dLqGYna_7Fm8ecf4Ng)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Doja Cat - Say So
+Gryffin - Nobody Compares To You (feat. Katie Pearlman)
 
-**Albums**: Hot Pink
+**Albums**: Gravity
 
-Last updated at 09/03/2020 17:35
+Last updated at 09/03/2020 17:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
