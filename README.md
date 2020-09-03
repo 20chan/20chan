@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9ZTxiNDJ-vl62K5oreq3sMdAUGKUb9Pl-yUrxK1V-cRHLQZpzhe1c8F5vmbcf2q-zpdYwPTVAwwf782nsA">](https://music.youtube.com/channel/UCx32cWOzjoKz8O1oe7aoWPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
 
-Delispice - Cha-Woo Cha-Woo– No Matter How Hard I Try to Block, I Can Listen To Your Voice
+SEAMO - Cry Baby
 
-**Albums**: Deli Spice
+**Albums**: perfect seamo
 
-Last updated at 09/03/2020 15:29
+Last updated at 09/03/2020 15:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
