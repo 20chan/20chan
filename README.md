@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mlJZHxVgJEgPlkn1r5H2Z86sboLYQnTTaXuLoxI_1gyDhQ9JKrpsXQLrUgMKFCmGLxzPet8U_n-xgXoD">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/browse/MPREb_r5SqANvY73g)
 
-Choi Hosub - When Time Passes (feat. 최명섭)
+JuJu Club - 公主後遺症
 
-**Albums**: Choi Hosub(Blow wind/If Time Goes By)
+**Albums**: 16／20
 
-Last updated at 09/03/2020 15:39
+Last updated at 09/03/2020 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
