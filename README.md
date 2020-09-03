@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ayIjXBsv08m4ge-Ft-HxwSMEzJcZN_alKQM_9UGY9akvE1M16peWoKun3n9s25yIyMt2__uPYERb5v6DPQ">](https://music.youtube.com/channel/UC7LwDo1k9K68iCmGhlfgjYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OGVRNPkSMM36p2Fbze4OwKusm0xDtGiakKqOL4x7kTnKuFxf0JDA9qrUb9N107NxRv-WUFOjfL-rX7l3pg">](https://music.youtube.com/channel/UCzVb0SIXp9q9PeKCcFjsBtA)
 
-Jon Bellion - All Time Low
+Dua Lipa - Don't Start Now
 
-**Albums**: The Human Condition
+**Albums**: Future Nostalgia
 
-Last updated at 09/03/2020 17:17
+Last updated at 09/03/2020 17:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
