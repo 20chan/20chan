@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/65niALh646akmAD6eh9pmxvQR9_AOoG2jsNoqL2YBDprZDJ8GoSxpx22Kj2A19F1-0qvhZ4JJLZUYrQ">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
 
-CHEMISTRY - Period
+BLOO - Downtown Baby
 
-**Albums**: Chemistry 2001-2011
+**Albums**: Downtown Baby
 
-Last updated at 09/03/2020 15:21
+Last updated at 09/03/2020 15:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
