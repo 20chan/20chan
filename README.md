@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000121448506-o7jxsd-t50x50.jpg">](https://soundcloud.com/iamveryrandom/maskedheart-chiptune-ish-ver)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000369507648-zh0gn3-t50x50.jpg">](https://soundcloud.com/ujico/intro-1)
 
-snaily - Maskedheart Chiptune-ish ver.
+Ujico*/Snail's House - ある雨の日に (intro)
 
 **Albums**: undefined
 
-Last updated at 09/03/2020 19:08
+Last updated at 09/03/2020 19:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
