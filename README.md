@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/channel/UCyXWIu5C_xktLYqHHeGTJ1Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mlJZHxVgJEgPlkn1r5H2Z86sboLYQnTTaXuLoxI_1gyDhQ9JKrpsXQLrUgMKFCmGLxzPet8U_n-xgXoD">](https://music.youtube.com/channel/UCm6Uuz-3pfkc0-u_TyEU_tg)
 
-SEAMO - Cry Baby
+Choi Hosub - When Time Passes (feat. 최명섭)
 
-**Albums**: perfect seamo
+**Albums**: Choi Hosub(Blow wind/If Time Goes By)
 
-Last updated at 09/03/2020 15:35
+Last updated at 09/03/2020 15:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
