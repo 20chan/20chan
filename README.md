@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI">](https://music.youtube.com/channel/UClYV6hHlupm_S_ObS1W-DYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1LYy9dMOZdBONpG2_i8yKh4YiJrJ0V-syJ84m0olTzabDAybU9qhK70NJsSmDa1cpbSJimIaLgzZEsNoQw">](https://music.youtube.com/channel/UCYVvlWTf_x6mXakUr6KHZHg)
 
-The Weeknd - Blinding Lights
+김경호 - 사랑했지만
 
-**Albums**: Blinding Lights
+**Albums**: 김경호 6집(The Life)
 
-Last updated at 09/03/2020 17:07
+Last updated at 09/03/2020 17:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
