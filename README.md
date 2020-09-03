@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8">](https://music.youtube.com/channel/UCyD3XWRK9ko-izf2nBSFitw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/umyH2TnVYgDV7Q5G2urRrLiy5R5WTealMVKhMMFRm8y3v8LihGa8896o5cJ9i0ciR6vFsYRWaK91DLhZdg">](https://music.youtube.com/channel/UCN8aYfV4Em0pc0hxVXBTA-A)
 
-Post Malone - Circles
+Tones And I - Dance Monkey
 
-**Albums**: Hollywood's Bleeding
+**Albums**: Dance Monkey
 
-Last updated at 09/03/2020 15:01
+Last updated at 09/03/2020 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
