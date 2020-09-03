@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/channel/UCQh1WcnXjTmIQWIdoWE2k-g)
 
-Harry Styles - Watermelon Sugar
+CHEMISTRY - Period
 
-**Albums**: Fine Line
+**Albums**: Chemistry 2001-2011
 
-Last updated at 09/03/2020 15:17
+Last updated at 09/03/2020 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
