@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IBwK4LOs4sO-Cd-_5YO4XC2B2N1hvyBvKfr60tT_ljIuwmOuVWWW2NypbcvzKgScVAbRsWEYbmsjfcm2cw">](https://music.youtube.com/channel/UCyD3XWRK9ko-izf2nBSFitw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S81rF7hb7asyWLPyVpaUmHUlUrdY-2yWh4R-OYUiaT-rLNf3z-ipKX_A1z6YDKeqaXph7iP38h73QGE">](https://music.youtube.com/channel/UCVacQ2t5GUZ2t_J3Ia9BynA)
 
-Post Malone, Swae Lee & Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)
+Harry Styles - Watermelon Sugar
 
-**Albums**: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+**Albums**: Fine Line
 
-Last updated at 09/03/2020 15:07
+Last updated at 09/03/2020 15:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
