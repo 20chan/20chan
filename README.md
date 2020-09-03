@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/R4gwn2gaVGx-GxyczlLmpi1FQJzk5brbVYuKHLxyAi6v2sSwWDvJ2vuP_wJ-osFxbv3zaj_D5hxhcWDp">](https://music.youtube.com/browse/MPREb_h4m8XB1kAhK)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pqC4X3461ECWld1__O9j5nXXCtY7TDb9G-gBTxkpT7sXlx7bPFn0iOtWyYUb1fmJRM_LY8rJFT1RrQiS1A">](https://music.youtube.com/channel/UCwgX_dLqGYna_7Fm8ecf4Ng)
 
-장혜리 - 내게 남은 사랑을 드릴께요
+Doja Cat - Say So
 
-**Albums**: 내 기억속의 발라드
+**Albums**: Hot Pink
 
-Last updated at 09/03/2020 17:31
+Last updated at 09/03/2020 17:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
