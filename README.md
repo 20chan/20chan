@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9ilraY4HmVAcSYYM-HhkSO3aSVmrDaQnOXRK1E-yQg-cs4S-3M60WLs_1a85chocWvwuC0UjiWx0EgV3">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000374585043-401nru-t50x50.jpg">](https://soundcloud.com/ujbeats/ramune)
 
-Loote - tomorrow tonight
+✨ujbeats✨ - ✨ramune✨
 
-**Albums**: lost
+**Albums**: undefined
 
-Last updated at 09/03/2020 17:49
+Last updated at 09/03/2020 18:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
