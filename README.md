@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-R7_pwLxBXZHLqrNb0sFtaQrko8wu4mR6v7E4617QgRV6RBZeuWZwttVa4Xmsm7pGxuLIc1ZUmYJW1Yi">](https://music.youtube.com/channel/UCncmhEMto4MiCLj5kyaV3ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ayIjXBsv08m4ge-Ft-HxwSMEzJcZN_alKQM_9UGY9akvE1M16peWoKun3n9s25yIyMt2__uPYERb5v6DPQ">](https://music.youtube.com/channel/UC7LwDo1k9K68iCmGhlfgjYw)
 
-Jeon Yuna - Even If I Love You
+Jon Bellion - All Time Low
 
-**Albums**: Even If I Love You
+**Albums**: The Human Condition
 
-Last updated at 09/03/2020 17:15
+Last updated at 09/03/2020 17:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
