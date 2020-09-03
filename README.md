@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000369507648-zh0gn3-t50x50.jpg">](https://soundcloud.com/ujico/intro-1)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TybMkuKmxikjwz6P1ohYPGVXAz8xlHD-Ln39nUTvO-3eGWbBA1TMYdn5dkVBPY48QioxK6GmSw_N5L4">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
 
-Ujico*/Snail's House - ある雨の日に (intro)
+Lunch - DIE
 
-**Albums**: undefined
+**Albums**: 죽어버려라
 
-Last updated at 09/03/2020 19:09
+Last updated at 09/04/2020 00:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
