@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i7OxVmgc5kA-zQafzz6ejRK9t--UCeCHEnDJWkqRvHYeQy2VyEtaW3HQujq5MpUQk5T6kBBYwtxAsdv6">](https://music.youtube.com/channel/UCdFe4KkWwZ_twpo-UECR-Nw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8">](https://music.youtube.com/channel/UCyD3XWRK9ko-izf2nBSFitw)
 
-Maroon 5 - Memories
+Post Malone - Circles
 
-**Albums**: Memories
+**Albums**: Hollywood's Bleeding
 
-Last updated at 09/03/2020 14:56
+Last updated at 09/03/2020 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
