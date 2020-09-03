@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HaY_qZkFRvkaZzVfGl9tbhwM9xtn1GcJTxQ1LoYHcgLMOj9GcAxYUmaPUmefc0zhf-Os3vRN33metC-k">](https://music.youtube.com/channel/UCKBJ2L2Szj2XaZeChTSzGrQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iGP5HeyZao8SD7kH7VC872iseyKldFaV1ceAxaUAGrWfe1M9fEu1SudK5YO3BPJjvHMTg1XZWsYWowODLQ">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Lee Eun Ha - Like the Smile Saying Goodbye to Me
+창모 Changmo - AIYA (feat. Beenzino)
 
-**Albums**: The Golden Best of Lee Eun Ha
+**Albums**: DBSG 3
 
-Last updated at 09/03/2020 17:41
+Last updated at 09/03/2020 17:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
