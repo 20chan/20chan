@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GbcfcBe2jH71hwl_-erqevODt2lHnC7tYepEAWAxyXdkoo7jfze8yRJPFE1sZIR9Ocnpah9cTaD6S6QU4w">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TybMkuKmxikjwz6P1ohYPGVXAz8xlHD-Ln39nUTvO-3eGWbBA1TMYdn5dkVBPY48QioxK6GmSw_N5L4">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
 
-Jang Beom June - Without You by My Side (A New Song Called Wedding March)
+Lunch - DIE
 
-**Albums**: Jang Beom June 2nd Album
+**Albums**: 죽어버려라
 
-Last updated at 09/09/2020 12:02
+Last updated at 09/09/2020 12:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
