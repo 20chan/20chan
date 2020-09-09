@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mEWpjkGR7dCey2OoNdcMuZcnaedv-89xL_yq-7R4hsPha67upmzun-k0urpRWCyTuVnMf_hZJRsd3VM">](https://music.youtube.com/channel/UCOgskNCI49YHsOUTGPJ2QHA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFmAlvSzHnGy5focJlJBOKNDCL0PTUV1G9bLecKgcmb5RuD3F98zgaEzTMFW84uAjECT1MSbYWtgoAZs">](https://music.youtube.com/channel/UCrNP86xe_TTQaUrKR7XXB1A)
 
-Masaharu Fukuyama - Jyuunigatsu
+Broken Valentine - 알루미늄
 
-**Albums**: Tamariku
+**Albums**: Aluminium
 
-Last updated at 09/09/2020 12:15
+Last updated at 09/09/2020 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
