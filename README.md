@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZIJCQDmQQCf5Z8_jtqp97vobeSEjxp07-AemrWP5wOmo04mIFfXE2Nz0XPMv7gT0VpIlvsdzK2TFVpb">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SLyM9HbqEQQjn5i-FAJVwPSolssKdD7LEpKhzgqkXXTsGZBEtV-YnVV0ODXCziexuSV5ZO-o-qY7068">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
 
-Lunch - 그래서 창문에 썬팅을 하나봐
+Lunch - 나는 반딧불
 
-**Albums**: 그래서 창문에 썬팅을 하나봐
+**Albums**: 나는 반딧불
 
 Last updated at 09/09/2020 12:27
 
