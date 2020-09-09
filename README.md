@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TybMkuKmxikjwz6P1ohYPGVXAz8xlHD-Ln39nUTvO-3eGWbBA1TMYdn5dkVBPY48QioxK6GmSw_N5L4">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mEWpjkGR7dCey2OoNdcMuZcnaedv-89xL_yq-7R4hsPha67upmzun-k0urpRWCyTuVnMf_hZJRsd3VM">](https://music.youtube.com/channel/UCOgskNCI49YHsOUTGPJ2QHA)
 
-Lunch - DIE
+Masaharu Fukuyama - Jyuunigatsu
 
-**Albums**: 죽어버려라
+**Albums**: Tamariku
 
-Last updated at 09/09/2020 12:55
+Last updated at 09/09/2020 12:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
