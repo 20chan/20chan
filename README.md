@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TybMkuKmxikjwz6P1ohYPGVXAz8xlHD-Ln39nUTvO-3eGWbBA1TMYdn5dkVBPY48QioxK6GmSw_N5L4">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SLyM9HbqEQQjn5i-FAJVwPSolssKdD7LEpKhzgqkXXTsGZBEtV-YnVV0ODXCziexuSV5ZO-o-qY7068">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
 
-Lunch - DIE
+Lunch - 나는 반딧불
 
-**Albums**: 죽어버려라
+**Albums**: 나는 반딧불
 
-Last updated at 09/09/2020 09:51
+Last updated at 09/09/2020 09:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
