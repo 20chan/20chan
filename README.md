@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFmAlvSzHnGy5focJlJBOKNDCL0PTUV1G9bLecKgcmb5RuD3F98zgaEzTMFW84uAjECT1MSbYWtgoAZs">](https://music.youtube.com/channel/UCrNP86xe_TTQaUrKR7XXB1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZIJCQDmQQCf5Z8_jtqp97vobeSEjxp07-AemrWP5wOmo04mIFfXE2Nz0XPMv7gT0VpIlvsdzK2TFVpb">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
 
-Broken Valentine - 알루미늄
+Lunch - 그래서 창문에 썬팅을 하나봐
 
-**Albums**: Aluminium
+**Albums**: 그래서 창문에 썬팅을 하나봐
 
-Last updated at 09/09/2020 12:19
+Last updated at 09/09/2020 12:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
