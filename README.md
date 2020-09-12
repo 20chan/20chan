@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SLyM9HbqEQQjn5i-FAJVwPSolssKdD7LEpKhzgqkXXTsGZBEtV-YnVV0ODXCziexuSV5ZO-o-qY7068">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/HS0Or-xyTDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HS0Or-xyTDc)
 
-Lunch - 나는 반딧불
+quinn_ - 난빤쓰만입고도멋진생각을해
 
-**Albums**: 나는 반딧불
+**Albums**: undefined
 
-Last updated at 09/09/2020 13:21
+Last updated at 09/13/2020 07:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
