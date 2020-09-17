@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/M2hW6jgomwo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/EmI6b8xFSX4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC5EtjJLEqaSDZ8kVcnhNNGQ)
 
-Twenty One Pilots - Heathens (BOXINBOX & LIONSIZE Remix)
+Cash Cash - How to Love (Boombox Cartel Remix) (feat. Sofia Reyes)
 
-**Albums**: 17M views
+**Albums**: 9.3M views
 
-Last updated at 09/17/2020 16:18
+Last updated at 09/17/2020 16:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
