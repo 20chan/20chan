@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zt4BOkzs2jnOsP0daW082022lPgD0zklqGPUb2Y80CraTLE1FPwylQ2CLlVMMgsxzyFJqmu-kOEhCTOZ">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-Gryffin & Carly Rae Jepsen - OMG
+NOTD - Been There Done That (feat. Tove Styrke)
 
-**Albums**: Gravity
+**Albums**: Been There Done That
 
-Last updated at 09/17/2020 11:41
+Last updated at 09/17/2020 11:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
