@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aho6XmpSgk4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt7HsCmEFU5hl7qicU8n9xw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xlDLd8MBkeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4IAZ3dowcXyvVYBx4hucSQ)
 
-Levianth - Beside Me
+Lil Wayne - A Milli (K Theory Remix)
 
-**Albums**: 9.3M views
+**Albums**: 32M views
 
-Last updated at 09/17/2020 13:05
+Last updated at 09/17/2020 13:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
