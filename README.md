@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oMbAJGdVlJJczbmxledAqefxmT4ZdZlfgXViluFx6rLSno3KFAhi8K4_vOnEEvKOcL64fgnYkYcdaoLT">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qIE-xcoS0Ow4IB1eVc1eyv2Mv4kLiQTfbn_XPYjekZmoRk1_k6LDhBFBgdCvsYc_tSJKSQ_3G0sfIupm">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-Gryffin & John Martin - Cry
+NOTD & Nina Nesbitt - Cry Dancing
 
-**Albums**: Cry
+**Albums**: Cry Dancing
 
-Last updated at 09/17/2020 11:11
+Last updated at 09/17/2020 11:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
