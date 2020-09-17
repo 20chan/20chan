@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mBHTXQo65p8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/DRmHjDzVbRs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLiy59cci2t_oTWhm5gpZug)
 
-Trap Nation - Mickey Valen - Meet Me (feat. Noé)
+Beauty Brain - Veneno (Tropkillaz Remix)
 
-**Albums**: 60M views
+**Albums**: 12M views
 
-Last updated at 09/17/2020 16:34
+Last updated at 09/17/2020 16:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
