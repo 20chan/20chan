@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2VYefpbrPQueeJXQPmeJGOwxyzT3Xf5mL3bHY8N_lYr0F5lS5ogPiaFNrke7hA_L1qbcM2PQW1qaCCLV">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
 
-Leellamarz - AMBITION (feat. ASH ISLAND, KEEM HYO-EUN, Hash Swan & CHANGMO)
+Kozypop - Phobia (feat. About . & ABOUT)
 
-**Albums**: MARZ 2 AMBITION
+**Albums**: Seoul Vibes, Pt. 12
 
-Last updated at 09/17/2020 15:37
+Last updated at 09/17/2020 15:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
