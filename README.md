@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/9PB30JUOncw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl6-24cszKqIYLkBzo02XzQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/a5PwMONNGMw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Lukas Graham - 7 Years (T-Mass Remix)
+Trap Nation - Rae Sremmurd - This Could Be Us (Arman Cekin & Ellusive Remix)
 
-**Albums**: 84M views
+**Albums**: 23M views
 
-Last updated at 09/17/2020 13:13
+Last updated at 09/17/2020 13:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
