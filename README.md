@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/channel/UCPbszxOIsiQblDFv01nTHHg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y5_M3ecuG8L0XCN2Uz2Ny-rTTHG49w16_tS_mQJxtzr2kkGp5KNUlSMqhOpitbhIrTb42dSSZDHtaz0T">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
 
-SURL (설) - 열기구 Hot Air Balloon
+Zedd & Jasmine Thompson - Funny
 
-**Albums**: I Know
+**Albums**: Funny
 
-Last updated at 09/17/2020 11:04
+Last updated at 09/17/2020 11:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
