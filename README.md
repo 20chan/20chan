@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AtPy2X6B8uJPBQoCGjDZ4035mUyZY5aOM2yr-7O5EHiixSJQx1ctl4mVLHR7MPhrrwHfJ6Qf9fv84c9MAA">](https://music.youtube.com/channel/UCklQuH51vyXV_xBhDKlJvEQ)
 
-Gryffin - Just For A Moment (feat. Iselin)
+Sasha Sloan - Lie
 
-**Albums**: Gravity
+**Albums**: Lie
 
-Last updated at 09/17/2020 11:30
+Last updated at 09/17/2020 11:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
