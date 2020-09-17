@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/R_FvGUVZCHKTSQ4gfbTu0j1UXuQ0cgATwhkYrKZskd7aRP0haF25NhfzUdSB0Z60yzti5wCF5LK7i-M">](https://music.youtube.com/channel/UCLjHHvEq3r1A1Hwsk5xjyKQ)
 
-pops8090 - 최용준 - 아마도 그건 (1989年)
+Susanne Sundfør - Fade Away (Coucheron Remix)
 
-**Albums**: 5.1M views
+**Albums**: Fade Away (EP)
 
-Last updated at 09/17/2020 12:01
+Last updated at 09/17/2020 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
