@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OcPQ5cyoAXOuM7yJgtscQGX1ro3EW95ErMumRwt3SNz5rngCzh2NTvxzBq3bMnlIrk8tzZykAJH1RuqD">](https://music.youtube.com/channel/UC4FxRR1ZZcap_CY6fTQUU3g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Jeremy Zucker - supercuts
+Gryffin - Just For A Moment (feat. Iselin)
 
-**Albums**: supercuts
+**Albums**: Gravity
 
-Last updated at 09/17/2020 11:27
+Last updated at 09/17/2020 11:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
