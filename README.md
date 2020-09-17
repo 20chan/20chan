@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qK_NeRZOdq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/I8mS8Pfgros/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw)
 
-Ed Sheeran - Shape Of You (BKAYE Remix)
+Twenty One Pilots - Heathens (DISTO Remix)
 
-**Albums**: 114M views
+**Albums**: 74M views
 
-Last updated at 09/17/2020 12:46
+Last updated at 09/17/2020 12:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
