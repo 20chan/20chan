@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/HWRMtEb1nQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCp57m_15RPFgvjsx3FrCE_A)
 
-southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
+HANKOOK NORE - 이원진 시작하는 연인들을위해 (가사 첨부)
 
-**Albums**: 2.8M views
+**Albums**: 64K views
 
-Last updated at 09/17/2020 10:22
+Last updated at 09/17/2020 10:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
