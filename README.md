@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/o5ENzs8Czm0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/DhCp22tIiTc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Martin Garrix - Animals (Gioni Trap Remix)
+Trap Nation - Naughty Boy - La La La ft. Sam Smith (K Theory Remix)
 
-**Albums**: 42M views
+**Albums**: 28M views
 
-Last updated at 09/17/2020 17:10
+Last updated at 09/17/2020 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
