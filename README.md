@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3t_eU3tdy2g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCU6cE7pdJPc6DU2jSrKEsdQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/PMUt0lShZfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Drake - 0 to 100 (Grandtheft Bootleg)
+Trap Nation - twenty one pilots - Ride (Jaydon Lewis Remix)
 
-**Albums**: 11M views
+**Albums**: 41M views
 
-Last updated at 09/17/2020 13:42
+Last updated at 09/17/2020 13:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
