@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ntLop32pYd0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/vPxf8m93GgY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfOaLMhPiEtstfHvYJsQuYQ)
 
-Trap Nation - Diplo - Revolution (feat. Faustix & Imanos and Kai) [SEAN&BOBO Remix]
+Valesco - Cloud 9
 
-**Albums**: 350M views
+**Albums**: 36M views
 
-Last updated at 09/17/2020 12:33
+Last updated at 09/17/2020 12:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
