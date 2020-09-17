@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ktw8hcSq2mc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/U8T6wocw4so/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - Far Out - On My Own (feat. Karra)
+Trap Nation - JAEGER - Until Dawn
 
-**Albums**: 27M views
+**Albums**: 45M views
 
-Last updated at 09/17/2020 12:26
+Last updated at 09/17/2020 12:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
