@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-JWewEsf-X0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/MOCUaLO__kw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - G-Eazy & Halsey - Him & I (Audiovista Remix)
+Trap Nation - Post Malone ft. 21 Savage - Rockstar (Julius Dreisig Remix)
 
-**Albums**: 5.8M views
+**Albums**: 3.2M views
 
-Last updated at 09/17/2020 14:10
+Last updated at 09/17/2020 14:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
