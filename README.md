@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x6qGMNPk-HLE-lLVbfLw_mP1Or6UtDE2KRTjbMAtbYepqly5PTJqVGy3KhgIVT9_9afcKj_E7Pq-lDFv">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OcPQ5cyoAXOuM7yJgtscQGX1ro3EW95ErMumRwt3SNz5rngCzh2NTvxzBq3bMnlIrk8tzZykAJH1RuqD">](https://music.youtube.com/channel/UC4FxRR1ZZcap_CY6fTQUU3g)
 
-Zedd & Elley Duhé - Happy Now
+Jeremy Zucker - supercuts
 
-**Albums**: Happy Now
+**Albums**: supercuts
 
-Last updated at 09/17/2020 11:23
+Last updated at 09/17/2020 11:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
