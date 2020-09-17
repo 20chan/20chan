@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xXvJuVcI5mU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qK_NeRZOdq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClmXPfaYhXOYsNn_QUyheWQ)
 
-Trap Nation - Melanie Martinez - Pity Party (K Theory Remix)
+Ed Sheeran - Shape Of You (BKAYE Remix)
 
-**Albums**: 15M views
+**Albums**: 114M views
 
-Last updated at 09/17/2020 12:41
+Last updated at 09/17/2020 12:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
