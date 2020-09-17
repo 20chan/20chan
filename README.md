@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vgDYn-URRv3-_MCrL8W8sEeZetNC96SSaJE2gWA_52Ix7fAXXOzuxvwC2hwq5np6uyo-I3kgkhwfJ2F3dg">](https://music.youtube.com/channel/UCxvg7Gd92YgQcWqk0Zh6FXw)
 
-Loote - Good To Me
+Shoffy - Different Skies
 
-**Albums**: single.
+**Albums**: Different Skies
 
-Last updated at 09/17/2020 11:56
+Last updated at 09/17/2020 11:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
