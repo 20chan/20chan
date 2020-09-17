@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000221336393-t9zali-t120x120.jpg">](https://soundcloud.com/labrat/labrat-woke-up-master3)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000090669769-aya8ip-t120x120.jpg">](https://soundcloud.com/labrat/knowa)
 
-LabRat - Woke Up
+LabRat - Knowa
 
 **Albums**: undefined
 
-Last updated at 09/17/2020 14:42
+Last updated at 09/17/2020 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
