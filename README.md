@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/DRmHjDzVbRs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCLiy59cci2t_oTWhm5gpZug)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Kx1QIlGmhPo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Beauty Brain - Veneno (Tropkillaz Remix)
+Trap Nation - Take/Five - Tell Me
 
-**Albums**: 12M views
+**Albums**: 14M views
 
-Last updated at 09/17/2020 16:37
+Last updated at 09/17/2020 16:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
