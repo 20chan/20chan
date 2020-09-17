@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/u7cy4RFsyM8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCusQCYY_5GbF6XhaNaTYTfw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/M2hW6jgomwo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCnX0L9QiftAcWdzeBx31xCw)
 
-Grandtheft - Square One (feat. Max & MAX)
+Twenty One Pilots - Heathens (BOXINBOX & LIONSIZE Remix)
 
-**Albums**: 6.4M views
+**Albums**: 17M views
 
-Last updated at 09/17/2020 16:15
+Last updated at 09/17/2020 16:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
