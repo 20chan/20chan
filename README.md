@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2ahRg2aedfCsQ3APyV8BeuIkXqFbNadpOGJRe334J8GCr5dfX6xeqMQ9sq0YuR2Mpq5KhlfKi7Txa7o">](https://music.youtube.com/channel/UCH-aM6ae8RUTNtNGwrKI3Fg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vpNhc2ybWxWJhRTleUMEDOu02VpPdN0DaUMmZ8wVvvY4b5XfeARlJNLw5ntyTDxFcrsTwIKCd15ZPmQ">](https://music.youtube.com/channel/UCH-aM6ae8RUTNtNGwrKI3Fg)
 
-Damons Year(데이먼스 이어) - Auburn(Bright ver.)
+데이먼스 이어 Damons Year - Yours
 
-**Albums**: Bright #8
+**Albums**: Yours
 
-Last updated at 09/17/2020 10:59
+Last updated at 09/17/2020 11:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
