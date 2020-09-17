@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/avjWGTL1OGOGS_trKaK4eVIiAr0AoDY1jIeMfAIiJOlPZt_WrH0sJ9bOOao0Zd27V10U0DxzeHuxP9KdYQ">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/MOCUaLO__kw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Kozypop - Sameday (feat. Kenessi & Denny)
+Trap Nation - Post Malone ft. 21 Savage - Rockstar (Julius Dreisig Remix)
 
-**Albums**: Seoul Vibes, Pt. 15
+**Albums**: 3.2M views
 
-Last updated at 09/17/2020 16:05
+Last updated at 09/17/2020 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
