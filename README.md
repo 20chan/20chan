@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000037173607-n79liy-t120x120.jpg">](https://soundcloud.com/labrat/t-i-go-get-it-labrat)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000034003964-h9vf17-t120x120.jpg">](https://soundcloud.com/labrat/richie-spice-marijuana-1)
 
-LabRat - T.I. - Go Get It (LabRat & Jamburglar Remix)
+LabRat - Richie Spice - Marijuana ( DownsquareZ and LabRat Remix )
 
 **Albums**: undefined
 
-Last updated at 09/17/2020 14:32
+Last updated at 09/17/2020 14:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
