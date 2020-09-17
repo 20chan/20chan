@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/sIUr3RhjaKY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKQ-xBLhj3SkN9Wz6MwjLaA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Zp2fz99lIAs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Major Lazer - Cold Water (R3hab vs Skytech Remix)
+Trap Nation - Major Lazer - Cold Water (Neptunica & Matt Defreitas Remix)
 
 **Albums**: 20M views
 
-Last updated at 09/17/2020 17:35
+Last updated at 09/17/2020 17:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
