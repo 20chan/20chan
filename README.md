@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pVLmZMjxfjw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCTXE5_WDdh06Q8dBiNEvdPQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/e7nkA7Ue5yg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm3ai8dGs4olHioc_xL3IXA)
 
-Eiffel 65 - Blue (KNY Factory Remix)
+Big Sean - Big Sean - IDFWU (K Theory Remix)
 
-**Albums**: 348M views
+**Albums**: 10M views
 
-Last updated at 09/17/2020 17:17
+Last updated at 09/17/2020 17:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
