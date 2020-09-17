@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/avjWGTL1OGOGS_trKaK4eVIiAr0AoDY1jIeMfAIiJOlPZt_WrH0sJ9bOOao0Zd27V10U0DxzeHuxP9KdYQ">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Wyu80G9vcAn4BtaeVZypJYMQ3cZ6O5407OM71BaNFxNPv5pjrLedByKSZZkgrseHOwCtedbCiSqq8R37IA">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
 
-Kozypop - 몇번째 (feat. 찬현)
+Kozypop - 파란색 (feat. Taeb2)
 
-**Albums**: Seoul Vibes, Pt. 15
+**Albums**: Seoul Vibes, Pt​. 9
 
-Last updated at 09/17/2020 15:18
+Last updated at 09/17/2020 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
