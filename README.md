@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Wyu80G9vcAn4BtaeVZypJYMQ3cZ6O5407OM71BaNFxNPv5pjrLedByKSZZkgrseHOwCtedbCiSqq8R37IA">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
 
-Kozypop - 파란색 (feat. Taeb2)
+Leellamarz - AMBITION (feat. ASH ISLAND, KEEM HYO-EUN, Hash Swan & CHANGMO)
 
-**Albums**: Seoul Vibes, Pt​. 9
+**Albums**: MARZ 2 AMBITION
 
-Last updated at 09/17/2020 15:34
+Last updated at 09/17/2020 15:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
