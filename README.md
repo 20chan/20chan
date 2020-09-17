@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000196562602-o9m7he-t120x120.jpg">](https://soundcloud.com/labrat/stylust-beats-painkiller-labrat-remix)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000059015655-rdbwjq-t120x120.jpg">](https://soundcloud.com/labrat/beastmode-1)
 
-LabRat - Stylust Beats - Painkiller (LabRat Remix)
+LabRat - Beastmode
 
 **Albums**: undefined
 
-Last updated at 09/17/2020 15:07
+Last updated at 09/17/2020 15:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
