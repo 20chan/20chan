@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/MOCUaLO__kw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJwSP_tvNWojxiqDdlklmZVr0Q9k0WkyRFnBWTnBPg=s176-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UC_TVqp_SyG6j5hG-xVRy95A)
 
-Trap Nation - Post Malone ft. 21 Savage - Rockstar (Julius Dreisig Remix)
+Skrillex - Skrillex & Rick Ross - Purple Lamborghini [Official Video]
 
-**Albums**: 3.2M views
+**Albums**: undefined
 
-Last updated at 09/17/2020 14:13
+Last updated at 09/17/2020 14:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
