@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pxR2A7NApYI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3t_eU3tdy2g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCU6cE7pdJPc6DU2jSrKEsdQ)
 
-Trap Nation - BTS (방탄소년단) - Fake Love (Jaydon Lewis Remix)
+Drake - 0 to 100 (Grandtheft Bootleg)
 
-**Albums**: 10M views
+**Albums**: 11M views
 
-Last updated at 09/17/2020 13:38
+Last updated at 09/17/2020 13:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
