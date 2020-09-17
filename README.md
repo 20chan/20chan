@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1C48SaP4FMc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aho6XmpSgk4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCt7HsCmEFU5hl7qicU8n9xw)
 
-Trap Nation - Lookas - Loko
+Levianth - Beside Me
 
-**Albums**: 12M views
+**Albums**: 9.3M views
 
-Last updated at 09/17/2020 13:01
+Last updated at 09/17/2020 13:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
