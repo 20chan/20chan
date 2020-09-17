@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/i33DB6R8YUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC0c4bK_92XYr0YtASqqWOJg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zUueYq54Foc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfOaLMhPiEtstfHvYJsQuYQ)
 
-DJ Snake - Let Me Love You (Boxinlion Cover Remix)
+Valesco - All I Need
 
-**Albums**: 48M views
+**Albums**: 12M views
 
-Last updated at 09/17/2020 16:54
+Last updated at 09/17/2020 16:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
