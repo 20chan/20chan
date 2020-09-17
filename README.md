@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/B9818xpMvQhDLUTN6L75pPCXouHn4aAR-MpOatH6cKQvzkCLWSTKm6DVmpOnjLBk1NeKbtyIs4Bof36_">](https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q)
 
-Layone - Sunflower (feat. Verbal Jint)
+Layone - Oh Tae Sick
 
 **Albums**: Sunflower
 
-Last updated at 09/17/2020 18:17
+Last updated at 09/17/2020 18:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
