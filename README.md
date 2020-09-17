@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/PV737QlqwLA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mKzLoZFz8PE/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=mKzLoZFz8PE)
 
-Trap Nation - Rae Sremmurd - No Flex Zone (Baewatch Trap Bootleg)
+Marshmello - Keep It Mello (feat. Omar LinX)
 
-**Albums**: 9.8M views
+**Albums**: 337M views
 
-Last updated at 09/17/2020 13:19
+Last updated at 09/17/2020 13:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
