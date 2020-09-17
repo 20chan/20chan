@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000199905922-rcfbvt-t120x120.jpg">](https://soundcloud.com/labrat/drip)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000130264692-ghp8tk-t120x120.jpg">](https://soundcloud.com/labrat/nitekidz)
 
-LabRat - Drip
+LabRat - NiteKidZ
 
 **Albums**: undefined
 
-Last updated at 09/17/2020 14:50
+Last updated at 09/17/2020 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
