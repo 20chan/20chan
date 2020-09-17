@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iiVCJGAX2W0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-Trap Nation - Philter - Revolver (Linko Remix)
+pops8090 - 최용준 - 아마도 그건 (1989年)
 
-**Albums**: 927K views
+**Albums**: 5.1M views
 
-Last updated at 09/17/2020 12:00
+Last updated at 09/17/2020 12:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
