@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qIE-xcoS0Ow4IB1eVc1eyv2Mv4kLiQTfbn_XPYjekZmoRk1_k6LDhBFBgdCvsYc_tSJKSQ_3G0sfIupm">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gfBcSQwrKaAxxkmkiTWAEkGs7c2_qYVIQr3byQoOTsk5dgZlD8jE6pIIq_pZ5gIT60uukBemXTphhzyS">](https://music.youtube.com/channel/UCP1ikqkQubpcC1xC-i233aA)
 
-NOTD & Nina Nesbitt - Cry Dancing
+Danny Avila - End Of The Night
 
-**Albums**: Cry Dancing
+**Albums**: End Of The Night
 
-Last updated at 09/17/2020 11:15
+Last updated at 09/17/2020 11:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
