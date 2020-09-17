@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/YfRLJQlpMNw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClWr8jyXLh6r8WhUH_zL_eA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/o5ENzs8Czm0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCqJnSdHjKtfsrHi9aI-9d3g)
 
-Mickey Valen - Wildcard (feat. Feli Ferraro)
+Martin Garrix - Animals (Gioni Trap Remix)
 
-**Albums**: 20M views
+**Albums**: 42M views
 
-Last updated at 09/17/2020 17:07
+Last updated at 09/17/2020 17:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
