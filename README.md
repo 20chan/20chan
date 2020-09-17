@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000090669769-aya8ip-t120x120.jpg">](https://soundcloud.com/labrat/knowa)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000199905922-rcfbvt-t120x120.jpg">](https://soundcloud.com/labrat/drip)
 
-LabRat - Knowa
+LabRat - Drip
 
 **Albums**: undefined
 
-Last updated at 09/17/2020 14:46
+Last updated at 09/17/2020 14:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
