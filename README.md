@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/knqlZJ-QlLxW62Hqzumjd1XW5v8nYCgfxF3E5SJEROglbNgYQMTmjC5EY-6osZgznIfp-Ap0YX7ioPI">](https://music.youtube.com/channel/UCLOOtpyENqWvFEFtTeVapeQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/09-I-j3TSneTzndBCwae9irrQPxWKeaShWhd9-ezjvvtru1J86z3zbeTeyXRR9nAC55cSb8WshumE213-A">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-Xandar - LMK (Let Me Know)
+Gryffin & Carly Rae Jepsen - OMG
 
-**Albums**: LMK (Let Me Know)
+**Albums**: Gravity
 
-Last updated at 09/17/2020 11:38
+Last updated at 09/17/2020 11:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
