@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/FJWRtYPzHy0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mBHTXQo65p8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - Adam Jensen - Sandcastles (ToWonder x Severo Remix)
+Trap Nation - Mickey Valen - Meet Me (feat. Noé)
 
-**Albums**: 12M views
+**Albums**: 60M views
 
-Last updated at 09/17/2020 16:29
+Last updated at 09/17/2020 16:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
