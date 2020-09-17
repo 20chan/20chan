@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LdQjndOvNn4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kwW0IAkwIWc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - Galantis - Runaway (U & I) (Gioni Remix)
+Trap Nation - Charlie Puth - We Don't Talk Anymore ft. Selena Gomez (BOXINBOX & Lionsize Remix)
 
-**Albums**: 69M views
+**Albums**: 83M views
 
-Last updated at 09/17/2020 12:53
+Last updated at 09/17/2020 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
