@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/PMUt0lShZfs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/NLmqqimN_6M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - twenty one pilots - Ride (Jaydon Lewis Remix)
+Trap Nation - Veorra - Run
 
-**Albums**: 41M views
+**Albums**: 48M views
 
-Last updated at 09/17/2020 13:45
+Last updated at 09/17/2020 14:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
