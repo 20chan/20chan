@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/vPxf8m93GgY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfOaLMhPiEtstfHvYJsQuYQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/DArzZ3RvejU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Valesco - Cloud 9
+Trap Nation - Alessia Cara - Here (Lucian Remix)
 
-**Albums**: 36M views
+**Albums**: 113M views
 
-Last updated at 09/17/2020 12:34
+Last updated at 09/17/2020 12:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
