@@ -1,12 +1,12 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-DTkqnlPmkU3hmz0h-eG2W5g-t120x120.jpg">](https://soundcloud.com/labrat/lil-flip-e-40-sick-with-tha-flip-labrat-flip-1)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000037173607-n79liy-t120x120.jpg">](https://soundcloud.com/labrat/t-i-go-get-it-labrat)
 
-LabRat - Lil Flip, E - 40 - Sick With Tha Flip (LabRat Flip) FREE DL
+LabRat - T.I. - Go Get It (LabRat & Jamburglar Remix)
 
 **Albums**: undefined
 
-Last updated at 09/17/2020 14:28
+Last updated at 09/17/2020 14:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
