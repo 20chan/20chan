@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_0O2hXESFPU5IsfW3TyMNTHM8QpdffDOaL2If2O1UKtYkLSzpT1zxXUFgMi5qmorFya_6JKmmwuyJsV1TQ">](https://music.youtube.com/channel/UCJc5k056s0cfYUu0Y2Adgpw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
 
-Cosmic Boy - Can I Love ? (Feat. 유라(youra), Meego)
+Leellamarz - Trip (feat. Hannah)
 
-**Albums**: Can I Love ?
+**Albums**: Violinist
 
-Last updated at 09/17/2020 15:47
+Last updated at 09/17/2020 15:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
