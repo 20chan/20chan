@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">](https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/avjWGTL1OGOGS_trKaK4eVIiAr0AoDY1jIeMfAIiJOlPZt_WrH0sJ9bOOao0Zd27V10U0DxzeHuxP9KdYQ">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
 
-Leellamarz & TOIL - GONE
+Kozypop - Sameday (feat. Kenessi & Denny)
 
-**Albums**: TOYSTORY2
+**Albums**: Seoul Vibes, Pt. 15
 
-Last updated at 09/17/2020 16:01
+Last updated at 09/17/2020 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
