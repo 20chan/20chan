@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3_-a9nVZYjk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3_-a9nVZYjk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/IQTzlGLvCAU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-TheFatRat - Xenogenesis
+Trap Nation - Flo Rida - GDFR (K Theory Remix)
 
-**Albums**: 72M views
+**Albums**: 81M views
 
-Last updated at 09/17/2020 16:10
+Last updated at 09/17/2020 16:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
