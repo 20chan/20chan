@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000329447799-o2czbl-t120x120.jpg">](https://soundcloud.com/labrat/carbon-fiber)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/avjWGTL1OGOGS_trKaK4eVIiAr0AoDY1jIeMfAIiJOlPZt_WrH0sJ9bOOao0Zd27V10U0DxzeHuxP9KdYQ">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
 
-LabRat - Carbon Fiber [Free DL]
+Kozypop - 몇번째 (feat. 찬현)
 
-**Albums**: undefined
+**Albums**: Seoul Vibes, Pt. 15
 
-Last updated at 09/17/2020 15:14
+Last updated at 09/17/2020 15:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
