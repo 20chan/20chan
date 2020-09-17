@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/MOCUaLO__kw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/BsGnMpSVixg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - Post Malone ft. 21 Savage - Rockstar (Julius Dreisig Remix)
+Trap Nation - Calvin Harris - Outside ft. Ellie Goulding (Savagez Remix)
 
-**Albums**: 3.2M views
+**Albums**: 67M views
 
-Last updated at 09/17/2020 16:06
+Last updated at 09/17/2020 16:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
