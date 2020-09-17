@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/e7nkA7Ue5yg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCm3ai8dGs4olHioc_xL3IXA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/oz6kKB8wlj8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Big Sean - Big Sean - IDFWU (K Theory Remix)
+Trap Nation - KXA - Gladius
 
-**Albums**: 10M views
+**Albums**: 18M views
 
-Last updated at 09/17/2020 17:21
+Last updated at 09/17/2020 17:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
