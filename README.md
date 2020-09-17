@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AtPy2X6B8uJPBQoCGjDZ4035mUyZY5aOM2yr-7O5EHiixSJQx1ctl4mVLHR7MPhrrwHfJ6Qf9fv84c9MAA">](https://music.youtube.com/channel/UCklQuH51vyXV_xBhDKlJvEQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/knqlZJ-QlLxW62Hqzumjd1XW5v8nYCgfxF3E5SJEROglbNgYQMTmjC5EY-6osZgznIfp-Ap0YX7ioPI">](https://music.youtube.com/channel/UCLOOtpyENqWvFEFtTeVapeQ)
 
-Sasha Sloan - Lie
+Xandar - LMK (Let Me Know)
 
-**Albums**: Lie
+**Albums**: LMK (Let Me Know)
 
-Last updated at 09/17/2020 11:34
+Last updated at 09/17/2020 11:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
