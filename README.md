@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2VYefpbrPQueeJXQPmeJGOwxyzT3Xf5mL3bHY8N_lYr0F5lS5ogPiaFNrke7hA_L1qbcM2PQW1qaCCLV">](https://music.youtube.com/channel/UCplz2-MIs6JXPWPziEWaO5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_0O2hXESFPU5IsfW3TyMNTHM8QpdffDOaL2If2O1UKtYkLSzpT1zxXUFgMi5qmorFya_6JKmmwuyJsV1TQ">](https://music.youtube.com/channel/UCJc5k056s0cfYUu0Y2Adgpw)
 
-Kozypop - Phobia (feat. About . & ABOUT)
+Cosmic Boy - Can I Love ? (Feat. 유라(youra), Meego)
 
-**Albums**: Seoul Vibes, Pt. 12
+**Albums**: Can I Love ?
 
-Last updated at 09/17/2020 15:43
+Last updated at 09/17/2020 15:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
