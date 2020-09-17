@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/a5PwMONNGMw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/PV737QlqwLA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - Rae Sremmurd - This Could Be Us (Arman Cekin & Ellusive Remix)
+Trap Nation - Rae Sremmurd - No Flex Zone (Baewatch Trap Bootleg)
 
-**Albums**: 23M views
+**Albums**: 9.8M views
 
-Last updated at 09/17/2020 13:16
+Last updated at 09/17/2020 13:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
