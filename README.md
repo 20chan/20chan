@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gfBcSQwrKaAxxkmkiTWAEkGs7c2_qYVIQr3byQoOTsk5dgZlD8jE6pIIq_pZ5gIT60uukBemXTphhzyS">](https://music.youtube.com/channel/UCP1ikqkQubpcC1xC-i233aA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PMYDmc8PDbEFWtwvCYvMZvKkO9qQYXqaF6O9P2x6Edtiet0gnwfV-qK9DCl-f1wYygDpQEWTvPpIBwWzHg">](https://music.youtube.com/channel/UCQ6yypykkyPLM5FVhOm4Eog)
 
-Danny Avila - End Of The Night
+Dabin - Alive (feat. RUNN)
 
-**Albums**: End Of The Night
+**Albums**: Wild Youth
 
-Last updated at 09/17/2020 11:19
+Last updated at 09/17/2020 11:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
