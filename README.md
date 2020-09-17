@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hf4IxNNiqbU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sIUr3RhjaKY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCKQ-xBLhj3SkN9Wz6MwjLaA)
 
-Trap Nation - Zelda - Song of Storms (Deon Custom Remix)
+Major Lazer - Cold Water (R3hab vs Skytech Remix)
 
-**Albums**: 28M views
+**Albums**: 20M views
 
-Last updated at 09/17/2020 17:31
+Last updated at 09/17/2020 17:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
