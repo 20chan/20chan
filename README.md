@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0t2tjNqGyJI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ktw8hcSq2mc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - Twenty One Pilots - Stressed Out (Tomsize Remix)
+Trap Nation - Far Out - On My Own (feat. Karra)
 
-**Albums**: 317M views
+**Albums**: 27M views
 
-Last updated at 09/17/2020 12:22
+Last updated at 09/17/2020 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
