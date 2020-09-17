@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TybMkuKmxikjwz6P1ohYPGVXAz8xlHD-Ln39nUTvO-3eGWbBA1TMYdn5dkVBPY48QioxK6GmSw_N5L4">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFmAlvSzHnGy5focJlJBOKNDCL0PTUV1G9bLecKgcmb5RuD3F98zgaEzTMFW84uAjECT1MSbYWtgoAZs">](https://music.youtube.com/channel/UCrNP86xe_TTQaUrKR7XXB1A)
 
-Lunch - DIE
+Broken Valentine - 알루미늄
 
-**Albums**: 죽어버려라
+**Albums**: Aluminium
 
-Last updated at 09/17/2020 10:35
+Last updated at 09/17/2020 10:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
