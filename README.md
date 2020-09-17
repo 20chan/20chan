@@ -1,12 +1,12 @@
-## Currently Playing on SoundCloud
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-JdEHYNZf81xvW8vL-Boau9w-t120x120.jpg">](https://soundcloud.com/tipsyrecords/heavenintheheartbreak?in=ilyanaazman/sets/best-of-mrrevillz)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qo6ygYSxwEY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1Va_3px_RF7lRYtMENwUTQ)
 
-Tipsy Records - Dunisco - Heaven In The Heartbreak
+Gioni - Trigger
 
-**Albums**: undefined
+**Albums**: 85M views
 
-Last updated at 09/17/2020 12:16
+Last updated at 09/17/2020 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
