@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/IQTzlGLvCAU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/u7cy4RFsyM8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCusQCYY_5GbF6XhaNaTYTfw)
 
-Trap Nation - Flo Rida - GDFR (K Theory Remix)
+Grandtheft - Square One (feat. Max & MAX)
 
-**Albums**: 81M views
+**Albums**: 6.4M views
 
-Last updated at 09/17/2020 16:14
+Last updated at 09/17/2020 16:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
