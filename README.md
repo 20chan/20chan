@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PMYDmc8PDbEFWtwvCYvMZvKkO9qQYXqaF6O9P2x6Edtiet0gnwfV-qK9DCl-f1wYygDpQEWTvPpIBwWzHg">](https://music.youtube.com/channel/UCQ6yypykkyPLM5FVhOm4Eog)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x6qGMNPk-HLE-lLVbfLw_mP1Or6UtDE2KRTjbMAtbYepqly5PTJqVGy3KhgIVT9_9afcKj_E7Pq-lDFv">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
 
-Dabin - Alive (feat. RUNN)
+Zedd & Elley Duhé - Happy Now
 
-**Albums**: Wild Youth
+**Albums**: Happy Now
 
-Last updated at 09/17/2020 11:22
+Last updated at 09/17/2020 11:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
