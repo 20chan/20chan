@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zUueYq54Foc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCfOaLMhPiEtstfHvYJsQuYQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Axq1FHwFMrQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Valesco - All I Need
+Trap Nation - Jon Bellion - All Time Low (BOXINBOX & Lionsize Remix)
 
-**Albums**: 12M views
+**Albums**: 39M views
 
-Last updated at 09/17/2020 16:57
+Last updated at 09/17/2020 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
