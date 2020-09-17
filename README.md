@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/a/AATXAJwSP_tvNWojxiqDdlklmZVr0Q9k0WkyRFnBWTnBPg=s176-c-k-c0xffffffff-no-nd-rj">](https://www.youtube.com/channel/UC_TVqp_SyG6j5hG-xVRy95A)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000171235188-znsqq0-t120x120.jpg">](https://soundcloud.com/labrat/lemon-tree-1)
 
-Skrillex - Skrillex & Rick Ross - Purple Lamborghini [Official Video]
+LabRat - Lemon Tree
 
 **Albums**: undefined
 
-Last updated at 09/17/2020 14:16
+Last updated at 09/17/2020 14:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
