@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mKzLoZFz8PE/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=mKzLoZFz8PE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/T7K0pZ9tGi4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCoLk1TzdJ8oy4XrWiHvwmBQ)
 
-Marshmello - Keep It Mello (feat. Omar LinX)
+Two Feet - Go Fuck Yourself
 
-**Albums**: 337M views
+**Albums**: 389M views
 
-Last updated at 09/17/2020 13:22
+Last updated at 09/17/2020 13:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
