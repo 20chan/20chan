@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y5_M3ecuG8L0XCN2Uz2Ny-rTTHG49w16_tS_mQJxtzr2kkGp5KNUlSMqhOpitbhIrTb42dSSZDHtaz0T">](https://music.youtube.com/channel/UCGVGIqHPzwLhZg8KQNVaRbA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
 
-Zedd & Jasmine Thompson - Funny
+NOTD & Shy Martin - Keep You Mine
 
-**Albums**: Funny
+**Albums**: Keep You Mine
 
-Last updated at 09/17/2020 11:05
+Last updated at 09/17/2020 11:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
