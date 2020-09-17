@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xlDLd8MBkeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC4IAZ3dowcXyvVYBx4hucSQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9PB30JUOncw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCl6-24cszKqIYLkBzo02XzQ)
 
-Lil Wayne - A Milli (K Theory Remix)
+Lukas Graham - 7 Years (T-Mass Remix)
 
-**Albums**: 32M views
+**Albums**: 84M views
 
-Last updated at 09/17/2020 13:09
+Last updated at 09/17/2020 13:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
