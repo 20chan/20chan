@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/BsGnMpSVixg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3_-a9nVZYjk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3_-a9nVZYjk)
 
-Trap Nation - Calvin Harris - Outside ft. Ellie Goulding (Savagez Remix)
+TheFatRat - Xenogenesis
 
-**Albums**: 67M views
+**Albums**: 72M views
 
-Last updated at 09/17/2020 16:07
+Last updated at 09/17/2020 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
