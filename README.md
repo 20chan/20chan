@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8xFywUMF3IspDLo7Q1YPQ3xis_QAib855iibAHkknIdll1Kd_uGJaMbfGYRRCTWAJ5mUa-58G7KR7PA">](https://music.youtube.com/channel/UCPkh5Z0tfpPpNFi5qybgG_w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PgcTSUr1l9BDN59qj2J3WqglVR3VcNMtznv1EzAMbvlCcie_-MPDI3b0ViS6RC2fd9B7Z-S41g5--Ds6">](https://music.youtube.com/channel/UCjMuOvqIb-J-EkhZZDXcE3w)
 
-LANY - you!
+Loote - Good To Me
 
-**Albums**: you!
+**Albums**: single.
 
-Last updated at 09/17/2020 11:52
+Last updated at 09/17/2020 11:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
