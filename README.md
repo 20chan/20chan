@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qo6ygYSxwEY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC1Va_3px_RF7lRYtMENwUTQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0t2tjNqGyJI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Gioni - Trigger
+Trap Nation - Twenty One Pilots - Stressed Out (Tomsize Remix)
 
-**Albums**: 85M views
+**Albums**: 317M views
 
-Last updated at 09/17/2020 12:19
+Last updated at 09/17/2020 12:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
