@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/DArzZ3RvejU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xXvJuVcI5mU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-Trap Nation - Alessia Cara - Here (Lucian Remix)
+Trap Nation - Melanie Martinez - Pity Party (K Theory Remix)
 
-**Albums**: 113M views
+**Albums**: 15M views
 
-Last updated at 09/17/2020 12:38
+Last updated at 09/17/2020 12:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
