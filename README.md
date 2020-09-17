@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Zp2fz99lIAs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/czd0Er-_qI8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUys-QG4phcqpiIf7D25llQ)
 
-Trap Nation - Major Lazer - Cold Water (Neptunica & Matt Defreitas Remix)
+Wide Awake - Love Me (feat. Jacob Banks)
 
-**Albums**: 20M views
+**Albums**: 21M views
 
-Last updated at 09/17/2020 17:37
+Last updated at 09/17/2020 17:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
