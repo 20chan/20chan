@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/vBdnfyfBSKg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YfRLJQlpMNw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClWr8jyXLh6r8WhUH_zL_eA)
 
-Trap Nation - Black Coast - TRNDSTTR (Lucian Remix)
+Mickey Valen - Wildcard (feat. Feli Ferraro)
 
-**Albums**: 66M views
+**Albums**: 20M views
 
-Last updated at 09/17/2020 17:04
+Last updated at 09/17/2020 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
