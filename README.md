@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/cYEaqMFK85Z64kIe_0eB5nh-rvMH7FFdkKc0P9-9kvm0zHMqnawY7bK8cwlG8ffJiTd_RrEtmlFpDPsv">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oMbAJGdVlJJczbmxledAqefxmT4ZdZlfgXViluFx6rLSno3KFAhi8K4_vOnEEvKOcL64fgnYkYcdaoLT">](https://music.youtube.com/channel/UCO4t4bsN65024PXQUnENGkw)
 
-NOTD & Shy Martin - Keep You Mine
+Gryffin & John Martin - Cry
 
-**Albums**: Keep You Mine
+**Albums**: Cry
 
-Last updated at 09/17/2020 11:08
+Last updated at 09/17/2020 11:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
