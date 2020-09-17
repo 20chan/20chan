@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zt4BOkzs2jnOsP0daW082022lPgD0zklqGPUb2Y80CraTLE1FPwylQ2CLlVMMgsxzyFJqmu-kOEhCTOZ">](https://music.youtube.com/channel/UCJKSdusIzLEyV-LQKAY3UJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZqiEbCerOkRpA5UFBk2KHT6iVkWH4bfK9QcCuPtAJhxLS6Nb8DwrU2LOnMZuOXDIFci0daAnNSH3BJ9D">](https://music.youtube.com/channel/UCVu2fWXhyI51v-MBDHaHg3A)
 
-NOTD - Been There Done That (feat. Tove Styrke)
+DVBBS - Catch
 
-**Albums**: Been There Done That
+**Albums**: Blood Of My Blood
 
-Last updated at 09/17/2020 11:45
+Last updated at 09/17/2020 11:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
