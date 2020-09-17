@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/czd0Er-_qI8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUys-QG4phcqpiIf7D25llQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Wide Awake - Love Me (feat. Jacob Banks)
+Nochang - God(행)
 
-**Albums**: 21M views
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 09/17/2020 17:41
+Last updated at 09/17/2020 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
