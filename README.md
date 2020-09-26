@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TybMkuKmxikjwz6P1ohYPGVXAz8xlHD-Ln39nUTvO-3eGWbBA1TMYdn5dkVBPY48QioxK6GmSw_N5L4">](https://music.youtube.com/channel/UCZ718X1NF3GGgBz3zWJQnAQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r9dKxXWnbKacKrXD3A38hq0AA0vKYFJJhr2YrtYoVeIxaW8v5u76ie_WIeoIgMlQtyyl1QgcZVijdKD8Zw">](https://music.youtube.com/channel/UC5-tk8NqP3MfWSmPOxpwDOA)
 
-중식이 - 죽어버려라
+딕펑스 (DICKPUNKS) - VIVA청춘
 
-**Albums**: 죽어버려라
+**Albums**: Viva Primavera
 
-Last updated at 09/23/2020 17:49
+Last updated at 09/26/2020 23:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
