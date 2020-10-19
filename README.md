@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hC8CH0Z3L54/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCxcGxv-per5g7A9be800tQA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VDCHjGINy-P0OkTfKi4wKVVdRsh1bT3TUfTkQ4cpYBgQQprdk-tNpmZ723dWa28caTIEH_Li9ch_Eiq6rw">](https://music.youtube.com/channel/UCGXl3HeaAGAAJVaBu3TNlDg)
 
-FKJ 및 마세고 - Tadow
+앤트 사운더스 - Yellow Hearts
 
-**Albums**: 조회수 2.3억회
+**Albums**: Yellow Hearts
 
-Last updated at 10/19/2020 10:28
+Last updated at 10/19/2020 10:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
