@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r9dKxXWnbKacKrXD3A38hq0AA0vKYFJJhr2YrtYoVeIxaW8v5u76ie_WIeoIgMlQtyyl1QgcZVijdKD8Zw">](https://music.youtube.com/channel/UC5-tk8NqP3MfWSmPOxpwDOA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/HXW3a44sD58/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCIRSoI4k5ZgjBNZRJBNtS3A)
 
-딕펑스 (DICKPUNKS) - VIVA청춘
+BANATV - XXX - Bougie
 
-**Albums**: Viva Primavera
+**Albums**: 조회수 11만회
 
-Last updated at 09/26/2020 23:14
+Last updated at 10/19/2020 10:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
