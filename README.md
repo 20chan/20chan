@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PKwfdn9TZLzCDJ1lZ7fDH7CKE2zGNDYPyn5wHOeKRQehqGIo7tNr99esmLBlVzrPGvUJIbLT06iBpT48Q">](https://music.youtube.com/channel/UCvVLbhrgq8TS_Yw3gkFIZUg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LR6ybr-BQYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6Ibj3Vm_35X98B0BVH336g)
 
-grandson - Despicable
+That One Album Uploader - J. Cole - No Role Modelz
 
-**Albums**: a modern tragedy vol. 1
+**Albums**: 조회수 1218만회
 
-Last updated at 10/19/2020 10:34
+Last updated at 10/19/2020 11:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
