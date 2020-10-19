@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LR6ybr-BQYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC6Ibj3Vm_35X98B0BVH336g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IWvhTJeAKXQ7RgWqvmTl3zeR6e4Vu-A6FKu8BRu1HvCX44jZXsw59qi4TiABPMtSOqTi08ZZyZbbfF8K">](https://music.youtube.com/channel/UC0ajkOzj8xE3Gs3LHCE243A)
 
-That One Album Uploader - J. Cole - No Role Modelz
+J. Cole - No Role Modelz
 
-**Albums**: 조회수 1218만회
+**Albums**: 2014 Forest Hills Drive
 
-Last updated at 10/19/2020 11:30
+Last updated at 10/19/2020 11:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
