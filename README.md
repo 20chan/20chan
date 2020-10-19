@@ -1,10 +1,10 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8J9JG49g5z1FLfyznjXZxjHyhzpG7MV0QGcfFJ1Eo_BLDR8zZ3s4SOnp1fKYiyKQcOE7Nja4ZpcMnS5x1g">](https://music.youtube.com/channel/UCvVLbhrgq8TS_Yw3gkFIZUg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7PKwfdn9TZLzCDJ1lZ7fDH7CKE2zGNDYPyn5wHOeKRQehqGIo7tNr99esmLBlVzrPGvUJIbLT06iBpT48Q">](https://music.youtube.com/channel/UCvVLbhrgq8TS_Yw3gkFIZUg)
 
-grandson - Blood // Water
+grandson - Despicable
 
-**Albums**: Blood // Water
+**Albums**: a modern tragedy vol. 1
 
 Last updated at 10/19/2020 10:34
 
