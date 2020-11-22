@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IWvhTJeAKXQ7RgWqvmTl3zeR6e4Vu-A6FKu8BRu1HvCX44jZXsw59qi4TiABPMtSOqTi08ZZyZbbfF8K">](https://music.youtube.com/channel/UC0ajkOzj8xE3Gs3LHCE243A)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JR-wv5fOJEY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
 
-J. Cole - No Role Modelz
+장범준 - 잠이 오질 않네요
 
-**Albums**: 2014 Forest Hills Drive
+**Albums**: 조회수 234만회
 
-Last updated at 10/19/2020 11:32
+Last updated at 11/22/2020 23:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
