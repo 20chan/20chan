@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7eDx-dV2Xus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k38JTO1hclNHd07Bxy3f57b3EhAljriWLkEwhY9PcOdZt8FVqMvafN9A_IoJYyqwUlLtPJKg-nzixFqu">](https://music.youtube.com/channel/UCvolP1xNN2maB52Tb1PkXzg)
 
-조광일 - 암순응
+장범준 - 잠이 오질 않네요
 
-**Albums**: 조회수 18만회
+**Albums**: 잠이 오질 않네요
 
-Last updated at 11/22/2020 23:29
+Last updated at 11/22/2020 23:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
