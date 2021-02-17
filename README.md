@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LuV1kYhjbfwvzaFojNBCb_IFdSg8GJEQfgeMER3Df4Lyos1snLirSIT870IcE2RyF9crVBQt8bw2VCBX">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-천재노창 - No Chainz(해방자유)
+천재노창 - 춤추러가자
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: 춤추자
 
-Last updated at 02/17/2021 14:40
+Last updated at 02/17/2021 14:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
