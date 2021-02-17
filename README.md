@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l3rRE0OPUflp9e3aff5LK6VUB2k9Xfcqtju6sXU1m2ElHvlTArrW6rZLex3A3LIpZdcslsI2Kz-zQB5qug">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-Nochang, 스윙스, 기리보이 (Giriboy) & 천재노창 및 GIRIBOY - Hongkiyoung #2
+장범준 - 1.그댈 마주하는건 힘들어 (그마힘) - It's Hard To Face You
 
-**Albums**: Hongkiyoung #2
+**Albums**: undefined
 
-Last updated at 02/17/2021 15:04
+Last updated at 02/17/2021 15:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
