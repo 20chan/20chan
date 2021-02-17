@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZnRJm3PvAZ63syCwuXbvCxlaC4y9rilatBPeph8ERRfbnDi1omlQRm70Ju4YDOogcJ3ofDCFBbLQq7s">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l3rRE0OPUflp9e3aff5LK6VUB2k9Xfcqtju6sXU1m2ElHvlTArrW6rZLex3A3LIpZdcslsI2Kz-zQB5qug">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-Nochang - GOD (feat.SeulOng(피처링: Lim Seul-ong)
+Nochang, 스윙스, 기리보이 (Giriboy) & 천재노창 및 GIRIBOY - Hongkiyoung #2
 
-**Albums**: GOD
+**Albums**: Hongkiyoung #2
 
-Last updated at 02/17/2021 14:54
+Last updated at 02/17/2021 15:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
