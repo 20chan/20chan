@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-천재노창 - God(행)
+천재노창 - CHING CHANG CHONG
 
 **Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 02/17/2021 14:10
+Last updated at 02/17/2021 14:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
