@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 1.그댈 마주하는건 힘들어 (그마힘) - It's Hard To Face You
+장범준 - 2.첫사랑 - First Love
 
 **Albums**: undefined
 
-Last updated at 02/17/2021 15:52
+Last updated at 02/17/2021 15:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
