@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/06OPfX7sqg28dYZnCct8TYW2Cl8S9Ikgq12KIoEp-tyiK4JinlCeaGH3gT_G6s-wGrR5E75TRrnzQ1w">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-GIRIBOY, Black Nut, BILL STAX 및 Genius Nochang - 음음
+천재노창 - No Chainz(해방자유)
 
-**Albums**: 음음
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 02/17/2021 14:36
+Last updated at 02/17/2021 14:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
