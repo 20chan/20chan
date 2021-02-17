@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k-9qrFwkWi4YPuyyLM3KtIs-Xj8u5Ii4EPRp-whxFKE-XYTaX-lpOf_GfZEoj-j78QGIM96iEZ6RhNDm">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aZnRJm3PvAZ63syCwuXbvCxlaC4y9rilatBPeph8ERRfbnDi1omlQRm70Ju4YDOogcJ3ofDCFBbLQq7s">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-천재노창 - Hip-Hop(힙합)
+Nochang - GOD (feat.SeulOng(피처링: Lim Seul-ong)
 
-**Albums**: 힙합
+**Albums**: GOD
 
-Last updated at 02/17/2021 14:46
+Last updated at 02/17/2021 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
