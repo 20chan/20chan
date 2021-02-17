@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 2.첫사랑 - First Love
+장범준 - 3.여수밤바다 - Yeosu Night Sea
 
 **Albums**: undefined
 
-Last updated at 02/17/2021 15:54
+Last updated at 02/17/2021 15:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
