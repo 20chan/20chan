@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/trpIqalKiETtptNAqYcLZKjqKE8JygCqxd6kQO8BgnsIbQrb-_sYW62M5SMnPTcGDZ2bYwnl27rkFOg">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/06OPfX7sqg28dYZnCct8TYW2Cl8S9Ikgq12KIoEp-tyiK4JinlCeaGH3gT_G6s-wGrR5E75TRrnzQ1w">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-천재노창 - Hieut(히읗)(피처링: NO.MERCY)
+GIRIBOY, Black Nut, BILL STAX 및 Genius Nochang - 음음
 
-**Albums**: NO.MERCY(노머시) Part.5
+**Albums**: 음음
 
-Last updated at 02/17/2021 14:32
+Last updated at 02/17/2021 14:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
