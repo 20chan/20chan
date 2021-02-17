@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZWUU6fzYP6atVl759oadenMbqEMe6UkzbC0NBL2SkAyeCb0QJEzcIW8Pi-0vZGackJg1xeeYL8d8DMvq">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/channel/UC3NFM7nvnZEmSItn687o1NA)
 
-저스디스 - THISISJUSTHIS
+천재노창 - God(행)
 
-**Albums**: THISISJUSTHIS
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 02/17/2021 14:08
+Last updated at 02/17/2021 14:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
