@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 윤종신 - 좋니 【반지하노래방】 장범준
+장범준 - M.C the MAX 엠씨더맥스 - 잠시만안녕 【반지하노래방】 장범준
 
 **Albums**: undefined
 
-Last updated at 02/18/2021 19:31
+Last updated at 02/18/2021 19:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
