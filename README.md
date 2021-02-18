@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LMTGQqUUyzk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZ5_w5DsIz0pkB_4QK_crOw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5UlAbfn1Rmo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuPNoEZUan3WybeJawo9gNQ)
 
-Dizzy Inc - 1 Hour Studio Ghibli Lofi Hip Hop Mix
+KozyPop - [Playlist] 지브리 로파이, 감성과 이성을 동시에 채워줄 노동요
 
-**Albums**: 조회수 103만회
+**Albums**: 조회수 53만회
 
-Last updated at 02/18/2021 16:53
+Last updated at 02/18/2021 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
