@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 윤도현 - 사랑했나봐 [장범준] 반지하노래방
+장범준 - 김광석 - 서른 즈음에 【장범준】 반지하노래방
 
 **Albums**: undefined
 
-Last updated at 02/18/2021 20:19
+Last updated at 02/18/2021 20:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
