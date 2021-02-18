@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5UlAbfn1Rmo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuPNoEZUan3WybeJawo9gNQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Cmc5J9wbfb0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UClU-JRXNukej7RdQGSGzALw)
 
-KozyPop - [Playlist] 지브리 로파이, 감성과 이성을 동시에 채워줄 노동요
+LOFI OFFON - G H I B L I & L O F I (지브리 힙합 로파이)
 
-**Albums**: 조회수 53만회
+**Albums**: 조회수 2.9만회
 
-Last updated at 02/18/2021 15:33
+Last updated at 02/18/2021 16:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
