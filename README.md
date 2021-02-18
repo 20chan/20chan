@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 버스커버스커 - 소나기 (주르르루) 【장범준 반지하 노래방】 비주류 특집!
+장범준 - 회상 【장범준 반지하 노래방】
 
 **Albums**: undefined
 
-Last updated at 02/18/2021 18:11
+Last updated at 02/18/2021 18:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
