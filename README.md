@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Cmc5J9wbfb0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UClU-JRXNukej7RdQGSGzALw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Jrdd-Nyg048/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCH4SoJBFAtZO0LtqCKaooNw)
 
-LOFI OFFON - G H I B L I & L O F I (지브리 힙합 로파이)
+onceuponatime - 한번쯤은 들어봤을걸? 유명한 브이로그에 나오는 노래 플레이리스트 | V-log Playlist
 
-**Albums**: 조회수 2.9만회
+**Albums**: 조회수 173만회
 
-Last updated at 02/18/2021 16:17
+Last updated at 02/18/2021 16:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
