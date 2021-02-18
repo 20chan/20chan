@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 산들 - 취기를 빌려 (웹툰 '취향저격그녀') 【장범준】 반지하노래방
+장범준 - izi - 응급실 【장범준】 반지하노래방
 
 **Albums**: undefined
 
-Last updated at 02/18/2021 19:49
+Last updated at 02/18/2021 19:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
