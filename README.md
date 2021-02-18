@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/20r0Lgr4zxA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC8tTSXktsAWHc_cIKDgg9jA)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-Just Bass - Best of Trap Nation mix 2016
+장범준 - 잔나비 - she 반지하노래방 【장범준 반지하 노래방】 카더가든 특집
 
-**Albums**: 조회수 82만회
+**Albums**: undefined
 
-Last updated at 02/18/2021 17:27
+Last updated at 02/18/2021 18:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
