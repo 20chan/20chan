@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5UlAbfn1Rmo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCuPNoEZUan3WybeJawo9gNQ)
 
-장범준 - 4 벚꽃엔딩 - Cherry Blossom Ending
+KozyPop - [Playlist] 지브리 로파이, 감성과 이성을 동시에 채워줄 노동요
 
-**Albums**: undefined
+**Albums**: 조회수 53만회
 
-Last updated at 02/17/2021 16:02
+Last updated at 02/18/2021 15:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
