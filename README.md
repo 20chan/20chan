@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 봄.여름.가을.겨울 - Bravo My Life 아재특집 반지하노래방
+장범준 - 강산에 - 거꾸로 강을 거슬러 오르는 저 힘찬 연어들처럼 아재특집 반지하노래방
 
 **Albums**: undefined
 
-Last updated at 02/18/2021 20:45
+Last updated at 02/18/2021 20:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
