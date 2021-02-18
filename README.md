@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-장범준 - 주홍빛 거리 【장범준 반지하 노래방】 비주류 특집!
+장범준 - 자장가를 활용한 신곡 【장범준 반지하 노래방】 비주류 특집!
 
 **Albums**: undefined
 
-Last updated at 02/18/2021 18:19
+Last updated at 02/18/2021 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
