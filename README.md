@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Jrdd-Nyg048/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCH4SoJBFAtZO0LtqCKaooNw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LMTGQqUUyzk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCZ5_w5DsIz0pkB_4QK_crOw)
 
-onceuponatime - 한번쯤은 들어봤을걸? 유명한 브이로그에 나오는 노래 플레이리스트 | V-log Playlist
+Dizzy Inc - 1 Hour Studio Ghibli Lofi Hip Hop Mix
 
-**Albums**: 조회수 173만회
+**Albums**: 조회수 103만회
 
-Last updated at 02/18/2021 16:35
+Last updated at 02/18/2021 16:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
