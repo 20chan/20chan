@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/y5MAgMVwfFs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtE5-LAg1KnlgFgdle7vh3PULWRqmZe10rePmY23qBqj8yMtm4MUEmg4NoomYWwhRrJVozomSKNFgOs">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - 좋다고 말해
+볼빨간사춘기 - 썸 탈꺼야
 
-**Albums**: 조회수 7193만회
+**Albums**: Red Diary, Page 1
 
-Last updated at 02/19/2021 16:33
+Last updated at 02/19/2021 16:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
