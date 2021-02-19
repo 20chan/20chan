@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Nngfg8I1yVCy-x7wYNJpL4y0h91yfi4ZUMXSKcy3YvOfj8roaw5-PmR-MjlUDlcjrWPutyUU4OZfiKUP">](https://music.youtube.com/channel/UC7JlXAEJPpTUT6x1_E7ijrg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Y7NCJb954Ikeo5HgzxID_NvNJzhhZNeGqW0_A5SJqtGxsa72dHNiZ-S0GWAm-JnXpaxha4xhFjNQUa0G">](https://music.youtube.com/channel/UC7JlXAEJPpTUT6x1_E7ijrg)
 
-Saint Motel - Preach
+Saint Motel - You're Nobody Till Somebody Wants You Dead
 
-**Albums**: Preach
+**Albums**: saintmotelevision B-sides
 
-Last updated at 02/19/2021 10:29
+Last updated at 02/19/2021 10:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
