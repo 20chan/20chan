@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aElCJOA-orM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC96bNVF-1CWoa2sQesTtuQQ)
 
-SUPERBEE - SUPERBEEWHY(피처링: BewhY)
+Jeff Hwang 2 - 천재노창 - 억지로웃지않ㄹ위치 ㄹ
 
-**Albums**: Show Me the Money 777 Semi Final
+**Albums**: 조회수 21만회
 
-Last updated at 02/19/2021 17:42
+Last updated at 02/19/2021 17:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
