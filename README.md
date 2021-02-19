@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H6hdeSuBOyZ_b-Qophkb_VuqjcDGFWD1nQMurvz73OwoHr7CSVSdKy_348c3EGJd13JaN6ddRJmbl5Nv">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtE5-LAg1KnlgFgdle7vh3PULWRqmZe10rePmY23qBqj8yMtm4MUEmg4NoomYWwhRrJVozomSKNFgOs">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - Galaxy 우주를 줄게
+볼빨간사춘기 - 나의 사춘기에게
 
-**Albums**: RED PLANET
+**Albums**: Red Diary, Page 1
 
-Last updated at 02/19/2021 16:49
+Last updated at 02/19/2021 16:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
