@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/channel/UCe8pLEl_Uzxw1w2pOW9RP1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_U0t_1x4aLKJFgj6KIl-A9oy7vFx1upqQCV_exP4cu8jrTgGxmPbFhSYthdDImZsFrfuGDbi2HXdM6mB">](https://music.youtube.com/channel/UCe8pLEl_Uzxw1w2pOW9RP1w)
 
-박혜경 - 하루
+박혜경 - 고백
 
-**Albums**: O2
+**Albums**: +01
 
-Last updated at 02/19/2021 14:11
+Last updated at 02/19/2021 14:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
