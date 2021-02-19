@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LNftCcPJb5Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xbUEALSCGNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC80xT8WlQ5bvtMq7_MxfHIQ)
 
-디보 - 디보 (Dbo) - Peacock (Feat. ZENE THE ZILLA) [Official Video]
+메킷레인 - Weathermen
 
-**Albums**: 조회수 117만회
+**Albums**: 조회수 912만회
 
-Last updated at 02/19/2021 15:57
+Last updated at 02/19/2021 16:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
