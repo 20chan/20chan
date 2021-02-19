@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/L1RvFYc2v1gq9BUVu5kgG2AdaekuP22fBAydkTZH1a_WE-3nEAjoF66gMVWi6ANBfcByD-PB8CQNCRH9dA">](https://music.youtube.com/channel/UCa6xaGioOMH9tlLNlPI7OMQ)
 
-조광일 - 곡예사 Remix(피처링: 마이노스, 식보이(Sikboy), 올티(Olltii), 브라운티거)
+김하온(HAON) - 붕붕(피처링: Sik-K(식케이))
 
-**Albums**: 암순응
+**Albums**: 고등래퍼2 Final
 
-Last updated at 02/19/2021 17:04
+Last updated at 02/19/2021 17:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
