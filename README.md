@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QljRe99OMCU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LNftCcPJb5Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ)
 
-식 케이(Sik-K), 펀치넬로(punchnello), 오왼(Owen) 및 플로우식(Flowsik) - 응프리스타일
+디보 - 디보 (Dbo) - Peacock (Feat. ZENE THE ZILLA) [Official Video]
 
-**Albums**: 조회수 4353만회
+**Albums**: 조회수 117만회
 
-Last updated at 02/19/2021 15:55
+Last updated at 02/19/2021 15:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
