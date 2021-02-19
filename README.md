@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
 
-조광일 - Acrobat 곡예사
+조광일 - 곡예사 Remix(피처링: 마이노스, 식보이(Sikboy), 올티(Olltii), 브라운티거)
 
-**Albums**: Acrobat 곡예사
+**Albums**: 암순응
 
-Last updated at 02/19/2021 16:59
+Last updated at 02/19/2021 17:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
