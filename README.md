@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
 
-다이나믹 듀오 - MSG(피처링: 페노메코)
+JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO
 
-**Albums**: OFF DUTY
+**Albums**: IM
 
-Last updated at 02/19/2021 17:24
+Last updated at 02/19/2021 17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
