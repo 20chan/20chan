@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6zO9jC5MSRjEpTmjFPORpJGh3VevqpjZs23WfCLD0eY0QjIJ5t9FFOnnRxKcT2dqStAF9OGKCMqERm40DA">](https://music.youtube.com/channel/UC7JlXAEJPpTUT6x1_E7ijrg)
 
-장범준 - 이적 - 하늘을 달리다 [이적 특집 반지하노래방]
+Saint Motel - A Good Song Never Dies
 
-**Albums**: undefined
+**Albums**: A Good Song Never Dies
 
-Last updated at 02/18/2021 20:55
+Last updated at 02/19/2021 10:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
