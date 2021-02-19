@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/RiziS5qadd4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCP_CO2kraLUkGdMV3TL0agQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-럼블 피쉬(Rumble Fish) 및 최진이 - 비와 당신
+pops8090 - 최용준 - 아마도 그건 (1989年)
 
-**Albums**: 조회수 442만회
+**Albums**: 조회수 581만회
 
-Last updated at 02/19/2021 14:35
+Last updated at 02/19/2021 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
