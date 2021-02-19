@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LmG1rPr5nbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClWsbvi-hzEeJmpD8UPnqyA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
 
-임현정 - 사랑은 봄비처럼...이별은 겨울비처럼…
+southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
 
-**Albums**: 조회수 6.2만회
+**Albums**: 조회수 303만회
 
-Last updated at 02/19/2021 15:01
+Last updated at 02/19/2021 15:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
