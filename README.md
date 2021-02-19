@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/l0GN40EL1VU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCeoT9BqyKRktIHvQnWE8zug)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4VEEelX4gc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ)
 
-Hisaishi Joe(히사이시 조) - Summer
+디보 - Horse
 
-**Albums**: 조회수 933만회
+**Albums**: 조회수 97만회
 
-Last updated at 02/19/2021 15:43
+Last updated at 02/19/2021 15:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
