@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/9kNic7arqn8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUr_TZ2Pljcs5yZvdjHiMBQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LmG1rPr5nbw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UClWsbvi-hzEeJmpD8UPnqyA)
 
-정재욱 - 잘가요 (Intro Cut Version)
+임현정 - 사랑은 봄비처럼...이별은 겨울비처럼…
 
-**Albums**: 조회수 80만회
+**Albums**: 조회수 6.2만회
 
-Last updated at 02/19/2021 14:57
+Last updated at 02/19/2021 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
