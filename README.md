@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aElCJOA-orM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC96bNVF-1CWoa2sQesTtuQQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/dlg1ZgwTsJE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCviI9lzTe2pkxJ9M2ArA7WQ)
 
-Jeff Hwang 2 - 천재노창 - 억지로웃지않ㄹ위치 ㄹ
+dingo freestyle - [Official Video] LEGIT GOONS (리짓군즈) - Party & Bullshit(Party & Bush) (Prod. CODE KUNST(코드 쿤스트))
 
-**Albums**: 조회수 21만회
+**Albums**: 조회수 38만회
 
-Last updated at 02/19/2021 17:58
+Last updated at 02/19/2021 18:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
