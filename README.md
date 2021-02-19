@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/koOCIkPQWk0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCksRToWp_rEHkvuX6m8elEg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-gZlOkTAU08/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCbP8UpoUxoYPpk1E0MNFYPw)
 
-GeniusNochang'sBlackNuts - 천재노창(Genius Nochang)- 칭챙총(Ching Chang Chong) 가사
+E SENS - 비행
 
-**Albums**: 조회수 218만회
+**Albums**: 조회수 365만회
 
-Last updated at 02/19/2021 18:06
+Last updated at 02/19/2021 18:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
