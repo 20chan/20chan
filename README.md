@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/L1RvFYc2v1gq9BUVu5kgG2AdaekuP22fBAydkTZH1a_WE-3nEAjoF66gMVWi6ANBfcByD-PB8CQNCRH9dA">](https://music.youtube.com/channel/UCa6xaGioOMH9tlLNlPI7OMQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fEinQARrK59ctQ9pYYKI3sy1DcgI1BNiSfZRUHbWtt4gPMuA4Oovy70-bNuCo_8wEqwE1b_3zditCYYx">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
 
-김하온(HAON) - 붕붕(피처링: Sik-K(식케이))
+HAN YO HAN - 범퍼카(피처링: Young B, NO:EL)
 
-**Albums**: 고등래퍼2 Final
+**Albums**: 범퍼카
 
-Last updated at 02/19/2021 17:10
+Last updated at 02/19/2021 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
