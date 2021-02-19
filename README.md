@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/35paU1KacMLi71tssZTFOyuAzIglYTRuU7E8IiuXF9LJmVNt_fZu5Ngmr4hyVNtP9wHZ8qjg_8MYzPOD">](https://music.youtube.com/channel/UCpBTwa4c2Z-YXugFFQF6NcA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xldJuAHrAMaRT9WWPHtB08kkp-ZixvTyj0qVWELR1eCUddcpyabVCMe16XyP9L3DANHpm-eT8MATVP2Q">](https://music.youtube.com/browse/MPREb_1RuTN12RI7o)
 
-박기영 - 시작
+빅맨 - 사랑과 우정사이
 
-**Albums**: 박기영 2집(Promise)
+**Albums**: 8090 종로카페
 
-Last updated at 02/19/2021 14:19
+Last updated at 02/19/2021 14:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
