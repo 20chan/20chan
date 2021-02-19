@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/A-bNryOG52_SF1waN-5Gn_oFI2BFylhC_uxsZjALYD9KNoxVMtPHH2d7KOGFBCFTudiO0ho2SQeRSGOR">](https://music.youtube.com/channel/UCNaAQtk0jVa2OXAEY0zF5zw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PkGmTJWpslZJX3hnKCOYKS1dQUM0L6hK5uIt-lQW2meYOaW2p4U-o7rMTwBfAW7VhFH1K90Q5N5QW79TmA">](https://music.youtube.com/channel/UC7JlXAEJPpTUT6x1_E7ijrg)
 
-Two Door Cinema Club - Nice to See You(피처링: 오픈 마이크 이글)
+Saint Motel - Save Me
 
-**Albums**: False Alarm
+**Albums**: The Original Motion Picture Soundtrack: Pt. 1
 
-Last updated at 02/19/2021 10:39
+Last updated at 02/19/2021 10:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
