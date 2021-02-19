@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/2l6Vaok5ppo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kyoghOpNseY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjZkbVFbC6FRh65_Biyd9ow)
 
-southkoreanfolksongs - 사랑 Two -- 윤도현
+bluemary0909 - 애즈원 - 원하고 원망하죠
 
-**Albums**: 조회수 995만회
+**Albums**: 조회수 1185만회
 
-Last updated at 02/19/2021 14:47
+Last updated at 02/19/2021 14:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
