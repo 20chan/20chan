@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LMczQxgrgCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCA10VVCBjbjkE2aNj14Kdlw)
 
-southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
+서영은 - 혼자가 아닌 나
 
-**Albums**: 조회수 303만회
+**Albums**: 조회수 72만회
 
-Last updated at 02/19/2021 15:07
+Last updated at 02/19/2021 15:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
