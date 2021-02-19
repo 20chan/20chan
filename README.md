@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UYvUDadIT43Fbpx4PwrGUdMNbyFGnOkcu5BtGjUbI_wdd1cw74XFneSZhuNNZbu30WN8y3ZYXv7pHLMXFw">](https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
 
-디보 - I Could Do Dead(피처링: 저스디스)
+다이나믹 듀오 - MSG(피처링: 페노메코)
 
-**Albums**: I Could Do Dead
+**Albums**: OFF DUTY
 
-Last updated at 02/19/2021 17:20
+Last updated at 02/19/2021 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
