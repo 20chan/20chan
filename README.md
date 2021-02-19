@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/E0C-tN9QJ3Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RiziS5qadd4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCP_CO2kraLUkGdMV3TL0agQ)
 
-pops8090 - 박혜경 - Rain (2002年)
+럼블 피쉬(Rumble Fish) 및 최진이 - 비와 당신
 
-**Albums**: 조회수 209만회
+**Albums**: 조회수 442만회
 
-Last updated at 02/19/2021 14:31
+Last updated at 02/19/2021 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
