@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">](https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-조광일 - 한국 (Remastered Ver.)
+GIRIBOY, Kid Milli, NO:EL 및 Swings - flex
 
-**Albums**: 암순응
+**Albums**: flex
 
-Last updated at 02/19/2021 17:38
+Last updated at 02/19/2021 17:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
