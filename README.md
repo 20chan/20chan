@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FvtcvRdBU3f_eeaEgw2DmwJmXTDsA4QrMvxpxGOe_-95RhjCzC0NenuLJjkADhHuxV5FQYd2keXBB0w">](https://music.youtube.com/channel/UC_St8BJOVzpLbsK5mHrrJzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/A-bNryOG52_SF1waN-5Gn_oFI2BFylhC_uxsZjALYD9KNoxVMtPHH2d7KOGFBCFTudiO0ho2SQeRSGOR">](https://music.youtube.com/channel/UCNaAQtk0jVa2OXAEY0zF5zw)
 
-The Unlikely Candidates - Novocaine
+Two Door Cinema Club - Nice to See You(피처링: 오픈 마이크 이글)
 
-**Albums**: Novocaine
+**Albums**: False Alarm
 
-Last updated at 02/19/2021 10:35
+Last updated at 02/19/2021 10:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
