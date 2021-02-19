@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">](https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q)
 
-GIRIBOY, Kid Milli, NO:EL 및 Swings - flex
+SUPERBEE - SUPERBEEWHY(피처링: BewhY)
 
-**Albums**: flex
+**Albums**: Show Me the Money 777 Semi Final
 
-Last updated at 02/19/2021 17:40
+Last updated at 02/19/2021 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
