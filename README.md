@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/dlg1ZgwTsJE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCviI9lzTe2pkxJ9M2ArA7WQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/koOCIkPQWk0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCksRToWp_rEHkvuX6m8elEg)
 
-dingo freestyle - [Official Video] LEGIT GOONS (리짓군즈) - Party & Bullshit(Party & Bush) (Prod. CODE KUNST(코드 쿤스트))
+GeniusNochang'sBlackNuts - 천재노창(Genius Nochang)- 칭챙총(Ching Chang Chong) 가사
 
-**Albums**: 조회수 38만회
+**Albums**: 조회수 218만회
 
-Last updated at 02/19/2021 18:02
+Last updated at 02/19/2021 18:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
