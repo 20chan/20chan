@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/oA8ysE-x1e8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC96bNVF-1CWoa2sQesTtuQQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/86pANBEdwCw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UChaxPNL_L6GyadimNgTpxDg)
 
-Jeff Hwang 2 - 빈지노 (Beenzino) - Blurry (Feat. Dbo) (Prod. By PEEJAY)
+Legend L. - C jamm-걍 음악이다 Remix (feat. vasco,BewhY,천재노창)[자막]
 
-**Albums**: 조회수 84만회
+**Albums**: 조회수 75만회
 
-Last updated at 02/19/2021 18:14
+Last updated at 02/19/2021 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
