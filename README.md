@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ACCEDuwjVp8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCsPoGrk8gBelWLIFpmnkzSQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/QljRe99OMCU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw)
 
-바밍타이거 - Armadillo(피처링: Omega Sapien, Byung Un)
+식 케이(Sik-K), 펀치넬로(punchnello), 오왼(Owen) 및 플로우식(Flowsik) - 응프리스타일
 
-**Albums**: 조회수 172만회
+**Albums**: 조회수 4353만회
 
-Last updated at 02/19/2021 15:53
+Last updated at 02/19/2021 15:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
