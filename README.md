@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/6HHoAwJufv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/SUJc0s9AsQg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
 
-pops8090 - 박혜경 - 하루 (2000年)
+pops8090 - 박혜경(더더) - 내게 다시 (1997年)
 
-**Albums**: 조회수 188만회
+**Albums**: 조회수 247만회
 
-Last updated at 02/19/2021 14:25
+Last updated at 02/19/2021 14:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
