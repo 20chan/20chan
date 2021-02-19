@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtE5-LAg1KnlgFgdle7vh3PULWRqmZe10rePmY23qBqj8yMtm4MUEmg4NoomYWwhRrJVozomSKNFgOs">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RE-3qVyOzjU1JuzuKHx0Knx5hVdaJwgpHZUVqJFSlvjX8Ygc1o3mX2R1Z7QTsjgs5Lr24i5RYq8qEDw">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - 썸 탈꺼야
+볼빨간사춘기 - 여행
 
-**Albums**: Red Diary, Page 1
+**Albums**: Red Diary, Page.2
 
-Last updated at 02/19/2021 16:36
+Last updated at 02/19/2021 16:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
