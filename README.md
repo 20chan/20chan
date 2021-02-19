@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HRF9e_2h3lxwz8Tlf4bzA03H22A4bgO-wACyRsmlQZ4R6mwv2M8J-QErvKxmCLKdZ7gsv4aNsAhPREAp">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQJpRxQlM4Bm_h0sU8enZozgEaYnBkiD5ua4ZrYzSodhRtbVLgHejdnmTsWESJjKqNTAwPXxHTMgwE56">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - 좋다고 말해 (Hidden Track)
+볼빨간사춘기 - 나만, 봄
 
-**Albums**: 좋다고 말해 (Hidden Track)
+**Albums**: 사춘기집Ⅰ 꽃기운
 
-Last updated at 02/19/2021 16:43
+Last updated at 02/19/2021 16:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
