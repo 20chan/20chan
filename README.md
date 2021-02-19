@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/F7Wc6FcgpmY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCbTJtzJyQl4lVsjyljtFdpg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l0GN40EL1VU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCeoT9BqyKRktIHvQnWE8zug)
 
-일기예보 - 인형의 꿈
+Hisaishi Joe(히사이시 조) - Summer
 
-**Albums**: 조회수 19만회
+**Albums**: 조회수 933만회
 
-Last updated at 02/19/2021 15:17
+Last updated at 02/19/2021 15:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
