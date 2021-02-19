@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p1asWglxMZs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCN7gUXtFDTk1t7TTP-JtwAA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/2l6Vaok5ppo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw)
 
-pops8090 - 최용준 - 아마도 그건 (1989年)
+southkoreanfolksongs - 사랑 Two -- 윤도현
 
-**Albums**: 조회수 581만회
+**Albums**: 조회수 995만회
 
-Last updated at 02/19/2021 14:39
+Last updated at 02/19/2021 14:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
