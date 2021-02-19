@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/9U8uA702xrE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/y5MAgMVwfFs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - 우주를 줄게
+볼빨간사춘기 - 좋다고 말해
 
-**Albums**: 조회수 8453만회
+**Albums**: 조회수 7193만회
 
-Last updated at 02/19/2021 16:29
+Last updated at 02/19/2021 16:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
