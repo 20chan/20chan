@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RE-3qVyOzjU1JuzuKHx0Knx5hVdaJwgpHZUVqJFSlvjX8Ygc1o3mX2R1Z7QTsjgs5Lr24i5RYq8qEDw">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HRF9e_2h3lxwz8Tlf4bzA03H22A4bgO-wACyRsmlQZ4R6mwv2M8J-QErvKxmCLKdZ7gsv4aNsAhPREAp">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - 여행
+볼빨간사춘기 - 좋다고 말해 (Hidden Track)
 
-**Albums**: Red Diary, Page.2
+**Albums**: 좋다고 말해 (Hidden Track)
 
-Last updated at 02/19/2021 16:39
+Last updated at 02/19/2021 16:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
