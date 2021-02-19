@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/kyoghOpNseY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCjZkbVFbC6FRh65_Biyd9ow)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9kNic7arqn8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCUr_TZ2Pljcs5yZvdjHiMBQ)
 
-bluemary0909 - 애즈원 - 원하고 원망하죠
+정재욱 - 잘가요 (Intro Cut Version)
 
-**Albums**: 조회수 1185만회
+**Albums**: 조회수 80만회
 
-Last updated at 02/19/2021 14:53
+Last updated at 02/19/2021 14:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
