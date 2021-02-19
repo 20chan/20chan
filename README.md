@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/v-cQvm6-rPw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCREZHot6PVQlQi-tdQ7Z38Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/F7Wc6FcgpmY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/channel/UCbTJtzJyQl4lVsjyljtFdpg)
 
-도원경 - 다시 사랑한다면
+일기예보 - 인형의 꿈
 
-**Albums**: 조회수 93만회
+**Albums**: 조회수 19만회
 
-Last updated at 02/19/2021 15:13
+Last updated at 02/19/2021 15:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
