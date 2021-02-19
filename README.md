@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LtE5-LAg1KnlgFgdle7vh3PULWRqmZe10rePmY23qBqj8yMtm4MUEmg4NoomYWwhRrJVozomSKNFgOs">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zwmkrmZyjgoUvz-HRpQKsulFuP_m8OX75gMvawMFSajlO75_HZ0Z4nuH9e1PUjgwUVZO5mAtOYKwDUumHg">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - 나의 사춘기에게
+볼빨간사춘기 - 싸운날
 
-**Albums**: Red Diary, Page 1
+**Albums**: RED ICKLE
 
-Last updated at 02/19/2021 16:54
+Last updated at 02/19/2021 16:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
