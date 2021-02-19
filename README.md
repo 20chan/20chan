@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fEinQARrK59ctQ9pYYKI3sy1DcgI1BNiSfZRUHbWtt4gPMuA4Oovy70-bNuCo_8wEqwE1b_3zditCYYx">](https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-HAN YO HAN - 범퍼카(피처링: Young B, NO:EL)
+GIRIBOY - 호랑이소굴(피처링: Jvcki Wai)
 
-**Albums**: 범퍼카
+**Albums**: 호랑이소굴
 
-Last updated at 02/19/2021 17:14
+Last updated at 02/19/2021 17:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
