@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniBTrw2Uhf35TZymMJQFpVg1OwPfKtEjDMhYngQ3w=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/channel/UCe8pLEl_Uzxw1w2pOW9RP1w)
 
-장범준 - 1월 29일 반지하노래방 비주류특집!! 풀버전 【장범준 반지하 노래방】
+박혜경 - 하루
 
-**Albums**: undefined
+**Albums**: O2
 
-Last updated at 02/19/2021 13:33
+Last updated at 02/19/2021 14:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
