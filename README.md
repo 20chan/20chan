@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQJpRxQlM4Bm_h0sU8enZozgEaYnBkiD5ua4ZrYzSodhRtbVLgHejdnmTsWESJjKqNTAwPXxHTMgwE56">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H6hdeSuBOyZ_b-Qophkb_VuqjcDGFWD1nQMurvz73OwoHr7CSVSdKy_348c3EGJd13JaN6ddRJmbl5Nv">](https://music.youtube.com/channel/UCa5qWh5TRLCVFkCO67_gOtw)
 
-볼빨간사춘기 - 나만, 봄
+볼빨간사춘기 - Galaxy 우주를 줄게
 
-**Albums**: 사춘기집Ⅰ 꽃기운
+**Albums**: RED PLANET
 
-Last updated at 02/19/2021 16:46
+Last updated at 02/19/2021 16:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
