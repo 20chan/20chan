@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cafe08a2f710e159b6f35171">](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27361a2e739fc2a853c99497fc7">](https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6)
 
-Bishop Briggs - JEKYLL & HIDE
+Set It Off Ash Costello - Partners in Crime (feat. Ash Costello)
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:32
+Last updated at 02/22/2021 17:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
