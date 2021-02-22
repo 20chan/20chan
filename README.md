@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730b7c6d46885f7434c99e6d8b">](https://open.spotify.com/album/0fxhOwMkj9lfSIAyTJVnfc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273236fd6fa4027394c3cef383c">](https://open.spotify.com/album/0yOfmrFPTbE4enpPh6huay)
 
-blackbear - queen of broken hearts
+The Tech Thieves - Fake
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 15:30
+Last updated at 02/22/2021 15:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
