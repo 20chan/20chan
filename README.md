@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fa78a51a07cb7bf1ce9febe4">](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5">](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9)
 
-grandson - Despicable
+Sub Urban - Cradles
 
 **Albums**: undefined
 
-Last updated at 02/22/2021 14:51
+Last updated at 02/22/2021 14:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
