@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273862f00f2c621ea0c926f9e7c">](https://open.spotify.com/album/0kP7zWftghSBU2HVkjzcnP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5">](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9)
 
-Bea Miller - THAT BITCH
+Sub Urban - Cradles
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:36
+Last updated at 02/22/2021 16:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
