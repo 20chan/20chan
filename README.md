@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6">](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733c3fc756baab3bf876ea2571">](https://open.spotify.com/album/1vaWeiw4ZUCd6ms5pQ19jM)
 
-Cavetown - Devil Town
+K.Flay - Make Me Fade
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:24
+Last updated at 02/22/2021 18:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
