@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebc3ea9efe370f5461973b9d">](https://open.spotify.com/album/3ukdoeD1Xxoh0lTp80Xkzu)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27326f401c31ac9944252d66fab">](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH)
 
-Call Me Karizma - Monster (Under My Bed)
+The Score - Stronger
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:44
+Last updated at 02/22/2021 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
