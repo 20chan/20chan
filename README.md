@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733f1c8242d392001f31536e8b">](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f4d9b40a06ae18de713a57bc">](https://open.spotify.com/album/5C3phieOffjxtXQEWjkPil)
 
-INZO - Overthinker
+Melanie Martinez - Fire Drill
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:09
+Last updated at 02/22/2021 17:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
