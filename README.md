@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738f84d7c5ddad11d95d219c0d">](https://open.spotify.com/album/0nU8PoUOKgmeiB78GKrFMT)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KsfZydnDywg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KsfZydnDywg)
 
-창모 - Maestro
+박태섬 - 장덕노래모음 30곡
 
-**Albums**: Not supported
+**Albums**: 조회수 4.6만회
 
-Last updated at 02/22/2021 19:19
+Last updated at 02/22/2021 19:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
