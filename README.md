@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27377ab46be7891af8431b7b4da">](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d">](https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj)
 
-MISSIO Death Stranding: Timefall - Sing To Me
+Get Scared - Sarcasm
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:02
+Last updated at 02/22/2021 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
