@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2732e76a5e4808238be9ebda15e">](https://open.spotify.com/album/5dNVrubv14f6Qifna7D0bX)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e4c03429788f0aff263a5fc6">](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0)
 
-Cosmo Sheldrake - The Moss
+Labrinth - Mount Everest
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:57
+Last updated at 02/22/2021 19:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
