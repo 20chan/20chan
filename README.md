@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b505667bcff9407f104d9320">](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733f1c8242d392001f31536e8b">](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem)
 
-SIAMES - The Wolf
+INZO - Overthinker
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:06
+Last updated at 02/22/2021 17:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
