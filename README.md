@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40">](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273da513d25e8b3cdd4f43f7512">](https://open.spotify.com/album/7agIpPnZXBhJQcWHAvdQFx)
 
-The Neighbourhood - Reflections
+Chase Atlantic - Slow Down
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 19:06
+Last updated at 02/22/2021 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
