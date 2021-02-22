@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730490e22363113ee0f8262624">](https://open.spotify.com/album/2CnxyJ5Rtq0KHLTXoN9eV5)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733cd2ff03a508f5314a626701">](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb)
 
-The Unlikely Candidates - Novocaine
+Waterparks - I Miss Having Sex But At Least I Don't Wanna Die Anymore
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:52
+Last updated at 02/22/2021 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
