@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736c6f350ef81efe80b0164b19">](https://open.spotify.com/album/0z24XzwOR8RobYQxacyDpS)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebc3ea9efe370f5461973b9d">](https://open.spotify.com/album/3ukdoeD1Xxoh0lTp80Xkzu)
 
-Rival Cadmium Rosendale - Willow Tree
+Call Me Karizma - Serotonin
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:13
+Last updated at 02/22/2021 16:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
