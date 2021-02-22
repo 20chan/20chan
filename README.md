@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8InjVE7X-PU4i18a79aW0Ztznncacw1UgIv4_o3LOpVWLxWmgzePgermHO1LpclAGMaGe7INNLkf25YA">](https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KOgvA98FifU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
 
-박재범 - Cha Cha Cypher(피처링: 지투, 기리보이(Giriboy), 바스코, 데이데이)
+Trap Nation - Trap Nation: 2018 Best Trap Music
 
-**Albums**: Worldwide
+**Albums**: 조회수 3322만회
 
-Last updated at 02/22/2021 12:26
+Last updated at 02/22/2021 12:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
