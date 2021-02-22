@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733c3fc756baab3bf876ea2571">](https://open.spotify.com/album/1vaWeiw4ZUCd6ms5pQ19jM)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bd9e9490d5198c41cb85b669">](https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui)
 
-K.Flay - Make Me Fade
+NEFFEX - Fight Back
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:27
+Last updated at 02/22/2021 18:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
