@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273facca551d270558699ab0b8e">](https://open.spotify.com/album/17vWVyvqDTmK9eRAd03zCD)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebc3ea9efe370f5461973b9d">](https://open.spotify.com/album/3ukdoeD1Xxoh0lTp80Xkzu)
 
-Mickey Valen Joey Myron - Chills
+Call Me Karizma - Monster (Under My Bed)
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:42
+Last updated at 02/22/2021 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
