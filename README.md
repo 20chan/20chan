@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736e54fc0b329c20c3024f02c5">](https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733088cbd6d7e2a4a799ecd448">](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO)
 
-TroyBoi - Do You?
+AViVA - BLAME IT ON THE KIDS
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:03
+Last updated at 02/22/2021 16:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
