@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273571ca3d76372773bea064a2b">](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
 
-Lucky Luke - Cooler Than Me
+half•alive - Aawake At Night
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:01
+Last updated at 02/22/2021 18:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
