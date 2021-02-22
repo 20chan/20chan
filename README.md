@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a91543c0ec0301cca07792dc">](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA)
 
-Two Feet - Go Fuck Yourself
+League of Legends Cailin Russo Chrissy Costanza - Phoenix
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:23
+Last updated at 02/22/2021 17:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
