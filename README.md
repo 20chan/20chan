@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387e6bb28f269597e09145121">](https://open.spotify.com/album/6nV47nUjokX90oxKeoIIdZ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6">](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t)
 
-Sub Urban - Isolate
+Cavetown - Devil Town
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:22
+Last updated at 02/22/2021 18:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
