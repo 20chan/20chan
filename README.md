@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d5568dedd90ea5dcc0fd063a">](https://open.spotify.com/album/7IOiagLHQmBE6XPpYPSQMF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737b0571f90fc7aae21b833571">](https://open.spotify.com/album/4VVcfdD0w5pUHN96udQQsi)
 
-NEFFEX - Rumors
+Kailee Morgue - Siren
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:55
+Last updated at 02/22/2021 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
