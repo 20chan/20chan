@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273861da3aeff234f966aec642f">](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273af9453a8f1d70354e9f934d3">](https://open.spotify.com/album/6ce5GL0xsB7gyYjE8psUkI)
 
-Weathers - I'm Not Ok
+Saint Motel - A Good Song Never Dies
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:51
+Last updated at 02/22/2021 18:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
