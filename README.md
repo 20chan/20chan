@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733088cbd6d7e2a4a799ecd448">](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cafe08a2f710e159b6f35171">](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx)
 
-AViVA - HUSHH
+Bishop Briggs - JEKYLL & HIDE
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:29
+Last updated at 02/22/2021 17:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
