@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc">](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730733c154a5a595efbf7a41dc">](https://open.spotify.com/album/6Na2NRtCRObMaG7Qa4S54Q)
 
-서리 - Running Through The Night
+The Tech Thieves - Enough
 
 **Albums**: undefined
 
-Last updated at 02/22/2021 14:41
+Last updated at 02/22/2021 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
