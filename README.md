@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735ff2144720724c063d46e75a">](https://open.spotify.com/album/6tPdQZsetTB8YW1cjuk9u4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d5568dedd90ea5dcc0fd063a">](https://open.spotify.com/album/7IOiagLHQmBE6XPpYPSQMF)
 
-DREAMERS - Die Happy
+NEFFEX - Rumors
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:51
+Last updated at 02/22/2021 16:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
