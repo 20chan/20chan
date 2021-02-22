@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/J0xrhTxb0xg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCPkk-RFFRjZzjL5WvskZX7w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aElCJOA-orM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC96bNVF-1CWoa2sQesTtuQQ)
 
-25 _ - 일리네어 레코즈-06-A better tomorrow (feat. Sean2slow & MC Meta)
+Jeff Hwang 2 - 천재노창 - 억지로웃지않ㄹ위치 ㄹ
 
-**Albums**: 조회수 32만회
+**Albums**: 조회수 21만회
 
-Last updated at 02/19/2021 18:38
+Last updated at 02/22/2021 12:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
