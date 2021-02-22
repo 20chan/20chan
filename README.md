@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273808d80990a02b6dbfb09f8d3">](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ae1eb517b57974d667fc3880">](https://open.spotify.com/album/6avxfpUklBv0idzCXnGtt6)
 
-Whethan grandson - All In My Head (feat. grandson)
+Lewis Blissett - Killing Butterflies
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:41
+Last updated at 02/22/2021 16:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
