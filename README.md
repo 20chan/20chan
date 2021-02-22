@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KOgvA98FifU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UCa10nxShhzNrCE1o2ZOPztg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00004851292d82361a147c418f0d428d">](https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP)
 
-Trap Nation - Trap Nation: 2018 Best Trap Music
+Suraj Jagan Sharman Joshi - Give Me Some Sunshine
 
-**Albums**: 조회수 3322만회
+**Albums**: undefined
 
-Last updated at 02/22/2021 12:30
+Last updated at 02/22/2021 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
