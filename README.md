@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5">](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273808d80990a02b6dbfb09f8d3">](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX)
 
-Sub Urban - Cradles
+Whethan grandson - All In My Head (feat. grandson)
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:39
+Last updated at 02/22/2021 16:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
