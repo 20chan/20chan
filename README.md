@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273236fd6fa4027394c3cef383c">](https://open.spotify.com/album/0yOfmrFPTbE4enpPh6huay)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738d35d416fe47f586461730fc">](https://open.spotify.com/album/6cxbpPAUbjteTH758uR5pZ)
 
-The Tech Thieves - Fake
+Pham Yung Fusion - Movements (feat. Yung Fusion)
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 15:33
+Last updated at 02/22/2021 15:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
