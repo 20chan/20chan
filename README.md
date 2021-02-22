@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebc3ea9efe370f5461973b9d">](https://open.spotify.com/album/3ukdoeD1Xxoh0lTp80Xkzu)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273862f00f2c621ea0c926f9e7c">](https://open.spotify.com/album/0kP7zWftghSBU2HVkjzcnP)
 
-Call Me Karizma - Serotonin
+Bea Miller - THAT BITCH
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:16
+Last updated at 02/22/2021 16:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
