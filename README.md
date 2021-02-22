@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27370a71a630e82020b916a7b92">](https://open.spotify.com/album/1sf6fIA9xywLBVsKbYz0sJ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730b7c6d46885f7434c99e6d8b">](https://open.spotify.com/album/0fxhOwMkj9lfSIAyTJVnfc)
 
-TheFatRat Slaydit Anjulie - Stronger
+blackbear - hot girl bummer
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 15:57
+Last updated at 02/22/2021 16:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
