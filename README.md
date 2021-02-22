@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27361a2e739fc2a853c99497fc7">](https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733899712512f50a8d9e01e951">](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY)
 
-Set It Off Ash Costello - Partners in Crime (feat. Ash Costello)
+Melanie Martinez - Play Date
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:35
+Last updated at 02/22/2021 17:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
