@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738d35d416fe47f586461730fc">](https://open.spotify.com/album/6cxbpPAUbjteTH758uR5pZ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ecdad1ee6d530eb965d7c51e">](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi)
 
-Pham Yung Fusion - Movements (feat. Yung Fusion)
+Hippie Sabotage - Devil Eyes
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 15:35
+Last updated at 02/22/2021 15:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
