@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebf4e3b60801ac4972d47317">](https://open.spotify.com/album/29Xikj6r9kQDSbnZWCCW2s)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735ff2144720724c063d46e75a">](https://open.spotify.com/album/6tPdQZsetTB8YW1cjuk9u4)
 
-AJR - Karma
+DREAMERS - Die Happy
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:47
+Last updated at 02/22/2021 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
