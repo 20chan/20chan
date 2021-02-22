@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27306c95838d734f5c0fe3a6a7f">](https://open.spotify.com/album/1ueKr16PBVSG1qQEnf4zdn)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
 
-Josh A iamjakehill - Suicidal Thoughts
+Two Feet - Go Fuck Yourself
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:20
+Last updated at 02/22/2021 17:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
