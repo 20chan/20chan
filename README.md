@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5">](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27397d11a89e5fd70347099f7c9">](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy)
 
-Sub Urban - Cradles
+grandson - Blood // Water
 
 **Albums**: undefined
 
-Last updated at 02/22/2021 14:55
+Last updated at 02/22/2021 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
