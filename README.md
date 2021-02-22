@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387e6bb28f269597e09145121">](https://open.spotify.com/album/6nV47nUjokX90oxKeoIIdZ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fa78a51a07cb7bf1ce9febe4">](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV)
 
-Sub Urban - Isolate
+grandson - Despicable
 
 **Albums**: undefined
 
-Last updated at 02/22/2021 14:49
+Last updated at 02/22/2021 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
