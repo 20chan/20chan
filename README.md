@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733899712512f50a8d9e01e951">](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273facca551d270558699ab0b8e">](https://open.spotify.com/album/17vWVyvqDTmK9eRAd03zCD)
 
-Melanie Martinez - Play Date
+Mickey Valen Joey Myron - Chills
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:39
+Last updated at 02/22/2021 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
