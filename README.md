@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27326f401c31ac9944252d66fab">](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0">](https://open.spotify.com/album/2Eu9J7STgsK7ojEDgXVN0A)
 
-The Score - Stronger
+Charlotte Lawrence - Joke's On You
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:46
+Last updated at 02/22/2021 17:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
