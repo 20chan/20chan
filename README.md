@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27320eefbf93f2df39a72414efe">](https://open.spotify.com/album/2pmyJxHxpZOYu5XwyJs0Fd)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309a8b1003c549b4a53f60852">](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB)
 
-8 Graves - Numb
+SEBASTIAN PAUL - TROJAN HORSE
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:13
+Last updated at 02/22/2021 18:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
