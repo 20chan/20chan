@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27397d11a89e5fd70347099f7c9">](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387da18a1723e6d4bf79d6051">](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ)
 
-grandson - Blood // Water
+bülow - Own Me
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 15:45
+Last updated at 02/22/2021 15:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
