@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ed62cb7e27cef14554d142ba">](https://open.spotify.com/album/3dNESOkTfBWV7R3bf1GPcS)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736c6f350ef81efe80b0164b19">](https://open.spotify.com/album/0z24XzwOR8RobYQxacyDpS)
 
-Rare Americans - Brittle Bones Nicky
+Rival Cadmium Rosendale - Willow Tree
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:10
+Last updated at 02/22/2021 16:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
