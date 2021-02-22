@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vNdgMOp6jm3eEy-R6wwpttB-Gd7eQRY64FhLLrK7OIpSpF3hXxQittys8OPjWeJAMvXrzOfL2e1LlOOP">](https://music.youtube.com/channel/UCDrQbQO08IcWEwERlYbm9Aw)
 
-창모(CHANGMO) - Interlude
+XXX - Bougie
 
-**Albums**: Dnsg
+**Albums**: SECOND LANGUAGE
 
-Last updated at 02/22/2021 12:20
+Last updated at 02/22/2021 12:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
