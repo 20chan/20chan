@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309a8b1003c549b4a53f60852">](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733291ea99fbdf22613fe25a94">](https://open.spotify.com/album/0PqDKQgXKSYVJh0vnXGPz6)
 
-SEBASTIAN PAUL - TROJAN HORSE
+The Tech Thieves - Flowers
 
-**Albums**: undefined
+**Albums**: Not supported
 
-Last updated at 02/22/2021 15:02
+Last updated at 02/22/2021 15:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
