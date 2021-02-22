@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c5ed4bbd4e725b2a674924d2">](https://open.spotify.com/album/20YjYASaKy9VUAvB7ltf03)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d11188025d684f93f8cc1260">](https://open.spotify.com/album/3gk5LmXVewb5mo4FWHuZI6)
 
-Call Me Karizma - Rockstar
+Two Feet - Pink
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:08
+Last updated at 02/22/2021 18:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
