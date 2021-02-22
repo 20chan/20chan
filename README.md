@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737b0571f90fc7aae21b833571">](https://open.spotify.com/album/4VVcfdD0w5pUHN96udQQsi)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27377ab46be7891af8431b7b4da">](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z)
 
-Kailee Morgue - Siren
+MISSIO Death Stranding: Timefall - Sing To Me
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:59
+Last updated at 02/22/2021 17:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
