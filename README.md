@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ae1eb517b57974d667fc3880">](https://open.spotify.com/album/6avxfpUklBv0idzCXnGtt6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739719ff730e4ba1cf88e5cad1">](https://open.spotify.com/album/3K38ES3GQ3XgDWE9mtyUsQ)
 
-Lewis Blissett - Killing Butterflies
+Shiki-TMNS Hentai Dude - Senpai (feat. Hentai Dude)
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:43
+Last updated at 02/22/2021 16:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
