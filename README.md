@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2732bbcbda432500a01176b2c0a">](https://open.spotify.com/album/0uZNVR5xgifjU8aPhq4iJQ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40">](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy)
 
-JVLA - Such a Whore (Potato Remix)
+The Neighbourhood - Reflections
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 19:04
+Last updated at 02/22/2021 19:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
