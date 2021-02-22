@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309a8b1003c549b4a53f60852">](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2732793d2b06238becf6202d5eb">](https://open.spotify.com/album/20WWZYOBGuFTTmwmeQ7PCY)
 
-SEBASTIAN PAUL - TROJAN HORSE
+Besomorph - Cradles
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:14
+Last updated at 02/22/2021 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
