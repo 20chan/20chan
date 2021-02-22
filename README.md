@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273da513d25e8b3cdd4f43f7512">](https://open.spotify.com/album/7agIpPnZXBhJQcWHAvdQFx)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731b533674f08c8eec7109217f">](https://open.spotify.com/album/4xvy4Oja5dCIfA5KcnIjsB)
 
-Chase Atlantic - Slow Down
+창모 - Interlude
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 19:10
+Last updated at 02/22/2021 19:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
