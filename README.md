@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27384f08a509689b140f1bf931d">](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27370a71a630e82020b916a7b92">](https://open.spotify.com/album/1sf6fIA9xywLBVsKbYz0sJ)
 
-The Score blackbear - Dreamin (with blackbear)
+TheFatRat Slaydit Anjulie - Stronger
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 15:54
+Last updated at 02/22/2021 15:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
