@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730b7c6d46885f7434c99e6d8b">](https://open.spotify.com/album/0fxhOwMkj9lfSIAyTJVnfc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736e54fc0b329c20c3024f02c5">](https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW)
 
-blackbear - hot girl bummer
+TroyBoi - Do You?
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:00
+Last updated at 02/22/2021 16:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
