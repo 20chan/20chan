@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739719ff730e4ba1cf88e5cad1">](https://open.spotify.com/album/3K38ES3GQ3XgDWE9mtyUsQ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebf4e3b60801ac4972d47317">](https://open.spotify.com/album/29Xikj6r9kQDSbnZWCCW2s)
 
-Shiki-TMNS Hentai Dude - Senpai (feat. Hentai Dude)
+AJR - Karma
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:46
+Last updated at 02/22/2021 16:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
