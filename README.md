@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733cfbb809971b6da51daf254e">](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27384f08a509689b140f1bf931d">](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE)
 
-CORPSE Savage Ga$p - E-GIRLS ARE RUINING MY LIFE!
+The Score blackbear - Dreamin (with blackbear)
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 15:52
+Last updated at 02/22/2021 15:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
