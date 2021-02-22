@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vNdgMOp6jm3eEy-R6wwpttB-Gd7eQRY64FhLLrK7OIpSpF3hXxQittys8OPjWeJAMvXrzOfL2e1LlOOP">](https://music.youtube.com/channel/UCDrQbQO08IcWEwERlYbm9Aw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8InjVE7X-PU4i18a79aW0Ztznncacw1UgIv4_o3LOpVWLxWmgzePgermHO1LpclAGMaGe7INNLkf25YA">](https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg)
 
-XXX - Bougie
+박재범 - Cha Cha Cypher(피처링: 지투, 기리보이(Giriboy), 바스코, 데이데이)
 
-**Albums**: SECOND LANGUAGE
+**Albums**: Worldwide
 
-Last updated at 02/22/2021 12:24
+Last updated at 02/22/2021 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
