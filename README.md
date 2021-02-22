@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27381c8341abbed9421975ca71d">](https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b505667bcff9407f104d9320">](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI)
 
-Get Scared - Sarcasm
+SIAMES - The Wolf
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:05
+Last updated at 02/22/2021 17:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
