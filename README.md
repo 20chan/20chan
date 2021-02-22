@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736b5efa3f1b9780630bd1a5f7">](https://open.spotify.com/album/5Kds98v7gDg9qJgu2qcR2Q)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273861da3aeff234f966aec642f">](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH)
 
-CG5 - Opinions
+Weathers - I'm Not Ok
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:48
+Last updated at 02/22/2021 18:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
