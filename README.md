@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c0bef6bbf99356ade6aefa82">](https://open.spotify.com/album/1VBHDUsWuxVntjbQErDN3A)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27367af03314c499a9fa3d56d08">](https://open.spotify.com/album/3rke1Ot2UnQ0YVNCkR3d9h)
 
-Skinny Brown ASH ISLAND - if i die
+웨이체드 MOON ASH ISLAND - Why do u say
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 19:16
+Last updated at 02/22/2021 19:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
