@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273604f8ac39f15d287e251f193">](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc">](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca)
 
-MAGIC! - Rude
+서리 - Running Through The Night
 
 **Albums**: undefined
 
-Last updated at 02/22/2021 14:37
+Last updated at 02/22/2021 14:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
