@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f4d9b40a06ae18de713a57bc">](https://open.spotify.com/album/5C3phieOffjxtXQEWjkPil)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f4b84b5416cdbb867174685d">](https://open.spotify.com/album/5iPeRYJZJEiv348ZCCmXad)
 
-Melanie Martinez - Fire Drill
+Prismo - Black Hole Sun
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:13
+Last updated at 02/22/2021 17:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
