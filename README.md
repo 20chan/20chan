@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730733c154a5a595efbf7a41dc">](https://open.spotify.com/album/6Na2NRtCRObMaG7Qa4S54Q)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387e6bb28f269597e09145121">](https://open.spotify.com/album/6nV47nUjokX90oxKeoIIdZ)
 
-The Tech Thieves - Enough
+Sub Urban - Isolate
 
 **Albums**: undefined
 
-Last updated at 02/22/2021 14:45
+Last updated at 02/22/2021 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
