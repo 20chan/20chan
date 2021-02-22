@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733088cbd6d7e2a4a799ecd448">](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ed62cb7e27cef14554d142ba">](https://open.spotify.com/album/3dNESOkTfBWV7R3bf1GPcS)
 
-AViVA - BLAME IT ON THE KIDS
+Rare Americans - Brittle Bones Nicky
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 16:07
+Last updated at 02/22/2021 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
