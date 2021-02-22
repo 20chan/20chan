@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739475458ba9525723c298c6b0">](https://open.spotify.com/album/2Eu9J7STgsK7ojEDgXVN0A)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730490e22363113ee0f8262624">](https://open.spotify.com/album/2CnxyJ5Rtq0KHLTXoN9eV5)
 
-Charlotte Lawrence - Joke's On You
+The Unlikely Candidates - Novocaine
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 17:49
+Last updated at 02/22/2021 17:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
