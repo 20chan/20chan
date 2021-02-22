@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d11188025d684f93f8cc1260">](https://open.spotify.com/album/3gk5LmXVewb5mo4FWHuZI6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27320eefbf93f2df39a72414efe">](https://open.spotify.com/album/2pmyJxHxpZOYu5XwyJs0Fd)
 
-Two Feet - Pink
+8 Graves - Numb
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:11
+Last updated at 02/22/2021 18:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
