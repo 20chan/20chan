@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aElCJOA-orM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/channel/UC96bNVF-1CWoa2sQesTtuQQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-Jeff Hwang 2 - 천재노창 - 억지로웃지않ㄹ위치 ㄹ
+창모(CHANGMO) - Interlude
 
-**Albums**: 조회수 21만회
+**Albums**: Dnsg
 
-Last updated at 02/22/2021 12:12
+Last updated at 02/22/2021 12:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
