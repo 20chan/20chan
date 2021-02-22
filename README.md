@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c5ed4bbd4e725b2a674924d2">](https://open.spotify.com/album/20YjYASaKy9VUAvB7ltf03)
 
-half•alive - Aawake At Night
+Call Me Karizma - Rockstar
 
 **Albums**: Not supported
 
-Last updated at 02/22/2021 18:04
+Last updated at 02/22/2021 18:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
