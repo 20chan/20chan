@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=S7L8sTDoyNI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=a3OV4eSuNdg)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Spirits of the Sea
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Shunrai
 
-**Albums**: Uma to Shika
+**Albums**: Bootleg
 
-Last updated at 02/23/2021 17:39
+Last updated at 02/23/2021 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
