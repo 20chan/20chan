@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aElCJOA-orM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=aElCJOA-orM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5GI5FvMKp9U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5GI5FvMKp9U)
 
-Jeff Hwang 2 - 천재노창 - 억지로웃지않ㄹ위치 ㄹ
+니니 - 비프리 - My Team (Feat. 레디, 오케이션, 허클베리피, 팔로알토, 키스에이프)
 
-**Albums**: 조회수 21만회
+**Albums**: 조회수 112만회
 
-Last updated at 02/23/2021 14:47
+Last updated at 02/23/2021 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
