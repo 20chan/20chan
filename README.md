@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27396957b0279e407485635f831">](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27317c6a62b4a3dfc26ce558505">](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6)
 
-Unlike Pluto Mike Taylor - Everything Black
+MASN - Psycho!
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:51
+Last updated at 02/23/2021 13:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
