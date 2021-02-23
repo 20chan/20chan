@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f8fa082806184fcb032d8e0a">](https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733be40769b1c2361cea9f0843">](https://open.spotify.com/album/1EfxWO4kPvf4d2Nj6HCL3D)
 
-League of Legends 2WEI Edda Hayes - Warriors
+Lost Sky Chris Linton - Fearless Pt. II
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:41
+Last updated at 02/23/2021 13:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
