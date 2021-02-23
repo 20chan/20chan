@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=ZMna2PK9mb8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/d1wFx6cp001hJUfucFvrKiUCyrEmRjhZogaNQZUcaPPz6P6CD4PHjoOo33KiT1f3uY3YE-_wcn-1hWc">](https://music.youtube.com/watch?v=smObR_8q5UQ)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Peace Sign
+Frederic - オドループ
 
-**Albums**: Bootleg
+**Albums**: フレデリズム
 
-Last updated at 02/23/2021 18:37
+Last updated at 02/23/2021 18:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
