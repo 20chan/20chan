@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273236fd6fa4027394c3cef383c">](https://open.spotify.com/album/0yOfmrFPTbE4enpPh6huay)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d5568dedd90ea5dcc0fd063a">](https://open.spotify.com/album/7IOiagLHQmBE6XPpYPSQMF)
 
-The Tech Thieves - Fake
+NEFFEX - Rumors
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 12:51
+Last updated at 02/23/2021 12:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
