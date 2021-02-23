@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730b7c6d46885f7434c99e6d8b">](https://open.spotify.com/album/0fxhOwMkj9lfSIAyTJVnfc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731fc75f57743e314747fdf5b0">](https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO)
 
-blackbear - queen of broken hearts
+True Damage Becky G Keke Palmer 소연 Duckwrth Thutmose League of Legends - GIANTS
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:25
+Last updated at 02/23/2021 13:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
