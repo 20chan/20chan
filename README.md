@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731fc75f57743e314747fdf5b0">](https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5">](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9)
 
-True Damage Becky G Keke Palmer 소연 Duckwrth Thutmose League of Legends - GIANTS
+Sub Urban - Cradles
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:28
+Last updated at 02/23/2021 13:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
