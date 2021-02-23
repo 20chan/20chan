@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/watch?v=K0wOfkXULOc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/aElCJOA-orM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=aElCJOA-orM)
 
-박혜경 - 하루
+Jeff Hwang 2 - 천재노창 - 억지로웃지않ㄹ위치 ㄹ
 
-**Albums**: O2
+**Albums**: 조회수 21만회
 
-Last updated at 02/23/2021 15:12
+Last updated at 02/23/2021 15:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
