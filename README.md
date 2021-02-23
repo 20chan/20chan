@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/EZ0hCATlcgY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EZ0hCATlcgY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/OLBK68chuhU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OLBK68chuhU)
 
-E SENS - sleep tight
+Kid Milli, Jvcki Wai 및 스윙스(Swings) - 인디고 컴필레이션 재키와이 파트 모음 (가사자막)
 
-**Albums**: 조회수 181만회
+**Albums**: 조회수 6.3천회
 
-Last updated at 02/23/2021 14:57
+Last updated at 02/23/2021 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
