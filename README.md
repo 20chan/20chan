@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ybO5txtpLJRWRYALgkJUj1fa5FSMLu-kMRbiClU455w95ryxRSpcChsigMsusvhA1ymSWB9rDdYxBCw">](https://music.youtube.com/watch?v=wpb22AehATU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sqfhF3oADQk-nkPMlfy-Gja3dujDcd7fItfR3Id-S9YUbboOgTRTGGzdfi1ZqC_-MwNHWZ8XZR8ug9Xo">](https://music.youtube.com/watch?v=XyuLpZAywH0)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Loser
+스미카 - Fiction
 
-**Albums**: Loser / Number Nine
+**Albums**: Fiction -EP
 
-Last updated at 02/23/2021 18:01
+Last updated at 02/23/2021 18:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
