@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bb7db6789175f1a2f0c40ca2">](https://open.spotify.com/album/3OQGM4AEB8vleBSv7TqQOJ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d91806a11f1b2a2c1af6da6e">](https://open.spotify.com/album/1AAK478aUQ7e8fqC7lL6HR)
 
-DJ Okawari Chieko Kinbara - Represent
+두번째달 - 얼음연못
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 17:07
+Last updated at 02/23/2021 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
