@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387e6bb28f269597e09145121">](https://open.spotify.com/album/6nV47nUjokX90oxKeoIIdZ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27384350b406522fc53c1b2a621">](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA)
 
-Sub Urban - Isolate
+Masked Wolf - Astronaut In The Ocean
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 12:41
+Last updated at 02/23/2021 12:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
