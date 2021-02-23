@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Dx_fKPBPYUI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Dx_fKPBPYUI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0xSiBpUdW4E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0xSiBpUdW4E)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「LOSER」
+aimyon - Marigold
 
-**Albums**: 조회수 2.6억회
+**Albums**: 조회수 2.3억회
 
-Last updated at 02/23/2021 16:07
+Last updated at 02/23/2021 16:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
