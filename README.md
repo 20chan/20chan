@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Eze6-eHmtJg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=Eze6-eHmtJg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/rKsQ-3N-Bks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rKsQ-3N-Bks)
 
-Spitz - Cherry
+Hata Motohiro - Himawari no Yakusoku
 
-**Albums**: 조회수 8188만회
+**Albums**: 조회수 1108만회
 
-Last updated at 02/23/2021 16:46
+Last updated at 02/23/2021 16:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
