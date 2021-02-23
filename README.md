@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=ZMna2PK9mb8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EKSrcL7sEDbhTbqO2wiqO3txHCOmmPiYw7nvQRfsS19luo6bwrS9mhgauQj8YZPHyYcpICs7dbTTACFxNQ">](https://music.youtube.com/watch?v=VifmYXA9wuQ)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Peace Sign
+BLUE ENCOUNT - Polaris
 
-**Albums**: Bootleg
+**Albums**: Polaris (Special Edition)
 
-Last updated at 02/23/2021 18:30
+Last updated at 02/23/2021 18:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
