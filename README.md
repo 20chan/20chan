@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/s582L3gujnw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=s582L3gujnw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Eze6-eHmtJg/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=Eze6-eHmtJg)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「パプリカ」Kenshi Yonezu / Paprika
+Spitz - Cherry
 
-**Albums**: 조회수 1.2억회
+**Albums**: 조회수 8188만회
 
-Last updated at 02/23/2021 16:43
+Last updated at 02/23/2021 16:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
