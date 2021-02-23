@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7940nuwCEYA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7940nuwCEYA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zkNzxsaCunU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=zkNzxsaCunU)
 
-Suda Masaki - Machigaisagashi
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「春雷」Shunrai
 
-**Albums**: 조회수 1.5억회
+**Albums**: 조회수 1.1억회
 
-Last updated at 02/23/2021 15:36
+Last updated at 02/23/2021 15:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
