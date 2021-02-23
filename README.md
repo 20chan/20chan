@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/o7DkKtw_HEj6n0dnbnD-vE1AbbeGppRUAFjFh-jwqBdX01qyYSfTr_ye1JpO2dcUQoernJ3z-hCRvLL6_Q">](https://music.youtube.com/watch?v=hz6N5T9RCgQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GMXu2htvmsBm0-ahKeF-Ng6J08HZqcDAwKav9HDiv75Lsh4d3nrMPk9v-mQEVrzs19rhLfUrRlUvhvI">](https://music.youtube.com/watch?v=KtxakrLjyK0)
 
-이상은 - 비밀의 화원
+여행스케치 - 산다는건 다 그런게 아니겠니
 
-**Albums**: 신비체험
+**Albums**: 처음타본 타임머신
 
-Last updated at 02/23/2021 19:26
+Last updated at 02/23/2021 19:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
