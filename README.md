@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ony539T074w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ony539T074w)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/SX_ViT4Ra7k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SX_ViT4Ra7k)
 
-킹 누 - King Gnu - 白日
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「Lemon」
 
-**Albums**: 조회수 3.2억회
+**Albums**: 조회수 6.5억회
 
-Last updated at 02/23/2021 15:45
+Last updated at 02/23/2021 15:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
