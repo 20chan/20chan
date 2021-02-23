@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ReCnlwVZj1M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ReCnlwVZj1M)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Uh6dkL1M9DM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Uh6dkL1M9DM)
 
-마리나 야마네 - Official髭男dism - 115万キロのフィルム［Official Audio］
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「Flamingo」
 
-**Albums**: 조회수 4527만회
+**Albums**: 조회수 1.5억회
 
-Last updated at 02/23/2021 16:30
+Last updated at 02/23/2021 16:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
