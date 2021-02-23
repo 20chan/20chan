@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4THFRpw68oQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4THFRpw68oQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8VYjYGEFXJ2ahuW_aTJK716nqKRt_zdH3G9VS6E7ptd5_bINWdlJn403v0llOHUqWdnfLGRjjtPvoyfsCg">](https://music.youtube.com/watch?v=qMCtjPSp54I)
 
-에이제이알 - Bang!
+서영은 (Seo Young Eun) - 웃는 거야
 
-**Albums**: 조회수 3126만회
+**Albums**: Be My Sweet Heart
 
-Last updated at 02/23/2021 19:08
+Last updated at 02/23/2021 19:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
