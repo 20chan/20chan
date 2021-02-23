@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/E0C-tN9QJ3Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=E0C-tN9QJ3Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/watch?v=K0wOfkXULOc)
 
-pops8090 - 박혜경 - Rain (2002年)
+박혜경 - 하루
 
-**Albums**: 조회수 210만회
+**Albums**: O2
 
-Last updated at 02/23/2021 15:08
+Last updated at 02/23/2021 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
