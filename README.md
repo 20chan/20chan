@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LNftCcPJb5Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LNftCcPJb5Y)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ACCEDuwjVp8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ACCEDuwjVp8)
 
-디보 - 디보 (Dbo) - Peacock (Feat. ZENE THE ZILLA) [Official Video]
+바밍타이거 - Armadillo(피처링: Omega Sapien, Byung Un)
 
-**Albums**: 조회수 117만회
+**Albums**: 조회수 172만회
 
-Last updated at 02/23/2021 14:38
+Last updated at 02/23/2021 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
