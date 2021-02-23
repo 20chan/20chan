@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309545e98d9172b05b28f5c0a">](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27306c95838d734f5c0fe3a6a7f">](https://open.spotify.com/album/1ueKr16PBVSG1qQEnf4zdn)
 
-Sub Urban REI AMI - Freak (feat. REI AMI)
+Josh A iamjakehill - Suicidal Thoughts
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:13
+Last updated at 02/23/2021 13:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
