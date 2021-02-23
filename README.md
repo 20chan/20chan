@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/rKsQ-3N-Bks/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rKsQ-3N-Bks)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/WPH1BLHKOJE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WPH1BLHKOJE)
 
-Hata Motohiro - Himawari no Yakusoku
+KOBUKURO - Tsubomi
 
-**Albums**: 조회수 1108만회
+**Albums**: 조회수 7544만회
 
-Last updated at 02/23/2021 16:54
+Last updated at 02/23/2021 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
