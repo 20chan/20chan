@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/POLnmINdcp9J6gsyi3lg2CIYdSmdEe1KRSMWuGaq0VPLAKDUsdwHsk77zjH3fwJQPpjK_zjO-ZGsOqA">](https://music.youtube.com/watch?v=urSMSICQ7Hk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gDjZKHxXqoA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gDjZKHxXqoA)
 
-공일오비(015B) 및 O.WHEN - 세월의 흔적 다 버리고
+로엘Roel - 이누야샤 (犬夜叉) OST - 시대를 초월한 마음 cover
 
-**Albums**: 015B Anthology Pt. 3
+**Albums**: 조회수 604만회
 
-Last updated at 02/23/2021 19:00
+Last updated at 02/23/2021 19:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
