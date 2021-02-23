@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/WPH1BLHKOJE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WPH1BLHKOJE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27367ce4ba6ad3cb5a01e7d47bb">](https://open.spotify.com/album/2bsesPeqS2YBe97cvypVq2)
 
-KOBUKURO - Tsubomi
+Park Hey Li 박혜리 - Nor-way
 
-**Albums**: 조회수 7544만회
+**Albums**: Not supported
 
-Last updated at 02/23/2021 16:59
+Last updated at 02/23/2021 17:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
