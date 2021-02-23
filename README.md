@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">](https://music.youtube.com/watch?v=4fC1M6MjtFM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ybO5txtpLJRWRYALgkJUj1fa5FSMLu-kMRbiClU455w95ryxRSpcChsigMsusvhA1ymSWB9rDdYxBCw">](https://music.youtube.com/watch?v=wpb22AehATU)
 
-One OK Rock(원오크락) - 完全感覚Dreamer
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Loser
 
-**Albums**: Nicheシンドローム
+**Albums**: Loser / Number Nine
 
-Last updated at 02/23/2021 17:48
+Last updated at 02/23/2021 18:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
