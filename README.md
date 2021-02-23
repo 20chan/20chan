@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0xSiBpUdW4E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0xSiBpUdW4E)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lzAyrgSqeeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lzAyrgSqeeE)
 
-aimyon - Marigold
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「orion」
 
-**Albums**: 조회수 2.3억회
+**Albums**: 조회수 1.4억회
 
-Last updated at 02/23/2021 16:11
+Last updated at 02/23/2021 16:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
