@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ddff645014fd90c003c6dab1">](https://open.spotify.com/album/1DItGYUnooSffYpT3p0tsL)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebf4e3b60801ac4972d47317">](https://open.spotify.com/album/29Xikj6r9kQDSbnZWCCW2s)
 
-Tommee Profitt Jung Youth - Only One King
+AJR - Karma
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 14:02
+Last updated at 02/23/2021 14:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
