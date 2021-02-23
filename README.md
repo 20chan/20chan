@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-VKIqrvVOpo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/s582L3gujnw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=s582L3gujnw)
 
-Yorushika(ヨルシカ) - Tada Kimi ni Hare
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「パプリカ」Kenshi Yonezu / Paprika
 
 **Albums**: 조회수 1.2억회
 
-Last updated at 02/23/2021 16:39
+Last updated at 02/23/2021 16:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
