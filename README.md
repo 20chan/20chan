@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/OLBK68chuhU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OLBK68chuhU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xbUEALSCGNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xbUEALSCGNA)
 
-Kid Milli, Jvcki Wai 및 스윙스(Swings) - 인디고 컴필레이션 재키와이 파트 모음 (가사자막)
+메킷레인 - Weathermen
 
-**Albums**: 조회수 6.3천회
+**Albums**: 조회수 913만회
 
-Last updated at 02/23/2021 15:01
+Last updated at 02/23/2021 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
