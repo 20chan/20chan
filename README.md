@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9K3ify-ajj-GxBVKVLAgBmHijgpX9BdRpfhZW90Zkx25RTzsveX6oLtSmEv9RrCOvNKKjW6Wla7RrdoP">](https://music.youtube.com/watch?v=plFQxxI93Us)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JkrpLH32mvdKFQ-Ggrv6dF2ADPRosDbpe80YB05jncT6J_2zq8boK9cKUO81SzjCdX3VVdSb51_xjSr-">](https://music.youtube.com/watch?v=AspEBUh6TTg)
 
-한요한 - 반복
+TWLV, Uneducated Kid, YUZION 및 SUPERBEE - Summer!
 
-**Albums**: 반복
+**Albums**: Dingo X Yng & Rich Records (Part 2)
 
-Last updated at 02/23/2021 14:29
+Last updated at 02/23/2021 14:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
