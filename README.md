@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/aElCJOA-orM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=aElCJOA-orM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/EMZmxXFu7yY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EMZmxXFu7yY)
 
-Jeff Hwang 2 - 천재노창 - 억지로웃지않ㄹ위치 ㄹ
+deso - Le Nonsense - Broomstick's Joyful Ride
 
-**Albums**: 조회수 21만회
+**Albums**: 조회수 4.4만회
 
-Last updated at 02/23/2021 15:16
+Last updated at 02/23/2021 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
