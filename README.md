@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27326f401c31ac9944252d66fab">](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738ab2bb0e468ff484dc44dcc7">](https://open.spotify.com/album/1lxOTjnDs6u4UHn2fzMNxu)
 
-The Score - Stronger
+MISSIO - Dizzy
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:06
+Last updated at 02/23/2021 13:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
