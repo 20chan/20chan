@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27384350b406522fc53c1b2a621">](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273304ae5169ad8e53e261b93f2">](https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C)
 
-Masked Wolf - Astronaut In The Ocean
+League of Legends The Glitch Mob Mako The Word Alive - RISE
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 12:42
+Last updated at 02/23/2021 12:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
