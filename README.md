@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gdw7BFLSuQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gdw7BFLSuQs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/EZ0hCATlcgY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EZ0hCATlcgY)
 
-THECUT - JUSTHIS (저스디스), Don Malik(던말릭) - DOPPELGÄNGEM Freestyle (Live)
+E SENS - sleep tight
 
-**Albums**: 조회수 67만회
+**Albums**: 조회수 181만회
 
-Last updated at 02/23/2021 14:52
+Last updated at 02/23/2021 14:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
