@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JkrpLH32mvdKFQ-Ggrv6dF2ADPRosDbpe80YB05jncT6J_2zq8boK9cKUO81SzjCdX3VVdSb51_xjSr-">](https://music.youtube.com/watch?v=AspEBUh6TTg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4VEEelX4gc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4VEEelX4gc4)
 
-TWLV, Uneducated Kid, YUZION 및 SUPERBEE - Summer!
+디보 - Horse
 
-**Albums**: Dingo X Yng & Rich Records (Part 2)
+**Albums**: 조회수 97만회
 
-Last updated at 02/23/2021 14:33
+Last updated at 02/23/2021 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
