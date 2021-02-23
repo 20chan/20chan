@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27306c95838d734f5c0fe3a6a7f">](https://open.spotify.com/album/1ueKr16PBVSG1qQEnf4zdn)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27397d11a89e5fd70347099f7c9">](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy)
 
-Josh A iamjakehill - Suicidal Thoughts
+grandson - Blood // Water
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:16
+Last updated at 02/23/2021 13:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
