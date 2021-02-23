@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ptnYBctoexk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ptnYBctoexk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/W-Tun8O-Tjk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=W-Tun8O-Tjk)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「馬と鹿」Uma to Shika
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師　MV『vivi』
 
-**Albums**: 조회수 1.5억회
+**Albums**: 조회수 4813만회
 
-Last updated at 02/23/2021 15:24
+Last updated at 02/23/2021 15:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
