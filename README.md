@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/watch?v=B0sBYLag3-s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/watch?v=bbLFJFyCZO8)
 
-창모(CHANGMO) - Interlude
+창모(CHANGMO) - Lilac(피처링: 최정훈 of 잔나비)
 
 **Albums**: Dnsg
 
-Last updated at 02/23/2021 14:15
+Last updated at 02/23/2021 14:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
