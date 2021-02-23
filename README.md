@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ACCEDuwjVp8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ACCEDuwjVp8)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
 
-바밍타이거 - Armadillo(피처링: Omega Sapien, Byung Un)
+Two Feet - Go Fuck Yourself
 
-**Albums**: 조회수 172만회
+**Albums**: Not supported
 
-Last updated at 02/23/2021 14:42
+Last updated at 02/23/2021 14:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
