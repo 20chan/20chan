@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27361a2e739fc2a853c99497fc7">](https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ddff645014fd90c003c6dab1">](https://open.spotify.com/album/1DItGYUnooSffYpT3p0tsL)
 
-Set It Off Ash Costello - Partners in Crime (feat. Ash Costello)
+Tommee Profitt Jung Youth - Only One King
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:58
+Last updated at 02/23/2021 14:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
