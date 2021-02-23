@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27384f08a509689b140f1bf931d">](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734dcb57d2393e73d651326fd2">](https://open.spotify.com/album/1ORTCmnbQV1V8eBeamDvfP)
 
-The Score blackbear - Dreamin (with blackbear)
+Confetti - Right Now
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 14:10
+Last updated at 02/23/2021 14:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
