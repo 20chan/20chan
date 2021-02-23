@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fa78a51a07cb7bf1ce9febe4">](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273236fd6fa4027394c3cef383c">](https://open.spotify.com/album/0yOfmrFPTbE4enpPh6huay)
 
-grandson - Despicable
+The Tech Thieves - Fake
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 12:47
+Last updated at 02/23/2021 12:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
