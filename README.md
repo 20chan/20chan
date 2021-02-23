@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HUmsOGk7OnIJleekpLmXLuZ_9Igvhv8fwVigKVbuzqjYo3Mj5iWMVXYAPZgbAaCpyVOW9W2cu8NZS52m7g">](https://music.youtube.com/watch?v=dEfl-ObuapA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg">](https://music.youtube.com/watch?v=PgMSpX8mjJE)
 
-Eve - Dramaturgy
+미나미 - ライラック
 
-**Albums**: Bunka
+**Albums**: カワキヲアメク
 
-Last updated at 02/23/2021 17:26
+Last updated at 02/23/2021 17:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
