@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27397d11a89e5fd70347099f7c9">](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a7d2a32aa2ccbc9f36191f10">](https://open.spotify.com/album/60tzyfHtJFQxHBS4So4t8J)
 
-grandson - Blood // Water
+iamjakehill - Die a King
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:19
+Last updated at 02/23/2021 13:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
