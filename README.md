@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273304ae5169ad8e53e261b93f2">](https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fa78a51a07cb7bf1ce9febe4">](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV)
 
-League of Legends The Glitch Mob Mako The Word Alive - RISE
+grandson - Despicable
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 12:44
+Last updated at 02/23/2021 12:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
