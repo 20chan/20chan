@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734dcb57d2393e73d651326fd2">](https://open.spotify.com/album/1ORTCmnbQV1V8eBeamDvfP)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/watch?v=B0sBYLag3-s)
 
-Confetti - Right Now
+창모(CHANGMO) - Interlude
 
-**Albums**: Not supported
+**Albums**: Dnsg
 
-Last updated at 02/23/2021 14:14
+Last updated at 02/23/2021 14:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
