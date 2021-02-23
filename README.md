@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736c6f350ef81efe80b0164b19">](https://open.spotify.com/album/0z24XzwOR8RobYQxacyDpS)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27370a71a630e82020b916a7b92">](https://open.spotify.com/album/1sf6fIA9xywLBVsKbYz0sJ)
 
-Rival Cadmium Rosendale - Willow Tree
+TheFatRat Slaydit Anjulie - Stronger
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:35
+Last updated at 02/23/2021 13:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
