@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ebf4e3b60801ac4972d47317">](https://open.spotify.com/album/29Xikj6r9kQDSbnZWCCW2s)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27384f08a509689b140f1bf931d">](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE)
 
-AJR - Karma
+The Score blackbear - Dreamin (with blackbear)
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 14:06
+Last updated at 02/23/2021 14:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
