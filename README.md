@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4VEEelX4gc4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4VEEelX4gc4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LNftCcPJb5Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LNftCcPJb5Y)
 
-디보 - Horse
+디보 - 디보 (Dbo) - Peacock (Feat. ZENE THE ZILLA) [Official Video]
 
-**Albums**: 조회수 97만회
+**Albums**: 조회수 117만회
 
-Last updated at 02/23/2021 14:35
+Last updated at 02/23/2021 14:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
