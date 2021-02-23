@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8VYjYGEFXJ2ahuW_aTJK716nqKRt_zdH3G9VS6E7ptd5_bINWdlJn403v0llOHUqWdnfLGRjjtPvoyfsCg">](https://music.youtube.com/watch?v=qMCtjPSp54I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/cDGeR1esgYlreZSt4z_oHwSM1wgcVr_BHCNgpy5y53FWNnvGgvrM1LLX906V9vjItDHF9sx0fmKDXE4">](https://music.youtube.com/watch?v=hsj7a6vLa4c)
 
-서영은 (Seo Young Eun) - 웃는 거야
+서영은 - 그대를 만나는 곳 100미터전
 
-**Albums**: Be My Sweet Heart
+**Albums**: Remake Romantic 2
 
-Last updated at 02/23/2021 19:11
+Last updated at 02/23/2021 19:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
