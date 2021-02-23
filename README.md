@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/UFQEttrn6CQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=UFQEttrn6CQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Mi9uNu35Gmk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Mi9uNu35Gmk)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「感電」
+세카이노 오와리 - SEKAI NO OWARI「RPG」
 
-**Albums**: 조회수 1.2억회
+**Albums**: 조회수 1.8억회
 
-Last updated at 02/23/2021 16:00
+Last updated at 02/23/2021 16:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
