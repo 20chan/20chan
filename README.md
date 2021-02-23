@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">](https://music.youtube.com/watch?v=bbLFJFyCZO8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/h7bs8nxW8A8jBxljxrVRWmtfk6F_3HEpLbHf5yajs9_yz-a-56Hu26Mpu-r4Vx4iub9JEcG0zZdUwoAM">](https://music.youtube.com/watch?v=XeR5lk8pPRU)
 
-창모(CHANGMO) - Lilac(피처링: 최정훈 of 잔나비)
+CODE KUNST, CHOI JUNG HOON of JANNABI, Simon Dominic - 사라진 모든 것들에게(with ELLE KOREA)
 
-**Albums**: Dnsg
+**Albums**: RECONNECT
 
-Last updated at 02/23/2021 14:18
+Last updated at 02/23/2021 14:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
