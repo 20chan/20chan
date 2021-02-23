@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x35pQltTJ4MZULsMAfNdNKR5jIytavtdWSw_Jdregx3UXx9vzLcO2miKFIMC80iUcCauihe0tV_WFrLbyw">](https://music.youtube.com/watch?v=XEHvZ5GrfM8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GHVNMErvs-zTlvWUNiruGcL8wg7qLiAXdYOCefn8cg7Zm-z7pqj6vk6LwnokvsRKxvmccrVA8KPvdik">](https://music.youtube.com/watch?v=wNjvuRZtQeI)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Eine Kleine
+Mrs. GREEN APPLE - Inferno
 
-**Albums**: Yankee
+**Albums**: Inferno
 
-Last updated at 02/23/2021 18:18
+Last updated at 02/23/2021 18:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
