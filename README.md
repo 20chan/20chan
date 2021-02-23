@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5GI5FvMKp9U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5GI5FvMKp9U)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gdw7BFLSuQs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gdw7BFLSuQs)
 
-니니 - 비프리 - My Team (Feat. 레디, 오케이션, 허클베리피, 팔로알토, 키스에이프)
+THECUT - JUSTHIS (저스디스), Don Malik(던말릭) - DOPPELGÄNGEM Freestyle (Live)
 
-**Albums**: 조회수 112만회
+**Albums**: 조회수 67만회
 
-Last updated at 02/23/2021 14:51
+Last updated at 02/23/2021 14:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
