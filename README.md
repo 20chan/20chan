@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27317c6a62b4a3dfc26ce558505">](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27361a2e739fc2a853c99497fc7">](https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6)
 
-MASN - Psycho!
+Set It Off Ash Costello - Partners in Crime (feat. Ash Costello)
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 13:55
+Last updated at 02/23/2021 13:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
