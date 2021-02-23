@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d5568dedd90ea5dcc0fd063a">](https://open.spotify.com/album/7IOiagLHQmBE6XPpYPSQMF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273caa3fa694ed00c261e8334ab">](https://open.spotify.com/album/3y7kTb2ve1Hy4QjDyX5nOE)
 
-NEFFEX - Rumors
+Codfish - Boulevard of Broken Dreams
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 12:53
+Last updated at 02/23/2021 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
