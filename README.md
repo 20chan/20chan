@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/EMZmxXFu7yY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=EMZmxXFu7yY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ptnYBctoexk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ptnYBctoexk)
 
-deso - Le Nonsense - Broomstick's Joyful Ride
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「馬と鹿」Uma to Shika
 
-**Albums**: 조회수 4.4만회
+**Albums**: 조회수 1.5억회
 
-Last updated at 02/23/2021 15:19
+Last updated at 02/23/2021 15:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
