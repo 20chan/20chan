@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/IbxPvOIWRX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IbxPvOIWRX8)
 
-Two Feet - Go Fuck Yourself
+Yung Pinch - Sex With Friends
 
-**Albums**: Not supported
+**Albums**: 조회수 28만회
 
-Last updated at 02/23/2021 14:44
+Last updated at 02/23/2021 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
