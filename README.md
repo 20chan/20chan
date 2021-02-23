@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GHVNMErvs-zTlvWUNiruGcL8wg7qLiAXdYOCefn8cg7Zm-z7pqj6vk6LwnokvsRKxvmccrVA8KPvdik">](https://music.youtube.com/watch?v=wNjvuRZtQeI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EKSrcL7sEDbhTbqO2wiqO3txHCOmmPiYw7nvQRfsS19luo6bwrS9mhgauQj8YZPHyYcpICs7dbTTACFxNQ">](https://music.youtube.com/watch?v=VifmYXA9wuQ)
 
-Mrs. GREEN APPLE - Inferno
+BLUE ENCOUNT - Polaris
 
-**Albums**: Inferno
+**Albums**: Polaris (Special Edition)
 
-Last updated at 02/23/2021 18:23
+Last updated at 02/23/2021 18:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
