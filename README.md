@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xXAzLLpxpSVK_xIZGhnoVKq-PtSCRJWx5x8pfc_pNc50IoYghRLEqsT25d7YKqM4DM3D2TBYTO-Ua7oK">](https://music.youtube.com/watch?v=fY0uTSYHvA4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Foctrr-Tbi1sujxJA-woShSUbnysDMgPWCcI1Dx8Um5_CBa1CLNHMMKti9eRM1-gHqK42TT3LWP0CvYg">](https://music.youtube.com/watch?v=OxZJUH2zQ0c)
 
-일기예보 - 인형의 꿈
+서영은 - 혼자가 아닌 나
 
-**Albums**: For Everlasting
+**Albums**: 서영은 4집(Gift)
 
-Last updated at 02/23/2021 19:19
+Last updated at 02/23/2021 19:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
