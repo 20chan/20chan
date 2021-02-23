@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KsfZydnDywg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KsfZydnDywg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b7654c3200adac6a101db0ab">](https://open.spotify.com/album/7p7QkA2uAymfgGkyhuNa7J)
 
-박태섬 - 장덕노래모음 30곡
+Hedley - Lose Control
 
-**Albums**: 조회수 4.6만회
+**Albums**: Not supported
 
-Last updated at 02/22/2021 19:28
+Last updated at 02/23/2021 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
