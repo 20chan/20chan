@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273caa3fa694ed00c261e8334ab">](https://open.spotify.com/album/3y7kTb2ve1Hy4QjDyX5nOE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739d7a1d11cfa9d384b4a953ae">](https://open.spotify.com/album/0LLXezdh5Ytw8SU9Z0Xg8c)
 
-Codfish - Boulevard of Broken Dreams
+Stephen - Play Me Like A Violin
 
 **Albums**: Not supported
 
-Last updated at 02/23/2021 12:57
+Last updated at 02/23/2021 12:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
