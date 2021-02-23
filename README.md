@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xbUEALSCGNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xbUEALSCGNA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/E0C-tN9QJ3Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=E0C-tN9QJ3Q)
 
-메킷레인 - Weathermen
+pops8090 - 박혜경 - Rain (2002年)
 
-**Albums**: 조회수 913만회
+**Albums**: 조회수 210만회
 
-Last updated at 02/23/2021 15:03
+Last updated at 02/23/2021 15:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
