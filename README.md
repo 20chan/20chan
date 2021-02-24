@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737cb46e17871d44ee397e664c">](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737fcfc3b95fedf798311db9d7">](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll)
 
-Easy Life - nightmares
+I DONT KNOW HOW BUT THEY FOUND ME - Leave Me Alone
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:28
+Last updated at 02/24/2021 18:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
