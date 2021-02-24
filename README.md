@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737fcfc3b95fedf798311db9d7">](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bf076bd9b8ad8facbb19f473">](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN)
 
-I DONT KNOW HOW BUT THEY FOUND ME - Leave Me Alone
+JAWNY - Honeypie
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:31
+Last updated at 02/24/2021 18:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
