@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GpSsQGaGIw0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GpSsQGaGIw0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/--hvc82l9JGuKZsfkUGdvm0oQXMKFELdHLYTyogLUSrDa2ewwuIiKfQOc8uWRVvF284pY7NAKI0oXZ_1nA">](https://music.youtube.com/watch?v=QadgJmNfMc8)
 
-김현정 - 혼자한 사랑
+SEAMO - Cry Baby
 
-**Albums**: 조회수 336만회
+**Albums**: perfect seamo
 
-Last updated at 02/24/2021 15:42
+Last updated at 02/24/2021 15:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
