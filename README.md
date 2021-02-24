@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GpSsQGaGIw0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=GpSsQGaGIw0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Qqg1BciIo-Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qqg1BciIo-Y)
 
-김현정 - 혼자한 사랑
+kb jeong - Hey - je t`aime(쥬뗌므) - (2001년)
 
-**Albums**: 조회수 336만회
+**Albums**: 조회수 105만회
 
-Last updated at 02/24/2021 15:31
+Last updated at 02/24/2021 15:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
