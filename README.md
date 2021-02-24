@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f9ab90760af53893168b0b67">](https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6dfb454b77efaccc1371d14">](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG)
 
-Max Frost - Adderall
+I DONT KNOW HOW BUT THEY FOUND ME - Absinthe
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 16:57
+Last updated at 02/24/2021 17:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
