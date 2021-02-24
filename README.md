@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d07978445afeaa3b5af0acb7">](https://open.spotify.com/album/1HaSvtbWDDrsF1kuRE7400)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309a8b1003c549b4a53f60852">](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB)
 
-Matt Maeson - Me and My Friends Are Lonely
+SEBASTIAN PAUL - TROJAN HORSE
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:02
+Last updated at 02/24/2021 18:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
