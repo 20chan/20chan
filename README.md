@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XEjLoHdbVeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XEjLoHdbVeE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xQwtw5dswyE1kci8uZ0qvB5wYakS-ATfizB_wG8slC8WHv1JpzIYa2cReTgFt6qzuj4Its1OQRWzxKU">](https://music.youtube.com/watch?v=N38-JP85B0I)
 
-ABBA(아바) - Gimme! Gimme! Gimme! (A Man After Midnight) - Video Edit
+London Boys(런던 보이즈) - I'm Gonna Give My Heart
 
-**Albums**: 조회수 2.1억회
+**Albums**: The Twelve Commandments Of Dance
 
-Last updated at 02/24/2021 14:41
+Last updated at 02/24/2021 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
