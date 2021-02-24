@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Ce0dhdu20IY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ce0dhdu20IY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YRl08Kj7ewJeoWUSBqeWNKX2ytDMy4UPf0sj7ln_4d65ZjC9_JL1fbYaismjkDPX2N7H9a_Y_zYgfIMM">](https://music.youtube.com/watch?v=rwd7YtNDIqU)
 
-Trap Nation - MORTEN - Beautiful Heartbeat (Nine Lives Remix)
+Yama 및 Hitoshizuku - Onegaisekai(피처링: Len Kagamine, Rin Kagamine)
 
-**Albums**: 조회수 247만회
+**Albums**: Mistletoe -Kamigami no yadorigi
 
-Last updated at 02/24/2021 10:43
+Last updated at 02/24/2021 10:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
