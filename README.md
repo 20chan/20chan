@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dwlPxZVyQqDSu5rDLvtlBGp0-1WF-DLxbGUWjgc_RSD-5U5Y7nGFVFAGsHbQguMIElaU5yNQVU_ZOs4">](https://music.youtube.com/watch?v=jPbrVlxwBTo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VKzAC8RP7Eg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VKzAC8RP7Eg)
 
-그_냥 - 안녕
+남우현 - 이수영-라라라 (Lee Soo-young - Lalala)
 
-**Albums**: 안_녕..
+**Albums**: 조회수 210만회
 
-Last updated at 02/24/2021 10:29
+Last updated at 02/24/2021 10:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
