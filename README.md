@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/9jK-NcRmVcw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9jK-NcRmVcw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XfR9iY5y94s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XfR9iY5y94s)
 
-유럽 - The Final Countdown
+멘 앳 워크 - Down Under
 
-**Albums**: 조회수 8.5억회
+**Albums**: 조회수 2.4억회
 
-Last updated at 02/24/2021 13:02
+Last updated at 02/24/2021 13:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
