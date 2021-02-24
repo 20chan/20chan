@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-nk5ig_1BIA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-nk5ig_1BIA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Ce0dhdu20IY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ce0dhdu20IY)
 
-Trap Nation - Star Wars - The Force Theme (Far Out Remix)
+Trap Nation - MORTEN - Beautiful Heartbeat (Nine Lives Remix)
 
-**Albums**: 조회수 1895만회
+**Albums**: 조회수 247만회
 
-Last updated at 02/24/2021 10:40
+Last updated at 02/24/2021 10:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
