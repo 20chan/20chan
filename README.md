@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B9818xpMvQhDLUTN6L75pPCXouHn4aAR-MpOatH6cKQvzkCLWSTKm6DVmpOnjLBk1NeKbtyIs4Bof36_">](https://music.youtube.com/watch?v=feLyw9hjvog)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qo6ygYSxwEY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qo6ygYSxwEY)
 
-래원 (Layone) - 해바라기(피처링: 버벌진트)
+Gioni - Trigger
 
-**Albums**: 해바라기
+**Albums**: 조회수 8784만회
 
-Last updated at 02/24/2021 12:25
+Last updated at 02/24/2021 12:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
