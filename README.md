@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea">](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b74e560074b933866d5496e3">](https://open.spotify.com/album/5RKLyPZ4P8WhO1uxDMXGe7)
 
-Glass Animals - Your Love (Déjà Vu)
+Joywave - It's A Trip!
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:42
+Last updated at 02/24/2021 18:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
