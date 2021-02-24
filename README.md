@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f113045fd418c5802647d45d">](https://open.spotify.com/album/6E4HINIBH1WNffyHoo0uZD)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273667a552700a09676a52ccf0f">](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td)
 
-Verzache - Losing My Love
+COIN - Cemetery
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 16:48
+Last updated at 02/24/2021 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
