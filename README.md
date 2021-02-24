@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273be9f834ad14e0d95a35a6981">](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr)
 
-Glass Animals - Season 2 Episode 3
+K.Flay - High Enough
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:58
+Last updated at 02/24/2021 19:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
