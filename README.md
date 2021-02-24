@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738fcbcb3e5252e5f98f515978">](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731dc123fb5cc3f294c91a3dfd">](https://open.spotify.com/album/3LZ8zFQ1HXUImtjdBLzvXF)
 
-Miracle Musical - Dream Sweet in Sea Major
+I DONT KNOW HOW BUT THEY FOUND ME - Bleed Magic
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:52
+Last updated at 02/24/2021 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
