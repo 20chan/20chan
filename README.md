@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f2c3c3a28e7e0c2c12e0e316">](https://open.spotify.com/album/5cTV8MHQCUnZNq8WyBVjBf)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e1b41f261acaa01849b42991">](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG)
 
-I DONT KNOW HOW BUT THEY FOUND ME - Modern Day Cain
+Young the Giant - Silvertongue
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:37
+Last updated at 02/24/2021 17:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
