@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731b6dedfcf8b05b06b6bd002f">](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea">](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV)
 
-alt-J - Breezeblocks
+Glass Animals - Dreamland
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:30
+Last updated at 02/24/2021 17:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
