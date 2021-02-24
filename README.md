@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b573786e99ee850cb2d04822">](https://open.spotify.com/album/5nBi2KxnApejxYC1Eb8XNl)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735ba2df72623080c184540c74">](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE)
 
-Cosmo Sheldrake - Birthday Suit
+Verzache - Needs
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:16
+Last updated at 02/24/2021 18:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
