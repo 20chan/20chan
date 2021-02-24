@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1lUg589cjHP6PPC-kYV_ORhhrFGbL42F7kDfMnmRT8IpI_4K2Gexv5tU27RUWGA4kH-BcK-Iuy1DDss">](https://music.youtube.com/watch?v=lwifHu_36hI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bzLlnjsPEDDce_tDan9XZtlCiTnQGiNQYIJvERwQR4RCFEvDQ8GBT-5DOfpb_n5HyH7glqpmjKBHjWCH">](https://music.youtube.com/watch?v=bZNEnO3zU2I)
 
-Stileto - Cravin
+Juke Ross - We Never Die
 
-**Albums**: Cravin
+**Albums**: We Never Die
 
-Last updated at 02/24/2021 10:57
+Last updated at 02/24/2021 10:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
