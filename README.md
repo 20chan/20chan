@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xQwtw5dswyE1kci8uZ0qvB5wYakS-ATfizB_wG8slC8WHv1JpzIYa2cReTgFt6qzuj4Its1OQRWzxKU">](https://music.youtube.com/watch?v=bF68xo_ED5k)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RC0Krk-4KlE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RC0Krk-4KlE)
 
-London Boys(런던 보이즈) - Harlem Desire
+Shannon Gwiyomi - Orange Caramel(오렌지캬라멜) - Magic Girl(마법소녀) Color Coded Lyrics [Han/Rom/Eng]
 
-**Albums**: The Twelve Commandments Of Dance
+**Albums**: 조회수 82만회
 
-Last updated at 02/24/2021 14:55
+Last updated at 02/24/2021 14:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
