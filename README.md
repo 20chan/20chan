@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TkaPXgddk9rFHjV9W98KaBGRaejb-HjuZB7RxSM4Mt0C6mwfxeNcTdjFR4OsnQf38AdR1KEimZ0xA6c">](https://music.youtube.com/watch?v=DhNWHW4B5hg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JBgxKIABrNo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JBgxKIABrNo)
 
-자우림 - 17171771
+Jetta - Take It Easy
 
-**Albums**: All You Need Is Love
+**Albums**: 조회수 97만회
 
-Last updated at 02/24/2021 11:36
+Last updated at 02/24/2021 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
