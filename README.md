@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k3FA0OV6_6p8DPlFPdq0ItWoONfpcciFp8FXuzK7RohNdWhgqWcMiGf0t1gKcBVQ9L0y4eRBwShcfsK9">](https://music.youtube.com/watch?v=gt_12Y6hPLc)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwngEZ4nEOoDuzxRgflUF_Unb60ljtiTwbf1yRBjPYw=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCyo4FFY5_6v_ZzPl-Fq6FZw)
 
-Toploader - Dancing in the Moonlight (2001 Remix)
+Owl City - Shooting Star (Official Music Video)
 
-**Albums**: Onka's Big Moka
+**Albums**: Not supported
 
-Last updated at 02/24/2021 16:15
+Last updated at 02/24/2021 16:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
