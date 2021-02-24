@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273af9453a8f1d70354e9f934d3">](https://open.spotify.com/album/6ce5GL0xsB7gyYjE8psUkI)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731b6dedfcf8b05b06b6bd002f">](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL)
 
-Saint Motel - A Good Song Never Dies
+alt-J - Breezeblocks
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:26
+Last updated at 02/24/2021 17:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
