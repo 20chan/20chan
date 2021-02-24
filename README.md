@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Qqg1BciIo-Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Qqg1BciIo-Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/watch?v=5-FSQ_yTCoc)
 
-kb jeong - Hey - je t`aime(쥬뗌므) - (2001년)
+JuJu Club - 公主後遺症
 
-**Albums**: 조회수 105만회
+**Albums**: 16／20
 
-Last updated at 02/24/2021 15:35
+Last updated at 02/24/2021 15:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
