@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwngEZ4nEOoDuzxRgflUF_Unb60ljtiTwbf1yRBjPYw=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCyo4FFY5_6v_ZzPl-Fq6FZw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ayIjXBsv08m4ge-Ft-HxwSMEzJcZN_alKQM_9UGY9akvE1M16peWoKun3n9s25yIyMt2__uPYERb5v6DPQ">](https://music.youtube.com/watch?v=XqVJ76jFMD0)
 
-Owl City - Owl City & Carly Rae Jepsen - Good Time (Official Video)
+Jon Bellion - All Time Low
 
-**Albums**: Not supported
+**Albums**: The Human Condition
 
-Last updated at 02/24/2021 16:32
+Last updated at 02/24/2021 16:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
