@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/e-ijD7kdTs4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=e-ijD7kdTs4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nZc4qWD9xpT8aCNAYeSp5vjXzNF3btS_kgZaieyQgNoz_OfCTzYpx9VmtPMF3e9kIqAIbW5Qd-GV_Pb2">](https://music.youtube.com/watch?v=Umzcia9C-ho)
 
-짙은 - 잘 지내자, 우리
+데이브레이크 - Flower Road 꽃길만 걷게 해줄게
 
-**Albums**: 조회수 244만회
+**Albums**: WITH
 
-Last updated at 02/24/2021 11:06
+Last updated at 02/24/2021 11:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
