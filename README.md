@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e9774ee3932efbc4c3d68e6b">](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273641659fda6c66fc62d34b7c0">](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE)
 
-I DONT KNOW HOW BUT THEY FOUND ME - Choke
+BETWEEN FRIENDS - affection
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 19:12
+Last updated at 02/24/2021 19:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
