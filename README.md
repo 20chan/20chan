@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2kaDZdEdKfVdFZgmJaWbYLFIIxhRZmVxCzl8pZTHzBzTkyZj9GjtIYifh8qfRBTEtUx-U540uQtaR8pA9Q">](https://music.youtube.com/watch?v=GhBOZ0GMFic)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/U_Qkn7WoOy4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U_Qkn7WoOy4)
 
-Cher Lloyd - None Of My Business
+anaraquelk2 - VOCALOID2 Hatsune Miku - celluloid (HD and Lyrics)
 
-**Albums**: None Of My Business
+**Albums**: 조회수 10만회
 
-Last updated at 02/24/2021 15:16
+Last updated at 02/24/2021 15:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
