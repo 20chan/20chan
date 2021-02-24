@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea">](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f2c3c3a28e7e0c2c12e0e316">](https://open.spotify.com/album/5cTV8MHQCUnZNq8WyBVjBf)
 
-Glass Animals - Dreamland
+I DONT KNOW HOW BUT THEY FOUND ME - Modern Day Cain
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:34
+Last updated at 02/24/2021 17:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
