@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c">](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731b8bd01f372e726845067c2e">](https://open.spotify.com/album/4u8WQJuGK4qZEHDb9y4l7Q)
 
-half•alive - still feel.
+K.Flay - FML
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:19
+Last updated at 02/24/2021 17:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
