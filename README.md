@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735ba2df72623080c184540c74">](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e7dd69ac32cf313fde62cbad">](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ)
 
-Verzache - Needs
+Cage The Elephant - Trouble
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:17
+Last updated at 02/24/2021 18:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
