@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27325a5a1ed28871e8e53e62d59">](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b573786e99ee850cb2d04822">](https://open.spotify.com/album/5nBi2KxnApejxYC1Eb8XNl)
 
-Tally Hall - Turn the Lights Off
+Cosmo Sheldrake - Birthday Suit
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:13
+Last updated at 02/24/2021 18:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
