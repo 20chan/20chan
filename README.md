@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bzLlnjsPEDDce_tDan9XZtlCiTnQGiNQYIJvERwQR4RCFEvDQ8GBT-5DOfpb_n5HyH7glqpmjKBHjWCH">](https://music.youtube.com/watch?v=bZNEnO3zU2I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3II47qHdJmSW_QmT0luHoBVpVWDP9Tmr1IN9JDehH8W90XdW46wfLKev9PXcykfZaf_Na_w_z0DahZlS">](https://music.youtube.com/watch?v=tgyJNXv8dGQ)
 
-Juke Ross - We Never Die
+르메트르 - Closer(피처링: Jennie A.)
 
-**Albums**: We Never Die
+**Albums**: 1749
 
-Last updated at 02/24/2021 10:58
+Last updated at 02/24/2021 11:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
