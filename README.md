@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273df84276f96e5a77e802bacd8">](https://open.spotify.com/album/5nTrWmCP1kjEeK3SuuS3PP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27300b39b4a73d28536690b355c">](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA)
 
-Bad Suns - Daft Pretty Boys
+Peach Pit - Alrighty Aphrodite
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:52
+Last updated at 02/24/2021 18:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
