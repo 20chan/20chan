@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W5IMgSMdbCtIpw2kJyVm2fERRU2FXP4uwZNg3BHE3Wil5M5-oA_f6h6cWmnrjkjj3ILHu35QfibO8oDnag">](https://music.youtube.com/watch?v=rl3aRKyDuHg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/D4JerFtvYTw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=D4JerFtvYTw)
 
-딕펑스 - VIVA 청춘
+Anxiety yee 불안한yee - 상냥함은 Kindness
 
-**Albums**: Viva Primavera
+**Albums**: 조회수 6.9만회
 
-Last updated at 02/24/2021 11:15
+Last updated at 02/24/2021 11:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
