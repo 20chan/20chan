@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/D4JerFtvYTw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=D4JerFtvYTw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Mfg_0o6GtsF8BC2fxnjgfcwIQulmZ2NlFPHaVeTx0ICIxxFdW35D5IiDzHru3j5UlI3hC6RnIgcqvDc">](https://music.youtube.com/watch?v=t2ZS_8JHtes)
 
-Anxiety yee 불안한yee - 상냥함은 Kindness
+Cherry Filter(체리필터) - Feel it(느껴봐)
 
-**Albums**: 조회수 6.9만회
+**Albums**: Rewind (Remake Album)
 
-Last updated at 02/24/2021 11:18
+Last updated at 02/24/2021 11:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
