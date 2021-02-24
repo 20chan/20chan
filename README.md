@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/GuTj-AwOmUo/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=GuTj-AwOmUo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1lUg589cjHP6PPC-kYV_ORhhrFGbL42F7kDfMnmRT8IpI_4K2Gexv5tU27RUWGA4kH-BcK-Iuy1DDss">](https://music.youtube.com/watch?v=lwifHu_36hI)
 
-Yumin Na - 차태현 러브스토리
+Stileto - Cravin
 
-**Albums**: 조회수 13만회
+**Albums**: Cravin
 
-Last updated at 02/24/2021 10:53
+Last updated at 02/24/2021 10:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
