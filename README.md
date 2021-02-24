@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738fcbcb3e5252e5f98f515978">](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN)
 
-Glass Animals - Cane Shuga
+Miracle Musical - Dream Sweet in Sea Major
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:49
+Last updated at 02/24/2021 17:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
