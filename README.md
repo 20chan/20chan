@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xNc5wcKd8M8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xNc5wcKd8M8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oFmAlvSzHnGy5focJlJBOKNDCL0PTUV1G9bLecKgcmb5RuD3F98zgaEzTMFW84uAjECT1MSbYWtgoAZs">](https://music.youtube.com/watch?v=qe2aquBoXgE)
 
-CuitePenguin - SID-Sound, 여래아(黎崍阿) (+ Lyrics)
+브로큰발렌타인 - 알루미늄
 
-**Albums**: 조회수 726만회
+**Albums**: Aluminium
 
-Last updated at 02/24/2021 12:31
+Last updated at 02/24/2021 12:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
