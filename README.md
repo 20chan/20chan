@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JBgxKIABrNo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JBgxKIABrNo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B9818xpMvQhDLUTN6L75pPCXouHn4aAR-MpOatH6cKQvzkCLWSTKm6DVmpOnjLBk1NeKbtyIs4Bof36_">](https://music.youtube.com/watch?v=feLyw9hjvog)
 
-Jetta - Take It Easy
+래원 (Layone) - 해바라기(피처링: 버벌진트)
 
-**Albums**: 조회수 97만회
+**Albums**: 해바라기
 
-Last updated at 02/24/2021 12:21
+Last updated at 02/24/2021 12:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
