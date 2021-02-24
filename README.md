@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ca8ca1a02032c0943de6e136">](https://open.spotify.com/album/4MRCHFNTaIipvwa7KGpaWF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
 
-Jack Stauber's Micropop - Two Time
+half•alive - The Fall
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:43
+Last updated at 02/24/2021 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
