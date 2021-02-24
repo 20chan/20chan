@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ayIjXBsv08m4ge-Ft-HxwSMEzJcZN_alKQM_9UGY9akvE1M16peWoKun3n9s25yIyMt2__uPYERb5v6DPQ">](https://music.youtube.com/watch?v=XqVJ76jFMD0)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
 
-Jon Bellion - All Time Low
+Glass Animals - The Other Side Of Paradise
 
-**Albums**: The Human Condition
+**Albums**: Not supported
 
-Last updated at 02/24/2021 16:34
+Last updated at 02/24/2021 16:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
