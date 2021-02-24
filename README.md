@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fPO76Jlnz6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fPO76Jlnz6c)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9jK-NcRmVcw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9jK-NcRmVcw)
 
-쿨리오 - Gangsta's Paradise(피처링: L.V.)
+유럽 - The Final Countdown
 
-**Albums**: 조회수 5.5억회
+**Albums**: 조회수 8.5억회
 
-Last updated at 02/24/2021 12:57
+Last updated at 02/24/2021 13:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
