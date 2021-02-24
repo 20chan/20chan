@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gpG9QRV9gTk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gpG9QRV9gTk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3DhB6mnGGpAP1T-rhRDf-snwUJsaEIAShW5DnwkUDcvHJBTT4gLDr9e9owogV10ovveu5-DuoF0E7Wls">](https://music.youtube.com/watch?v=As_4JTmHuW4)
 
-KALEO - I Can't Go on Without You
+Avicii(아비치) - Without You
 
-**Albums**: 조회수 9409만회
+**Albums**: AVĪCI (01)
 
-Last updated at 02/24/2021 15:57
+Last updated at 02/24/2021 16:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
