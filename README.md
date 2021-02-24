@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273be9f834ad14e0d95a35a6981">](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d">](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H)
 
-K.Flay - High Enough
+MGMT - Little Dark Age
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 19:03
+Last updated at 02/24/2021 19:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
