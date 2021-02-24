@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YRl08Kj7ewJeoWUSBqeWNKX2ytDMy4UPf0sj7ln_4d65ZjC9_JL1fbYaismjkDPX2N7H9a_Y_zYgfIMM">](https://music.youtube.com/watch?v=rwd7YtNDIqU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/GuTj-AwOmUo/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=GuTj-AwOmUo)
 
-Yama 및 Hitoshizuku - Onegaisekai(피처링: Len Kagamine, Rin Kagamine)
+Yumin Na - 차태현 러브스토리
 
-**Albums**: Mistletoe -Kamigami no yadorigi
+**Albums**: 조회수 13만회
 
-Last updated at 02/24/2021 10:48
+Last updated at 02/24/2021 10:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
