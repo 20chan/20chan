@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qo6ygYSxwEY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qo6ygYSxwEY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xNc5wcKd8M8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xNc5wcKd8M8)
 
-Gioni - Trigger
+CuitePenguin - SID-Sound, 여래아(黎崍阿) (+ Lyrics)
 
-**Albums**: 조회수 8784만회
+**Albums**: 조회수 726만회
 
-Last updated at 02/24/2021 12:28
+Last updated at 02/24/2021 12:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
