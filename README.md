@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WeJnhylpCwvKysRdI7MnRUKy2P4HXGuTLbGCCExkNiVnebBQ-B22K2yBCHiv3ebpwWNW3tnFLap_Vog">](https://music.youtube.com/watch?v=xkmgcvr5Ezc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XEjLoHdbVeE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XEjLoHdbVeE)
 
-발티모라 - Tarzan Boy
+ABBA(아바) - Gimme! Gimme! Gimme! (A Man After Midnight) - Video Edit
 
-**Albums**: Living In The Background
+**Albums**: 조회수 2.1억회
 
-Last updated at 02/24/2021 14:35
+Last updated at 02/24/2021 14:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
