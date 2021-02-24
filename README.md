@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735263da332771a0d365814a93">](https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS)
 
-Glass Animals - The Other Side Of Paradise
+I DONT KNOW HOW BUT THEY FOUND ME - Do It All The Time
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 16:36
+Last updated at 02/24/2021 16:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
