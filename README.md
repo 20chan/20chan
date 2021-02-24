@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bf076bd9b8ad8facbb19f473">](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a5566f88ef20c171cee29578">](https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ)
 
-JAWNY - Honeypie
+Jack Stauber's Micropop - Baby Hotline
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:35
+Last updated at 02/24/2021 18:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
