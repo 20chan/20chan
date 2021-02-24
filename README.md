@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea">](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27325a5a1ed28871e8e53e62d59">](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG)
 
-Glass Animals Denzel Curry - Tokyo Drifting
+Tally Hall - Turn the Lights Off
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:10
+Last updated at 02/24/2021 18:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
