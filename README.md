@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273667a552700a09676a52ccf0f">](https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea">](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV)
 
-COIN - Cemetery
+Glass Animals - Space Ghost Coast To Coast
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 16:51
+Last updated at 02/24/2021 16:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
