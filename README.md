@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8WqEp8nbgPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8WqEp8nbgPg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2kaDZdEdKfVdFZgmJaWbYLFIIxhRZmVxCzl8pZTHzBzTkyZj9GjtIYifh8qfRBTEtUx-U540uQtaR8pA9Q">](https://music.youtube.com/watch?v=GhBOZ0GMFic)
 
-에일리 - 저녁 하늘
+Cher Lloyd - None Of My Business
 
-**Albums**: 조회수 1410만회
+**Albums**: None Of My Business
 
-Last updated at 02/24/2021 15:12
+Last updated at 02/24/2021 15:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
