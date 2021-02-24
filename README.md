@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TrhzSu55GbYhOWOArCiQUFGVYjJz0Z78YlVJfwOCyU-ZFz5xaIwaTRuLhxrV9dsaW7TM4_1Yj8k_BR6W">](https://music.youtube.com/watch?v=GhL8GUjXEfk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/r00ikilDxW4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=r00ikilDxW4)
 
-Bebe Rexha(비비 렉사) - I'm a Mess
+Green Day(그린 데이) - 21 Guns
 
-**Albums**: Expectations
+**Albums**: 조회수 3.2억회
 
-Last updated at 02/24/2021 16:06
+Last updated at 02/24/2021 16:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
