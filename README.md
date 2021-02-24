@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f539f9a64d5603185f70e02b">](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e7dd69ac32cf313fde62cbad">](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ)
 
-Gang of Youths - Achilles Come Down
+Cage The Elephant - Cold Cold Cold
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:03
+Last updated at 02/24/2021 17:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
