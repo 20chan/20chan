@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b74e560074b933866d5496e3">](https://open.spotify.com/album/5RKLyPZ4P8WhO1uxDMXGe7)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b9ccb466665c2ac10dc0d628">](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5)
 
-Joywave - It's A Trip!
+Tally Hall - The Bidding
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:46
+Last updated at 02/24/2021 18:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
