@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6dfb454b77efaccc1371d14">](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f539f9a64d5603185f70e02b">](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab)
 
-I DONT KNOW HOW BUT THEY FOUND ME - Absinthe
+Gang of Youths - Achilles Come Down
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:00
+Last updated at 02/24/2021 17:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
