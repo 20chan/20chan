@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5dkpk1gmaDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5dkpk1gmaDc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WeJnhylpCwvKysRdI7MnRUKy2P4HXGuTLbGCCExkNiVnebBQ-B22K2yBCHiv3ebpwWNW3tnFLap_Vog">](https://music.youtube.com/watch?v=xkmgcvr5Ezc)
 
-Bad Boys Blue - You're a Woman
+발티모라 - Tarzan Boy
 
-**Albums**: 조회수 6648만회
+**Albums**: Living In The Background
 
-Last updated at 02/24/2021 13:10
+Last updated at 02/24/2021 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
