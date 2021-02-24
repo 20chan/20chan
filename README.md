@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737cb46e17871d44ee397e664c">](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96)
 
-Glass Animals - Youth
+Easy Life - nightmares
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 18:24
+Last updated at 02/24/2021 18:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
