@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pZcKxcVWvWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pZcKxcVWvWg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8WqEp8nbgPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8WqEp8nbgPg)
 
-southkoreanfolksongs - 시작되는 연인들을 위해 -- 이원진
+에일리 - 저녁 하늘
 
-**Albums**: 조회수 304만회
+**Albums**: 조회수 1410만회
 
-Last updated at 02/24/2021 15:08
+Last updated at 02/24/2021 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
