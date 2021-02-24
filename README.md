@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e1b41f261acaa01849b42991">](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ca8ca1a02032c0943de6e136">](https://open.spotify.com/album/4MRCHFNTaIipvwa7KGpaWF)
 
-Young the Giant - Silvertongue
+Jack Stauber's Micropop - Two Time
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:40
+Last updated at 02/24/2021 17:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
