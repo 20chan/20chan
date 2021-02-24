@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0_ZJfwM2bMs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0_ZJfwM2bMs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fPO76Jlnz6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fPO76Jlnz6c)
 
-Nicole Ha - 유재하-지난 날
+쿨리오 - Gangsta's Paradise(피처링: L.V.)
 
-**Albums**: 조회수 110만회
+**Albums**: 조회수 5.5억회
 
-Last updated at 02/24/2021 12:54
+Last updated at 02/24/2021 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
