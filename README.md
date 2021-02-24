@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731dc123fb5cc3f294c91a3dfd">](https://open.spotify.com/album/3LZ8zFQ1HXUImtjdBLzvXF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d07978445afeaa3b5af0acb7">](https://open.spotify.com/album/1HaSvtbWDDrsF1kuRE7400)
 
-I DONT KNOW HOW BUT THEY FOUND ME - Bleed Magic
+Matt Maeson - Me and My Friends Are Lonely
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 17:59
+Last updated at 02/24/2021 18:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
