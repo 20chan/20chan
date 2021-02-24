@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f113045fd418c5802647d45d">](https://open.spotify.com/album/6E4HINIBH1WNffyHoo0uZD)
 
-half•alive - Aawake At Night
+Verzache - Losing My Love
 
 **Albums**: Not supported
 
-Last updated at 02/24/2021 16:44
+Last updated at 02/24/2021 16:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
