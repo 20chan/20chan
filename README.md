@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/7940nuwCEYA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7940nuwCEYA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/emfNOhaOW5_mvLPKyAZt5Kumx0kBCf2uka8jNhXs77mAXCEZsJXj6PrLpEi6buVxFPFXclgIhlcWa3IFQQ">](https://music.youtube.com/watch?v=29uz71dQqPw)
 
-Suda Masaki - Machigaisagashi
+이수영 - 라라라
 
-**Albums**: 조회수 1.5억회
+**Albums**: My Stay In Sendai
 
-Last updated at 02/25/2021 18:11
+Last updated at 02/25/2021 18:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
