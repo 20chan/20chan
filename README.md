@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_emOwEXIIymCTstCGUDiRR0bJjjTFdoYLDbvHJqQv0By8A_Jh7Zo6pQ4JQd0wLEf1RLZRAZfAsO7g2c">](https://music.youtube.com/watch?v=mD-Tn75nsFE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/7940nuwCEYA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=7940nuwCEYA)
 
-Centimillimental - Kizuato
+Suda Masaki - Machigaisagashi
 
-**Albums**: Kizuato
+**Albums**: 조회수 1.5억회
 
-Last updated at 02/25/2021 18:10
+Last updated at 02/25/2021 18:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
