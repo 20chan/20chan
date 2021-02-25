@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e62f78a772849991a5708c9a">](https://open.spotify.com/album/33fn2sXWPDkFRKJe58KJbr)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a54f7e539b79835a1bf8d5b7">](https://open.spotify.com/album/3EZFFoGWsTcv536HF9JRmL)
 
-Sublab - Rising from the Ashes
+Aero Chord Nevve - Shadows
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:21
+Last updated at 02/25/2021 12:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
