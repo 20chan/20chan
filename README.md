@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739aca6ec1b3cc1fce26da39b8">](https://open.spotify.com/album/4Cu81bSfAU70eRUmDi6qoY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6fb62b5c4ef2996e7f863b5">](https://open.spotify.com/album/3IZyFz0r3D0wWZQRzsbPgn)
 
-KRANE Lemay Ahsha Hex Cougar - Chemical (feat. Ahsha & Lemay) - Hex Cougar Remix
+WE ARE FURY Micah Martin - Demons (feat. Micah Martin)
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:45
+Last updated at 02/25/2021 11:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
