@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B06sZbf85WfT_gWZ_MHhD5ywdWdQvGA7MvRtig-xkZM9hICUOfYtSLWcy8tpPd6cjHJ4ONRfQTDUywaYFg">](https://music.youtube.com/watch?v=3azICG7Uc9E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/obNTp9iITqag6KC-0aKnPbNW05HZkseRG-zCnqrvDTv7VFKz5Zw3W5gzKpDlKRcEWFEDfdnmyQQU39Os">](https://music.youtube.com/watch?v=dOVWGxU5YsU)
 
-BURNOUT SYNDROMES - Good Morning World!
+UVERworld - Odd future
 
-**Albums**: Good Morning World!
+**Albums**: Odd future
 
-Last updated at 02/25/2021 17:51
+Last updated at 02/25/2021 17:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
