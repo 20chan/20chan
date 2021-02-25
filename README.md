@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273077d574547c00c35e582cf0e">](https://open.spotify.com/album/1RBDrpoZXuL6BvXfYvPYGC)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273abc20d6fca3df753a2243a5f">](https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2)
 
-pluko pronouncedyea - Feel the Fire - Breath Vocal Mix
+Whethan Broods - Be Like You (feat. Broods)
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:32
+Last updated at 02/25/2021 11:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
