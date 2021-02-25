@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=ZMna2PK9mb8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/85l-L1bOCb3hcSr7gUSuf_f7huWeOYfhHFD_nm7-k71C4EkAQWs3Ub6kVIwWZS9bsg4oLGEpOeIfvf9w_A">](https://music.youtube.com/watch?v=0Gag_q3_6-M)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Peace Sign
+Ikimonogakari - Netsujo No Spectrum
 
-**Albums**: Bootleg
+**Albums**: Chou Ikimonobakari Tennen Kinen Members Best Selection
 
-Last updated at 02/25/2021 17:10
+Last updated at 02/25/2021 17:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
