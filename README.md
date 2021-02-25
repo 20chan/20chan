@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/85l-L1bOCb3hcSr7gUSuf_f7huWeOYfhHFD_nm7-k71C4EkAQWs3Ub6kVIwWZS9bsg4oLGEpOeIfvf9w_A">](https://music.youtube.com/watch?v=0Gag_q3_6-M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EKSrcL7sEDbhTbqO2wiqO3txHCOmmPiYw7nvQRfsS19luo6bwrS9mhgauQj8YZPHyYcpICs7dbTTACFxNQ">](https://music.youtube.com/watch?v=VifmYXA9wuQ)
 
-Ikimonogakari - Netsujo No Spectrum
+BLUE ENCOUNT - Polaris
 
-**Albums**: Chou Ikimonobakari Tennen Kinen Members Best Selection
+**Albums**: Polaris (Special Edition)
 
-Last updated at 02/25/2021 17:15
+Last updated at 02/25/2021 17:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
