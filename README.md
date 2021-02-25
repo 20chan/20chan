@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2732cd8d12c1bcbf5b9a0544e1a">](https://open.spotify.com/album/4yong52uSFxToSCBQsw5YZ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730e6f458cc24840b51b44ef17">](https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl)
 
-Lemaitre Maty Noyes Jerry Folk - Higher - Jerry Folk Remix
+DROELOE - Only Be Me
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:10
+Last updated at 02/25/2021 12:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
