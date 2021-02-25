@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xCIJJ2Rb368/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xCIJJ2Rb368)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w_-X8ndf4d7_AnfAJgTu8JDtYv6-FE4ZTuPUgAPceX0b5UkPjgkpsqYtdEd90QgvEEiVqhEJT9M7VdGN9A">](https://music.youtube.com/watch?v=QmaP8od7-_0)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師　MV「MAD HEAD LOVE」
+ORANGE RANGE - Hana
 
-**Albums**: 조회수 4509만회
+**Albums**: musiQ
 
-Last updated at 02/25/2021 18:18
+Last updated at 02/25/2021 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
