@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VErL-1x7YIs5ZpAGnDbEBRj59R48RMcscmdZE9QOpL8Qot5KKCyubn_M66LEaJefEe6g9Xfg2cacEIE">](https://music.youtube.com/watch?v=J6EEcsNK91k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XQBmMguhybZYu_OG3nApdd1zr1uFrR2AA7b1LEX1DcmP0Npl1JXCWBIIlW3ARUnVOhaoo4xOsGYOo4m3GA">](https://music.youtube.com/watch?v=a0RIoHVVWN4)
 
-럼블피쉬(Rumble Fish) - 으라차차
+크라잉넛 및 노브레인 - 룩셈부르크 Luxembourg
 
-**Albums**: Have A Nice Dream
+**Albums**: 96
 
-Last updated at 02/25/2021 10:19
+Last updated at 02/25/2021 10:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
