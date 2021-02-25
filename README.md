@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e44cda4043a9aefb772f689c">](https://open.spotify.com/album/025njwSJ67gymZaZ7i3rHh)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739aca6ec1b3cc1fce26da39b8">](https://open.spotify.com/album/4Cu81bSfAU70eRUmDi6qoY)
 
-DROELOE San Holo CUT_ - Lines of the Broken
+KRANE Lemay Ahsha Hex Cougar - Chemical (feat. Ahsha & Lemay) - Hex Cougar Remix
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:41
+Last updated at 02/25/2021 11:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
