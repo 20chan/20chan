@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c1ecf17719fc91722758da74">](https://open.spotify.com/album/4dkIYJqfkU0qUECfWFDaDb)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27332f252931e059d460c188731">](https://open.spotify.com/album/3XaUNjcSJ6oyhoaFTqRbLb)
 
-DROELOE Belle Doron - In Time
+What So Not GANZ JOY. Slow Hours - Lone - Slow Hours Remix
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:21
+Last updated at 02/25/2021 11:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
