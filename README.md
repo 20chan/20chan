@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273216beb257655ce8a8f234613">](https://open.spotify.com/album/3LeqHmsCIXM9o66GmiowCG)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c1ecf17719fc91722758da74">](https://open.spotify.com/album/4dkIYJqfkU0qUECfWFDaDb)
 
-Prismo - In My Mind
+DROELOE Belle Doron - In Time
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:17
+Last updated at 02/25/2021 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
