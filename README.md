@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/emfNOhaOW5_mvLPKyAZt5Kumx0kBCf2uka8jNhXs77mAXCEZsJXj6PrLpEi6buVxFPFXclgIhlcWa3IFQQ">](https://music.youtube.com/watch?v=29uz71dQqPw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xCIJJ2Rb368/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xCIJJ2Rb368)
 
-이수영 - 라라라
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師　MV「MAD HEAD LOVE」
 
-**Albums**: My Stay In Sendai
+**Albums**: 조회수 4509만회
 
-Last updated at 02/25/2021 18:15
+Last updated at 02/25/2021 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
