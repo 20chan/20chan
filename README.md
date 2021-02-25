@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQg5Gmm5pxzSwcx9-CT6jknLPw2FmxIlyWZIW6jzZo1NYOtfyKrXdlLToeO5leifFlO28ynxfp6XjUHw">](https://music.youtube.com/watch?v=JUewJm2ssBw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_emOwEXIIymCTstCGUDiRR0bJjjTFdoYLDbvHJqQv0By8A_Jh7Zo6pQ4JQd0wLEf1RLZRAZfAsO7g2c">](https://music.youtube.com/watch?v=mD-Tn75nsFE)
 
-YUI - Again
+Centimillimental - Kizuato
 
-**Albums**: Again
+**Albums**: Kizuato
 
-Last updated at 02/25/2021 18:06
+Last updated at 02/25/2021 18:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
