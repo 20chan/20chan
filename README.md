@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a4d1a3704aef0fd5871b8106">](https://open.spotify.com/album/4NjZGWBcqV7qImMk5NTd5H)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735f1f1c836f2519b6579ae4df">](https://open.spotify.com/album/04AKWj2Cg2p6nfzEOH5YR5)
 
-Flux Pavilion Matthew Koma - Emotional
+DROELOE - Homebound
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:27
+Last updated at 02/25/2021 12:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
