@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/SX_ViT4Ra7k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SX_ViT4Ra7k)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ajJKtzg--5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ajJKtzg--5g)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「Lemon」
+마리나 야마네 - Official髭男dism - ラストソング［Studio Live Session］
 
-**Albums**: 조회수 6.5억회
+**Albums**: 조회수 497만회
 
-Last updated at 02/25/2021 14:41
+Last updated at 02/25/2021 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
