@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hKCC86slEsA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hKCC86slEsA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/watch?v=RECZ6u0vmWg)
 
-danmooj1 - [HD] 노브레인 (NoBrain) - 비와 당신
+SID - Rain
 
-**Albums**: 조회수 118만회
+**Albums**: Rain
 
-Last updated at 02/25/2021 10:25
+Last updated at 02/25/2021 10:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
