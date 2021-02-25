@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6fb62b5c4ef2996e7f863b5">](https://open.spotify.com/album/3IZyFz0r3D0wWZQRzsbPgn)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27321c74547c76df83c2c4212fc">](https://open.spotify.com/album/3k1FSt3sOOVcT9zEt9ukEo)
 
-WE ARE FURY Micah Martin - Demons (feat. Micah Martin)
+SMLE Helen Tess - It'll Be Okay (feat. Helen Tess)
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:49
+Last updated at 02/25/2021 11:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
