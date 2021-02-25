@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a96002532bcd6d2f42831d5b">](https://open.spotify.com/album/57y49FjPn1bm4i5a9oeZOM)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e62f78a772849991a5708c9a">](https://open.spotify.com/album/33fn2sXWPDkFRKJe58KJbr)
 
-Ephixa Laura Brehm - Losing You
+Sublab - Rising from the Ashes
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:17
+Last updated at 02/25/2021 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
