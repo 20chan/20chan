@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yPWujAgoNIVE7lwDctX3qgw27S4yFvXfVWDCrdopiFbd5U7AItejzx26GUgRNxWt0K7xqg2FLXN_Bokx">](https://music.youtube.com/watch?v=3irpbHr0Ub0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sqfhF3oADQk-nkPMlfy-Gja3dujDcd7fItfR3Id-S9YUbboOgTRTGGzdfi1ZqC_-MwNHWZ8XZR8ug9Xo">](https://music.youtube.com/watch?v=XyuLpZAywH0)
 
-TK from Ling tosite sigure - Unravel
+스미카 - Fiction
 
-**Albums**: Fantastic Magic
+**Albums**: Fiction -EP
 
-Last updated at 02/25/2021 19:03
+Last updated at 02/25/2021 19:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
