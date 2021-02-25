@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273624fcb38b8744ee2b15c4132">](https://open.spotify.com/album/2bjy0Tg8QeTzWBiH0D2RCQ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bc71e75e70d2c880e3722103">](https://open.spotify.com/album/3MrjwyC3w3HTiJt1j0gGr3)
 
-Mickey Valen Feli Ferraro - Wildcard
+Grant Nevve - The Edge
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 10:40
+Last updated at 02/25/2021 10:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
