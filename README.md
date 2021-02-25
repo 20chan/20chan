@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ed608a8a84ddd613266ee69d">](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733cd0708ef2918932d8bb16a6">](https://open.spotify.com/album/6MrLtLvKICLC6ZdgTDGdsW)
 
-TroyBoi - KinjaBang
+Stephen Talib Kweli KillaGraham - Crossfire, Part II (feat. Talib Kweli & KillaGraham)
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:54
+Last updated at 02/25/2021 12:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
