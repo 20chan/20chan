@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PSWgrTtN3SpIolLkp7tr3_cI3fjRXwt9FIhaZ7HtxuKF8n0kl-ZF1wEPU4mLtuwQVwv6cSzsvn59uFDb">](https://music.youtube.com/watch?v=Tq9izXZ5Nao)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B06sZbf85WfT_gWZ_MHhD5ywdWdQvGA7MvRtig-xkZM9hICUOfYtSLWcy8tpPd6cjHJ4ONRfQTDUywaYFg">](https://music.youtube.com/watch?v=3azICG7Uc9E)
 
-Ikimonogakari - Sakura
+BURNOUT SYNDROMES - Good Morning World!
 
-**Albums**: Sakurasakumachi Monogatari
+**Albums**: Good Morning World!
 
-Last updated at 02/25/2021 17:45
+Last updated at 02/25/2021 17:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
