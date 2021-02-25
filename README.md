@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ajJKtzg--5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ajJKtzg--5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nyxHM7bCxPJWxUIjuWc6-AhN177uuNqw14348UkOOMTrZ61JJmDzQ6H2S0sC6WNfUt7yC6OmXSJ9i6rEw">](https://music.youtube.com/watch?v=Dz3CNto8RSo)
 
-마리나 야마네 - Official髭男dism - ラストソング［Studio Live Session］
+Ikimonogakari - Blue Bird
 
-**Albums**: 조회수 497만회
+**Albums**: My Song Your Song
 
-Last updated at 02/25/2021 14:46
+Last updated at 02/25/2021 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
