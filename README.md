@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730e6f458cc24840b51b44ef17">](https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a96002532bcd6d2f42831d5b">](https://open.spotify.com/album/57y49FjPn1bm4i5a9oeZOM)
 
-DROELOE - Only Be Me
+Ephixa Laura Brehm - Losing You
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:13
+Last updated at 02/25/2021 12:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
