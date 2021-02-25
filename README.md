@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f88090123cd47b8d5894dbbe">](https://open.spotify.com/album/5hqsmF5au9RqFm9Xmw4kFQ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ed608a8a84ddd613266ee69d">](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy)
 
-DROELOE - Wake The Warrior
+TroyBoi - KinjaBang
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:50
+Last updated at 02/25/2021 12:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
