@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735f1f1c836f2519b6579ae4df">](https://open.spotify.com/album/04AKWj2Cg2p6nfzEOH5YR5)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e28717787a83534969474b63">](https://open.spotify.com/album/1BwzFuVv6yiqRrLuzfNoCb)
 
-DROELOE - Homebound
+Taska Black DROELOE CUT_ - Running Away
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:31
+Last updated at 02/25/2021 12:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
