@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27332f252931e059d460c188731">](https://open.spotify.com/album/3XaUNjcSJ6oyhoaFTqRbLb)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f97c2c0bfbac34e6b3b98fa3">](https://open.spotify.com/album/1Ttvlj1fGamm4ijqswzJwi)
 
-What So Not GANZ JOY. Slow Hours - Lone - Slow Hours Remix
+NGHTMRE Alex Wiley Sky Montique - No Coming Down
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:24
+Last updated at 02/25/2021 11:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
