@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/d1wFx6cp001hJUfucFvrKiUCyrEmRjhZogaNQZUcaPPz6P6CD4PHjoOo33KiT1f3uY3YE-_wcn-1hWc">](https://music.youtube.com/watch?v=smObR_8q5UQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/a4fBIb8W1_C8lEKidWsYyoMWxV1tnDOETk10yeDHLjz_UgG3QxdG_Ciw4NHeLyE5zGMI-Rl2kufp2bxZ">](https://music.youtube.com/watch?v=36u3s430p8E)
 
-Frederic - オドループ
+샤프 - 연극이 끝난 후
 
-**Albums**: フレデリズム
+**Albums**: MBC 대학가요제 골든베스트(잃어버린 우산/해야)
 
-Last updated at 02/25/2021 19:26
+Last updated at 02/25/2021 19:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
