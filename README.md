@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735d9089762bed2d703725c27b">](https://open.spotify.com/album/04ebYhavcGBpHqImHLMyml)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ptnYBctoexk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ptnYBctoexk)
 
-Slushii - LUV U NEED U
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - 米津玄師 MV「馬と鹿」Uma to Shika
 
-**Albums**: Not supported
+**Albums**: 조회수 1.5억회
 
-Last updated at 02/25/2021 12:58
+Last updated at 02/25/2021 14:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
