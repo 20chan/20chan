@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273182fec2a87ffbee595f67860">](https://open.spotify.com/album/2KNznzqSZr1PDPfEuktDWC)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273895ec9872969a97e1db50923">](https://open.spotify.com/album/53BOKbiGY99GfwvQHvPkd2)
 
-Elephante Matluck - Come Back For You
+Slow Hours - Endless
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:10
+Last updated at 02/25/2021 11:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
