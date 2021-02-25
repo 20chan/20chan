@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e28717787a83534969474b63">](https://open.spotify.com/album/1BwzFuVv6yiqRrLuzfNoCb)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273dd8c6d749a6b4f4d932be202">](https://open.spotify.com/album/1E8JEbr8Bc0cbkouFEmd11)
 
-Taska Black DROELOE CUT_ - Running Away
+graves bbno$ - Meta
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:35
+Last updated at 02/25/2021 12:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
