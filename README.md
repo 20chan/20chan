@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27394a09bc4fbfa8a6d1dfd154f">](https://open.spotify.com/album/7gYITkge7z569Fyfw7VyPY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2732cd8d12c1bcbf5b9a0544e1a">](https://open.spotify.com/album/4yong52uSFxToSCBQsw5YZ)
 
-Far Out - Origin
+Lemaitre Maty Noyes Jerry Folk - Higher - Jerry Folk Remix
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:07
+Last updated at 02/25/2021 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
