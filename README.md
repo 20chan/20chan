@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/obNTp9iITqag6KC-0aKnPbNW05HZkseRG-zCnqrvDTv7VFKz5Zw3W5gzKpDlKRcEWFEDfdnmyQQU39Os">](https://music.youtube.com/watch?v=dOVWGxU5YsU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Qy-drh50_d9LAXbC0VpJXLlz0tz4VZhgB_7H47bOax0QWA4efqVJXvbXkDGIGhWuu8yv8zY5CsUSn4o">](https://music.youtube.com/watch?v=XfHqKWk9laY)
 
-UVERworld - Odd future
+ASIAN KUNG-FU GENERATION - Re:Re:
 
-**Albums**: Odd future
+**Albums**: Sol-fa
 
-Last updated at 02/25/2021 17:55
+Last updated at 02/25/2021 17:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
