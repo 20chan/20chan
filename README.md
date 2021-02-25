@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Qy-drh50_d9LAXbC0VpJXLlz0tz4VZhgB_7H47bOax0QWA4efqVJXvbXkDGIGhWuu8yv8zY5CsUSn4o">](https://music.youtube.com/watch?v=XfHqKWk9laY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fidizaRk8eUqccr3FrcptbFQbOsi4m57TgNZ_1mam-_YNdQvEkmvZyaPKWTYYdZ7DjkKCx0byxmcw7Vd">](https://music.youtube.com/watch?v=WqXzeB2KyKQ)
 
-ASIAN KUNG-FU GENERATION - Re:Re:
+KANA-BOON - Silhouette
 
-**Albums**: Sol-fa
+**Albums**: Time
 
-Last updated at 02/25/2021 17:59
+Last updated at 02/25/2021 18:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
