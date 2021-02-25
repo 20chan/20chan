@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e89d2b526aebeeaf097bd07a">](https://open.spotify.com/album/5BNJGWTaN96oYEmpSmXR77)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f88090123cd47b8d5894dbbe">](https://open.spotify.com/album/5hqsmF5au9RqFm9Xmw4kFQ)
 
-Elephante Jessica Jarrell Candyland - Hold (Candyland Remix)
+DROELOE - Wake The Warrior
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:48
+Last updated at 02/25/2021 12:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
