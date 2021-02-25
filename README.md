@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a54f7e539b79835a1bf8d5b7">](https://open.spotify.com/album/3EZFFoGWsTcv536HF9JRmL)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a4d1a3704aef0fd5871b8106">](https://open.spotify.com/album/4NjZGWBcqV7qImMk5NTd5H)
 
-Aero Chord Nevve - Shadows
+Flux Pavilion Matthew Koma - Emotional
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:25
+Last updated at 02/25/2021 12:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
