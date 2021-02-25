@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XQBmMguhybZYu_OG3nApdd1zr1uFrR2AA7b1LEX1DcmP0Npl1JXCWBIIlW3ARUnVOhaoo4xOsGYOo4m3GA">](https://music.youtube.com/watch?v=a0RIoHVVWN4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/hKCC86slEsA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hKCC86slEsA)
 
-크라잉넛 및 노브레인 - 룩셈부르크 Luxembourg
+danmooj1 - [HD] 노브레인 (NoBrain) - 비와 당신
 
-**Albums**: 96
+**Albums**: 조회수 118만회
 
-Last updated at 02/25/2021 10:23
+Last updated at 02/25/2021 10:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
