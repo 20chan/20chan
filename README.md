@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273895ec9872969a97e1db50923">](https://open.spotify.com/album/53BOKbiGY99GfwvQHvPkd2)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273216beb257655ce8a8f234613">](https://open.spotify.com/album/3LeqHmsCIXM9o66GmiowCG)
 
-Slow Hours - Endless
+Prismo - In My Mind
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:14
+Last updated at 02/25/2021 11:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
