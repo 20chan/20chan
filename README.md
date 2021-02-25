@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735213b997c115bc65bb3ecbd1">](https://open.spotify.com/album/3IAkeQKWqSQgkhkYDwUVEe)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27394a09bc4fbfa8a6d1dfd154f">](https://open.spotify.com/album/7gYITkge7z569Fyfw7VyPY)
 
-MYRNE Cozi Zuehlsdorff - Confessions
+Far Out - Origin
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:03
+Last updated at 02/25/2021 12:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
