@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27321c74547c76df83c2c4212fc">](https://open.spotify.com/album/3k1FSt3sOOVcT9zEt9ukEo)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734ba2d15b6e7f470bfd3e424e">](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG)
 
-SMLE Helen Tess - It'll Be Okay (feat. Helen Tess)
+Virtual Self - Ghost Voices
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:54
+Last updated at 02/25/2021 11:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
