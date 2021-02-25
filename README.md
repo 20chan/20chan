@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8VYjYGEFXJ2ahuW_aTJK716nqKRt_zdH3G9VS6E7ptd5_bINWdlJn403v0llOHUqWdnfLGRjjtPvoyfsCg">](https://music.youtube.com/watch?v=qMCtjPSp54I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Foctrr-Tbi1sujxJA-woShSUbnysDMgPWCcI1Dx8Um5_CBa1CLNHMMKti9eRM1-gHqK42TT3LWP0CvYg">](https://music.youtube.com/watch?v=OxZJUH2zQ0c)
 
-서영은 (Seo Young Eun) - 웃는 거야
+서영은 - 혼자가 아닌 나
 
-**Albums**: Be My Sweet Heart
+**Albums**: 서영은 4집(Gift)
 
-Last updated at 02/25/2021 10:12
+Last updated at 02/25/2021 10:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
