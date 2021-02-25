@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273dd8c6d749a6b4f4d932be202">](https://open.spotify.com/album/1E8JEbr8Bc0cbkouFEmd11)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31">](https://open.spotify.com/album/0nOXOyMEu6TD2HgVm12aks)
 
-graves bbno$ - Meta
+Grant Juneau - Are We Still Young
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:38
+Last updated at 02/25/2021 12:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
