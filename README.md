@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bcb98e7fd7f1fb133368697e">](https://open.spotify.com/album/6xWLz90CWI0ccidB5sD1UL)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e44cda4043a9aefb772f689c">](https://open.spotify.com/album/025njwSJ67gymZaZ7i3rHh)
 
-Mickey Valen Noé - Meet Me
+DROELOE San Holo CUT_ - Lines of the Broken
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:38
+Last updated at 02/25/2021 11:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
