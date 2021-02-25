@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/watch?v=RECZ6u0vmWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-m5p86y-U865P2hO_l062rA2rvuaTsjJrQhzszq08kZrq52V7adsTfS8IhxkWs3hLT4wkQ6Y_mk1ILs">](https://music.youtube.com/watch?v=Vw3cP883gv4)
 
-SID - Rain
+Aimer(에메) - Brave Shine
 
-**Albums**: Rain
+**Albums**: Dawn
 
-Last updated at 02/25/2021 10:28
+Last updated at 02/25/2021 10:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
