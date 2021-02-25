@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273abc20d6fca3df753a2243a5f">](https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bcb98e7fd7f1fb133368697e">](https://open.spotify.com/album/6xWLz90CWI0ccidB5sD1UL)
 
-Whethan Broods - Be Like You (feat. Broods)
+Mickey Valen Noé - Meet Me
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:35
+Last updated at 02/25/2021 11:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
