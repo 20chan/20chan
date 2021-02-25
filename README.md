@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f97c2c0bfbac34e6b3b98fa3">](https://open.spotify.com/album/1Ttvlj1fGamm4ijqswzJwi)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273077d574547c00c35e582cf0e">](https://open.spotify.com/album/1RBDrpoZXuL6BvXfYvPYGC)
 
-NGHTMRE Alex Wiley Sky Montique - No Coming Down
+pluko pronouncedyea - Feel the Fire - Breath Vocal Mix
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:29
+Last updated at 02/25/2021 11:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
