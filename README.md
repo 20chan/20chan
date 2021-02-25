@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bc71e75e70d2c880e3722103">](https://open.spotify.com/album/3MrjwyC3w3HTiJt1j0gGr3)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e13955875887934d2dfbee74">](https://open.spotify.com/album/40TsxYe7NZSUm0xOtB5aNY)
 
-Grant Nevve - The Edge
+DROELOE Nevve - BACKBONE
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 10:43
+Last updated at 02/25/2021 10:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
