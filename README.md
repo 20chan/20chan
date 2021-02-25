@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wC1CDQdu2VqYTN61f8GJGAypS7Yu9boujMGka0fkOrVe8J6FAbMIc_gt3BE3I4HsHYR-rAoxPjW-Iw">](https://music.youtube.com/watch?v=7hKR_ChJZFw)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273624fcb38b8744ee2b15c4132">](https://open.spotify.com/album/2bjy0Tg8QeTzWBiH0D2RCQ)
 
-SID - Ranbu No Melody
+Mickey Valen Feli Ferraro - Wildcard
 
-**Albums**: Ranbu No Melody
+**Albums**: Not supported
 
-Last updated at 02/25/2021 10:39
+Last updated at 02/25/2021 10:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
