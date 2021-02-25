@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sqfhF3oADQk-nkPMlfy-Gja3dujDcd7fItfR3Id-S9YUbboOgTRTGGzdfi1ZqC_-MwNHWZ8XZR8ug9Xo">](https://music.youtube.com/watch?v=XyuLpZAywH0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x35pQltTJ4MZULsMAfNdNKR5jIytavtdWSw_Jdregx3UXx9vzLcO2miKFIMC80iUcCauihe0tV_WFrLbyw">](https://music.youtube.com/watch?v=XEHvZ5GrfM8)
 
-스미카 - Fiction
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Eine Kleine
 
-**Albums**: Fiction -EP
+**Albums**: Yankee
 
-Last updated at 02/25/2021 19:06
+Last updated at 02/25/2021 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
