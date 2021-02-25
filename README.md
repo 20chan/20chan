@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-m5p86y-U865P2hO_l062rA2rvuaTsjJrQhzszq08kZrq52V7adsTfS8IhxkWs3hLT4wkQ6Y_mk1ILs">](https://music.youtube.com/watch?v=Vw3cP883gv4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IZhojbtP1RK6ld6ZjTKCyO2e8PvloOgum1JFU7PuGh45Yj_WsHJW4TlifAtD3CDuMxqUaJkaFYonHbBQuQ">](https://music.youtube.com/watch?v=VfyL3mKV23Q)
 
-Aimer(에메) - Brave Shine
+SID - Uso
 
-**Albums**: Dawn
+**Albums**: Uso
 
-Last updated at 02/25/2021 10:32
+Last updated at 02/25/2021 10:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
