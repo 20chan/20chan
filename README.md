@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733cd0708ef2918932d8bb16a6">](https://open.spotify.com/album/6MrLtLvKICLC6ZdgTDGdsW)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735d9089762bed2d703725c27b">](https://open.spotify.com/album/04ebYhavcGBpHqImHLMyml)
 
-Stephen Talib Kweli KillaGraham - Crossfire, Part II (feat. Talib Kweli & KillaGraham)
+Slushii - LUV U NEED U
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 12:56
+Last updated at 02/25/2021 12:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
