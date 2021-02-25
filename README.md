@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734ba2d15b6e7f470bfd3e424e">](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735213b997c115bc65bb3ecbd1">](https://open.spotify.com/album/3IAkeQKWqSQgkhkYDwUVEe)
 
-Virtual Self - Ghost Voices
+MYRNE Cozi Zuehlsdorff - Confessions
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 11:58
+Last updated at 02/25/2021 12:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
