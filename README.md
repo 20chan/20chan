@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e13955875887934d2dfbee74">](https://open.spotify.com/album/40TsxYe7NZSUm0xOtB5aNY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736802b6317d3c124ddd0746f7">](https://open.spotify.com/album/62KR37LIVpLM0GtLIMfpaA)
 
-DROELOE Nevve - BACKBONE
+Delta Heavy - White Flag
 
 **Albums**: Not supported
 
-Last updated at 02/25/2021 10:46
+Last updated at 02/25/2021 10:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
