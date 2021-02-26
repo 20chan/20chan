@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2NFIhcTHGQYItq_EYS4CYAz5lT4pQdUF7f6s8ulUQgZ8IPz8I3ni0KWY-2hi0BckhGtEBg1GeRBqqnA">](https://music.youtube.com/watch?v=Rd7plEZQdYo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Foctrr-Tbi1sujxJA-woShSUbnysDMgPWCcI1Dx8Um5_CBa1CLNHMMKti9eRM1-gHqK42TT3LWP0CvYg">](https://music.youtube.com/watch?v=OxZJUH2zQ0c)
 
-스월비 - Alibi
+서영은 - 혼자가 아닌 나
 
-**Albums**: Undercover Angel
+**Albums**: 서영은 4집(Gift)
 
-Last updated at 02/26/2021 16:31
+Last updated at 02/26/2021 16:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
