@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/LNftCcPJb5Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LNftCcPJb5Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sfmuwfx4q21uNyIu3hBv_TIqaZtrcAUNXwod2gCGOcTavDa74bc2h7ISdYipvmNWNEdYE7rQgWhD6h6j">](https://music.youtube.com/watch?v=hiOkMt7iJ7g)
 
-디보 - 디보 (Dbo) - Peacock (Feat. ZENE THE ZILLA) [Official Video]
+The Tech Thieves - Enough
 
-**Albums**: 조회수 117만회
+**Albums**: Enough
 
-Last updated at 02/26/2021 17:14
+Last updated at 02/26/2021 17:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
