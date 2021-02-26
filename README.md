@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=DPD8kvSPPbs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=IwoCT0Q5cZ8)
 
-One OK Rock(원오크락) - Mighty Long Fall
+One OK Rock(원오크락) - Cry Out
 
 **Albums**: 35xxxv (Deluxe Edition)
 
-Last updated at 02/26/2021 14:41
+Last updated at 02/26/2021 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
