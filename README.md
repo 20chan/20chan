@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=Ivo6e0mOtns)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">](https://music.youtube.com/watch?v=Nncn20KXrQg)
 
-One OK Rock(원오크락) - Heartache
+One OK Rock(원오크락) - アンサイズニア
 
-**Albums**: 35xxxv (Deluxe Edition)
+**Albums**: 残響リファレンス
 
-Last updated at 02/26/2021 13:55
+Last updated at 02/26/2021 14:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
