@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sfmuwfx4q21uNyIu3hBv_TIqaZtrcAUNXwod2gCGOcTavDa74bc2h7ISdYipvmNWNEdYE7rQgWhD6h6j">](https://music.youtube.com/watch?v=hiOkMt7iJ7g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lG8WioOpz54/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lG8WioOpz54)
 
-The Tech Thieves - Enough
+다즈비 - Arrietty's Song (Cécile Corbel) arranged 2021ver.／ダズビー COVER
 
-**Albums**: Enough
+**Albums**: 조회수 34만회
 
-Last updated at 02/26/2021 17:18
+Last updated at 02/26/2021 17:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
