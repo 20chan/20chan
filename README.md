@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">](https://music.youtube.com/watch?v=4fC1M6MjtFM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=DgUDWmjRPAE)
 
-One OK Rock(원오크락) - 完全感覚Dreamer
+One OK Rock(원오크락) - The Beginning
 
-**Albums**: Nicheシンドローム
+**Albums**: 人生×僕=
 
-Last updated at 02/26/2021 11:05
+Last updated at 02/26/2021 11:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
