@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ee_LnHnmHKY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=ee_LnHnmHKY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1N66R4F-A9Q/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=1N66R4F-A9Q)
 
-Acrylo - Lil Pump does Math in Space
+bk146 - 진흙 속에서 피는 꽃 (Feat. Mc Meta, Kebee) - The Quiett
 
-**Albums**: 조회수 154만회
+**Albums**: 조회수 133만회
 
-Last updated at 02/26/2021 15:44
+Last updated at 02/26/2021 15:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
