@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">](https://music.youtube.com/watch?v=7qSP0NE6JJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">](https://music.youtube.com/watch?v=OOcwQALr5Rw)
 
-One OK Rock(원오크락) - NO SCARED
+One OK Rock(원오크락) - C.h.a.o.s.m.y.t.h.
 
 **Albums**: 残響リファレンス
 
-Last updated at 02/26/2021 14:03
+Last updated at 02/26/2021 14:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
