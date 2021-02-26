@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/te8xskFX0HJIvGLahiYmjh5JvzLtGwScFeQd93RyQs0ar7XCDODMSkeeINu74qdAbG9mlI7L7FT_svw">](https://music.youtube.com/watch?v=0Tl08kTvod0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4THFRpw68oQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4THFRpw68oQ)
 
-Stromae - Papaoutai
+에이제이알 - Bang!
 
-**Albums**: racine carrée
+**Albums**: 조회수 3161만회
 
-Last updated at 02/26/2021 16:01
+Last updated at 02/26/2021 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
