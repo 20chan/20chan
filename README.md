@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=DgUDWmjRPAE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=JruzuDqfRAE)
 
-One OK Rock(원오크락) - The Beginning
+One OK Rock(원오크락) - Clock Strikes
 
 **Albums**: 人生×僕=
 
-Last updated at 02/26/2021 11:08
+Last updated at 02/26/2021 11:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
