@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GMXu2htvmsBm0-ahKeF-Ng6J08HZqcDAwKav9HDiv75Lsh4d3nrMPk9v-mQEVrzs19rhLfUrRlUvhvI">](https://music.youtube.com/watch?v=KtxakrLjyK0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2NFIhcTHGQYItq_EYS4CYAz5lT4pQdUF7f6s8ulUQgZ8IPz8I3ni0KWY-2hi0BckhGtEBg1GeRBqqnA">](https://music.youtube.com/watch?v=Rd7plEZQdYo)
 
-여행스케치 - 산다는건 다 그런게 아니겠니
+스월비 - Alibi
 
-**Albums**: 처음타본 타임머신
+**Albums**: Undercover Angel
 
-Last updated at 02/26/2021 16:39
+Last updated at 02/26/2021 16:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
