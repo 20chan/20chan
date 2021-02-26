@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=hKr5N6T-YiQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">](https://music.youtube.com/watch?v=UxON1FoWoDg)
 
-One OK Rock(원오크락) - Deeper Deeper
+One OK Rock(원오크락) - Liar
 
-**Albums**: 人生×僕=
+**Albums**: Nicheシンドローム
 
-Last updated at 02/26/2021 14:49
+Last updated at 02/26/2021 14:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
