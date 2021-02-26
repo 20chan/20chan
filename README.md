@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/X8XwQQFNn43ZDb0nlOM1RCeY97ewaeFe-mqNJnwmv5DiW95aP9b7qCOXSLuWEDGzfcNlax-MdS868w">](https://music.youtube.com/watch?v=9y4sFUmiwB0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/K68roTY7T46cP4RQz--PAOQC_qb5LWK2qVIJ0PR2CYj8DladMruygnZadFnrF9eJ0sroR4RtvZ0xZxg">](https://music.youtube.com/watch?v=lcLBV2fcad0)
 
-리조 - Juice
+카더가든 - 밤새 (취향저격 그녀 X 카더가든)
 
-**Albums**: Cuz I Love You (Deluxe)
+**Albums**: 밤새 (취향저격 그녀 X 카더가든)
 
-Last updated at 02/26/2021 17:24
+Last updated at 02/26/2021 17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
