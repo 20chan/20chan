@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/M-7JGGyJouX1upiQuC9IsaifXipJr17y_GfnlVN6aPV_X-99aKoYNfoxQGr2EXaYgGLvp4vi00xmMJKI">](https://music.youtube.com/watch?v=PfSOZg45ybk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=H3PejDpbAfY)
 
-One OK Rock(원오크락) - I Was King
+One OK Rock(원오크락) - Last Dance
 
-**Albums**: I Was King
+**Albums**: 35xxxv (Deluxe Edition)
 
-Last updated at 02/26/2021 12:14
+Last updated at 02/26/2021 12:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
