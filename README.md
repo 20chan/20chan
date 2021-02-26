@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1N66R4F-A9Q/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=1N66R4F-A9Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/fBrkJy06XLs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fBrkJy06XLs)
 
-bk146 - 진흙 속에서 피는 꽃 (Feat. Mc Meta, Kebee) - The Quiett
+David Dean Burkhart - Arlo Parks - Hope
 
-**Albums**: 조회수 133만회
+**Albums**: 조회수 1.1만회
 
-Last updated at 02/26/2021 15:48
+Last updated at 02/26/2021 15:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
