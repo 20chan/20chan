@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ieaISifuF2lvF4yyy6ma0DidoIMSAHR3C_mIChcQ3YHmBOc2y7OficXhC4Il5_ZqIUMBnWSn5x4HBNFb">](https://music.youtube.com/watch?v=z72EtIyqTrk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/doY5TbsprL9nU0VHBrBYACPspr7h8ayzT7f7KB_9KLG-y0vxao3GbWyAqmJnTGlCrp5RPtVpw-sCFt0">](https://music.youtube.com/watch?v=c47zGKYNv3I)
 
-윤도현 - 가을 우체국 앞에서
+김광석 (Kim Kwang Seok) - 혼자 남은 밤 (The Night Alone)
 
-**Albums**: 가을 우체국 앞에서
+**Albums**: 김광석 네번째 (Kim Kwang Seok 4th)
 
-Last updated at 02/26/2021 17:05
+Last updated at 02/26/2021 17:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
