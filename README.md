@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=JruzuDqfRAE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fwxycHt8eVB7mnr-cv_L2aegyfIhtqx706FbbGDRLfw6-VdeRjGSpQipz7pGcI9nRbMJLWNi_YbyuGFIDw">](https://music.youtube.com/watch?v=DowLEpo7A18)
 
-One OK Rock(원오크락) - Clock Strikes
+One OK Rock(원오크락) - Stand Out Fit In
 
-**Albums**: 人生×僕=
+**Albums**: Eye of the Storm
 
-Last updated at 02/26/2021 11:13
+Last updated at 02/26/2021 11:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
