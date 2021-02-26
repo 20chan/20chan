@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fwxycHt8eVB7mnr-cv_L2aegyfIhtqx706FbbGDRLfw6-VdeRjGSpQipz7pGcI9nRbMJLWNi_YbyuGFIDw">](https://music.youtube.com/watch?v=zubOTcG6fb4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B9omyzDZWXVojbUwCZ-Ljs_9AQDCg4g0ig64x8uuNHUz_DH3EAtBsCJyioCtZs8bqArUub4FgxjlgCc6HA">](https://music.youtube.com/watch?v=yzxMSXwjUdI)
 
-One OK Rock(원오크락) - Change
+One OK Rock(원오크락) - Taking Off
 
-**Albums**: Eye of the Storm
+**Albums**: Taking Off
 
-Last updated at 02/26/2021 12:08
+Last updated at 02/26/2021 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
