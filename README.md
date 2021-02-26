@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B9omyzDZWXVojbUwCZ-Ljs_9AQDCg4g0ig64x8uuNHUz_DH3EAtBsCJyioCtZs8bqArUub4FgxjlgCc6HA">](https://music.youtube.com/watch?v=yzxMSXwjUdI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/M-7JGGyJouX1upiQuC9IsaifXipJr17y_GfnlVN6aPV_X-99aKoYNfoxQGr2EXaYgGLvp4vi00xmMJKI">](https://music.youtube.com/watch?v=PfSOZg45ybk)
 
-One OK Rock(원오크락) - Taking Off
+One OK Rock(원오크락) - I Was King
 
-**Albums**: Taking Off
+**Albums**: I Was King
 
-Last updated at 02/26/2021 12:10
+Last updated at 02/26/2021 12:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
