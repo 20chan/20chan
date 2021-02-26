@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0nyxHM7bCxPJWxUIjuWc6-AhN177uuNqw14348UkOOMTrZ61JJmDzQ6H2S0sC6WNfUt7yC6OmXSJ9i6rEw">](https://music.youtube.com/watch?v=Dz3CNto8RSo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=S7L8sTDoyNI)
 
-Ikimonogakari - Blue Bird
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Spirits of the Sea
 
-**Albums**: My Song Your Song
+**Albums**: Uma to Shika
 
-Last updated at 02/26/2021 10:53
+Last updated at 02/26/2021 10:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
