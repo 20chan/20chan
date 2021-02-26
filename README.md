@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">](https://music.youtube.com/watch?v=7tiYLMFdVHU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">](https://music.youtube.com/watch?v=GtyivRFy07c)
 
-One OK Rock(원오크락) - じぶんROCK
+One OK Rock(원오크락) - キミシダイ列車
 
-**Albums**: Nicheシンドローム
+**Albums**: 残響リファレンス
 
-Last updated at 02/26/2021 13:47
+Last updated at 02/26/2021 13:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
