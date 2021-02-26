@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=22MSSp-j_cI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1G4Av46VZALzYgWQ8qoEn7MviEQfeBACcp5yen21kWpumaD1k01uJSeVTQ_Yq1AwVmV4yLPge-rdyY0">](https://music.youtube.com/watch?v=4ciZKNHSoUs)
 
-One OK Rock(원오크락) - Be the light
+One OK Rock(원오크락) - We Are
 
-**Albums**: 人生×僕=
+**Albums**: Ambitions
 
-Last updated at 02/26/2021 13:07
+Last updated at 02/26/2021 13:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
