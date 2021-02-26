@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/fBrkJy06XLs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=fBrkJy06XLs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/gDjZKHxXqoA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gDjZKHxXqoA)
 
-David Dean Burkhart - Arlo Parks - Hope
+로엘Roel - 이누야샤 (犬夜叉) OST - 시대를 초월한 마음 cover
 
-**Albums**: 조회수 1.1만회
+**Albums**: 조회수 606만회
 
-Last updated at 02/26/2021 15:53
+Last updated at 02/26/2021 15:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
