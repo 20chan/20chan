@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/o0Wha0-rZW4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=o0Wha0-rZW4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GMXu2htvmsBm0-ahKeF-Ng6J08HZqcDAwKav9HDiv75Lsh4d3nrMPk9v-mQEVrzs19rhLfUrRlUvhvI">](https://music.youtube.com/watch?v=0_TVGoWzk5o)
 
-사랑은 그리움이고 눈물이다 - 박정운 - 오늘같은 밤이면 (1991)
+여행스케치 - 옛 친구에게
 
-**Albums**: 조회수 438만회
+**Albums**: 처음타본 타임머신
 
-Last updated at 02/26/2021 16:56
+Last updated at 02/26/2021 17:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
