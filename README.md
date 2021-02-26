@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">](https://music.youtube.com/watch?v=9if2rlTRY-0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=22MSSp-j_cI)
 
-One OK Rock(원오크락) - Re:make
+One OK Rock(원오크락) - Be the light
 
-**Albums**: 残響リファレンス
+**Albums**: 人生×僕=
 
-Last updated at 02/26/2021 11:39
+Last updated at 02/26/2021 11:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
