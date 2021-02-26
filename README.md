@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yXZY3tZEly4ny_wL9hCJ0xlkV2QIKGiXYc8vBd3chwX4OWhmSn7XbDRX8iPk9fo2q7cB0m-IMFSqk1s">](https://music.youtube.com/watch?v=MHdpHvbGbkI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ee_LnHnmHKY/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=ee_LnHnmHKY)
 
-마코 - Paradise Lost
+Acrylo - Lil Pump does Math in Space
 
-**Albums**: Hourglass
+**Albums**: 조회수 154만회
 
-Last updated at 02/26/2021 15:41
+Last updated at 02/26/2021 15:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
