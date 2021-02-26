@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">](https://music.youtube.com/watch?v=UxON1FoWoDg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fwxycHt8eVB7mnr-cv_L2aegyfIhtqx706FbbGDRLfw6-VdeRjGSpQipz7pGcI9nRbMJLWNi_YbyuGFIDw">](https://music.youtube.com/watch?v=zubOTcG6fb4)
 
-One OK Rock(원오크락) - Liar
+One OK Rock(원오크락) - Change
 
-**Albums**: Nicheシンドローム
+**Albums**: Eye of the Storm
 
-Last updated at 02/26/2021 14:53
+Last updated at 02/26/2021 14:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
