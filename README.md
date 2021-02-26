@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=Ivo6e0mOtns)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=DgUDWmjRPAE)
 
-One OK Rock(원오크락) - Heartache
+One OK Rock(원오크락) - The Beginning
 
-**Albums**: 35xxxv (Deluxe Edition)
+**Albums**: 人生×僕=
 
-Last updated at 02/26/2021 12:30
+Last updated at 02/26/2021 12:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
