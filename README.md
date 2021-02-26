@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/doY5TbsprL9nU0VHBrBYACPspr7h8ayzT7f7KB_9KLG-y0vxao3GbWyAqmJnTGlCrp5RPtVpw-sCFt0">](https://music.youtube.com/watch?v=c47zGKYNv3I)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/LNftCcPJb5Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=LNftCcPJb5Y)
 
-김광석 (Kim Kwang Seok) - 혼자 남은 밤 (The Night Alone)
+디보 - 디보 (Dbo) - Peacock (Feat. ZENE THE ZILLA) [Official Video]
 
-**Albums**: 김광석 네번째 (Kim Kwang Seok 4th)
+**Albums**: 조회수 117만회
 
-Last updated at 02/26/2021 17:09
+Last updated at 02/26/2021 17:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
