@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/a4fBIb8W1_C8lEKidWsYyoMWxV1tnDOETk10yeDHLjz_UgG3QxdG_Ciw4NHeLyE5zGMI-Rl2kufp2bxZ">](https://music.youtube.com/watch?v=36u3s430p8E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/POLnmINdcp9J6gsyi3lg2CIYdSmdEe1KRSMWuGaq0VPLAKDUsdwHsk77zjH3fwJQPpjK_zjO-ZGsOqA">](https://music.youtube.com/watch?v=urSMSICQ7Hk)
 
-샤프 - 연극이 끝난 후
+공일오비(015B) 및 O.WHEN - 세월의 흔적 다 버리고
 
-**Albums**: MBC 대학가요제 골든베스트(잃어버린 우산/해야)
+**Albums**: 015B Anthology Pt. 3
 
-Last updated at 02/26/2021 15:27
+Last updated at 02/26/2021 15:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
