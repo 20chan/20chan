@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/lG8WioOpz54/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lG8WioOpz54)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/X8XwQQFNn43ZDb0nlOM1RCeY97ewaeFe-mqNJnwmv5DiW95aP9b7qCOXSLuWEDGzfcNlax-MdS868w">](https://music.youtube.com/watch?v=9y4sFUmiwB0)
 
-다즈비 - Arrietty's Song (Cécile Corbel) arranged 2021ver.／ダズビー COVER
+리조 - Juice
 
-**Albums**: 조회수 34만회
+**Albums**: Cuz I Love You (Deluxe)
 
-Last updated at 02/26/2021 17:21
+Last updated at 02/26/2021 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
