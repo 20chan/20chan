@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=IwoCT0Q5cZ8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=hKr5N6T-YiQ)
 
-One OK Rock(원오크락) - Cry Out
+One OK Rock(원오크락) - Deeper Deeper
 
-**Albums**: 35xxxv (Deluxe Edition)
+**Albums**: 人生×僕=
 
-Last updated at 02/26/2021 11:57
+Last updated at 02/26/2021 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
