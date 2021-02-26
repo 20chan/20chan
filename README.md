@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/gDjZKHxXqoA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=gDjZKHxXqoA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/te8xskFX0HJIvGLahiYmjh5JvzLtGwScFeQd93RyQs0ar7XCDODMSkeeINu74qdAbG9mlI7L7FT_svw">](https://music.youtube.com/watch?v=0Tl08kTvod0)
 
-로엘Roel - 이누야샤 (犬夜叉) OST - 시대를 초월한 마음 cover
+Stromae - Papaoutai
 
-**Albums**: 조회수 606만회
+**Albums**: racine carrée
 
-Last updated at 02/26/2021 15:58
+Last updated at 02/26/2021 16:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
