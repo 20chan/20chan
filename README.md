@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=H3PejDpbAfY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">](https://music.youtube.com/watch?v=7tiYLMFdVHU)
 
-One OK Rock(원오크락) - Last Dance
+One OK Rock(원오크락) - じぶんROCK
 
-**Albums**: 35xxxv (Deluxe Edition)
+**Albums**: Nicheシンドローム
 
-Last updated at 02/26/2021 13:43
+Last updated at 02/26/2021 13:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
