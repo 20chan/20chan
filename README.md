@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1G4Av46VZALzYgWQ8qoEn7MviEQfeBACcp5yen21kWpumaD1k01uJSeVTQ_Yq1AwVmV4yLPge-rdyY0">](https://music.youtube.com/watch?v=4ciZKNHSoUs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TxE0t0b3v2AOW8bKNL6jZx3QLWLsY1LLk4enQc5NeDPf8v7RedfxOJrZ8Bgjnt60EqTSg6uVttqNeWMx">](https://music.youtube.com/watch?v=DPD8kvSPPbs)
 
-One OK Rock(원오크락) - We Are
+One OK Rock(원오크락) - Mighty Long Fall
 
-**Albums**: Ambitions
+**Albums**: 35xxxv (Deluxe Edition)
 
-Last updated at 02/26/2021 14:37
+Last updated at 02/26/2021 14:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
