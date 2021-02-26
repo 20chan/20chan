@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=a3OV4eSuNdg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">](https://music.youtube.com/watch?v=4fC1M6MjtFM)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Shunrai
+One OK Rock(원오크락) - 完全感覚Dreamer
 
-**Albums**: Bootleg
+**Albums**: Nicheシンドローム
 
-Last updated at 02/26/2021 11:00
+Last updated at 02/26/2021 11:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
