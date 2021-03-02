@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273075024ae30235ad214142c37">](https://open.spotify.com/album/3cO6RzHotTE55LiV7dtA1L)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273acd0b4df8504bebc5d4425b2">](https://open.spotify.com/album/0ymQCtSVgFyXzwPlNWNNhH)
 
-Silent Child - Fuck You
+TeZATalks - STFD
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:37
+Last updated at 03/02/2021 16:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
