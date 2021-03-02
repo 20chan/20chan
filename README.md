@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CXGL9haLtankpmYHuH1rM6lqUMAFk2VW2OixUNs-QdCpLROj1Elssx2X9BFabdwAu_bp_CeD7ZoZSgPJ">](https://music.youtube.com/watch?v=5P8kYG1Webk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8O7ikD5HC0OmdMU8J-va0htyEeSGSo2ZI3FzhJXJ5XcKpBgj5-O29lid3cuSqouqmKz8uA_DgtUq_Qo">](https://music.youtube.com/watch?v=AT_PGpXNsB8)
 
-최예근 - 고릴라
+Vitium - Incredible
 
-**Albums**: 너만 알아볼 수 있는 의미를 담아서
+**Albums**: Oxygen Planet
 
-Last updated at 03/02/2021 13:39
+Last updated at 03/02/2021 14:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
