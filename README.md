@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/watch?v=H3Kzh6RrnMc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/T0aL1fFaI3KJ9cCA464TVKijD7QL_7Ay_qMekoRqSmnY_xW4b1pbbCMtpa54Z_1y1Dtd0Dz52N5cVvA">](https://music.youtube.com/watch?v=4u4d4GWdpo8)
 
-Coldplay(콜드플레이) - Hymn for the Weekend
+Martin Garrix(마틴 개릭스) 및 Bebe Rexha(비비 렉사) - In the Name of Love
 
-**Albums**: A Head Full of Dreams
+**Albums**: In the Name of Love
 
-Last updated at 03/02/2021 15:14
+Last updated at 03/02/2021 15:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
