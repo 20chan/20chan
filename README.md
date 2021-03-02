@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EdmO_dOKK6jzy-7Alw6t5CYYRI0SltYedi-Ba3vDFxDBnUjA6oJ2kyr7bj_-zutjR0TjPdFtRQbkFOHx">](https://music.youtube.com/watch?v=OR6MoBU3nrQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hXa5nVwU7VCcuaG3t5wJ3_RCf7--ojJyFbjpLQeMtXtgHFW50rbKTgzWdbZuA_mlLztp6rzAYb9Ccy0">](https://music.youtube.com/watch?v=dh5eUIvnMgM)
 
-updog - hurt
+Mia Vaile - Money
 
-**Albums**: hurt
+**Albums**: Wallflower EP
 
-Last updated at 03/02/2021 14:42
+Last updated at 03/02/2021 14:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
