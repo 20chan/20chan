@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273acd0b4df8504bebc5d4425b2">](https://open.spotify.com/album/0ymQCtSVgFyXzwPlNWNNhH)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387e6bb28f269597e09145121">](https://open.spotify.com/album/6nV47nUjokX90oxKeoIIdZ)
 
-TeZATalks - STFD
+Sub Urban - Isolate
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:40
+Last updated at 03/02/2021 16:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
