@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/T0aL1fFaI3KJ9cCA464TVKijD7QL_7Ay_qMekoRqSmnY_xW4b1pbbCMtpa54Z_1y1Dtd0Dz52N5cVvA">](https://music.youtube.com/watch?v=4u4d4GWdpo8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-vRY6a7WOEThuofi_Ltr6-L58FHh4G9FgFs-qIueoV9obg_arYvtx6AB-o-q_ugECs7gG9NxmmpzNTVK">](https://music.youtube.com/watch?v=qRvTNLpXAm0)
 
-Martin Garrix(마틴 개릭스) 및 Bebe Rexha(비비 렉사) - In the Name of Love
+신승훈 - I Believe
 
-**Albums**: In the Name of Love
+**Albums**: 8th
 
-Last updated at 03/02/2021 15:18
+Last updated at 03/02/2021 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
