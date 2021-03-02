@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aVhVL7LVJAwk22iM4PTxOE6R6j_0S2QTxiJzuEkF-WQVbPCtAwB5iPaUxWOujeu_B-2pVAJZaOx2N6Tu">](https://music.youtube.com/watch?v=5g3s-0KX2r8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/HWnhaovaJws/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HWnhaovaJws)
 
-XXX - 수작
+알파 - BewhY (비와이) - 초월 (Feat. C JAMM(씨잼)) [The Movie Star - Track #9]ㅣLyrics/가사
 
-**Albums**: LANGUAGE
+**Albums**: 조회수 28만회
 
-Last updated at 03/02/2021 11:17
+Last updated at 03/02/2021 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
