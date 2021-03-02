@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/nFZP8zQ5kzk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nFZP8zQ5kzk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dwlPxZVyQqDSu5rDLvtlBGp0-1WF-DLxbGUWjgc_RSD-5U5Y7nGFVFAGsHbQguMIElaU5yNQVU_ZOs4">](https://music.youtube.com/watch?v=jPbrVlxwBTo)
 
-LRG Clothing - Aloe Blacc - I Need A Dollar
+그_냥 - 안녕
 
-**Albums**: 조회수 8164만회
+**Albums**: 안_녕..
 
-Last updated at 03/02/2021 11:05
+Last updated at 03/02/2021 11:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
