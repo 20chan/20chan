@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387e6bb28f269597e09145121">](https://open.spotify.com/album/6nV47nUjokX90oxKeoIIdZ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bc71e75e70d2c880e3722103">](https://open.spotify.com/album/3MrjwyC3w3HTiJt1j0gGr3)
 
-Sub Urban - Isolate
+Grant Nevve - The Edge
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:44
+Last updated at 03/02/2021 16:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
