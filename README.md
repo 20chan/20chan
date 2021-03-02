@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/sOc1c8ksWJ_ASiZt9GNEJ3drvJ_snBGryob2pjqc2Ef66xdfJCGy7SCvVgg5ObDT1joxn7B1dDRmkhI">](https://music.youtube.com/watch?v=18taoPtL1-I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">](https://music.youtube.com/watch?v=R2c5v0iJbgk)
 
-릴보이, 로꼬 및 박재범 - ON IT + BO$
+쿤디판다 - The Roots(피처링: 저스디스)
 
-**Albums**: Show Me the Money 4 Episode 4
+**Albums**: Show Me the Money 9 Episode 3
 
-Last updated at 03/02/2021 12:08
+Last updated at 03/02/2021 13:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
