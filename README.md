@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/AV2N91Fp4Ew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AV2N91Fp4Ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CXGL9haLtankpmYHuH1rM6lqUMAFk2VW2OixUNs-QdCpLROj1Elssx2X9BFabdwAu_bp_CeD7ZoZSgPJ">](https://music.youtube.com/watch?v=5P8kYG1Webk)
 
-DAZBEE official - コネクト (ClariS) ／ダズビー COVER
+최예근 - 고릴라
 
-**Albums**: 조회수 90만회
+**Albums**: 너만 알아볼 수 있는 의미를 담아서
 
-Last updated at 03/02/2021 13:34
+Last updated at 03/02/2021 13:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
