@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hXa5nVwU7VCcuaG3t5wJ3_RCf7--ojJyFbjpLQeMtXtgHFW50rbKTgzWdbZuA_mlLztp6rzAYb9Ccy0">](https://music.youtube.com/watch?v=dh5eUIvnMgM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1PNYtOMgYcec6NWyBwKGaC0tzztrYcMjvtZFV9mEtLy2QdABKv7t5RLnDOfN8TOJLrbGNuYKk73TxMU">](https://music.youtube.com/watch?v=GJLqHjZFPWU)
 
-Mia Vaile - Money
+케이브타운 - Boys Will Be Bugs
 
-**Albums**: Wallflower EP
+**Albums**: Animal Kingdom: Comet
 
-Last updated at 03/02/2021 14:45
+Last updated at 03/02/2021 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
