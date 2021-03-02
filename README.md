@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273236fd6fa4027394c3cef383c">](https://open.spotify.com/album/0yOfmrFPTbE4enpPh6huay)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730733c154a5a595efbf7a41dc">](https://open.spotify.com/album/6Na2NRtCRObMaG7Qa4S54Q)
 
-The Tech Thieves - Fake
+The Tech Thieves - Enough
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:28
+Last updated at 03/02/2021 16:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
