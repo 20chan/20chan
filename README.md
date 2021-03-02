@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bc71e75e70d2c880e3722103">](https://open.spotify.com/album/3MrjwyC3w3HTiJt1j0gGr3)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e28717787a83534969474b63">](https://open.spotify.com/album/1BwzFuVv6yiqRrLuzfNoCb)
 
-Grant Nevve - The Edge
+Taska Black DROELOE CUT_ - Running Away
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:46
+Last updated at 03/02/2021 16:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
