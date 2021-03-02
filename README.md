@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e28717787a83534969474b63">](https://open.spotify.com/album/1BwzFuVv6yiqRrLuzfNoCb)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31">](https://open.spotify.com/album/0nOXOyMEu6TD2HgVm12aks)
 
-Taska Black DROELOE CUT_ - Running Away
+Grant Juneau - Are We Still Young
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:49
+Last updated at 03/02/2021 16:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
