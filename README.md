@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8O7ikD5HC0OmdMU8J-va0htyEeSGSo2ZI3FzhJXJ5XcKpBgj5-O29lid3cuSqouqmKz8uA_DgtUq_Qo">](https://music.youtube.com/watch?v=AT_PGpXNsB8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1eCVTHpU_gS5J4BefvHONaUkCAIg4NCkZ5FsBNW4hvbRIJYnvZ23xI1nCmAsBeT_PxNMAza49GxHCELO">](https://music.youtube.com/watch?v=wM6XLhbG3a8)
 
-Vitium - Incredible
+DJ 오카와리 - Represent(피처링: Chieko Kinbara)
 
-**Albums**: Oxygen Planet
+**Albums**: KALEIDOSCOPE
 
-Last updated at 03/02/2021 14:28
+Last updated at 03/02/2021 14:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
