@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31">](https://open.spotify.com/album/0nOXOyMEu6TD2HgVm12aks)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739d7a1d11cfa9d384b4a953ae">](https://open.spotify.com/album/0LLXezdh5Ytw8SU9Z0Xg8c)
 
-Grant Juneau - Are We Still Young
+Stephen - Play Me Like A Violin
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 18:29
+Last updated at 03/02/2021 18:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
