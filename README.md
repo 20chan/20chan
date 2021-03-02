@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mRpiBvwKX6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mRpiBvwKX6c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XudTfdoCdSQN53AEVO6JInpjWyhKCffP8UuxxpSHxfJZsx3BUpCHNuW_nHgtmJf__WikdatA_DqxRHto">](https://music.youtube.com/watch?v=YLJF6_km2Cc)
 
-Rachel Kim - Diamond Jack
+Matstubs - Kings And Queens Of Summer
 
-**Albums**: 조회수 2634만회
+**Albums**: Kings And Queens Of Summer
 
-Last updated at 03/02/2021 14:36
+Last updated at 03/02/2021 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
