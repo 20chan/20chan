@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/bfcL8KqpgKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bfcL8KqpgKs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gW0lRQG6Chm3nfZZ3WGHZxWJCxaVDiXVLR7GaW5MuE-ubL5TaUpteJl6B6t1TNooiy59xDBe9TPMnY3P">](https://music.youtube.com/watch?v=CL34af5Y7cc)
 
-mimi sweet - 두번째 달 얼음 연못
+dosii(도시) - lovememore.
 
-**Albums**: 조회수 321만회
+**Albums**: dosii
 
-Last updated at 03/02/2021 14:59
+Last updated at 03/02/2021 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
