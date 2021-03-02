@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/p_jV3_lS4bZQSIl-ucuL8faT00MZRYpPhjPR7FOB7-MWMKC_iNbjquSlNG48hm_BzklDF8LkDHXRT4DyHA">](https://music.youtube.com/watch?v=2g2FwTQ8GDM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/2drmRO4BLxo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2drmRO4BLxo)
 
-이상우 - 하룻밤의 꿈
+나는 음악을 좋아한다 123 - 이문세 사랑은 늘 도망가
 
-**Albums**: 이상우 LEE SANG WOO Best
+**Albums**: 조회수 5.6만회
 
-Last updated at 03/02/2021 11:27
+Last updated at 03/02/2021 11:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
