@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31">](https://open.spotify.com/album/0nOXOyMEu6TD2HgVm12aks)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b7654c3200adac6a101db0ab">](https://open.spotify.com/album/7p7QkA2uAymfgGkyhuNa7J)
 
-Grant Juneau - Are We Still Young
+Hedley - Lose Control
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:52
+Last updated at 03/02/2021 17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
