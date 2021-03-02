@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a580073c2d23b9907a74c1b1">](https://open.spotify.com/album/6ixtp901UtxzxN81ErCYbO)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d0af4310b55a294a27c399e3">](https://open.spotify.com/album/2tLvmJpUAkbcTp85eACvA2)
 
-Hedley - Anything
+Hedley - For The Nights I Can't Remember
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 18:12
+Last updated at 03/02/2021 18:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
