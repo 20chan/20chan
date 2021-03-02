@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K68roTY7T46cP4RQz--PAOQC_qb5LWK2qVIJ0PR2CYj8DladMruygnZadFnrF9eJ0sroR4RtvZ0xZxg">](https://music.youtube.com/watch?v=lcLBV2fcad0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/nFZP8zQ5kzk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nFZP8zQ5kzk)
 
-카더가든 - 밤새 (취향저격 그녀 X 카더가든)
+LRG Clothing - Aloe Blacc - I Need A Dollar
 
-**Albums**: 밤새 (취향저격 그녀 X 카더가든)
+**Albums**: 조회수 8164만회
 
-Last updated at 02/26/2021 17:28
+Last updated at 03/02/2021 11:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
