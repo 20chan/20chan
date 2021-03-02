@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b4a5abddf9ed7fb6693cefcd">](https://open.spotify.com/album/6S3bJvzVTKD66OwAHmaxIK)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273075024ae30235ad214142c37">](https://open.spotify.com/album/3cO6RzHotTE55LiV7dtA1L)
 
-DROELOE - Kintsugi
+Silent Child - Fuck You
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:33
+Last updated at 03/02/2021 16:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
