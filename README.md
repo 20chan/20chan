@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KhViypn7Z44J6IQ9iYbNY2Et0V4BsP6YQJUwuqRw00Mn8UqTw1GPfT_5WkAZxh6IH_wjy0BAnInqIrb0">](https://music.youtube.com/watch?v=rEL9iRq0cBI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/bfcL8KqpgKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bfcL8KqpgKs)
 
-케이브타운 - Talk to Me
+mimi sweet - 두번째 달 얼음 연못
 
-**Albums**: Dear.
+**Albums**: 조회수 321만회
 
-Last updated at 03/02/2021 14:54
+Last updated at 03/02/2021 14:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
