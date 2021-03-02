@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27397d11a89e5fd70347099f7c9">](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309a8b1003c549b4a53f60852">](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB)
 
-grandson - Blood // Water
+SEBASTIAN PAUL - TROJAN HORSE
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 16:17
+Last updated at 03/02/2021 16:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
