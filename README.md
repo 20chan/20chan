@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1PNYtOMgYcec6NWyBwKGaC0tzztrYcMjvtZFV9mEtLy2QdABKv7t5RLnDOfN8TOJLrbGNuYKk73TxMU">](https://music.youtube.com/watch?v=GJLqHjZFPWU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KhViypn7Z44J6IQ9iYbNY2Et0V4BsP6YQJUwuqRw00Mn8UqTw1GPfT_5WkAZxh6IH_wjy0BAnInqIrb0">](https://music.youtube.com/watch?v=rEL9iRq0cBI)
 
-케이브타운 - Boys Will Be Bugs
+케이브타운 - Talk to Me
 
-**Albums**: Animal Kingdom: Comet
+**Albums**: Dear.
 
-Last updated at 03/02/2021 14:49
+Last updated at 03/02/2021 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
