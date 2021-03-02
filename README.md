@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dD6CdfjkxIRVt3y2-HE3J_UCzYV7ptev8J5ygymFdkM3HaaxLrstI5gdPKM1WTFV9Oa7v6x1x0CxPBw">](https://music.youtube.com/watch?v=fMDo36aMeVU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA">](https://music.youtube.com/watch?v=H3Kzh6RrnMc)
 
-브로콜리너마저 - 이웃에 방해가 되지 않는 선에서
+Coldplay(콜드플레이) - Hymn for the Weekend
 
-**Albums**: 골든-힛트 모음집 [앵콜요청금지.]
+**Albums**: A Head Full of Dreams
 
-Last updated at 03/02/2021 15:10
+Last updated at 03/02/2021 15:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
