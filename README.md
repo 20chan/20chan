@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a580073c2d23b9907a74c1b1">](https://open.spotify.com/album/6ixtp901UtxzxN81ErCYbO)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273bd9e9490d5198c41cb85b669">](https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui)
 
-Hedley - Heaven In Our Headlights
+NEFFEX - Fight Back
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 18:23
+Last updated at 03/02/2021 18:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
