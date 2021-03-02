@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27397d11a89e5fd70347099f7c9">](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309dd0dd52b2c4374a6dbf773">](https://open.spotify.com/album/3NnqjGAO2u6FyiFcW2ZPhF)
 
-grandson - Blood // Water
+Weathers - C'est la vie
 
 **Albums**: Not supported
 
-Last updated at 03/02/2021 18:45
+Last updated at 03/02/2021 18:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
