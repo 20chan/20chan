@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/HWnhaovaJws/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=HWnhaovaJws)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/p_jV3_lS4bZQSIl-ucuL8faT00MZRYpPhjPR7FOB7-MWMKC_iNbjquSlNG48hm_BzklDF8LkDHXRT4DyHA">](https://music.youtube.com/watch?v=2g2FwTQ8GDM)
 
-알파 - BewhY (비와이) - 초월 (Feat. C JAMM(씨잼)) [The Movie Star - Track #9]ㅣLyrics/가사
+이상우 - 하룻밤의 꿈
 
-**Albums**: 조회수 28만회
+**Albums**: 이상우 LEE SANG WOO Best
 
-Last updated at 03/02/2021 11:21
+Last updated at 03/02/2021 11:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
