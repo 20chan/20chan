@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1eCVTHpU_gS5J4BefvHONaUkCAIg4NCkZ5FsBNW4hvbRIJYnvZ23xI1nCmAsBeT_PxNMAza49GxHCELO">](https://music.youtube.com/watch?v=wM6XLhbG3a8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mRpiBvwKX6c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mRpiBvwKX6c)
 
-DJ 오카와리 - Represent(피처링: Chieko Kinbara)
+Rachel Kim - Diamond Jack
 
-**Albums**: KALEIDOSCOPE
+**Albums**: 조회수 2634만회
 
-Last updated at 03/02/2021 14:31
+Last updated at 03/02/2021 14:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
