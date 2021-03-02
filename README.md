@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XudTfdoCdSQN53AEVO6JInpjWyhKCffP8UuxxpSHxfJZsx3BUpCHNuW_nHgtmJf__WikdatA_DqxRHto">](https://music.youtube.com/watch?v=YLJF6_km2Cc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EdmO_dOKK6jzy-7Alw6t5CYYRI0SltYedi-Ba3vDFxDBnUjA6oJ2kyr7bj_-zutjR0TjPdFtRQbkFOHx">](https://music.youtube.com/watch?v=OR6MoBU3nrQ)
 
-Matstubs - Kings And Queens Of Summer
+updog - hurt
 
-**Albums**: Kings And Queens Of Summer
+**Albums**: hurt
 
-Last updated at 03/02/2021 14:39
+Last updated at 03/02/2021 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
