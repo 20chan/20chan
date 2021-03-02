@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IrACeiFNXvt_DkS1_KMGwRiMbN0-rOqAkyZXs6_dZWnW4_liUywlasSVWVs2q0Bx-hc6SfkupM3vcAip">](https://music.youtube.com/watch?v=M4T_k33CI1M)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AV2N91Fp4Ew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AV2N91Fp4Ew)
 
-DNCE - Cake By The Ocean
+DAZBEE official - コネクト (ClariS) ／ダズビー COVER
 
-**Albums**: DNCE
+**Albums**: 조회수 90만회
 
-Last updated at 03/02/2021 13:30
+Last updated at 03/02/2021 13:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
