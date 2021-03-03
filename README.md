@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ab2f8973949159695f65df7b">](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737a8175dee5193bb99862f33c">](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1)
 
-Twenty One Pilots - Level of Concern
+Arrested Youth - My Friends Are Robots
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:03
+Last updated at 03/03/2021 18:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
