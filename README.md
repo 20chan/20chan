@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737a8175dee5193bb99862f33c">](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2732b75834d11e56200516a1ad2">](https://open.spotify.com/album/0jAvYi1sHVhMTCVtKqNVkK)
 
-Arrested Youth - My Friends Are Robots
+Au/Ra - Assassin
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:07
+Last updated at 03/03/2021 18:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
