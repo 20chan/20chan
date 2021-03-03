@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e46d181f0fa342ee2ef38eb3">](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273675e743561da0c0ca16d6245">](https://open.spotify.com/album/6T0ad5bgbZiFZkt6aqxGo4)
 
-Oliver Tree - Alien Boy
+League of Legends BOBBY Mako The Glitch Mob The Word Alive - RISE - Remix
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:20
+Last updated at 03/03/2021 19:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
