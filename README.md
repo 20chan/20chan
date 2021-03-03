@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec4e6a75e319d0e94edb1efc">](https://open.spotify.com/album/3aQggZAnvkohMfgoMtBLHo)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736031abc846e4815d43383665">](https://open.spotify.com/album/54Tu4voMoq7IC5lEAFiOsn)
 
-Slushii - All I Need
+SIAMES Barbie Williams - Summer Nights
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:38
+Last updated at 03/03/2021 17:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
