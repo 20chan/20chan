@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec73b51168d3a04d203a41d1">](https://open.spotify.com/album/68s3DYnoXMqMpLtq27Csq6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27346a37d83ea413aaadbbc6d9e">](https://open.spotify.com/album/4fm1WiDmZsWHCxbjTZzU0U)
 
-Melanie Martinez Tierra Whack - Copy Cat (feat. Tierra Whack)
+Sam Tinnesz - Legends Are Made
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:29
+Last updated at 03/03/2021 20:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
