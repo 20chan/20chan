@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27397ea027ac78c05d10422b588">](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6dfb454b77efaccc1371d14">](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG)
 
-TheFatRat Anjulie - Fly Away
+I DONT KNOW HOW BUT THEY FOUND ME - Social Climb
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:53
+Last updated at 03/03/2021 18:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
