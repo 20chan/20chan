@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d1546c70238fa6aa13610c03">](https://open.spotify.com/album/3FxGRbPGiQN6rS0RQoq5uB)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735945e0dce1af45d640cf06ea">](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c)
 
-Lincoln - Saint Bernard
+Melanie Martinez - Show & Tell
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:43
+Last updated at 03/03/2021 19:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
