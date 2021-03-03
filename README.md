@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be">](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e46d181f0fa342ee2ef38eb3">](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4)
 
-The Score - Unstoppable
+Oliver Tree - Alien Boy
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:16
+Last updated at 03/03/2021 19:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
