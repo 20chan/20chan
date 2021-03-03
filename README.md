@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309dd0dd52b2c4374a6dbf773">](https://open.spotify.com/album/3NnqjGAO2u6FyiFcW2ZPhF)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Dcknp6ckirzpf83y_N-nXHUEOzN30zshPFA9KyOGz7rJZ6ZpVutVOr7qTC2y5nqYjCBH5aXxRD5X7uwe">](https://music.youtube.com/watch?v=fqxNYjDFJUk)
 
-Weathers - C'est la vie
+Jack Johnson - Better Together
 
-**Albums**: Not supported
+**Albums**: In Between Dreams
 
-Last updated at 03/02/2021 18:49
+Last updated at 03/03/2021 10:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
