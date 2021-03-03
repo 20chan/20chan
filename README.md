@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309545e98d9172b05b28f5c0a">](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731cc2c1c72132a2e4def49a8d">](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM)
 
-Sub Urban - Cirque
+YUNGBLUD Dan Reynolds - original me (feat. dan reynolds of imagine dragons)
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:10
+Last updated at 03/03/2021 19:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
