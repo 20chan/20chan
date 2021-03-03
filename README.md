@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6dfb454b77efaccc1371d14">](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733088cbd6d7e2a4a799ecd448">](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO)
 
-I DONT KNOW HOW BUT THEY FOUND ME - Social Climb
+AViVA - RABBIT HOLE
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:56
+Last updated at 03/03/2021 18:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
