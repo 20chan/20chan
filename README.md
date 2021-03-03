@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb3a6d9c69ee04f74b4250d4">](https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731ea26cc7acdb19b3d39c1b9c">](https://open.spotify.com/album/4FlaTStRc0q6bV88rOUyJG)
 
-MISSIO - Twisted
+Moe Shop Ace Hashimoto - Natural
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:13
+Last updated at 03/03/2021 20:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
