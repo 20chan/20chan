@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2737a8175dee5193bb99862f33c">](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733644947e04a72f51ba8b93ea">](https://open.spotify.com/album/4E1pzyWvQTgHieT2pyrPrS)
 
-Arrested Youth - Mirrors
+Julian Calor Ava Silver - No Fear Anymore
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:54
+Last updated at 03/03/2021 19:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
