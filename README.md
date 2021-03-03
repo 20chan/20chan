@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739d7a1d11cfa9d384b4a953ae">](https://open.spotify.com/album/0LLXezdh5Ytw8SU9Z0Xg8c)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309dd0dd52b2c4374a6dbf773">](https://open.spotify.com/album/3NnqjGAO2u6FyiFcW2ZPhF)
 
-Stephen - Play Me Like A Violin
+Weathers - C'est la vie
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 16:49
+Last updated at 03/03/2021 16:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
