@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733644947e04a72f51ba8b93ea">](https://open.spotify.com/album/4E1pzyWvQTgHieT2pyrPrS)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
 
-Julian Calor Ava Silver - No Fear Anymore
+half•alive - The Fall
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:57
+Last updated at 03/03/2021 20:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
