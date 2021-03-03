@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273626fb1736f04466054ff7dd4">](https://open.spotify.com/album/1Hy76RlNvOHe6cpih1RxXq)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27377ab46be7891af8431b7b4da">](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z)
 
-Trevor Daniel - Falling
+MISSIO Death Stranding: Timefall - Sing To Me
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:29
+Last updated at 03/03/2021 19:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
