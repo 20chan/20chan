@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d77fa13e698bab43d4b4d9ff">](https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b782b747ed3f0bcb07e02642">](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg)
 
-Confetti - Ghost
+Maretu - Mind brand
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:29
+Last updated at 03/03/2021 18:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
