@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e46d181f0fa342ee2ef38eb3">](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27364ef33a24df9936f0683a208">](https://open.spotify.com/album/3qgZ3tKehJ9dxSxG1frhfx)
 
-Oliver Tree - Hurt
+SMLE Seann Bowe - Haunted
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:32
+Last updated at 03/03/2021 17:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
