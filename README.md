@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27396957b0279e407485635f831">](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
 
-Unlike Pluto Mike Taylor - Everything Black
+Two Feet - Go Fuck Yourself
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 16:13
+Last updated at 03/03/2021 16:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
