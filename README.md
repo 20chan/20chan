@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736e2b31dea6060eff7567718b">](https://open.spotify.com/album/2YemfCp5vOv128L36ySPOp)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309545e98d9172b05b28f5c0a">](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha)
 
-Direct Park Avenue - I'll Go
+Sub Urban - Cirque
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:06
+Last updated at 03/03/2021 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
