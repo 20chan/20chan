@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e25aef0e8325525f37970977">](https://open.spotify.com/album/2RWDW3SWj8s0XZhvs9joXS)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731cb0471f9a7cbf5c67c2918a">](https://open.spotify.com/album/1XeOpCq4J5bEsC7KGOINx2)
 
-Xan Griffin WOLFE - Capricorn
+REI AMI - DICTATOR
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:04
+Last updated at 03/03/2021 20:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
