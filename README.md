@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273433cefa3a2331f277730599f">](https://open.spotify.com/album/42zHcnPV2A3b7V1CMD4C00)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e46d181f0fa342ee2ef38eb3">](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4)
 
-Adam Jensen - Friend of the Devil
+Oliver Tree - Hurt
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:29
+Last updated at 03/03/2021 17:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
