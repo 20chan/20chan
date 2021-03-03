@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731cc2c1c72132a2e4def49a8d">](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be">](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
 
-YUNGBLUD Dan Reynolds - original me (feat. dan reynolds of imagine dragons)
+The Score - Unstoppable
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:13
+Last updated at 03/03/2021 19:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
