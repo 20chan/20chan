@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b505667bcff9407f104d9320">](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273304ae5169ad8e53e261b93f2">](https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C)
 
-SIAMES - Mr. Fear
+League of Legends The Glitch Mob Mako The Word Alive - RISE
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:02
+Last updated at 03/03/2021 17:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
