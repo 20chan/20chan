@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730b7cece3eba7e5b6aec0777a">](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733cd2ff03a508f5314a626701">](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb)
 
-Sam Tinnesz Yacht Money - Play with Fire (feat. Yacht Money)
+Waterparks - Turbulent
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:13
+Last updated at 03/03/2021 18:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
