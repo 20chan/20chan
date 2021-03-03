@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273304ae5169ad8e53e261b93f2">](https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27320eefbf93f2df39a72414efe">](https://open.spotify.com/album/2pmyJxHxpZOYu5XwyJs0Fd)
 
-League of Legends The Glitch Mob Mako The Word Alive - RISE
+8 Graves - OK
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:06
+Last updated at 03/03/2021 17:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
