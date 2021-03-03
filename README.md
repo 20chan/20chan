@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734892a8a3fefbeaca8d9a5ffa">](https://open.spotify.com/album/02aBh68KGFw7Q8G387ITRK)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cd7b367f1bd3334bea9e4629">](https://open.spotify.com/album/6Zky6vF22cwLijs7XA9ivk)
 
-Sedliv Kinnie Lane - Be There For You
+Haywyre - Never Count On Me
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:47
+Last updated at 03/03/2021 17:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
