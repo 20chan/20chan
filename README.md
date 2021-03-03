@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273155e088681e78f36f1c4719a">](https://open.spotify.com/album/33LKDlHI6zxl8uzLfUYv6P)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27342ff5d3c3426d717c0d34d33">](https://open.spotify.com/album/2ao1IFR95hM7ReDpfGEV8B)
 
-DNMO Sub Urban - Sick Of You
+Grant Juneau - Color
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:48
+Last updated at 03/03/2021 19:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
