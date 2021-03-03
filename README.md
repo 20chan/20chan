@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734c1e4c0b4e9363afd12b7b65">](https://open.spotify.com/album/2ofURnpkPHvzfkFfNT5xo7)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d77fa13e698bab43d4b4d9ff">](https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m)
 
-Get Scared - Don't You Dare Forget the Sun
+Confetti - Ghost
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:25
+Last updated at 03/03/2021 18:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
