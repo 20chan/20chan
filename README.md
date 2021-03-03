@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f46fc5c6b3d6698edacf9c5d">](https://open.spotify.com/album/1ZWLXESD9G9vSG1tuHRbr2)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734892a8a3fefbeaca8d9a5ffa">](https://open.spotify.com/album/02aBh68KGFw7Q8G387ITRK)
 
-updog - useless
+Sedliv Kinnie Lane - Be There For You
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:45
+Last updated at 03/03/2021 17:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
