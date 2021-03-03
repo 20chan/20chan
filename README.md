@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27396957b0279e407485635f831">](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz)
 
-half•alive - Aawake At Night
+Unlike Pluto Mike Taylor - Everything Black
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 16:10
+Last updated at 03/03/2021 16:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
