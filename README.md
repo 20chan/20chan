@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2732b75834d11e56200516a1ad2">](https://open.spotify.com/album/0jAvYi1sHVhMTCVtKqNVkK)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2730b7cece3eba7e5b6aec0777a">](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD)
 
-Au/Ra - Assassin
+Sam Tinnesz Yacht Money - Play with Fire (feat. Yacht Money)
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:10
+Last updated at 03/03/2021 18:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
