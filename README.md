@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27320eefbf93f2df39a72414efe">](https://open.spotify.com/album/2pmyJxHxpZOYu5XwyJs0Fd)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b9a8bf156800354bcf1cf240">](https://open.spotify.com/album/5Y9i4ZFAG2GM7ugIM916dY)
 
-8 Graves - OK
+Jacob Tillberg - Ghosts
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:10
+Last updated at 03/03/2021 17:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
