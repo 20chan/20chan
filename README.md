@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27361a91ac8b2fa1b8ce1349a66">](https://open.spotify.com/album/3dXZLrgeGmDpFXkdotBXMf)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5">](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9)
 
-DNMO Sub Urban - Broken
+Sub Urban - Cradles
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 16:56
+Last updated at 03/03/2021 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
