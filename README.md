@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cf562c0dcc8230bd23c6b6f3">](https://open.spotify.com/album/3rg4ICJOVWd6daem0hi5mg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309545e98d9172b05b28f5c0a">](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha)
 
-NEFFEX - Destiny
+Sub Urban REI AMI - Freak (feat. REI AMI)
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:22
+Last updated at 03/03/2021 17:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
