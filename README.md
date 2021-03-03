@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309545e98d9172b05b28f5c0a">](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273433cefa3a2331f277730599f">](https://open.spotify.com/album/42zHcnPV2A3b7V1CMD4C00)
 
-Sub Urban REI AMI - Freak (feat. REI AMI)
+Adam Jensen - Friend of the Devil
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:26
+Last updated at 03/03/2021 17:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
