@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwni2WYw5tehFsS_Kg-fxa8gc7hdMXFJSahkmhPWR0A=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCcmOkXdaWxXH17BPX5QxJbg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
 
-Leslie Wai - Nocturnal (Official Audio)
+half•alive - Aawake At Night
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 11:44
+Last updated at 03/03/2021 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
