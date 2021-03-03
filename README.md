@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734133716cfc80f0a138dc5719">](https://open.spotify.com/album/0Ypo27qP4udOQKGfNT48hn)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d1546c70238fa6aa13610c03">](https://open.spotify.com/album/3FxGRbPGiQN6rS0RQoq5uB)
 
-STARSET - My Demons
+Lincoln - Saint Bernard
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:38
+Last updated at 03/03/2021 19:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
