@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27348441f257bf89f570dbc81e8">](https://open.spotify.com/album/4YrXTYBBxbVysyRPGzupOt)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273679b3bec6b3cec84eed709b0">](https://open.spotify.com/album/4sVzYCPoh0HyRLKeB6aB73)
 
-Half an Orange Ephixa - Time Travel Kool Aid
+Adam Jensen - Street Fight
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:39
+Last updated at 03/03/2021 20:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
