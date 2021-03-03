@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cec7c8ebb684882dbaf476f5">](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b505667bcff9407f104d9320">](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI)
 
-Sub Urban - Cradles
+SIAMES - Mr. Fear
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 16:59
+Last updated at 03/03/2021 17:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
