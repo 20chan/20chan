@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d96c079c5aac245b9413c81e">](https://open.spotify.com/album/7p92XCQAqgLq9I9zHNtQfY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ee14a6d816e596e176575962">](https://open.spotify.com/album/4hRjuAxpm9X6h1H95QVgJ9)
 
-Or3o - Help Me
+The Neighbourhood - Wires
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:41
+Last updated at 03/03/2021 18:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
