@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27334d3849cf39cd99ce2a27b8b">](https://open.spotify.com/album/0wgevfr942iLPDrYSG3GuN)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb3a6d9c69ee04f74b4250d4">](https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M)
 
-LoveLeo - BOYFREN
+MISSIO - Twisted
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:11
+Last updated at 03/03/2021 20:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
