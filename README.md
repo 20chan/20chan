@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d5568dedd90ea5dcc0fd063a">](https://open.spotify.com/album/7IOiagLHQmBE6XPpYPSQMF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27348441f257bf89f570dbc81e8">](https://open.spotify.com/album/4YrXTYBBxbVysyRPGzupOt)
 
-NEFFEX - Rumors
+Half an Orange Ephixa - Time Travel Kool Aid
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:35
+Last updated at 03/03/2021 20:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
