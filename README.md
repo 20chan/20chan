@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273768828c6867cd0472fc84e4d">](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cf562c0dcc8230bd23c6b6f3">](https://open.spotify.com/album/3rg4ICJOVWd6daem0hi5mg)
 
-Twenty One Pilots - Chlorine
+NEFFEX - Destiny
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:17
+Last updated at 03/03/2021 17:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
