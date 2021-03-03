@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27318c0ea11fd71e7de0dd5c151">](https://open.spotify.com/album/2HjFRsy9fnESz69QoGUXEr)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273626fb1736f04466054ff7dd4">](https://open.spotify.com/album/1Hy76RlNvOHe6cpih1RxXq)
 
-The Seige - I Am Defiant
+Trevor Daniel - Falling
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:24
+Last updated at 03/03/2021 19:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
