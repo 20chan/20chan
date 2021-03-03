@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309dd0dd52b2c4374a6dbf773">](https://open.spotify.com/album/3NnqjGAO2u6FyiFcW2ZPhF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27361a91ac8b2fa1b8ce1349a66">](https://open.spotify.com/album/3dXZLrgeGmDpFXkdotBXMf)
 
-Weathers - C'est la vie
+DNMO Sub Urban - Broken
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 16:53
+Last updated at 03/03/2021 16:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
