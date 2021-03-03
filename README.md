@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731cb0471f9a7cbf5c67c2918a">](https://open.spotify.com/album/1XeOpCq4J5bEsC7KGOINx2)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27334d3849cf39cd99ce2a27b8b">](https://open.spotify.com/album/0wgevfr942iLPDrYSG3GuN)
 
-REI AMI - DICTATOR
+LoveLeo - BOYFREN
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:08
+Last updated at 03/03/2021 20:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
