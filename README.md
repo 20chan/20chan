@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cd7b367f1bd3334bea9e4629">](https://open.spotify.com/album/6Zky6vF22cwLijs7XA9ivk)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ae1eb517b57974d667fc3880">](https://open.spotify.com/album/6avxfpUklBv0idzCXnGtt6)
 
-Haywyre - Never Count On Me
+Lewis Blissett - Killing Butterflies
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:50
+Last updated at 03/03/2021 17:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
