@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273acd0b4df8504bebc5d4425b2">](https://open.spotify.com/album/0ymQCtSVgFyXzwPlNWNNhH)
 
-Two Feet - Go Fuck Yourself
+TeZATalks - STFD
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 16:17
+Last updated at 03/03/2021 16:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
