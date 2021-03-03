@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273675e743561da0c0ca16d6245">](https://open.spotify.com/album/6T0ad5bgbZiFZkt6aqxGo4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27318c0ea11fd71e7de0dd5c151">](https://open.spotify.com/album/2HjFRsy9fnESz69QoGUXEr)
 
-League of Legends BOBBY Mako The Glitch Mob The Word Alive - RISE - Remix
+The Seige - I Am Defiant
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 19:22
+Last updated at 03/03/2021 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
