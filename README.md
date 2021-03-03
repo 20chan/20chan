@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be">](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ab2f8973949159695f65df7b">](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY)
 
-The Score - Revolution
+Twenty One Pilots - Level of Concern
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 17:59
+Last updated at 03/03/2021 18:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
