@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b782b747ed3f0bcb07e02642">](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27373207db9d57df0a512593e1e">](https://open.spotify.com/album/4RGfAsA2YiRuaEJzkYXCZT)
 
-Maretu - Mind brand
+Dirty Palm - Oblivion
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 18:32
+Last updated at 03/03/2021 18:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
