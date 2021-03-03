@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27346a37d83ea413aaadbbc6d9e">](https://open.spotify.com/album/4fm1WiDmZsWHCxbjTZzU0U)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d5568dedd90ea5dcc0fd063a">](https://open.spotify.com/album/7IOiagLHQmBE6XPpYPSQMF)
 
-Sam Tinnesz - Legends Are Made
+NEFFEX - Rumors
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:32
+Last updated at 03/03/2021 20:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
