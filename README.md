@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qp_TrHwXUl7FsxB6XYrT7Ci2MGMABcdEKqGakA0tXsiYfekO-3gXaqeC1CeokQ1snkL45w7VCPyRPDVi">](https://music.youtube.com/watch?v=qaOPHnbaBdM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qQtRtxBpkPIeb27NsqDzec5AVvz7QPktkunYoI_3aO3SFZv5X21Ip4t0Gb7GAFEW9Y56QAzV0ezZChxbhw">](https://music.youtube.com/watch?v=NUFfRHk1Qcs)
 
-요루시카 - Ghost In A Flower
+Mrs. GREEN APPLE - Start
 
-**Albums**: Ghost In A Flower
+**Albums**: Variety
 
-Last updated at 03/04/2021 20:57
+Last updated at 03/04/2021 21:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
