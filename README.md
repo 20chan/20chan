@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/39uozc2Sg5bMX1T_j9LX9jljOnsvcTqMlIIBk7bbjykf7tg0tG6-G8dwNMKi9Ree0ymX9G88AfPCCiPNsA">](https://music.youtube.com/watch?v=KMdTrqzEI0I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xobOAx0YX6DxW0pxegGkvdsvHDZV9_OEAAHqfaSKVUqiVC8-XZpK9-1VrbU8FFOmjgaEUywa8lGD5Dbt">](https://music.youtube.com/watch?v=WGBNQLEegPI)
 
-Hoshino Gen(호시노 겐) - 恋
+Sukima Switch - Kanade
 
-**Albums**: 恋
+**Albums**: Kanade
 
-Last updated at 03/04/2021 17:44
+Last updated at 03/04/2021 17:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
