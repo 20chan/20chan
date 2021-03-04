@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=qly9UI4wmag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/98RjRKBpBcgCec2JQqJkAtQYjwx6P-nBmFwFfh0Wq2DYBQO5OfBT_azFDir9m6r0Q7ZWNC5jG5dlNJaA">](https://music.youtube.com/watch?v=NinLIDs9qmU)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Uma to Shika
+LiSA(리사) - homura
 
-**Albums**: Uma to Shika
+**Albums**: homura
 
-Last updated at 03/04/2021 15:08
+Last updated at 03/04/2021 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
