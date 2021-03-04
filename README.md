@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Lrx4CzYJyzh6WNBdI4GoH77yGF9bhnhvjWOfhsXnKeFhEs6iktTnqPcfhZMS56V25MTioXQW6Wt5hgl1">](https://music.youtube.com/watch?v=qPrGqgI2ibo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">](https://music.youtube.com/watch?v=64ftDYJXcTo)
 
-킹 누 - Hikoutei (Live)
+요루시카 - だから僕は音楽を辞めた
 
-**Albums**: Ceremony (Live)
+**Albums**: だから僕は音楽を辞めた
 
-Last updated at 03/04/2021 18:09
+Last updated at 03/04/2021 18:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
