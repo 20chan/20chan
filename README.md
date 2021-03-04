@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=5HH-4zXXV7E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fidizaRk8eUqccr3FrcptbFQbOsi4m57TgNZ_1mam-_YNdQvEkmvZyaPKWTYYdZ7DjkKCx0byxmcw7Vd">](https://music.youtube.com/watch?v=WqXzeB2KyKQ)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - PLACEBO
+KANA-BOON - Silhouette
 
-**Albums**: STRAY SHEEP
+**Albums**: Time
 
-Last updated at 03/04/2021 23:34
+Last updated at 03/04/2021 23:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
