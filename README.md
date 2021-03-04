@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rxcoy6DCAeKprASO-F7qzKfHGJsVMXjLhmrwj71jWcvoWJd9fwpaM0G7LUF7ik_AiVQXwdtrRCP2rXxcyQ">](https://music.youtube.com/watch?v=yuTesDwv6uA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fz_43N4kATdDzOuCq6pzfLw9Unj5s_qGN2tq557XYzbaFbdjjzOyOvsByM6qgQGIL-yZqx5tVY0MczeGnQ">](https://music.youtube.com/watch?v=OxiyIW2y1bg)
 
-DAOKO - Uchiagehanabi
+aimyon - Her Blue Sky
 
-**Albums**: Uchiagehanabi
+**Albums**: Her Blue Sky
 
-Last updated at 03/04/2021 20:35
+Last updated at 03/04/2021 20:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
