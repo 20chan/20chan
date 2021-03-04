@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Lrx4CzYJyzh6WNBdI4GoH77yGF9bhnhvjWOfhsXnKeFhEs6iktTnqPcfhZMS56V25MTioXQW6Wt5hgl1">](https://music.youtube.com/watch?v=lJuP2M2ingM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1vh5-MoY4MNHfin2RdE7s3R8NtftvEjPcccSn3MQ-A2uNb3P9hgkGMoNMd6GcWm7PcnA6VL1oan2XrA">](https://music.youtube.com/watch?v=0Ac1TwKuwCQ)
 
-킹 누 - Teenager Forever (Live)
+오피셜히게단디즘 - ラストソング
 
-**Albums**: Ceremony (Live)
+**Albums**: Traveler
 
-Last updated at 03/04/2021 18:24
+Last updated at 03/04/2021 18:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
