@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0y5EleiTBOkIbiX7SA-w8NqzVEGphZdG399bHryicR3--dhx7afQqqzuivcl_lzmHA6inkSg0LcclWnf">](https://music.youtube.com/watch?v=Hp9Z5TP1WfA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4MUVUcq-QDQmJuozv8MB3-Aa8ywIVdYJvQUwxkq1lzXDba9c2mudjrfmkmUT8u6pw13lecahkBTnt5y0FQ">](https://music.youtube.com/watch?v=gYloyw0opmM)
 
-오피셜히게단디즘 - 115万キロのフィルム
+Hata Motohiro - Himawari No Yakusoku
 
-**Albums**: エスカパレード
+**Albums**: Ao No Koukei
 
-Last updated at 03/04/2021 16:26
+Last updated at 03/04/2021 17:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
