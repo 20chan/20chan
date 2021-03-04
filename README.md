@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QBSfF_JrGV2dj3wudQTGdLOLYEJHPxKEQiLwolguUTLDxO26L_2pIQ6rF580Kum76IMBUWCF_sZfu_A">](https://music.youtube.com/watch?v=UbxtCV8nXnA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=qly9UI4wmag)
 
-aimyon - Marigold
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Uma to Shika
 
-**Albums**: Marigold
+**Albums**: Uma to Shika
 
-Last updated at 03/04/2021 15:03
+Last updated at 03/04/2021 15:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
