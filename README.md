@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tjlNskEQEkZ6ytnTS_vWFMlocOhYcBPvonRd6IbCaeq14PN2EYU_-w_qInFBHbxL0fpueoGTFjVzj-k">](https://music.youtube.com/watch?v=b_bjtIeqIR4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Lrx4CzYJyzh6WNBdI4GoH77yGF9bhnhvjWOfhsXnKeFhEs6iktTnqPcfhZMS56V25MTioXQW6Wt5hgl1">](https://music.youtube.com/watch?v=lJuP2M2ingM)
 
-[Alexandros] - Wataridori
+킹 누 - Teenager Forever (Live)
 
-**Albums**: Wataridori / Dracula La
+**Albums**: Ceremony (Live)
 
-Last updated at 03/04/2021 18:20
+Last updated at 03/04/2021 18:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
