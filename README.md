@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fidizaRk8eUqccr3FrcptbFQbOsi4m57TgNZ_1mam-_YNdQvEkmvZyaPKWTYYdZ7DjkKCx0byxmcw7Vd">](https://music.youtube.com/watch?v=WqXzeB2KyKQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nLJTwsMCCB1WKJvPxPJFyGr85jOei4F1ouoEyivRNiELZmnETxIRtGzY2vdX4Pgemf3-EErQr2_CQI2x">](https://music.youtube.com/watch?v=eXXmpxFYtRk)
 
-KANA-BOON - Silhouette
+요루시카 - 藍二乗
 
-**Albums**: Time
+**Albums**: 藍二乗
 
-Last updated at 03/04/2021 23:38
+Last updated at 03/04/2021 23:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
