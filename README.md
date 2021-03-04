@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/zO5mlcFY3HnQwPNGFxGseTJF_trVLbr4dX-YBkUaeRAUnl23j7ujbnYifQhZtwFf34bOJWKO9w_bMATj">](https://music.youtube.com/watch?v=_IkopJwRDKU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1LF0jZT1iWXyCE0jyqfP985VklD-JfJ2ieGmcwYyJfSM9zjCPMwv8ujv6hl40o-bY1IM6PGkuOq9DjMpHg">](https://music.youtube.com/watch?v=qos0DriiFKk)
 
-LiSA(리사) - Gurenge
+yourness - Kago no Naka ni Tori
 
-**Albums**: Gurenge
+**Albums**: Kago no Naka ni Tori
 
-Last updated at 03/04/2021 22:06
+Last updated at 03/04/2021 22:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
