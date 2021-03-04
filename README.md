@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VjnTgqnvJ_IuPl8mbe7VmGEmpTVlZ3Lj-FjuDsJXlHC_bjtuI1Mc6g5m4ZgDl21LVUY0dMcT-ZGkodFiLA">](https://music.youtube.com/watch?v=SV_92iVisN0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/obNTp9iITqag6KC-0aKnPbNW05HZkseRG-zCnqrvDTv7VFKz5Zw3W5gzKpDlKRcEWFEDfdnmyQQU39Os">](https://music.youtube.com/watch?v=dOVWGxU5YsU)
 
-Keina Suda - Charles (self cover)
+UVERworld - Odd future
 
-**Albums**: Corridor
+**Albums**: Odd future
 
-Last updated at 03/04/2021 22:15
+Last updated at 03/04/2021 22:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
