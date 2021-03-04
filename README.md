@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/esvzQtSs3DaXaYV_45FZQTbAC70hT1jWlBHrXRBGt6zk69Z48ukoUscLhUuW_1dc0I9bsyTNGLuewf8">](https://music.youtube.com/watch?v=INz_F_zyc0k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EKSrcL7sEDbhTbqO2wiqO3txHCOmmPiYw7nvQRfsS19luo6bwrS9mhgauQj8YZPHyYcpICs7dbTTACFxNQ">](https://music.youtube.com/watch?v=VifmYXA9wuQ)
 
-Suda Masaki 및 이시자키 휴이 - Ito
+BLUE ENCOUNT - Polaris
 
-**Albums**: Ito
+**Albums**: Polaris (Special Edition)
 
-Last updated at 03/04/2021 21:48
+Last updated at 03/04/2021 21:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
