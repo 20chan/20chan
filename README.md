@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x35pQltTJ4MZULsMAfNdNKR5jIytavtdWSw_Jdregx3UXx9vzLcO2miKFIMC80iUcCauihe0tV_WFrLbyw">](https://music.youtube.com/watch?v=XEHvZ5GrfM8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aEI3zEE2i3X-udsEMPRYmrPvG2VlGrHU4osmuYCEQ0WaAZrfYo_xU_iN8sXjWRnNSu_Ufv9EUgZz6LxQ">](https://music.youtube.com/watch?v=c8G58Y498Sg)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Eine Kleine
+aiko - カブトムシ
 
-**Albums**: Yankee
+**Albums**: 桜の木の下
 
-Last updated at 03/04/2021 17:25
+Last updated at 03/04/2021 17:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
