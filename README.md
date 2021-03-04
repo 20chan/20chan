@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=ZMna2PK9mb8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=dGZqpVCJP3k)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Peace Sign
+요아소비 - 群青
 
-**Albums**: Bootleg
+**Albums**: THE BOOK
 
-Last updated at 03/04/2021 19:14
+Last updated at 03/04/2021 19:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
