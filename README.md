@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273679b3bec6b3cec84eed709b0">](https://open.spotify.com/album/4sVzYCPoh0HyRLKeB6aB73)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
 
-Adam Jensen - Street Fight
+Glass Animals - The Other Side Of Paradise
 
 **Albums**: Not supported
 
-Last updated at 03/03/2021 20:43
+Last updated at 03/04/2021 11:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
