@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z18dZW8-1xhDJ8F1DPtstNLWZXVBAUeDTNHnUjwRaeQYqIy2cgQARu0V_tty4BPU7CzmpZc-lmFeiAT0cA">](https://music.youtube.com/watch?v=mCDG7lNo__4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rxcoy6DCAeKprASO-F7qzKfHGJsVMXjLhmrwj71jWcvoWJd9fwpaM0G7LUF7ik_AiVQXwdtrRCP2rXxcyQ">](https://music.youtube.com/watch?v=yuTesDwv6uA)
 
-back number - Jyoen Jyoyuushou 2
+DAOKO - Uchiagehanabi
 
-**Albums**: Chandelier
+**Albums**: Uchiagehanabi
 
-Last updated at 03/04/2021 20:33
+Last updated at 03/04/2021 20:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
