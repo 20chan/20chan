@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Lrx4CzYJyzh6WNBdI4GoH77yGF9bhnhvjWOfhsXnKeFhEs6iktTnqPcfhZMS56V25MTioXQW6Wt5hgl1">](https://music.youtube.com/watch?v=3GZ6A3sa_FA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
 
-킹 누 - Umbrella (Live)
+장범준 - 4.정말로 사랑한다면 - If You Really Love Me
 
-**Albums**: Ceremony (Live)
+**Albums**: Not supported
 
-Last updated at 03/04/2021 16:05
+Last updated at 03/04/2021 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
