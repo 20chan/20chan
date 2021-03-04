@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nnRaMCDqkwDlLzAx5T7lpgwYavv1RoCnROrimUZVK92bQVRVz0YJ6X-pA9p0eHJVnCVTh3lgDfc052cy">](https://music.youtube.com/watch?v=DamsjHG5RHs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SYgTxms261bJo90L-OHoxxfDbE3Q3aHN0lZW6ruZMLFeK5aZ2JhbsjYUj4V3XvmzCupWvjKa6qXfSQRmoA">](https://music.youtube.com/watch?v=ntYPxe_dtrY)
 
-SUGARSOUL - Garden
+스미카 - Negai
 
-**Albums**: sugar soul
+**Albums**: Negai / Higher Ground
 
-Last updated at 03/04/2021 18:49
+Last updated at 03/04/2021 18:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
