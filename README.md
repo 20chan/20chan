@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GVDnJk2hMIy94dabERoVuxuffGUb96uAhFl-WjqmO9uR48xYJjomvbiHFF83yJTHptUZcDqciUd5Lh5DHw">](https://music.youtube.com/watch?v=DNj_pUG3fTg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xhet0nNJ40vIH3UFe39KshEdgLXlytKzjxRjLczIP5V0BzfSryr_3eIsQpltWxDL0raGqeb9EwfX5359">](https://music.youtube.com/watch?v=IGiDEsLdSl4)
 
-우루 - Anataga Iru Kotode
+Suda Masaki - Sayonara Elegy
 
-**Albums**: Orion Blue (Special Edition)
+**Albums**: Sayonara Elegy
 
-Last updated at 03/04/2021 17:07
+Last updated at 03/04/2021 17:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
