@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">](https://music.youtube.com/watch?v=64ftDYJXcTo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/iLwZI8EsilzgkSTvfHJ9pvRcBUhrpeNhEe4SdR8WEuk5ZLbC467I9f3hxYOH4nvKxo2pZ2ZN-bBgCLNc">](https://music.youtube.com/watch?v=EwpKUV0ECvQ)
 
-요루시카 - だから僕は音楽を辞めた
+yama - Haru wo Tsugeru
 
-**Albums**: だから僕は音楽を辞めた
+**Albums**: Haru wo Tsugeru
 
-Last updated at 03/04/2021 18:13
+Last updated at 03/04/2021 18:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
