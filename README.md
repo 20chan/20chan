@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JsgayU8d5lCICpXMKtURGioxykE466XsKhyRzVRrKh3nCVffQX8lW4WOuSI8gq7vK6WQiq3jE-oLVHI2">](https://music.youtube.com/watch?v=qUHpfrImYK8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B06sZbf85WfT_gWZ_MHhD5ywdWdQvGA7MvRtig-xkZM9hICUOfYtSLWcy8tpPd6cjHJ4ONRfQTDUywaYFg">](https://music.youtube.com/watch?v=3azICG7Uc9E)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Unbelievers
+BURNOUT SYNDROMES - Good Morning World!
 
-**Albums**: Unbelievers
+**Albums**: Good Morning World!
 
-Last updated at 03/04/2021 23:02
+Last updated at 03/04/2021 23:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
