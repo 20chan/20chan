@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n4XkGilgkprI59OxqDwaypbpy6ur_wGEJWpnNqGAbNGkqHxNPi8-zB12rew5DOUVDDKvXDu9Fx_7-cLL">](https://music.youtube.com/watch?v=N8wfYwSDTa4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vKlzIuVSXAHNPItP033wG-ebQBSnsDn4MTCeaLUNaCLWVGcZyvAOs3k1UbrlqclDZoylkg7Odn72Tp21">](https://music.youtube.com/watch?v=GBN0OtYokJg)
 
-Porno Graffitti - The Day
+Halo at yojohan - Naraku
 
-**Albums**: The Day
+**Albums**: Anatomies
 
-Last updated at 03/04/2021 22:46
+Last updated at 03/04/2021 22:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
