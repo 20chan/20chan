@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=mJ1N7-HyH1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QBSfF_JrGV2dj3wudQTGdLOLYEJHPxKEQiLwolguUTLDxO26L_2pIQ6rF580Kum76IMBUWCF_sZfu_A">](https://music.youtube.com/watch?v=UbxtCV8nXnA)
 
-요아소비 - 夜に駆ける
+aimyon - Marigold
 
-**Albums**: THE BOOK
+**Albums**: Marigold
 
-Last updated at 03/04/2021 14:59
+Last updated at 03/04/2021 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
