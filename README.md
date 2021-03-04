@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=DgUDWmjRPAE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GHVNMErvs-zTlvWUNiruGcL8wg7qLiAXdYOCefn8cg7Zm-z7pqj6vk6LwnokvsRKxvmccrVA8KPvdik">](https://music.youtube.com/watch?v=wNjvuRZtQeI)
 
-One OK Rock(원오크락) - The Beginning
+Mrs. GREEN APPLE - Inferno
 
-**Albums**: 人生×僕=
+**Albums**: Inferno
 
-Last updated at 03/04/2021 23:59
+Last updated at 03/05/2021 00:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
