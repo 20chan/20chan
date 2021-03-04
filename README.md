@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=UQ5XqYKiVTw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=DgUDWmjRPAE)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Sunanowakusei
+One OK Rock(원오크락) - The Beginning
 
-**Albums**: Bootleg
+**Albums**: 人生×僕=
 
-Last updated at 03/04/2021 23:55
+Last updated at 03/04/2021 23:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
