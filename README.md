@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YrWlKvuDGq_8mTUVoh3dfLTludCmePjk68pmi-C8yqzf4OisJmB8hsbxY8LYVCQJobgEX8m9nNxF-uI">](https://music.youtube.com/watch?v=sA10-x6cuaE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=A9dEMCa493w)
 
-GReeeeN - Hoshikageno Yell
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Paprika
 
-**Albums**: Hoshikageno Yell
+**Albums**: STRAY SHEEP
 
-Last updated at 03/04/2021 20:45
+Last updated at 03/04/2021 20:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
