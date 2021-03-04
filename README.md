@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e086dd341bb0c30d235f9cac">](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309a8b1003c549b4a53f60852">](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB)
 
-COIN - Talk Too Much
+SEBASTIAN PAUL - TROJAN HORSE
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:52
+Last updated at 03/04/2021 11:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
