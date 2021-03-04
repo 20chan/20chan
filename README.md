@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XEaVOWiK3u-9GlVnF-V_VwtmZcJThq95SrgOT7I5F8cyIglhkM9hKK27szVvXB52BjkAgJYEeMw-RY5Y">](https://music.youtube.com/watch?v=HCmjoc3Sd2c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/esvzQtSs3DaXaYV_45FZQTbAC70hT1jWlBHrXRBGt6zk69Z48ukoUscLhUuW_1dc0I9bsyTNGLuewf8">](https://music.youtube.com/watch?v=INz_F_zyc0k)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Rarabaisayonara
+Suda Masaki 및 이시자키 휴이 - Ito
 
-**Albums**: Orion
+**Albums**: Ito
 
-Last updated at 03/04/2021 21:44
+Last updated at 03/04/2021 21:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
