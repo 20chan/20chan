@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg">](https://music.youtube.com/watch?v=MucGO4tbYYg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/zO5mlcFY3HnQwPNGFxGseTJF_trVLbr4dX-YBkUaeRAUnl23j7ujbnYifQhZtwFf34bOJWKO9w_bMATj">](https://music.youtube.com/watch?v=_IkopJwRDKU)
 
-미나미 - main actor
+LiSA(리사) - Gurenge
 
-**Albums**: カワキヲアメク
+**Albums**: Gurenge
 
-Last updated at 03/04/2021 22:00
+Last updated at 03/04/2021 22:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
