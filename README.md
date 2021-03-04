@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HUmsOGk7OnIJleekpLmXLuZ_9Igvhv8fwVigKVbuzqjYo3Mj5iWMVXYAPZgbAaCpyVOW9W2cu8NZS52m7g">](https://music.youtube.com/watch?v=dEfl-ObuapA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3ARmoYuz9GI9_6-P1PdbgjW-NnRu--hj87CizVWTBs0prmYWcUUXGpiRsXFteNuYjduLDG6ZDs_f1BKm">](https://music.youtube.com/watch?v=iHGam9itjyk)
 
-Eve - Dramaturgy
+미나미 - Ame Wo Matsu
 
-**Albums**: Bunka
+**Albums**: Ame Wo Matsu
 
-Last updated at 03/04/2021 22:37
+Last updated at 03/04/2021 22:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
