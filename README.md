@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/obNTp9iITqag6KC-0aKnPbNW05HZkseRG-zCnqrvDTv7VFKz5Zw3W5gzKpDlKRcEWFEDfdnmyQQU39Os">](https://music.youtube.com/watch?v=dOVWGxU5YsU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bwyiOC_iwzOuKp4hyaejwMDori45wbe_zH2fQTgy1HiJTbTw0MBG3ErC_lKNPlUAiQQ02Pu2apCpt3og">](https://music.youtube.com/watch?v=U3lzMLpQy68)
 
-UVERworld - Odd future
+오피셜히게단디즘 - Laughter
 
-**Albums**: Odd future
+**Albums**: HELLO
 
-Last updated at 03/04/2021 22:19
+Last updated at 03/04/2021 22:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
