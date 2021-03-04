@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=h1l3su056vY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ln58w0Oh_iDp7yOJdVjZrOYdw3_VMCzI-XIYRrNdFUPgtp5anPT1XrKxrMbzD2knKH77ILAS1HJplLvu">](https://music.youtube.com/watch?v=nEQ8QlV4-Ns)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Alice
+KANA-BOON - Starmarker
 
-**Albums**: Bootleg
+**Albums**: Starmarker
 
-Last updated at 03/04/2021 21:22
+Last updated at 03/04/2021 21:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
