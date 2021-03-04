@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xhet0nNJ40vIH3UFe39KshEdgLXlytKzjxRjLczIP5V0BzfSryr_3eIsQpltWxDL0raGqeb9EwfX5359">](https://music.youtube.com/watch?v=IGiDEsLdSl4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DWY9Vu3Wmc5pzWSG7Kv2jl1PEmkkVUtRD7mgB4zYuGZq_vW49MxZaxkp-l3zMP-8q090qoFe44qKPxeB">](https://music.youtube.com/watch?v=aEHJv55SgQw)
 
-Suda Masaki - Sayonara Elegy
+와치 - No Regret
 
-**Albums**: Sayonara Elegy
+**Albums**: Empathy
 
-Last updated at 03/04/2021 17:12
+Last updated at 03/04/2021 17:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
