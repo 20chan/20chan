@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UT71cWzhCtl0usQRJ_yq3qaGmJZjoUKXZeAlOhVCFT15xNMkvLGJpPWD5a9uklT7Ao1p9kbLw6ah1hTi4Q">](https://music.youtube.com/watch?v=NGDi89A5FcU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Lrx4CzYJyzh6WNBdI4GoH77yGF9bhnhvjWOfhsXnKeFhEs6iktTnqPcfhZMS56V25MTioXQW6Wt5hgl1">](https://music.youtube.com/watch?v=pRQOyb8Dvbk)
 
-오피셜히게단디즘 - 宿命
+킹 누 - Hakujitsu (Live)
 
-**Albums**: 宿命
+**Albums**: Ceremony (Live)
 
-Last updated at 03/04/2021 15:21
+Last updated at 03/04/2021 15:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
