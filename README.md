@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=sBR5w8kptAc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=5HH-4zXXV7E)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Canary
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - PLACEBO
 
 **Albums**: STRAY SHEEP
 
-Last updated at 03/04/2021 23:29
+Last updated at 03/04/2021 23:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
