@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273af9453a8f1d70354e9f934d3">](https://open.spotify.com/album/6ce5GL0xsB7gyYjE8psUkI)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00004851afffc8aea37762b4daa91e8b">](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4)
 
-Saint Motel - A Good Song Never Dies
+Sir Sly - Astronaut
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:17
+Last updated at 03/04/2021 11:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
