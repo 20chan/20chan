@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/98RjRKBpBcgCec2JQqJkAtQYjwx6P-nBmFwFfh0Wq2DYBQO5OfBT_azFDir9m6r0Q7ZWNC5jG5dlNJaA">](https://music.youtube.com/watch?v=NinLIDs9qmU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/povygoHA13Sue9GOrQEArW9xqlkcWrhb-k68mb8b-ojAgG1ce9tvavyU76L4VKgGjMZAKOlFZoVNKr4W">](https://music.youtube.com/watch?v=sEoKHEwrNNo)
 
-LiSA(리사) - homura
+Suda Masaki - Machigaisagashi
 
-**Albums**: homura
+**Albums**: LOVE
 
-Last updated at 03/04/2021 15:12
+Last updated at 03/04/2021 15:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
