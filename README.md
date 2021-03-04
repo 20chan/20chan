@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/iLwZI8EsilzgkSTvfHJ9pvRcBUhrpeNhEe4SdR8WEuk5ZLbC467I9f3hxYOH4nvKxo2pZ2ZN-bBgCLNc">](https://music.youtube.com/watch?v=EwpKUV0ECvQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tjlNskEQEkZ6ytnTS_vWFMlocOhYcBPvonRd6IbCaeq14PN2EYU_-w_qInFBHbxL0fpueoGTFjVzj-k">](https://music.youtube.com/watch?v=b_bjtIeqIR4)
 
-yama - Haru wo Tsugeru
+[Alexandros] - Wataridori
 
-**Albums**: Haru wo Tsugeru
+**Albums**: Wataridori / Dracula La
 
-Last updated at 03/04/2021 18:17
+Last updated at 03/04/2021 18:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
