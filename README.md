@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xlFQf5DYmioYGpvit9jQ1pEIpRgqZxYGbYlPUpchctYgSIQgNIgyoRNSoelq5ZxyqjQ3Tq8mDgB3wfa6bw">](https://music.youtube.com/watch?v=Gc-JbYMQ-vY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kOPJ0N0HgLpazDgrw_ro4oXpkguOZTbqN4_CbJT4zTW9PkjuoMH5GBxV9q4MdYIOrWJ9yQyUN3HgHz2_">](https://music.youtube.com/watch?v=ocyjpICx4gQ)
 
-RADWIMPS(래드윔프스) - Is There Still Anything That Love Can Do? (Movie Edit)
+모리 나나 - Smile
 
-**Albums**: Weathering With You
+**Albums**: Smile
 
-Last updated at 03/04/2021 20:28
+Last updated at 03/04/2021 20:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
