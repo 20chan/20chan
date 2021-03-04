@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kOPJ0N0HgLpazDgrw_ro4oXpkguOZTbqN4_CbJT4zTW9PkjuoMH5GBxV9q4MdYIOrWJ9yQyUN3HgHz2_">](https://music.youtube.com/watch?v=ocyjpICx4gQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z18dZW8-1xhDJ8F1DPtstNLWZXVBAUeDTNHnUjwRaeQYqIy2cgQARu0V_tty4BPU7CzmpZc-lmFeiAT0cA">](https://music.youtube.com/watch?v=mCDG7lNo__4)
 
-모리 나나 - Smile
+back number - Jyoen Jyoyuushou 2
 
-**Albums**: Smile
+**Albums**: Chandelier
 
-Last updated at 03/04/2021 20:30
+Last updated at 03/04/2021 20:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
