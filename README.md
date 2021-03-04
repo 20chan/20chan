@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736eac3d017745fe324dc34ab6">](https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX)
 
-half•alive - Aawake At Night
+Hippo Campus - Buttercup
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:59
+Last updated at 03/04/2021 12:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
