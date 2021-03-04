@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1vh5-MoY4MNHfin2RdE7s3R8NtftvEjPcccSn3MQ-A2uNb3P9hgkGMoNMd6GcWm7PcnA6VL1oan2XrA">](https://music.youtube.com/watch?v=0Ac1TwKuwCQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gwIH3ImhN0JXnx00Vim2GV_FuQzA-6Owylup6yCcOJAVx-HXiw_ZJsQb_ZdVc-T7ta2pOvIjDxh4QIf8">](https://music.youtube.com/watch?v=M_Uz5SKGxs4)
 
-오피셜히게단디즘 - ラストソング
+BUMP OF CHICKEN - Tentaikansoku
 
-**Albums**: Traveler
+**Albums**: Jupiter
 
-Last updated at 03/04/2021 19:05
+Last updated at 03/04/2021 19:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
