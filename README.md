@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/12Aqxy59imSAwvCxqn5L3Ge1tzikeZLcLI_3ZyJCVabyblmzbdmkouNE6hdJbIlcRkmw3yqtQQ5MNkk">](https://music.youtube.com/watch?v=pcz5w62f4-c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WBMsP83yVO0XWQs3H3psAhGqLULgP_O8YyjzExf9uMA2L6LkXjtEfZQ1Q-ZDFS3r7eNAnt12IuzoVq4">](https://music.youtube.com/watch?v=7PowTFw-jAA)
 
-세카이노 오와리 - RPG
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Lemon
 
-**Albums**: Tree
+**Albums**: Lemon
 
-Last updated at 03/04/2021 15:30
+Last updated at 03/04/2021 15:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
