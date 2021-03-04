@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jBEgxxsyGxtAFbWgzUl0Og7pY8wlccs7TUYWdU6pddTuFS3SkEGfI9YzKLnm4F3X1s_sZHQCgLjrFoE1">](https://music.youtube.com/watch?v=gJSdY6GZfYU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rkaQdSxDy4CSl096l7IjSKUPX_qFMmwxaf4DD7rt3k-sRV_XsSPUVUKa4LEP9N5PbiuruLJblOcnlTE">](https://music.youtube.com/watch?v=0ad7f0H5wmY)
 
-nolala - goodbye liar
+계속 한밤중이면 좋을텐데 - Byoushinwo Kamu
 
-**Albums**: goodbye liar
+**Albums**: Tadashii Itsuwarikarano Kishou
 
-Last updated at 03/04/2021 22:28
+Last updated at 03/04/2021 22:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
