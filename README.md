@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ln58w0Oh_iDp7yOJdVjZrOYdw3_VMCzI-XIYRrNdFUPgtp5anPT1XrKxrMbzD2knKH77ILAS1HJplLvu">](https://music.youtube.com/watch?v=nEQ8QlV4-Ns)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ybO5txtpLJRWRYALgkJUj1fa5FSMLu-kMRbiClU455w95ryxRSpcChsigMsusvhA1ymSWB9rDdYxBCw">](https://music.youtube.com/watch?v=wpb22AehATU)
 
-KANA-BOON - Starmarker
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Loser
 
-**Albums**: Starmarker
+**Albums**: Loser / Number Nine
 
-Last updated at 03/04/2021 21:26
+Last updated at 03/04/2021 21:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
