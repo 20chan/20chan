@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rWJdV23bZ9A8zQowB-NaGLcxRq_vuzQlMCnCpKxwLoze2dVZmaGj5OlsIbwVCiqVMUvjVWOP4pA8C6S7Uw">](https://music.youtube.com/watch?v=mcPkJKkqeUg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hBEU9_WRxfp1SbywXjBGopMt7kzJod_zAIUThl5ueaCBZ5syFu6sf9gx0CDZD3AB-QkJ4SXsOzB-DofQ">](https://music.youtube.com/watch?v=PKevznn3CgA)
 
-Aimer(에메) - Kataomoi
+Remioromen - SANGATSU KOKONOKA
 
-**Albums**: Daydream
+**Albums**: SANGATSU KOKONOKA
 
-Last updated at 03/04/2021 19:50
+Last updated at 03/04/2021 19:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
