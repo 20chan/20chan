@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SYgTxms261bJo90L-OHoxxfDbE3Q3aHN0lZW6ruZMLFeK5aZ2JhbsjYUj4V3XvmzCupWvjKa6qXfSQRmoA">](https://music.youtube.com/watch?v=ntYPxe_dtrY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=8GfDq1osBLM)
 
-스미카 - Negai
+요아소비 - ハルジオン
 
-**Albums**: Negai / Higher Ground
+**Albums**: THE BOOK
 
-Last updated at 03/04/2021 19:32
+Last updated at 03/04/2021 19:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
