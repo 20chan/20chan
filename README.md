@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gKutEDy62IldPIjLekosgLcnH73OGPdRLUxAzBuK-xKYcGf3QbZbKn37zo7kTgBlID0g0yWN29GKG-Y">](https://music.youtube.com/watch?v=hRix1pT4vGE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r5hsIeIFhTvIfAmI7IdBqsUCj_iDI57g1m2O8Sh8LniQKg-iMbs1b50liCGF6OGEFvk6D9krdRruuuuucA">](https://music.youtube.com/watch?v=Rq65VlRhvMs)
 
-aimyon - Naked Heart
+back number - Happy End
 
-**Albums**: Naked Heart
+**Albums**: Happy End
 
-Last updated at 03/04/2021 14:44
+Last updated at 03/04/2021 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
