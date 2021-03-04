@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WBMsP83yVO0XWQs3H3psAhGqLULgP_O8YyjzExf9uMA2L6LkXjtEfZQ1Q-ZDFS3r7eNAnt12IuzoVq4">](https://music.youtube.com/watch?v=7PowTFw-jAA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7Ba_26IseaSNOOHA3w_CYGD9nN-x7xdvY422o1cD1tBkeVLZZHdXE_TExqTUI8LkL-PwoGeerRQUXDpx">](https://music.youtube.com/watch?v=11n_yCfPlMw)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Lemon
+back number - Takaneno Hanakosan
 
-**Albums**: Lemon
+**Albums**: Takaneno Hanakosan
 
-Last updated at 03/04/2021 15:35
+Last updated at 03/04/2021 15:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
