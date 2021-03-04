@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736eac3d017745fe324dc34ab6">](https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea">](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV)
 
-Hippo Campus - Buttercup
+Glass Animals Denzel Curry - Tokyo Drifting
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 12:03
+Last updated at 03/04/2021 12:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
