@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b9ccb466665c2ac10dc0d628">](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6dfb454b77efaccc1371d14">](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG)
 
-Tally Hall - Hidden In the Sand
+I DONT KNOW HOW BUT THEY FOUND ME - Social Climb
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:39
+Last updated at 03/04/2021 11:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
