@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273af9453a8f1d70354e9f934d3">](https://open.spotify.com/album/6ce5GL0xsB7gyYjE8psUkI)
 
-half•alive - The Fall
+Saint Motel - A Good Song Never Dies
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:14
+Last updated at 03/04/2021 11:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
