@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3qhrHvtIWt-YAmt5rhYQ55SNcOlnUFfkai_VpiiMEF5t74jiGkEDDeA7c4YKiE-0YAn72bW4Q8-7R2A">](https://music.youtube.com/watch?v=tWk9HfeYX20)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XEaVOWiK3u-9GlVnF-V_VwtmZcJThq95SrgOT7I5F8cyIglhkM9hKK27szVvXB52BjkAgJYEeMw-RY5Y">](https://music.youtube.com/watch?v=HCmjoc3Sd2c)
 
-미스터 칠드런 - Hanabi
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Rarabaisayonara
 
-**Albums**: Hanabi
+**Albums**: Orion
 
-Last updated at 03/04/2021 21:39
+Last updated at 03/04/2021 21:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
