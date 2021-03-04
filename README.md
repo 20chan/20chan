@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=JruzuDqfRAE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fa78a51a07cb7bf1ce9febe4">](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV)
 
-One OK Rock(원오크락) - Clock Strikes
+grandson - Despicable
 
-**Albums**: 人生×僕=
+**Albums**: Not supported
 
-Last updated at 03/05/2021 00:16
+Last updated at 03/05/2021 00:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
