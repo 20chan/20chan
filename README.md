@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=dGZqpVCJP3k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UjuO3CQHlzg2eaqlv5ZyORGTjbtz5z2qb5S1v9l_l5VeE-agv9OrtC3osPgQkREs4GKQ23qEwl8iNB0">](https://music.youtube.com/watch?v=yIInRweewfQ)
 
-요아소비 - 群青
+WANIMA - Tomoni
 
-**Albums**: THE BOOK
+**Albums**: JUICE UP!!
 
-Last updated at 03/04/2021 19:18
+Last updated at 03/04/2021 19:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
