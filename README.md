@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OwqXyH7b7Qv5cUD6Sa73TceATsbxhFaJoqqZZBXeJswKI0M0kuHQHczfFJFLX2P030OTh-tmaVXXUH0">](https://music.youtube.com/watch?v=ZdzoLCLliW0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x35pQltTJ4MZULsMAfNdNKR5jIytavtdWSw_Jdregx3UXx9vzLcO2miKFIMC80iUcCauihe0tV_WFrLbyw">](https://music.youtube.com/watch?v=XEHvZ5GrfM8)
 
-요루시카 - ただ君に晴れ
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Eine Kleine
 
-**Albums**: 負け犬にアンコールはいらない
+**Albums**: Yankee
 
-Last updated at 03/04/2021 17:21
+Last updated at 03/04/2021 17:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
