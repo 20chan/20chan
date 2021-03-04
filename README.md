@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SEJJczsBbcLMsRkZisRBV2zqPvKxiOLg1uTmEm7x5DTi2zeDoKLA4zS5RQ-bIXN46gLm4sLLRjuUQIHZLg">](https://music.youtube.com/watch?v=7JI8XY1Fvto)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=h1l3su056vY)
 
-아도 - Usseewa
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Alice
 
-**Albums**: Usseewa
+**Albums**: Bootleg
 
-Last updated at 03/04/2021 21:18
+Last updated at 03/04/2021 21:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
