@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27309a8b1003c549b4a53f60852">](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
 
-SEBASTIAN PAUL - TROJAN HORSE
+half•alive - Aawake At Night
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:55
+Last updated at 03/04/2021 11:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
