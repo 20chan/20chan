@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GSsTVnsnmZWqd5TlImFLd-KkK46d4rc-UO-SbveiBfokJpJKJsI5oW5u1Ej7H0Bye4ipcF6pW8FI8Jz_cg">](https://music.youtube.com/watch?v=zRBcYVY5A2Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Lrx4CzYJyzh6WNBdI4GoH77yGF9bhnhvjWOfhsXnKeFhEs6iktTnqPcfhZMS56V25MTioXQW6Wt5hgl1">](https://music.youtube.com/watch?v=qPrGqgI2ibo)
 
-오피셜히게단디즘 - ノーダウト
+킹 누 - Hikoutei (Live)
 
-**Albums**: ノーダウト
+**Albums**: Ceremony (Live)
 
-Last updated at 03/04/2021 18:05
+Last updated at 03/04/2021 18:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
