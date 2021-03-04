@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">](https://music.youtube.com/watch?v=TSGOZyt2iDI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg">](https://music.youtube.com/watch?v=PgMSpX8mjJE)
 
-aimyon - Ai Wo Tsutaetaidatoka
+미나미 - ライラック
 
-**Albums**: Excitement of Youth
+**Albums**: カワキヲアメク
 
-Last updated at 03/04/2021 20:10
+Last updated at 03/04/2021 20:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
