@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/povygoHA13Sue9GOrQEArW9xqlkcWrhb-k68mb8b-ojAgG1ce9tvavyU76L4VKgGjMZAKOlFZoVNKr4W">](https://music.youtube.com/watch?v=sEoKHEwrNNo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UT71cWzhCtl0usQRJ_yq3qaGmJZjoUKXZeAlOhVCFT15xNMkvLGJpPWD5a9uklT7Ao1p9kbLw6ah1hTi4Q">](https://music.youtube.com/watch?v=NGDi89A5FcU)
 
-Suda Masaki - Machigaisagashi
+오피셜히게단디즘 - 宿命
 
-**Albums**: LOVE
+**Albums**: 宿命
 
-Last updated at 03/04/2021 15:17
+Last updated at 03/04/2021 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
