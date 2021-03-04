@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CGDE57eog7w1-x0uvhMLidPiBeweGHBWXJETJaG6r7BN5Z5S-hRYlUgbD4AzYXPEVhk4D7LLTBBdjVQ">](https://music.youtube.com/watch?v=qPq4U17cMjE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3qhrHvtIWt-YAmt5rhYQ55SNcOlnUFfkai_VpiiMEF5t74jiGkEDDeA7c4YKiE-0YAn72bW4Q8-7R2A">](https://music.youtube.com/watch?v=tWk9HfeYX20)
 
-샐리 - あたしをみつけて
+미스터 칠드런 - Hanabi
 
-**Albums**: あたしをみつけて
+**Albums**: Hanabi
 
-Last updated at 03/04/2021 21:33
+Last updated at 03/04/2021 21:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
