@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">](https://music.youtube.com/watch?v=zfnZxuaVZyM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/y3Xl9Hq69HYPFL8t_5Tg6iurZVrUK6E1QAnXLpzhRNm6bDtltscZpZ-nTFPdE1GSKFBrvYms6nmBr4nIeQ">](https://music.youtube.com/watch?v=zVvngMy6ZKM)
 
-aimyon - Kimi Wa Rock Wo Kikanai
+back number - Mabataki
 
-**Albums**: Excitement of Youth
+**Albums**: Mabataki
 
-Last updated at 03/04/2021 15:55
+Last updated at 03/04/2021 15:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
