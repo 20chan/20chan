@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BDr7hFHmVb63MqTriPKcsB0b8_qlsNQRX5ZgNcsyZugOKttn9-1b3zyLfww19V1zdjSfEfuMbvzZbU4">](https://music.youtube.com/watch?v=Po2Ujyn8SXE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=QkMyuwS6p_A)
 
-aimyon - Harunohi
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Haiirotoao
 
-**Albums**: Harunohi
+**Albums**: Bootleg
 
-Last updated at 03/04/2021 15:44
+Last updated at 03/04/2021 15:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
