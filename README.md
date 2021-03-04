@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d6dfb454b77efaccc1371d14">](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb3a6d9c69ee04f74b4250d4">](https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M)
 
-I DONT KNOW HOW BUT THEY FOUND ME - Social Climb
+MISSIO - Twisted
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:41
+Last updated at 03/04/2021 11:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
