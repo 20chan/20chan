@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Lrx4CzYJyzh6WNBdI4GoH77yGF9bhnhvjWOfhsXnKeFhEs6iktTnqPcfhZMS56V25MTioXQW6Wt5hgl1">](https://music.youtube.com/watch?v=pRQOyb8Dvbk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/12Aqxy59imSAwvCxqn5L3Ge1tzikeZLcLI_3ZyJCVabyblmzbdmkouNE6hdJbIlcRkmw3yqtQQ5MNkk">](https://music.youtube.com/watch?v=pcz5w62f4-c)
 
-킹 누 - Hakujitsu (Live)
+세카이노 오와리 - RPG
 
-**Albums**: Ceremony (Live)
+**Albums**: Tree
 
-Last updated at 03/04/2021 15:25
+Last updated at 03/04/2021 15:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
