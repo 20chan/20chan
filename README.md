@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=QkMyuwS6p_A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">](https://music.youtube.com/watch?v=zfnZxuaVZyM)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Haiirotoao
+aimyon - Kimi Wa Rock Wo Kikanai
 
-**Albums**: Bootleg
+**Albums**: Excitement of Youth
 
-Last updated at 03/04/2021 15:49
+Last updated at 03/04/2021 15:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
