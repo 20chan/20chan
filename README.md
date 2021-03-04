@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DWY9Vu3Wmc5pzWSG7Kv2jl1PEmkkVUtRD7mgB4zYuGZq_vW49MxZaxkp-l3zMP-8q090qoFe44qKPxeB">](https://music.youtube.com/watch?v=aEHJv55SgQw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OwqXyH7b7Qv5cUD6Sa73TceATsbxhFaJoqqZZBXeJswKI0M0kuHQHczfFJFLX2P030OTh-tmaVXXUH0">](https://music.youtube.com/watch?v=ZdzoLCLliW0)
 
-와치 - No Regret
+요루시카 - ただ君に晴れ
 
-**Albums**: Empathy
+**Albums**: 負け犬にアンコールはいらない
 
-Last updated at 03/04/2021 17:16
+Last updated at 03/04/2021 17:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
