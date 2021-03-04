@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fbNo2ueQfQo-lQp4VIX-Oc5IayYHjWzvwV4R2z8HShDCpsf4NSsa8edXGCdQIKHpIXn_pydryJJ_Rt56">](https://music.youtube.com/watch?v=3PLQXhezqV0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=sBR5w8kptAc)
 
-Bamboo - 19歳
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Canary
 
-**Albums**: 月光
+**Albums**: STRAY SHEEP
 
-Last updated at 03/04/2021 23:23
+Last updated at 03/04/2021 23:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
