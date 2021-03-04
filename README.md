@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2vw91IW0fEfs1b0c-JqRxeq1Sp_G2EJJIAjtNLEL1YyIadyT8PkbIwi26i1ype1x8xbUY5JJd6BTtB1u">](https://music.youtube.com/watch?v=iSBdRVzWXSU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fbNo2ueQfQo-lQp4VIX-Oc5IayYHjWzvwV4R2z8HShDCpsf4NSsa8edXGCdQIKHpIXn_pydryJJ_Rt56">](https://music.youtube.com/watch?v=3PLQXhezqV0)
 
-스미카 - Identity
+Bamboo - 19歳
 
-**Albums**: Familia
+**Albums**: 月光
 
-Last updated at 03/04/2021 23:19
+Last updated at 03/04/2021 23:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
