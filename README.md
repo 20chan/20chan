@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1vh5-MoY4MNHfin2RdE7s3R8NtftvEjPcccSn3MQ-A2uNb3P9hgkGMoNMd6GcWm7PcnA6VL1oan2XrA">](https://music.youtube.com/watch?v=xtFAmapbTbY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gKutEDy62IldPIjLekosgLcnH73OGPdRLUxAzBuK-xKYcGf3QbZbKn37zo7kTgBlID0g0yWN29GKG-Y">](https://music.youtube.com/watch?v=hRix1pT4vGE)
 
-오피셜히게단디즘 - イエスタデイ
+aimyon - Naked Heart
 
-**Albums**: Traveler
+**Albums**: Naked Heart
 
-Last updated at 03/04/2021 14:39
+Last updated at 03/04/2021 14:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
