@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pECai_QDmEkbuv4CgHIwYSRsggjJHsLdGOjLufocItp_zgh3sARorUMomAQqZMPJxhL03VBdLSXJ_-Q">](https://music.youtube.com/watch?v=YTaX7BWlk9g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/m3lBt373gxqeMjGMAjtRiAMmwOLBzh0JzhQzXMXWWcDhMWrQQUz3H4qmGCs3s6vMaJrUT9MacT5Vdcun">](https://music.youtube.com/watch?v=IqmrDiuQ_dE)
 
-오피셜히게단디즘 - I LOVE...
+back number - Old Fashion
 
-**Albums**: I LOVE...
+**Albums**: Magic
 
-Last updated at 03/04/2021 19:58
+Last updated at 03/04/2021 20:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
