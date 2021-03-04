@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273abd15d8f22eed146f9b3ed24">](https://open.spotify.com/album/4FLczl7Bu9dTKGvvlfJeqM)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27367b2661e3cbd843a40c855eb">](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg)
 
-slenderbodies - belong
+Fitz and The Tantrums - I Just Wanna Shine
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 12:10
+Last updated at 03/04/2021 12:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
