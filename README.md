@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1LF0jZT1iWXyCE0jyqfP985VklD-JfJ2ieGmcwYyJfSM9zjCPMwv8ujv6hl40o-bY1IM6PGkuOq9DjMpHg">](https://music.youtube.com/watch?v=qos0DriiFKk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/VjnTgqnvJ_IuPl8mbe7VmGEmpTVlZ3Lj-FjuDsJXlHC_bjtuI1Mc6g5m4ZgDl21LVUY0dMcT-ZGkodFiLA">](https://music.youtube.com/watch?v=SV_92iVisN0)
 
-yourness - Kago no Naka ni Tori
+Keina Suda - Charles (self cover)
 
-**Albums**: Kago no Naka ni Tori
+**Albums**: Corridor
 
-Last updated at 03/04/2021 22:10
+Last updated at 03/04/2021 22:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
