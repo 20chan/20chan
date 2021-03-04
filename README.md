@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B06sZbf85WfT_gWZ_MHhD5ywdWdQvGA7MvRtig-xkZM9hICUOfYtSLWcy8tpPd6cjHJ4ONRfQTDUywaYFg">](https://music.youtube.com/watch?v=3azICG7Uc9E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2vw91IW0fEfs1b0c-JqRxeq1Sp_G2EJJIAjtNLEL1YyIadyT8PkbIwi26i1ype1x8xbUY5JJd6BTtB1u">](https://music.youtube.com/watch?v=iSBdRVzWXSU)
 
-BURNOUT SYNDROMES - Good Morning World!
+스미카 - Identity
 
-**Albums**: Good Morning World!
+**Albums**: Familia
 
-Last updated at 03/04/2021 23:07
+Last updated at 03/04/2021 23:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
