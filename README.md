@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea">](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273abd15d8f22eed146f9b3ed24">](https://open.spotify.com/album/4FLczl7Bu9dTKGvvlfJeqM)
 
-Glass Animals Denzel Curry - Tokyo Drifting
+slenderbodies - belong
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 12:06
+Last updated at 03/04/2021 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
