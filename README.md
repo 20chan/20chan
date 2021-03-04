@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/39uozc2Sg5bMX1T_j9LX9jljOnsvcTqMlIIBk7bbjykf7tg0tG6-G8dwNMKi9Ree0ymX9G88AfPCCiPNsA">](https://music.youtube.com/watch?v=KMdTrqzEI0I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rWJdV23bZ9A8zQowB-NaGLcxRq_vuzQlMCnCpKxwLoze2dVZmaGj5OlsIbwVCiqVMUvjVWOP4pA8C6S7Uw">](https://music.youtube.com/watch?v=mcPkJKkqeUg)
 
-Hoshino Gen(호시노 겐) - 恋
+Aimer(에메) - Kataomoi
 
-**Albums**: 恋
+**Albums**: Daydream
 
-Last updated at 03/04/2021 19:46
+Last updated at 03/04/2021 19:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
