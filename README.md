@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27311e50151974d60a789b9626d">](https://open.spotify.com/album/6Ae06PksOpCGPcqqwKTF5n)
 
-Glass Animals - The Other Side Of Paradise
+half•alive - The Fall
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:09
+Last updated at 03/04/2021 11:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
