@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00004851afffc8aea37762b4daa91e8b">](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273361d711120142f467651a312">](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL)
 
-Sir Sly - Astronaut
+Matt Maeson - Hallucinogenics
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:22
+Last updated at 03/04/2021 11:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
