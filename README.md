@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-BwT0zfKbBL8RlrdSIvCXY7ltswkq-iHiSpjbNQX0v2HJF7fr1byLt9dPry5sp0FaGpiNy-qp2pYDMFf">](https://music.youtube.com/watch?v=G3p964s_SGo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/39uozc2Sg5bMX1T_j9LX9jljOnsvcTqMlIIBk7bbjykf7tg0tG6-G8dwNMKi9Ree0ymX9G88AfPCCiPNsA">](https://music.youtube.com/watch?v=KMdTrqzEI0I)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Flowerwall
+Hoshino Gen(호시노 겐) - 恋
 
-**Albums**: Flowerwall
+**Albums**: 恋
 
-Last updated at 03/04/2021 17:39
+Last updated at 03/04/2021 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
