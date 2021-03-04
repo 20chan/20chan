@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c">](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b9ccb466665c2ac10dc0d628">](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5)
 
-half•alive - still feel.
+Tally Hall - Hidden In the Sand
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:35
+Last updated at 03/04/2021 11:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
