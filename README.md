@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bwyiOC_iwzOuKp4hyaejwMDori45wbe_zH2fQTgy1HiJTbTw0MBG3ErC_lKNPlUAiQQ02Pu2apCpt3og">](https://music.youtube.com/watch?v=U3lzMLpQy68)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jBEgxxsyGxtAFbWgzUl0Og7pY8wlccs7TUYWdU6pddTuFS3SkEGfI9YzKLnm4F3X1s_sZHQCgLjrFoE1">](https://music.youtube.com/watch?v=gJSdY6GZfYU)
 
-오피셜히게단디즘 - Laughter
+nolala - goodbye liar
 
-**Albums**: HELLO
+**Albums**: goodbye liar
 
-Last updated at 03/04/2021 22:23
+Last updated at 03/04/2021 22:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
