@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FNi3uWl5IHFfwxw6PL7MvHHQtuok9rBVG6_FYHmXgI8_suHzZu2KkTAnatn7A28PtdVK1fvlMP-NefTR">](https://music.youtube.com/watch?v=TYr43JY5RdU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1vh5-MoY4MNHfin2RdE7s3R8NtftvEjPcccSn3MQ-A2uNb3P9hgkGMoNMd6GcWm7PcnA6VL1oan2XrA">](https://music.youtube.com/watch?v=0Ac1TwKuwCQ)
 
-Mrs. GREEN APPLE - Bokuno Koto
+오피셜히게단디즘 - ラストソング
 
-**Albums**: Bokuno Koto
+**Albums**: Traveler
 
-Last updated at 03/04/2021 19:03
+Last updated at 03/04/2021 19:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
