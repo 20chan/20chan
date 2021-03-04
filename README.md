@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rkaQdSxDy4CSl096l7IjSKUPX_qFMmwxaf4DD7rt3k-sRV_XsSPUVUKa4LEP9N5PbiuruLJblOcnlTE">](https://music.youtube.com/watch?v=0ad7f0H5wmY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HUmsOGk7OnIJleekpLmXLuZ_9Igvhv8fwVigKVbuzqjYo3Mj5iWMVXYAPZgbAaCpyVOW9W2cu8NZS52m7g">](https://music.youtube.com/watch?v=dEfl-ObuapA)
 
-계속 한밤중이면 좋을텐데 - Byoushinwo Kamu
+Eve - Dramaturgy
 
-**Albums**: Tadashii Itsuwarikarano Kishou
+**Albums**: Bunka
 
-Last updated at 03/04/2021 22:33
+Last updated at 03/04/2021 22:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
