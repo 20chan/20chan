@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7Ba_26IseaSNOOHA3w_CYGD9nN-x7xdvY422o1cD1tBkeVLZZHdXE_TExqTUI8LkL-PwoGeerRQUXDpx">](https://music.youtube.com/watch?v=11n_yCfPlMw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BDr7hFHmVb63MqTriPKcsB0b8_qlsNQRX5ZgNcsyZugOKttn9-1b3zyLfww19V1zdjSfEfuMbvzZbU4">](https://music.youtube.com/watch?v=Po2Ujyn8SXE)
 
-back number - Takaneno Hanakosan
+aimyon - Harunohi
 
-**Albums**: Takaneno Hanakosan
+**Albums**: Harunohi
 
-Last updated at 03/04/2021 15:39
+Last updated at 03/04/2021 15:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
