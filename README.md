@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=A9dEMCa493w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bwyiOC_iwzOuKp4hyaejwMDori45wbe_zH2fQTgy1HiJTbTw0MBG3ErC_lKNPlUAiQQ02Pu2apCpt3og">](https://music.youtube.com/watch?v=1tnvHzkuMRk)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Paprika
+오피셜히게단디즘 - HELLO
 
-**Albums**: STRAY SHEEP
+**Albums**: HELLO
 
-Last updated at 03/04/2021 20:49
+Last updated at 03/04/2021 20:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
