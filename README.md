@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/VdP-rLTucbS7YD-Z7HZa_OUZg1Sq8cSgAeoa2A41_6j6niQwMaM0iKGa4e4hyIvYCJzHvxUFPVwFGj8">](https://music.youtube.com/watch?v=WESqism6_00)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=a3OV4eSuNdg)
 
-YuriMeri - 12/23
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Shunrai
 
-**Albums**: 12/23
+**Albums**: Bootleg
 
-Last updated at 03/04/2021 21:08
+Last updated at 03/04/2021 21:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
