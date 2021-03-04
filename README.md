@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P7qk_fOGtz4nWVT9kuGeY_vgpCLjAlMSid7C7Bprt368wWXJurJJFla3wB1tlELFDMoSE5JXcTIMwUcK">](https://music.youtube.com/watch?v=0OZ15_9YKPc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GKDULQUI_71yxcU7FrmsJrpu5Bq-igEhZd4IUhluzLfRUXnoMGv5pw_MLYhf9wi8V85sP6YGY81vTx8">](https://music.youtube.com/watch?v=aY6bGifUFHs)
 
-오피셜히게단디즘 - 異端なスター
+瑛人 - 香水
 
-**Albums**: レポート
+**Albums**: 香水
 
-Last updated at 03/04/2021 20:19
+Last updated at 03/04/2021 20:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
