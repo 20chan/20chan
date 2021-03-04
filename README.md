@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/y7jJKn2kx_HKMfSY4NmVnalSFZ3HKwYyJiLWA72--H-eqZ2Azlx51U-CsXS4tWO8Th5oL1JQS-24ZOfR">](https://music.youtube.com/watch?v=WHdL2vstvL8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r8VX2NxxsR42qyOvmsIE-XtgCdsKUqVrTzGle__FVKJSmHk1heSFDNCDCWbpGEDdQVQX8G19-vxzBSr-1w">](https://music.youtube.com/watch?v=skilutORMZM)
 
-요루시카 - 言って。
+오랄시가렛 - 狂乱 Hey Kids!!
 
-**Albums**: 夏草が邪魔をする
+**Albums**: FIXION
 
-Last updated at 03/05/2021 00:08
+Last updated at 03/05/2021 00:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
