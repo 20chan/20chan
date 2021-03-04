@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fz_43N4kATdDzOuCq6pzfLw9Unj5s_qGN2tq557XYzbaFbdjjzOyOvsByM6qgQGIL-yZqx5tVY0MczeGnQ">](https://music.youtube.com/watch?v=OxiyIW2y1bg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YrWlKvuDGq_8mTUVoh3dfLTludCmePjk68pmi-C8yqzf4OisJmB8hsbxY8LYVCQJobgEX8m9nNxF-uI">](https://music.youtube.com/watch?v=sA10-x6cuaE)
 
-aimyon - Her Blue Sky
+GReeeeN - Hoshikageno Yell
 
-**Albums**: Her Blue Sky
+**Albums**: Hoshikageno Yell
 
-Last updated at 03/04/2021 20:40
+Last updated at 03/04/2021 20:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
