@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r8VX2NxxsR42qyOvmsIE-XtgCdsKUqVrTzGle__FVKJSmHk1heSFDNCDCWbpGEDdQVQX8G19-vxzBSr-1w">](https://music.youtube.com/watch?v=skilutORMZM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2OkFEemKDvytha52vzcASsg47xzrGHsXRSZH2j2lzGsvPOFHFfPmyGorBhl-tyxuYWOQhaRw_UOsCkA">](https://music.youtube.com/watch?v=JruzuDqfRAE)
 
-오랄시가렛 - 狂乱 Hey Kids!!
+One OK Rock(원오크락) - Clock Strikes
 
-**Albums**: FIXION
+**Albums**: 人生×僕=
 
-Last updated at 03/05/2021 00:12
+Last updated at 03/05/2021 00:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
