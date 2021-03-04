@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273361d711120142f467651a312">](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273cc2cf912462d8ae4ef856434">](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw)
 
-Matt Maeson - Hallucinogenics
+BØRNS - American Money
 
 **Albums**: Not supported
 
-Last updated at 03/04/2021 11:24
+Last updated at 03/04/2021 11:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
