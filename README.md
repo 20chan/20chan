@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xobOAx0YX6DxW0pxegGkvdsvHDZV9_OEAAHqfaSKVUqiVC8-XZpK9-1VrbU8FFOmjgaEUywa8lGD5Dbt">](https://music.youtube.com/watch?v=WGBNQLEegPI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nOt7bbpmEgdxmQIB0tLYV_xeLD0-EkYqltaKOEEF8sqMF-57OwSqXPXdWg5l2NKcF9jswOO31luC1U140w">](https://music.youtube.com/watch?v=0EuC4jUbITA)
 
-Sukima Switch - Kanade
+sakanaction - 新宝島
 
-**Albums**: Kanade
+**Albums**: 834.194
 
-Last updated at 03/04/2021 17:48
+Last updated at 03/04/2021 17:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
