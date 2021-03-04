@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCjwCsj-axFNcxnv3yzV22WQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zph_6uQFroyC7c4aRRL39gCgsfwHgoQFu4qqWQBHewSWXSwJtp9fr86K5qWgRt-f4yk3yndh-MFCN9BW">](https://music.youtube.com/watch?v=0dLB5V37yXE)
 
-장범준 - 4.정말로 사랑한다면 - If You Really Love Me
+Suda Masaki - Niji
 
-**Albums**: Not supported
+**Albums**: Niji
 
-Last updated at 03/04/2021 16:10
+Last updated at 03/04/2021 16:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
