@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KfgLFrXkwju9RqhLe9CgUiaeBK8XLs5SP6rdKrZMDveh0yw3AJBxow7tNQqyjfCaOAzZVd1B6v8T7JM">](https://music.youtube.com/watch?v=DcKa0n2LCLk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">](https://music.youtube.com/watch?v=TSGOZyt2iDI)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Flamingo
+aimyon - Ai Wo Tsutaetaidatoka
 
-**Albums**: Flamingo / TEENAGE RIOT
+**Albums**: Excitement of Youth
 
-Last updated at 03/04/2021 20:07
+Last updated at 03/04/2021 20:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
