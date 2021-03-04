@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gwIH3ImhN0JXnx00Vim2GV_FuQzA-6Owylup6yCcOJAVx-HXiw_ZJsQb_ZdVc-T7ta2pOvIjDxh4QIf8">](https://music.youtube.com/watch?v=M_Uz5SKGxs4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=ZMna2PK9mb8)
 
-BUMP OF CHICKEN - Tentaikansoku
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Peace Sign
 
-**Albums**: Jupiter
+**Albums**: Bootleg
 
-Last updated at 03/04/2021 18:33
+Last updated at 03/04/2021 18:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
