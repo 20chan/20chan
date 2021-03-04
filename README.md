@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=8GfDq1osBLM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FNi3uWl5IHFfwxw6PL7MvHHQtuok9rBVG6_FYHmXgI8_suHzZu2KkTAnatn7A28PtdVK1fvlMP-NefTR">](https://music.youtube.com/watch?v=TYr43JY5RdU)
 
-요아소비 - ハルジオン
+Mrs. GREEN APPLE - Bokuno Koto
 
-**Albums**: THE BOOK
+**Albums**: Bokuno Koto
 
-Last updated at 03/04/2021 19:00
+Last updated at 03/04/2021 19:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
