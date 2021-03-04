@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ggCvSHHEiWpE6nr3cjtaIIGRxE8WFb-I99vwSOp6mg8syaR6K9PwhVGjOrN1FZCDeQJXdwrxUT9-ztl3Q">](https://music.youtube.com/watch?v=37W7Y2RRyiM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1vh5-MoY4MNHfin2RdE7s3R8NtftvEjPcccSn3MQ-A2uNb3P9hgkGMoNMd6GcWm7PcnA6VL1oan2XrA">](https://music.youtube.com/watch?v=xtFAmapbTbY)
 
-오피셜히게단디즘 - Pretender
+오피셜히게단디즘 - イエスタデイ
 
-**Albums**: Pretender
+**Albums**: Traveler
 
-Last updated at 03/04/2021 14:34
+Last updated at 03/04/2021 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
