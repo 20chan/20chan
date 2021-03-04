@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EKSrcL7sEDbhTbqO2wiqO3txHCOmmPiYw7nvQRfsS19luo6bwrS9mhgauQj8YZPHyYcpICs7dbTTACFxNQ">](https://music.youtube.com/watch?v=VifmYXA9wuQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">](https://music.youtube.com/watch?v=OOcwQALr5Rw)
 
-BLUE ENCOUNT - Polaris
+One OK Rock(원오크락) - C.h.a.o.s.m.y.t.h.
 
-**Albums**: Polaris (Special Edition)
+**Albums**: 残響リファレンス
 
-Last updated at 03/04/2021 21:51
+Last updated at 03/04/2021 21:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
