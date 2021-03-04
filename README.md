@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bwyiOC_iwzOuKp4hyaejwMDori45wbe_zH2fQTgy1HiJTbTw0MBG3ErC_lKNPlUAiQQ02Pu2apCpt3og">](https://music.youtube.com/watch?v=1tnvHzkuMRk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Qp_TrHwXUl7FsxB6XYrT7Ci2MGMABcdEKqGakA0tXsiYfekO-3gXaqeC1CeokQ1snkL45w7VCPyRPDVi">](https://music.youtube.com/watch?v=qaOPHnbaBdM)
 
-오피셜히게단디즘 - HELLO
+요루시카 - Ghost In A Flower
 
-**Albums**: HELLO
+**Albums**: Ghost In A Flower
 
-Last updated at 03/04/2021 20:52
+Last updated at 03/04/2021 20:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
