@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3ARmoYuz9GI9_6-P1PdbgjW-NnRu--hj87CizVWTBs0prmYWcUUXGpiRsXFteNuYjduLDG6ZDs_f1BKm">](https://music.youtube.com/watch?v=iHGam9itjyk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n4XkGilgkprI59OxqDwaypbpy6ur_wGEJWpnNqGAbNGkqHxNPi8-zB12rew5DOUVDDKvXDu9Fx_7-cLL">](https://music.youtube.com/watch?v=N8wfYwSDTa4)
 
-미나미 - Ame Wo Matsu
+Porno Graffitti - The Day
 
-**Albums**: Ame Wo Matsu
+**Albums**: The Day
 
-Last updated at 03/04/2021 22:41
+Last updated at 03/04/2021 22:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
