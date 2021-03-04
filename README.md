@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">](https://music.youtube.com/watch?v=OOcwQALr5Rw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg">](https://music.youtube.com/watch?v=MucGO4tbYYg)
 
-One OK Rock(원오크락) - C.h.a.o.s.m.y.t.h.
+미나미 - main actor
 
-**Albums**: 残響リファレンス
+**Albums**: カワキヲアメク
 
-Last updated at 03/04/2021 21:55
+Last updated at 03/04/2021 22:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
