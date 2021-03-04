@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aEI3zEE2i3X-udsEMPRYmrPvG2VlGrHU4osmuYCEQ0WaAZrfYo_xU_iN8sXjWRnNSu_Ufv9EUgZz6LxQ">](https://music.youtube.com/watch?v=c8G58Y498Sg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ih3l1ocpmGZEG_3VCLteBHbwt2mXXEfgACly-8ejrd1qyELIvx-GbOYclw1gX1gvoRPuv1V1hBLZPW75">](https://music.youtube.com/watch?v=-QxMzUEJH4Q)
 
-aiko - カブトムシ
+Mrs. GREEN APPLE - Ao To Natsu
 
-**Albums**: 桜の木の下
+**Albums**: Ao To Natsu
 
-Last updated at 03/04/2021 17:29
+Last updated at 03/04/2021 17:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
