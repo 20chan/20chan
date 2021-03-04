@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r5hsIeIFhTvIfAmI7IdBqsUCj_iDI57g1m2O8Sh8LniQKg-iMbs1b50liCGF6OGEFvk6D9krdRruuuuucA">](https://music.youtube.com/watch?v=Rq65VlRhvMs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=mJ1N7-HyH1A)
 
-back number - Happy End
+요아소비 - 夜に駆ける
 
-**Albums**: Happy End
+**Albums**: THE BOOK
 
-Last updated at 03/04/2021 14:54
+Last updated at 03/04/2021 14:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
