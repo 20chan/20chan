@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GKDULQUI_71yxcU7FrmsJrpu5Bq-igEhZd4IUhluzLfRUXnoMGv5pw_MLYhf9wi8V85sP6YGY81vTx8">](https://music.youtube.com/watch?v=aY6bGifUFHs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xlFQf5DYmioYGpvit9jQ1pEIpRgqZxYGbYlPUpchctYgSIQgNIgyoRNSoelq5ZxyqjQ3Tq8mDgB3wfa6bw">](https://music.youtube.com/watch?v=Gc-JbYMQ-vY)
 
-瑛人 - 香水
+RADWIMPS(래드윔프스) - Is There Still Anything That Love Can Do? (Movie Edit)
 
-**Albums**: 香水
+**Albums**: Weathering With You
 
-Last updated at 03/04/2021 20:23
+Last updated at 03/04/2021 20:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
