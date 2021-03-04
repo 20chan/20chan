@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UjuO3CQHlzg2eaqlv5ZyORGTjbtz5z2qb5S1v9l_l5VeE-agv9OrtC3osPgQkREs4GKQ23qEwl8iNB0">](https://music.youtube.com/watch?v=yIInRweewfQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nnRaMCDqkwDlLzAx5T7lpgwYavv1RoCnROrimUZVK92bQVRVz0YJ6X-pA9p0eHJVnCVTh3lgDfc052cy">](https://music.youtube.com/watch?v=DamsjHG5RHs)
 
-WANIMA - Tomoni
+SUGARSOUL - Garden
 
-**Albums**: JUICE UP!!
+**Albums**: sugar soul
 
-Last updated at 03/04/2021 18:46
+Last updated at 03/04/2021 18:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
