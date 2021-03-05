@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Qy-drh50_d9LAXbC0VpJXLlz0tz4VZhgB_7H47bOax0QWA4efqVJXvbXkDGIGhWuu8yv8zY5CsUSn4o">](https://music.youtube.com/watch?v=BXg4yk7se_0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E7K2dE8KJzVSPrRXxMyfEbFvufEeOkfb0WjcypTWXns1nas45wFc8Zf1Te1edoVBBlA83qdvoOvPswr6tA">](https://music.youtube.com/watch?v=-AJPq6r4aMw)
 
-ASIAN KUNG-FU GENERATION - Rewrite
+CHEMISTRY - Period
 
-**Albums**: Sol-fa
+**Albums**: Chemistry 2001-2011
 
-Last updated at 03/05/2021 12:50
+Last updated at 03/05/2021 15:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
