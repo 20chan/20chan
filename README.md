@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2">](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/watch?v=RECZ6u0vmWg)
 
-Official HIGE DANdism - Pretender
+SID - Rain
 
-**Albums**: Not supported
+**Albums**: Rain
 
-Last updated at 03/05/2021 12:34
+Last updated at 03/05/2021 12:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
