@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/qDT-T4eTWrbXSYrgIwEyHE5qsxq6iivhi34xDztf_NWSP8C3hUI8zGqZayxtkFz4tmPNvxRjWccOI-cN">](https://music.youtube.com/watch?v=1mMF_ZH8CXE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=ZMna2PK9mb8)
 
-ORANGE RANGE - *Asterisk
+Kenshi Yonezu(켄시 요네즈/米津 玄師) - Peace Sign
 
-**Albums**: Natural
+**Albums**: Bootleg
 
-Last updated at 03/05/2021 16:06
+Last updated at 03/05/2021 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
