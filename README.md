@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/II4yEaMSQzH7bMBXfd7oVq8iEfmmmay9rQMV_s7Lq48V5aKRY-8nwmVZrGTvcRqrs4BuVb6uqR7UCi0k4A">](https://music.youtube.com/watch?v=v9elvcWUMgI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qDT-T4eTWrbXSYrgIwEyHE5qsxq6iivhi34xDztf_NWSP8C3hUI8zGqZayxtkFz4tmPNvxRjWccOI-cN">](https://music.youtube.com/watch?v=1mMF_ZH8CXE)
 
-ASIAN KUNG-FU GENERATION - After Dark
+ORANGE RANGE - *Asterisk
 
-**Albums**: World World World
+**Albums**: Natural
 
-Last updated at 03/05/2021 16:03
+Last updated at 03/05/2021 16:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
