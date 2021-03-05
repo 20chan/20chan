@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/watch?v=rplAf-5zOnk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sa7D8TMPY1ReKhYrhEaxzIUPWISx7x3mXB3T7VJAlsfG_Wz0UwKaNOpRhkOjcTlmCjfvULE8pEMY-HWm">](https://music.youtube.com/watch?v=yK9quPsgsL8)
 
-SURL (설) - Dry Flower
+우효(OOHYO) - 민들레 (full ver.)
 
-**Albums**: I Know
+**Albums**: 민들레
 
-Last updated at 03/05/2021 11:25
+Last updated at 03/05/2021 11:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
