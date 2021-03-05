@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273afc77adee05a9b93078ac321">](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ed8e4fc843a2a83d8f84804e">](https://open.spotify.com/album/5EqCaZ6lsPx7wTqO6WWAUB)
 
-sumika - フィクション
+Kenshi Yonezu - 海の幽霊
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 12:10
+Last updated at 03/05/2021 12:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
