@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCFC9LamNMmLioW643VZ40OA)
 
-Coldplay - The Scientist (Official Video)
+gotyemusic - Gotye - Somebody That I Used To Know (feat. Kimbra) - official music video
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 18:17
+Last updated at 03/05/2021 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
