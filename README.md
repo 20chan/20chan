@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=ZMna2PK9mb8)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwAam3W_VLfb6mEKPW2nDFg)
 
-Kenshi Yonezu(켄시 요네즈/米津 玄師) - Peace Sign
+Hozier - Take Me To Church
 
-**Albums**: Bootleg
+**Albums**: Not supported
 
-Last updated at 03/05/2021 16:10
+Last updated at 03/05/2021 16:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
