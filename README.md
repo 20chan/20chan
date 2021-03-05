@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vpNhc2ybWxWJhRTleUMEDOu02VpPdN0DaUMmZ8wVvvY4b5XfeARlJNLw5ntyTDxFcrsTwIKCd15ZPmQ">](https://music.youtube.com/watch?v=dgZlLjfh6q4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7lbJEuTqVEBWq18A-5Bk69LLYtpaDu89W1b2wUPmzW6YvFnlLGaKVH4ZVmQAlLoYxpuj921fhNp8dlXuUQ">](https://music.youtube.com/watch?v=rplAf-5zOnk)
 
-데이먼스 이어(Damons Year) - Yours
+SURL (설) - Dry Flower
 
-**Albums**: Yours
+**Albums**: I Know
 
-Last updated at 03/05/2021 11:22
+Last updated at 03/05/2021 11:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
