@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/izKyqCg_5dL0HFh40COWwXVI-CsacRdNXIFbm1iKLiPsyB_xnpTJYZ1PdIqj3RZLbrfsMoMlEwur9tUh">](https://music.youtube.com/watch?v=tqgqmp9XI5Q)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733eaf83dd5b6159548f9292a9">](https://open.spotify.com/album/2JHoViHAgQ1nbCHdpyhp08)
 
-데이먼스 이어 Damons year - what i loved 내가 사랑했던
+SID - レイン
 
-**Albums**: " sin ! "
+**Albums**: Not supported
 
-Last updated at 03/05/2021 11:34
+Last updated at 03/05/2021 11:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
