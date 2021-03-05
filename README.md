@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQg5Gmm5pxzSwcx9-CT6jknLPw2FmxIlyWZIW6jzZo1NYOtfyKrXdlLToeO5leifFlO28ynxfp6XjUHw">](https://music.youtube.com/watch?v=JUewJm2ssBw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6Qy-drh50_d9LAXbC0VpJXLlz0tz4VZhgB_7H47bOax0QWA4efqVJXvbXkDGIGhWuu8yv8zY5CsUSn4o">](https://music.youtube.com/watch?v=BXg4yk7se_0)
 
-YUI - Again
+ASIAN KUNG-FU GENERATION - Rewrite
 
-**Albums**: Again
+**Albums**: Sol-fa
 
-Last updated at 03/05/2021 12:46
+Last updated at 03/05/2021 12:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
