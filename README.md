@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3vfqXqoAZujk6LgSiDvXnojbLhE5o1hJFaeiqeHQii9eZEpoZ6Kz5Fk57voGRqQFjOvTNGWcjYSOt7c">](https://music.youtube.com/watch?v=RECZ6u0vmWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NQg5Gmm5pxzSwcx9-CT6jknLPw2FmxIlyWZIW6jzZo1NYOtfyKrXdlLToeO5leifFlO28ynxfp6XjUHw">](https://music.youtube.com/watch?v=JUewJm2ssBw)
 
-SID - Rain
+YUI - Again
 
-**Albums**: Rain
+**Albums**: Again
 
-Last updated at 03/05/2021 12:42
+Last updated at 03/05/2021 12:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
