@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwAam3W_VLfb6mEKPW2nDFg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCPNokRZ9hacjIQ3IQL6HNUQ)
 
-Hozier - Take Me To Church
+Zedd - Beautiful Now ft. Jon Bellion (Official Audio)
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 16:16
+Last updated at 03/05/2021 16:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
