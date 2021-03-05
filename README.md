@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwAam3W_VLfb6mEKPW2nDFg)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw)
 
-Hozier - Take Me To Church (Official Video)
+Coldplay - Yellow (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 18:25
+Last updated at 03/05/2021 18:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
