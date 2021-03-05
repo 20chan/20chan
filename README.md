@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb53782889e6f2e70a2634a3">](https://open.spotify.com/album/0htxNVyVbhow8ESseUu5UV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e">](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq)
 
-Kenshi Yonezu - 馬と鹿
+Ikimonogakari - ブルーバード
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 12:22
+Last updated at 03/05/2021 12:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
