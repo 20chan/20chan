@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCfLdIEPs1tYj4ieEdJnyNyw)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCvhQPdeTHzIRneScV8MIocg)
 
-Lauv - I Like Me Better [Official Audio]
+Clean Bandit - Symphony (feat. Zara Larsson) [Official Video]
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 16:55
+Last updated at 03/05/2021 17:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
