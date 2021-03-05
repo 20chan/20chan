@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e">](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736f43efbb6ec787cf0eb396a0">](https://open.spotify.com/album/6WJfvLqbR4mE9Tio1Srvq3)
 
-Ikimonogakari - ブルーバード
+Kenshi Yonezu - MAD HEAD LOVE
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 12:27
+Last updated at 03/05/2021 12:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
