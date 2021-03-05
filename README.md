@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/watch?v=K0wOfkXULOc)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnhUkjk9k88AVDMvoAMXOvWzGqraApx6KUZqC6IzAQ=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCQoovgBIVHzEPWCwWpFFMVA)
 
-박혜경 - 하루
+CircaWaves - Sad Happy
 
-**Albums**: O2
+**Albums**: Not supported
 
-Last updated at 03/05/2021 10:32
+Last updated at 03/05/2021 10:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
