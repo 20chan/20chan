@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCPNokRZ9hacjIQ3IQL6HNUQ)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCwppdrjsBPAZg5_cUwQjfMQ)
 
-Zedd - Beautiful Now ft. Jon Bellion (Official Audio)
+Charlie Puth - Attention [Official Video]
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 16:26
+Last updated at 03/05/2021 16:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
