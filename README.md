@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Sa7D8TMPY1ReKhYrhEaxzIUPWISx7x3mXB3T7VJAlsfG_Wz0UwKaNOpRhkOjcTlmCjfvULE8pEMY-HWm">](https://music.youtube.com/watch?v=yK9quPsgsL8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/izKyqCg_5dL0HFh40COWwXVI-CsacRdNXIFbm1iKLiPsyB_xnpTJYZ1PdIqj3RZLbrfsMoMlEwur9tUh">](https://music.youtube.com/watch?v=tqgqmp9XI5Q)
 
-우효(OOHYO) - 민들레 (full ver.)
+데이먼스 이어 Damons year - what i loved 내가 사랑했던
 
-**Albums**: 민들레
+**Albums**: " sin ! "
 
-Last updated at 03/05/2021 11:28
+Last updated at 03/05/2021 11:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
