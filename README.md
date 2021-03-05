@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n4XkGilgkprI59OxqDwaypbpy6ur_wGEJWpnNqGAbNGkqHxNPi8-zB12rew5DOUVDDKvXDu9Fx_7-cLL">](https://music.youtube.com/watch?v=N8wfYwSDTa4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lc7y4G97yp0UKg2e5n71TItnWLjzjsWHSIxyfhKHRNxuLjYB5t7P59cYluzBoK0lrObT2pEnXI8qA6Te">](https://music.youtube.com/watch?v=K0wOfkXULOc)
 
-Porno Graffitti - The Day
+박혜경 - 하루
 
-**Albums**: The Day
+**Albums**: O2
 
-Last updated at 03/05/2021 10:30
+Last updated at 03/05/2021 10:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
