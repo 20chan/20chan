@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/izB1A1PHKg5YvG7_TWtwSfeQg0cc1Qqiwbgu15rnwPff_orvV8nO0GZZpgPfuI_apQMri9tkGxf7IXA">](https://music.youtube.com/watch?v=SWPgCWKEseQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XeIUTlQxPrzabMlxWpcyyXlH1VtN7jER9uwbt9TWIziM-Ez8CfuSIIdKOQNyANod0FCQ6r6jNvpq9ZnI">](https://music.youtube.com/watch?v=eOLMQjNWgVI)
 
-ALEPH - 창문 Window
+알레프 ALEPH - Fall In Love Again
 
-**Albums**: 도시 단편 City Poems
+**Albums**: 1
 
-Last updated at 03/05/2021 11:08
+Last updated at 03/05/2021 11:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
