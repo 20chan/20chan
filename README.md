@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fa78a51a07cb7bf1ce9febe4">](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/K0BzK474bGY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=K0BzK474bGY)
 
-grandson - Despicable
+힙합 플레이어 - 래원 (Layone) - !!! (Prod. Lnb) [Chamelayone]
 
-**Albums**: Not supported
+**Albums**: 조회수 5.4천회
 
-Last updated at 03/05/2021 00:20
+Last updated at 03/05/2021 10:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
