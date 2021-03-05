@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw)
 
-Coldplay - Yellow (Official Video)
+Coldplay - Paradise (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 18:30
+Last updated at 03/05/2021 18:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
