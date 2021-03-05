@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniJcMiUKT4McdIW5wPyY1KOMgpt45DitfDDql_7TQ=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCiEKDhv4v0YTc-ZtpABkXZA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCNHqq6dhItZFuYooyVXWYcQ)
 
-Goo Goo Dolls - Iris [Official Music Video]
+The Fray - How to Save a Life (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 18:00
+Last updated at 03/05/2021 18:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
