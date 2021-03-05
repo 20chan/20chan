@@ -1,12 +1,12 @@
 ## Currently Playing on YouTube
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCxzIGPpp-8XdTLY83zTeUXA)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw)
 
-Snow Patrol - Chasing Cars (Official Video)
+Coldplay - Fix You (Official Video)
 
 **Albums**: Not supported
 
-Last updated at 03/05/2021 18:08
+Last updated at 03/05/2021 18:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
