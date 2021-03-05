@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ID5L3zhziRDa5yXzrRUwBevvDdWm2-iUYfaXTKrWZ37q5S6ga_cIGmk-ldPqKn17WZyQ9mZcjo6zBbk">](https://music.youtube.com/watch?v=uPBn9ZDyPuo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/II4yEaMSQzH7bMBXfd7oVq8iEfmmmay9rQMV_s7Lq48V5aKRY-8nwmVZrGTvcRqrs4BuVb6uqR7UCi0k4A">](https://music.youtube.com/watch?v=v9elvcWUMgI)
 
-miwa - Change
+ASIAN KUNG-FU GENERATION - After Dark
 
-**Albums**: Guitarissimo
+**Albums**: World World World
 
-Last updated at 03/05/2021 15:59
+Last updated at 03/05/2021 16:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
