@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwng5kS6etgUJJq1VLXTb2EHx-8BOJC5JQ3GUA3KnvQ=s176-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCk2YAB5jZjE5FZT6Lvjj6Zg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/izB1A1PHKg5YvG7_TWtwSfeQg0cc1Qqiwbgu15rnwPff_orvV8nO0GZZpgPfuI_apQMri9tkGxf7IXA">](https://music.youtube.com/watch?v=SWPgCWKEseQ)
 
-ALEPH - 바람들
+ALEPH - 창문 Window
 
-**Albums**: Not supported
+**Albums**: 도시 단편 City Poems
 
-Last updated at 03/05/2021 10:50
+Last updated at 03/05/2021 11:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
