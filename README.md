@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ggCvSHHEiWpE6nr3cjtaIIGRxE8WFb-I99vwSOp6mg8syaR6K9PwhVGjOrN1FZCDeQJXdwrxUT9-ztl3Q">](https://music.youtube.com/watch?v=37W7Y2RRyiM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/K0BzK474bGY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=K0BzK474bGY)
 
-오피셜히게단디즘 - Pretender
+힙합 플레이어 - 래원 (Layone) - !!! (Prod. Lnb) [Chamelayone]
 
-**Albums**: Pretender
+**Albums**: 조회수 1.2만회
 
-Last updated at 03/06/2021 17:40
+Last updated at 03/06/2021 17:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
