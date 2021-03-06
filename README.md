@@ -1,12 +1,12 @@
-## Currently Playing on YouTube
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="">](https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0ggCvSHHEiWpE6nr3cjtaIIGRxE8WFb-I99vwSOp6mg8syaR6K9PwhVGjOrN1FZCDeQJXdwrxUT9-ztl3Q">](https://music.youtube.com/watch?v=37W7Y2RRyiM)
 
-Coldplay - Everyday Life (Official Video)
+오피셜히게단디즘 - Pretender
 
-**Albums**: Not supported
+**Albums**: Pretender
 
-Last updated at 03/05/2021 19:32
+Last updated at 03/06/2021 17:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
