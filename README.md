@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-tKVN2mAKRI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-tKVN2mAKRI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xNc5wcKd8M8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xNc5wcKd8M8)
 
-DAOKO 및 Kenshi Yonezu(켄시 요네즈/米津 玄師) - DAOKO × 米津玄師『打上花火』MUSIC VIDEO
+CutiePenguin - SID-Sound, 여래아(黎崍阿) (+ Lyrics)
 
-**Albums**: 조회수 4.1억회
+**Albums**: 조회수 730만회
 
-Last updated at 03/08/2021 12:28
+Last updated at 03/08/2021 12:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
