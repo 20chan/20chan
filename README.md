@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ukGZbsOO6mk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ukGZbsOO6mk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wKHxfrkWYiQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wKHxfrkWYiQ)
 
-GraVity - - 구루타밍 - 호시아이 [고음질]
+GraVity - - 4월은 너의 거짓말 ED - 오렌지 オレンジ
 
-**Albums**: 조회수 478만회
+**Albums**: 조회수 326만회
 
-Last updated at 03/08/2021 12:02
+Last updated at 03/08/2021 12:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
