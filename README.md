@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-QX2k_25xkE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-QX2k_25xkE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mXHXZonToCU/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=mXHXZonToCU)
 
-수니 - (자막) sekainoowari - 환상의 생명
+딩고 뮤직 / dingo music - 세카이노 오와리 Sekai No Owari 世界の終わり - RPG [BGM]
 
-**Albums**: 조회수 64만회
+**Albums**: 조회수 313만회
 
-Last updated at 03/08/2021 11:44
+Last updated at 03/08/2021 11:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
