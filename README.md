@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/9U8uA702xrE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9U8uA702xrE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-QX2k_25xkE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-QX2k_25xkE)
 
-볼빨간사춘기 - 우주를 줄게
+수니 - (자막) sekainoowari - 환상의 생명
 
-**Albums**: 조회수 8481만회
+**Albums**: 조회수 64만회
 
-Last updated at 03/06/2021 17:53
+Last updated at 03/08/2021 11:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
