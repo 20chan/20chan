@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/flAs1j8kBYk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=flAs1j8kBYk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VFYUkFzDkeA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VFYUkFzDkeA)
 
-Amatsuki - ☪【NARUTO】 シルエット Cover by天月
+J - Anthology - [자막]KK - 가지마
 
-**Albums**: 조회수 887만회
+**Albums**: 조회수 496만회
 
-Last updated at 03/08/2021 12:21
+Last updated at 03/08/2021 12:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
