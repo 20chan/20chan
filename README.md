@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/nFG3l5zxLdM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=nFG3l5zxLdM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ukGZbsOO6mk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ukGZbsOO6mk)
 
-주혜홍 - 시간을 달리는 소녀OST (변하지 않는것) 자막, 번역, 가사
+GraVity - - 구루타밍 - 호시아이 [고음질]
 
-**Albums**: 조회수 49만회
+**Albums**: 조회수 478만회
 
-Last updated at 03/08/2021 11:57
+Last updated at 03/08/2021 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
