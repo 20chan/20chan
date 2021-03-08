@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/_ym-MQ5PINA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_ym-MQ5PINA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/bD_RzOaqj2Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bD_RzOaqj2Q)
 
-말랑이아냐 - [한글자막] 듀라라라 1기 2쿨 OP コンプリケイション | Complication
+조창현 - (너의 이름은 ed) 아무것도 아니야 なんでもないや:가사,독음,해석
 
-**Albums**: 조회수 91만회
+**Albums**: 조회수 1180만회
 
-Last updated at 03/08/2021 12:40
+Last updated at 03/08/2021 12:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
