@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/6lGdo1P79dA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6lGdo1P79dA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/lFFV3iBSSJ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=lFFV3iBSSJ0)
 
-{NEKO} Athena Musik - 볼륨 up KK 그게 당신의 행복일지라도 HD 자막,발음
+politan na - 목소리에 취하는노래[ 쿠로쿠모 - 마루노우치 새디스틱 ]
 
-**Albums**: 조회수 364만회
+**Albums**: 조회수 204만회
 
-Last updated at 03/08/2021 12:13
+Last updated at 03/08/2021 12:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
