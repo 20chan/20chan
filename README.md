@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xNc5wcKd8M8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xNc5wcKd8M8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/_ym-MQ5PINA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_ym-MQ5PINA)
 
-CutiePenguin - SID-Sound, 여래아(黎崍阿) (+ Lyrics)
+말랑이아냐 - [한글자막] 듀라라라 1기 2쿨 OP コンプリケイション | Complication
 
-**Albums**: 조회수 730만회
+**Albums**: 조회수 91만회
 
-Last updated at 03/08/2021 12:34
+Last updated at 03/08/2021 12:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
