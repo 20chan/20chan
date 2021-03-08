@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/bD_RzOaqj2Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bD_RzOaqj2Q)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/H4LsCBO4Knw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=H4LsCBO4Knw)
 
-조창현 - (너의 이름은 ed) 아무것도 아니야 なんでもないや:가사,독음,해석
+SUUBIA - [우타이테]월피스카터 - 시간의 비, 최종전쟁(時ノ雨、最終戦争)
 
-**Albums**: 조회수 1180만회
+**Albums**: 조회수 132만회
 
-Last updated at 03/08/2021 12:44
+Last updated at 03/08/2021 12:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
