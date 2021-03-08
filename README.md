@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mXHXZonToCU/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=mXHXZonToCU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XAE5e4U8kRA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XAE5e4U8kRA)
 
-딩고 뮤직 / dingo music - 세카이노 오와리 Sekai No Owari 世界の終わり - RPG [BGM]
+이명철 - Amazarashi - 피아노 도둑
 
-**Albums**: 조회수 313만회
+**Albums**: 조회수 218만회
 
-Last updated at 03/08/2021 11:48
+Last updated at 03/08/2021 11:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
