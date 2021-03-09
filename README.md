@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ade26fc245658d700650a912">](https://open.spotify.com/album/1ljx1yhQxihioKMX1qliQb)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f672cfe50a513713ea7cdc85">](https://open.spotify.com/album/6zRvJSG5JLRAQ2YAmP8R1a)
 
-Cö Shu Nie - asphyxia
+majiko - Irony
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 15:23
+Last updated at 03/09/2021 15:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
