@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-5tnsyG-BDCZj2gipRW710kLtHWPDVmlvt2BMwJ4StWqrfMxRUYvLsirYPClRDg1qnDU3avAgVn66eS20A">](https://music.youtube.com/watch?v=gm-Y9idMMQ4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BtAKhqmTBoZWEQPlcF9tgpqILWNkQ4vc0tk0nlSrIpdvhW9sf9K-tQDoym1zh9Svl-8PnpFCY_6vNYg7">](https://music.youtube.com/watch?v=sJAWNKzSR0A)
 
-콜드플레이 - The Scientist
+Linkin Park(린킨 파크) - The Little Things Give You Away
 
-**Albums**: A Rush of Blood to the Head
+**Albums**: Minutes To Midnight (Deluxe)
 
-Last updated at 03/09/2021 12:09
+Last updated at 03/09/2021 12:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
