@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/soFyZYOggw-Ae05b91WiVDnq9ahXLOrNJiR4wWiQemfclVliG_BHht1bH6f0cjLB0KzKlyGBTsPrtQEn">](https://music.youtube.com/watch?v=m2zUrruKjDQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/watch?v=v_uncMEJkBc)
 
-The Killers - Mr. Brightside
+My Chemical Romance(마이 케미컬 로맨스) - Welcome to the Black Parade
 
-**Albums**: Hot Fuss
+**Albums**: The Black Parade
 
-Last updated at 03/09/2021 13:56
+Last updated at 03/09/2021 14:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
