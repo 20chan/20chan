@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/flE5VHe0QfQ9XqeDiwQslGbErboKLzh-UaK5FPfKpIHi1mzzeT8eL5IRifoOmni17oed_v8AkfPToVQDUA">](https://music.youtube.com/watch?v=y6ZmoejZLWM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/By5FT5kCubD9UzxBPy8Kj1gSmrn89kRqsUL8Enw8Ml_0niBGYdQ2Vh74niLIirl2tigx1C3ksy5OYdzmeA">](https://music.youtube.com/watch?v=kvZWsJbgEkg)
 
-Evanescence - Bring Me To Life
+파라모어 - Ignorance
 
-**Albums**: Fallen
+**Albums**: Ignorance
 
-Last updated at 03/09/2021 12:25
+Last updated at 03/09/2021 12:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
