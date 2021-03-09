@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z2zgZT7ICWRL7ACDERnWaGA3nBmLSK3fqOXDg-EQuhSnwvNV_i5pEQ6-z_m_v4S44HuNKyFjwtmSghqJ">](https://music.youtube.com/watch?v=oMfMUfgjiLg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3U_kyEsSqSV3mLDRE0BYfnMMaTgmz5M6nI3-kSbkTGnnaZdwl7pJW07KNZmCjpk9hwnFdV6xzwXbsP7KGA">](https://music.youtube.com/watch?v=CqnU_sJ8V-E)
 
-Guns N' Roses(건즈 앤 로지스) - Sweet Child O' Mine
+Lynyrd Skynyrd - Free Bird
 
-**Albums**: Appetite For Destruction
+**Albums**: Pronounced' Leh-'Nerd 'Skin-'Nerd
 
-Last updated at 03/09/2021 19:26
+Last updated at 03/09/2021 19:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
