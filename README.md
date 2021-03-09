@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gYNq04gEad6IWtHLPmq7IYPROzuZH0184nVESSgSFx30UECtGamL6Dpl6LypoQebw1AKyh0wgTTYdmpL">](https://music.youtube.com/watch?v=i4Xw5VvziTA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=4FkfyssnHqU)
 
-Avenged Sevenfold - So Far Away
+Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Dani California
 
-**Albums**: Nightmare
+**Albums**: Stadium Arcadium
 
-Last updated at 03/09/2021 11:16
+Last updated at 03/09/2021 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
