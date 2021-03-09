@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/X1AmAdIuHAwKhvQ84pqdZhERpWqfDeDM9i8XSnrDTISy7xtdflSXEoQiQyDJfZ6NDi3vh399e_MAcdvJ">](https://music.youtube.com/watch?v=U7k2qv8KTDI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KC2tDiFdec41kaIEy0hD0BGaNbcFX6dqmz-bJKs9miDv0zGaEtbTc0x5TRStshVO8Ep_6T8mmyyJaXGbFg">](https://music.youtube.com/watch?v=vkvrbbtnp6s)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Scar Tissue
+Nickelback - How You Remind Me (LP Mix)
 
-**Albums**: Californication
+**Albums**: Silver Side Up
 
-Last updated at 03/09/2021 13:13
+Last updated at 03/09/2021 13:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
