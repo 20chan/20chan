@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XeI3g00kOOrGARC6VXUhTISzlPLrfN5HZXKjaCZdRk1hq8EQ9znunGIqZdVHfagyYhWUp-QMQq0QviYI">](https://music.youtube.com/watch?v=4LsHTLr41o8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EBguzqKx6ohFK2znYpmd2C1klfKn9hPc4SgHSpY2Gh6sgWxZ01IAa7N7gP7g9aVsGoMxARIcn_4Os8Bv">](https://music.youtube.com/watch?v=XxOLNRjGg1A)
 
-샵(S#arp) - Sweety
+럼블 피쉬(Rumble Fish) - 비와 당신
 
-**Albums**: 샵(S#arp) 4집(Feel So Good)
+**Albums**: Memory For You
 
-Last updated at 03/09/2021 14:43
+Last updated at 03/09/2021 14:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
