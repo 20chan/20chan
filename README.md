@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P6UQgFQD0MduEsjvh0D1CahKTqebTtObTBUkYp_7F9QcDbtgqFsqkHQwTOtJX6XQv5vL8fxEiBgpjj0K_Q">](https://music.youtube.com/watch?v=mmIXwYkDs9k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mt4r5v_Rbzt-HXopsPh12CejdfwC5g-ABG3wlrxFy6UlakcGR9tEJZFD_VsXatWmlaw2PRR9zEFBE7tNgg">](https://music.youtube.com/watch?v=HFgrkLzbZOs)
 
-Metallica - The Unforgiven
+포거트 - Slow Ride
 
-**Albums**: Metallica
+**Albums**: Fool For The City
 
-Last updated at 03/09/2021 21:45
+Last updated at 03/09/2021 21:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
