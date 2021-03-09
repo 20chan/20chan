@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bXwTeqlNL7kxwTfstwZ49xjn1DTCR354OF7UIErUuXl6KBAFpdpOn13LjiO8-n_AAdlJmaPHNGB32MQn">](https://music.youtube.com/watch?v=WvBnI34wZ7c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/W__wjWducAJ7BmNoEGnch6jvYlf1yZ1spN9qh5T4-vUmD3-dRqOPUHwjs8iq1Ilson8WzCwqFNRkZKZr">](https://music.youtube.com/watch?v=lJZTgynPGT8)
 
-Bob Dylan - Hurricane
+The Doors - Riders On The Storm
 
-**Albums**: Desire
+**Albums**: L.A. Woman
 
-Last updated at 03/09/2021 21:20
+Last updated at 03/09/2021 21:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
