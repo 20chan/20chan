@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jex99xSKoanZ7SyenUEgOu0Ykk4QXy7t47o6ohlPGaWSOPnbuw_LV9K2VFuwkeeq7FFjcSHUpEpgM85m">](https://music.youtube.com/watch?v=zNn_oSsUF0c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-5tnsyG-BDCZj2gipRW710kLtHWPDVmlvt2BMwJ4StWqrfMxRUYvLsirYPClRDg1qnDU3avAgVn66eS20A">](https://music.youtube.com/watch?v=gm-Y9idMMQ4)
 
-The O’Reillys And The Paddyhats - Green Blood
+콜드플레이 - The Scientist
 
-**Albums**: Green Blood
+**Albums**: A Rush of Blood to the Head
 
-Last updated at 03/09/2021 13:40
+Last updated at 03/09/2021 13:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
