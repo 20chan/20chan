@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/H4LsCBO4Knw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=H4LsCBO4Knw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/IXdAUZbpvXQ_-_K1s-uf-qW0DXD6SSng-qN6duNuLCe24j6y4YcUI6nnArceCcja0GGcAPHzWrhFdV_Q">](https://music.youtube.com/watch?v=A8-98OMfWLY)
 
-SUUBIA - [우타이테]월피스카터 - 시간의 비, 최종전쟁(時ノ雨、最終戦争)
+Kyunghwa Jung - 지상에서 영원으로
 
-**Albums**: 조회수 132만회
+**Albums**: Present
 
-Last updated at 03/08/2021 12:50
+Last updated at 03/09/2021 10:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
