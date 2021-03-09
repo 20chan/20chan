@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f5f73232e62e2e4671e896b8">](https://open.spotify.com/album/2aRqTPKbppTzmRQF3LIcBq)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb53782889e6f2e70a2634a3">](https://open.spotify.com/album/0htxNVyVbhow8ESseUu5UV)
 
-RU - Uma to Shika
+Kenshi Yonezu - 馬と鹿
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 18:29
+Last updated at 03/09/2021 18:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
