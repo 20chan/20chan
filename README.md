@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3QMxUP4YSbirCEQoo-aiO20iltWe9Qq37CxqT5M_9VdSMmXEPXIckyeRodSbPJF1pwyUTiiugFmbxlI3">](https://music.youtube.com/watch?v=v1b24aWSfpA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/EgTvWQw8OXlTSnTAb-7l01bDftQgQ39netrLXjJ6VIu39aTEtT9wP92VDRXXrrdBmHxTdV_ulTqfnEQ">](https://music.youtube.com/watch?v=0LuignGmX_0)
 
-Foo Fighters - Times Like These
+Keane - Somewhere Only We Know
 
-**Albums**: One By One (Expanded Edition)
+**Albums**: Hopes And Fears
 
-Last updated at 03/09/2021 17:16
+Last updated at 03/09/2021 17:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
