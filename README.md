@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736f43efbb6ec787cf0eb396a0">](https://open.spotify.com/album/6WJfvLqbR4mE9Tio1Srvq3)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2">](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j)
 
-Kenshi Yonezu - MAD HEAD LOVE
+Official HIGE DANdism - Pretender
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 18:42
+Last updated at 03/09/2021 18:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
