@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">](https://music.youtube.com/watch?v=U0XcqF7rqHk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=J0xe5DcnYSA)
 
-그린 데이 - 21 Guns
+Green Day - Holiday / Boulevard of Broken Dreams
 
-**Albums**: 21st Century Breakdown
+**Albums**: American Idiot
 
-Last updated at 03/09/2021 10:41
+Last updated at 03/09/2021 10:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
