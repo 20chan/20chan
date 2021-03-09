@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e7f0b1cfcf4da8333f7644aa">](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273afc77adee05a9b93078ac321">](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv)
 
-DAOKO Kenshi Yonezu - 打上花火
+sumika - フィクション
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 15:31
+Last updated at 03/09/2021 15:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
