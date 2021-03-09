@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f672cfe50a513713ea7cdc85">](https://open.spotify.com/album/6zRvJSG5JLRAQ2YAmP8R1a)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733eaf83dd5b6159548f9292a9">](https://open.spotify.com/album/2JHoViHAgQ1nbCHdpyhp08)
 
-majiko - Irony
+SID - レイン
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 15:25
+Last updated at 03/09/2021 15:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
