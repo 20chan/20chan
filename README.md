@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mt4r5v_Rbzt-HXopsPh12CejdfwC5g-ABG3wlrxFy6UlakcGR9tEJZFD_VsXatWmlaw2PRR9zEFBE7tNgg">](https://music.youtube.com/watch?v=HFgrkLzbZOs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XgGSDN7zmx5Pcd2PUUgqx83IbEZrtekPy7b443RF5NTdHkZv_uIOU_bAY8F7a8Cz50QNlc6E9zTxrLtV">](https://music.youtube.com/watch?v=uWepTCBBnLo)
 
-포거트 - Slow Ride
+The Rolling Stones - Sympathy For The Devil (50th Anniversary Edition)
 
-**Albums**: Fool For The City
+**Albums**: Beggars Banquet (50th Anniversary Edition)
 
-Last updated at 03/09/2021 21:52
+Last updated at 03/09/2021 22:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
