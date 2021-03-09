@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD">](https://music.youtube.com/watch?v=BLZWkjBXfN8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Mec0zeof6z-TkwToxxv3Fs6GjyUmifRDUJeEq200VC3_Tla3Sx4S6UfLTK8uNuPB8Q-RaPm4DU5B-EeQ">](https://music.youtube.com/watch?v=xOazTYPrt64)
 
-Linkin Park(린킨 파크) - In the End
+Gotye - Somebody That I Used To Know(피처링: Kimbra)
 
-**Albums**: Hybrid Theory (Bonus Edition)
+**Albums**: Making Mirrors
 
-Last updated at 03/09/2021 12:40
+Last updated at 03/09/2021 12:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
