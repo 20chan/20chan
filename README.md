@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/X1AmAdIuHAwKhvQ84pqdZhERpWqfDeDM9i8XSnrDTISy7xtdflSXEoQiQyDJfZ6NDi3vh399e_MAcdvJ">](https://music.youtube.com/watch?v=LCZLCG4JFm4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/twuFy7cdw_936FH6EmAf2Cpu9QeN5HztngdjjSlUNunG_4UpiTV0slDDWX9RBVEGhCn4NNGfmweEswurNQ">](https://music.youtube.com/watch?v=-BQHEr1JKXc)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Otherside
+The Offspring - The Future Is Now
 
-**Albums**: Californication
+**Albums**: Days Go By
 
-Last updated at 03/09/2021 13:20
+Last updated at 03/09/2021 13:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
