@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OyvSCojE1pJQtABYOhejgPrBtHfJtO6hqwqf6O3xPff3LXJ-oi_8dg8JY_AYJKhXFzuhhThbaznroSv9rg">](https://music.youtube.com/watch?v=mlCZ-JQoPcg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c">](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX)
 
-전람회 - 기억의 습작 (응답하라 1994 삽입곡)
+YUI - again
 
-**Albums**: Memory
+**Albums**: Not supported
 
-Last updated at 03/09/2021 14:54
+Last updated at 03/09/2021 14:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
