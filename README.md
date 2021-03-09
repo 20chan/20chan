@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UbcmZxvF1oAXlOsrMo2L6VCpeelfmi1UJFx0-NBzMD895SBKNrLDFvucbW7PlFopcLuFeSgqC-XUOr-Q">](https://music.youtube.com/watch?v=Sy9-x4jhQ2k)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/watch?v=eL9J31knS9M)
 
-최진영 - 영원
+JuJu Club - 16
 
-**Albums**: Final Fantasy -The Best Is Yet To Come
+**Albums**: 16／20
 
-Last updated at 03/09/2021 14:23
+Last updated at 03/09/2021 14:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
