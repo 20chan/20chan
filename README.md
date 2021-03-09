@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ">](https://music.youtube.com/watch?v=bSnlKl_PoQU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_P1hfeJJhKzodIhCEqHLbWknTQ6qxtVpXLWVqzRdQiEyN12jEh2FvzUJ8F6U08ehWAICAjVfi-1RAHgh">](https://music.youtube.com/watch?v=VixdIglCZXk)
 
-Queen - Bohemian Rhapsody
+The Animals - House of the Rising Sun
 
-**Albums**: A Night At The Opera (Deluxe Edition 2011 Remaster)
+**Albums**: Most of the Animals
 
-Last updated at 03/09/2021 20:42
+Last updated at 03/09/2021 20:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
