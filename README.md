@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/td-ViHhTRwHE7YJyUOYmvCYZHWhEw42V6e7qcYEGjWwfxcadAz1xfRNoML6s6VWZwUItGMbo9DZ75a2Buw">](https://music.youtube.com/watch?v=9fNrJMkTWEE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ">](https://music.youtube.com/watch?v=bSnlKl_PoQU)
 
-Kansas - Dust in the Wind
+Queen - Bohemian Rhapsody
 
-**Albums**: Point Of Know Return (Expanded Edition)
+**Albums**: A Night At The Opera (Deluxe Edition 2011 Remaster)
 
-Last updated at 03/09/2021 20:39
+Last updated at 03/09/2021 20:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
