@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x9MPYOLf2Z4VnjHH5NAOZxGqe0a_hQ1UK85hyvPSQZUE-HSRwT4UYoOL1GFNldvrQc9FQA3_ggIUYEP6">](https://music.youtube.com/watch?v=j6PpCC6IPbQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RgVsPnz9L0aBnuDC_QKlzUE5mhfwdjkZi_xsZyTwpaGY-6cKauPPNjsiz-gUUUl_2RoDm9-EWC7QV4DW">](https://music.youtube.com/watch?v=a748-dgSB10)
 
-버브 - The Drugs Don't Work
+Spin Doctors - Two Princes
 
-**Albums**: The Drugs Don't Work
+**Albums**: Pocket Full Of Kryptonite
 
-Last updated at 03/09/2021 17:46
+Last updated at 03/09/2021 17:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
