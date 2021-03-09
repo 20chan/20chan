@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v4VktFpNR2DVnv2v-CF6x7c8l3ueGrWd9_G2SXRr9puqCkF5nwdbf_znKIuk2TLVendBqd3I5ZU3bJtP">](https://music.youtube.com/watch?v=VBev7fC_2WI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-5tnsyG-BDCZj2gipRW710kLtHWPDVmlvt2BMwJ4StWqrfMxRUYvLsirYPClRDg1qnDU3avAgVn66eS20A">](https://music.youtube.com/watch?v=gm-Y9idMMQ4)
 
-Avenged Sevenfold - M.I.A.
+콜드플레이 - The Scientist
 
-**Albums**: City Of Evil
+**Albums**: A Rush of Blood to the Head
 
-Last updated at 03/09/2021 12:00
+Last updated at 03/09/2021 12:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
