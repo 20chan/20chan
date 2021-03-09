@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/IXdAUZbpvXQ_-_K1s-uf-qW0DXD6SSng-qN6duNuLCe24j6y4YcUI6nnArceCcja0GGcAPHzWrhFdV_Q">](https://music.youtube.com/watch?v=A8-98OMfWLY)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwngRUwQ-Fdto9GmQlIz8asilHZ3RCIG8qoxFs9IJCA=s176-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCvlHHZVS3PWhRgnhjZzC2Sg)
 
-Kyunghwa Jung - 지상에서 영원으로
+Dre'es - Warm (feat. Mia)
 
-**Albums**: Present
+**Albums**: Not supported
 
-Last updated at 03/09/2021 10:28
+Last updated at 03/09/2021 10:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
