@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Evml9zWq0msFXoyxZlyF6OLs7Wc9jliiAsSZi8ObmP5i0FJyiTr2-GI-rQDaAD6vDsEaK-28vJJPMQA">](https://music.youtube.com/watch?v=-SaUrDhp034)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P6UQgFQD0MduEsjvh0D1CahKTqebTtObTBUkYp_7F9QcDbtgqFsqkHQwTOtJX6XQv5vL8fxEiBgpjj0K_Q">](https://music.youtube.com/watch?v=kaOOfci2YC8)
 
-더 폴리스 - Every Breath You Take
+Metallica - Nothing Else Matters
 
-**Albums**: Synchronicity (Remastered 2003)
+**Albums**: Metallica
 
-Last updated at 03/09/2021 20:24
+Last updated at 03/09/2021 20:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
