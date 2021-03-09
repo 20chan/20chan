@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gKyEKVH_NzVTpxFlExUd2NnqqX-KkrTcRduVnU4GlP3Dg1IXY_Nz9bU56fUTtDQ3yO0A-i1XPVN1ulE">](https://music.youtube.com/watch?v=JdeeJaHETfg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OyvSCojE1pJQtABYOhejgPrBtHfJtO6hqwqf6O3xPff3LXJ-oi_8dg8JY_AYJKhXFzuhhThbaznroSv9rg">](https://music.youtube.com/watch?v=mlCZ-JQoPcg)
 
-쿨 (Cool) - 슬퍼지려 하기전에
+전람회 - 기억의 습작 (응답하라 1994 삽입곡)
 
-**Albums**: The [Ku:l] : Love Is...Waiting
+**Albums**: Memory
 
-Last updated at 03/09/2021 14:50
+Last updated at 03/09/2021 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
