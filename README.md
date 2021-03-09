@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SXiO2cCS-20hkxVgr-VGx-IT9xchv4wSRvEPnXgWpOko-YNYtdBsll3pKoxfGgAtaZKxRjIsrXFb3JRH">](https://music.youtube.com/watch?v=iXQUu5Dti4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z2zgZT7ICWRL7ACDERnWaGA3nBmLSK3fqOXDg-EQuhSnwvNV_i5pEQ6-z_m_v4S44HuNKyFjwtmSghqJ">](https://music.youtube.com/watch?v=oMfMUfgjiLg)
 
-Led Zeppelin(레드 제플린) - Stairway to Heaven (Remaster)
+Guns N' Roses(건즈 앤 로지스) - Sweet Child O' Mine
 
-**Albums**: Led Zeppelin IV (Deluxe Edition)
+**Albums**: Appetite For Destruction
 
-Last updated at 03/09/2021 19:18
+Last updated at 03/09/2021 19:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
