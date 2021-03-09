@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EgTvWQw8OXlTSnTAb-7l01bDftQgQ39netrLXjJ6VIu39aTEtT9wP92VDRXXrrdBmHxTdV_ulTqfnEQ">](https://music.youtube.com/watch?v=0LuignGmX_0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6qYwoluuV4_hIcqix3ZYYWU1egchSnVzOL1-lHA2tWxfhaoAgxEYI3JieTe8NHNUTTE_atcwOo06XH4">](https://music.youtube.com/watch?v=MStZVZZvy6I)
 
-Keane - Somewhere Only We Know
+The Electric Soft Parade - Silent to the Dark
 
-**Albums**: Hopes And Fears
+**Albums**: Holes in the Wall
 
-Last updated at 03/09/2021 17:22
+Last updated at 03/09/2021 17:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
