@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uMXG7npF9szm_P0fWRKnfz4unwpxiKpq6jvXXWJokqn-k62fbG8Zq75cx7towtwzszSj1BW9a7KMPLjQ">](https://music.youtube.com/watch?v=DrIzeKwOh5E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UbcmZxvF1oAXlOsrMo2L6VCpeelfmi1UJFx0-NBzMD895SBKNrLDFvucbW7PlFopcLuFeSgqC-XUOr-Q">](https://music.youtube.com/watch?v=Sy9-x4jhQ2k)
 
-이브(EVE) - 너 그럴때면
+최진영 - 영원
 
-**Albums**: Oldie But Goodie Vol. 2
+**Albums**: Final Fantasy -The Best Is Yet To Come
 
-Last updated at 03/09/2021 14:19
+Last updated at 03/09/2021 14:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
