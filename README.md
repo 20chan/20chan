@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/K8E7UK3j_75Ha98EwROIkm4NQBthyk0e7cS81Zr8nYM2yicDRzK5Jd-TBFpSjeYBtDvxZzsnW9HjqQFn">](https://music.youtube.com/watch?v=qcX9HNIHwkg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jex99xSKoanZ7SyenUEgOu0Ykk4QXy7t47o6ohlPGaWSOPnbuw_LV9K2VFuwkeeq7FFjcSHUpEpgM85m">](https://music.youtube.com/watch?v=zNn_oSsUF0c)
 
-Creed - One Last Breath
+The O’Reillys And The Paddyhats - Green Blood
 
-**Albums**: Weathered
+**Albums**: Green Blood
 
-Last updated at 03/09/2021 13:36
+Last updated at 03/09/2021 13:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
