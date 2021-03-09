@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A">](https://music.youtube.com/watch?v=KlWBO9m52Fk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9nU6QIPVMvC2vyjZY3ZIHBXmRTDS_dhC7IBd-ZCZuI6Le7zpXkh525v9EgI6qT_mzONzVZgmwVw96FG">](https://music.youtube.com/watch?v=LA279p9K7GY)
 
-Foo Fighters - All My Life
+Oasis(오아시스) - Whatever
 
-**Albums**: One By One
+**Albums**: Definitely Maybe (Deluxe Edition Remastered)
 
-Last updated at 03/09/2021 17:57
+Last updated at 03/09/2021 18:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
