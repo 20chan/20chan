@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ed8e4fc843a2a83d8f84804e">](https://open.spotify.com/album/5EqCaZ6lsPx7wTqO6WWAUB)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=rj5wZqReXQE)
 
-Kenshi Yonezu - 海の幽霊
+Oasis(오아시스) - Wonderwall
 
-**Albums**: Not supported
+**Albums**: (What's The Story) Morning Glory? (Remastered)
 
-Last updated at 03/09/2021 15:41
+Last updated at 03/09/2021 16:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
