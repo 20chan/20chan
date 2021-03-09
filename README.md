@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=4FkfyssnHqU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/watch?v=v_uncMEJkBc)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Dani California
+My Chemical Romance(마이 케미컬 로맨스) - Welcome to the Black Parade
 
-**Albums**: Stadium Arcadium
+**Albums**: The Black Parade
 
-Last updated at 03/09/2021 11:21
+Last updated at 03/09/2021 11:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
