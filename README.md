@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273716fe2f1016f578d77a9f11e">](https://open.spotify.com/album/6VgVDK9jscm4oTgodBV66J)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ade26fc245658d700650a912">](https://open.spotify.com/album/1ljx1yhQxihioKMX1qliQb)
 
-Hitorie - アンノウン・マザーグース
+Cö Shu Nie - asphyxia
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 15:18
+Last updated at 03/09/2021 15:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
