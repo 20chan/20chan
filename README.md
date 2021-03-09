@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/W__wjWducAJ7BmNoEGnch6jvYlf1yZ1spN9qh5T4-vUmD3-dRqOPUHwjs8iq1Ilson8WzCwqFNRkZKZr">](https://music.youtube.com/watch?v=lJZTgynPGT8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RXkX2lDDXfpQyBjc_AEXy55v6XgPy9j9aSKjHM_mE068rD7LGhuNVFhA8pGOqR1ghO-8v9ty6FMQWCoSdQ">](https://music.youtube.com/watch?v=FS8p_F0Stog)
 
-The Doors - Riders On The Storm
+Blue Öyster Cult - (Don't Fear) The Reaper
 
-**Albums**: L.A. Woman
+**Albums**: Agents Of Fortune
 
-Last updated at 03/09/2021 21:29
+Last updated at 03/09/2021 21:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
