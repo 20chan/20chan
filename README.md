@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3U_kyEsSqSV3mLDRE0BYfnMMaTgmz5M6nI3-kSbkTGnnaZdwl7pJW07KNZmCjpk9hwnFdV6xzwXbsP7KGA">](https://music.youtube.com/watch?v=l-5aPNxv-pU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bXwTeqlNL7kxwTfstwZ49xjn1DTCR354OF7UIErUuXl6KBAFpdpOn13LjiO8-n_AAdlJmaPHNGB32MQn">](https://music.youtube.com/watch?v=WvBnI34wZ7c)
 
-Lynyrd Skynyrd - Simple Man
+Bob Dylan - Hurricane
 
-**Albums**: Pronounced' Leh-'Nerd 'Skin-'Nerd
+**Albums**: Desire
 
-Last updated at 03/09/2021 21:14
+Last updated at 03/09/2021 21:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
