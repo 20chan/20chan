@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BFPLCUdcSziW4KfjCvhMi2f5Gsz328iQc1bNztactVK_sDXHRjn432mDdb2k6a92xW1xlmL_BFVAS3s">](https://music.youtube.com/watch?v=53IHdiCabSc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=ulRXvH8VOl8)
 
-Avenged Sevenfold - Dear God
+Green Day - Wake Me up When September Ends
 
-**Albums**: Avenged Sevenfold
+**Albums**: American Idiot
 
-Last updated at 03/09/2021 11:00
+Last updated at 03/09/2021 11:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
