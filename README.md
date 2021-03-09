@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HEX73V1TT7tjN-scPgzggwvm2_215qeOMCnS0vRzvNQkP3su1NyCEVeWiOulE-Vj-gbavNAG-T47lTLe">](https://music.youtube.com/watch?v=iL-jC7XyLeo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QzNl1QDss7d8vpvjiK7w8ZEHw1rhGQCMux0_S2WHv3eRrIb7wxIyZX0g2BB6zlaF1ZYF0JcJbNcA2r0">](https://music.youtube.com/watch?v=zz8frWcmthA)
 
-Lynyrd Skynyrd - Sweet Home Alabama
+Pink Floyd - Another Brick In The Wall (Part 2)
 
-**Albums**: Second Helping
+**Albums**: The Wall
 
-Last updated at 03/09/2021 21:06
+Last updated at 03/09/2021 21:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
