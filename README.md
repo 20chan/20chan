@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/o6QPwrP53iTM5f7Zr1enVBsRWm2NshqOCZwpftS4_AiQTGb9AQp-l_OaLhbOe_LKfjcs3fNMXvd1YK7g3w">](https://music.youtube.com/watch?v=I4jH5QPQ6oY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FoVQFdW6zBi3sNA_yZJSV3VTWmi0belhhFzleuEbn27utkirstj1woXHfWmWqkNyHla37ZFbk_F6jvVV">](https://music.youtube.com/watch?v=rj5wZqReXQE)
 
-라이브 - Lightning Crashes
+Oasis(오아시스) - Wonderwall
 
-**Albums**: Throwing Copper (25th Anniversary)
+**Albums**: (What's The Story) Morning Glory? (Remastered)
 
-Last updated at 03/09/2021 17:07
+Last updated at 03/09/2021 17:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
