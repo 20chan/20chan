@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ed8e4fc843a2a83d8f84804e">](https://open.spotify.com/album/5EqCaZ6lsPx7wTqO6WWAUB)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273f5f73232e62e2e4671e896b8">](https://open.spotify.com/album/2aRqTPKbppTzmRQF3LIcBq)
 
-Kenshi Yonezu - 海の幽霊
+RU - Uma to Shika
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 18:25
+Last updated at 03/09/2021 18:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
