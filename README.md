@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wyNOYrZV_oEjqpVwqLQCkL48-gK7Gn1Ouhe3WDaveui18lv0h0dkvYSPI8xjHbb9vNf4_jyRvFGUMoZEKg">](https://music.youtube.com/watch?v=D4INE2zO9OU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gYNq04gEad6IWtHLPmq7IYPROzuZH0184nVESSgSFx30UECtGamL6Dpl6LypoQebw1AKyh0wgTTYdmpL">](https://music.youtube.com/watch?v=i4Xw5VvziTA)
 
-Red Hot Chili Peppers - Can't Stop
+Avenged Sevenfold - So Far Away
 
-**Albums**: By The Way (Deluxe Version)
+**Albums**: Nightmare
 
-Last updated at 03/09/2021 11:11
+Last updated at 03/09/2021 11:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
