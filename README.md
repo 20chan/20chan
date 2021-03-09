@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/V-MfYESCHrgmlDSOTiQjt09ie_FiDJ5-QxP9PCAA56LRxGZYrFII5VPzq-AUgl0pIou-DgZS8-7hYfof">](https://music.youtube.com/watch?v=X_I6F2TZOw4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb">](https://music.youtube.com/watch?v=V3MpTMr0Q5I)
 
-Secondhand Serenade - Fall For You
+Imagine Dragons(이매진 드래곤스) - It's Time
 
-**Albums**: A Twist In My Story
+**Albums**: Night Visions
 
-Last updated at 03/09/2021 14:05
+Last updated at 03/09/2021 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
