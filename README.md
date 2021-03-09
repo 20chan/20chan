@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gvJRhYmobGgvP6ehbkQK_y1zSSKKBDWdnxR9QTFQ3iMYvTXPP7jbkf8UAEN_u7RMAMDtIVcTpWHtQ6Jk4A">](https://music.youtube.com/watch?v=SB3wAJjJP6c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/d7bJNoH_IybM9ZOI9Q7uQrT-5rBpNwxXFb-DHysqjLzjlwr9NRCmOmwE3Hv61INMN9At6KCYBWVTxKD_">](https://music.youtube.com/watch?v=f_K_0SNaRk0)
 
-blink-182 - Adam's Song
+펀 - We Are Young(피처링: 저넬 모네이)
 
-**Albums**: Enema Of The State
+**Albums**: Some Nights
 
-Last updated at 03/09/2021 12:32
+Last updated at 03/09/2021 12:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
