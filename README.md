@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273fdec3ee19da7cd9b1b02ca9c">](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736976aee791024b55cc1a993b">](https://open.spotify.com/album/5Ze4DUS7zkZ8yy645OE23f)
 
-YUI - again
+라온 - Hated by life itself (Inochi ni Kirawarete iru)
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 14:57
+Last updated at 03/09/2021 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
