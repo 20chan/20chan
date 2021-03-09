@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-5tnsyG-BDCZj2gipRW710kLtHWPDVmlvt2BMwJ4StWqrfMxRUYvLsirYPClRDg1qnDU3avAgVn66eS20A">](https://music.youtube.com/watch?v=gm-Y9idMMQ4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb">](https://music.youtube.com/watch?v=0Mo_jbZtE-Q)
 
-콜드플레이 - The Scientist
+Imagine Dragons - Demons
 
-**Albums**: A Rush of Blood to the Head
+**Albums**: Night Visions (Deluxe)
 
-Last updated at 03/09/2021 13:43
+Last updated at 03/09/2021 13:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
