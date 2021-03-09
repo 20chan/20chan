@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zx6Vs761jpUmZQbP4vCEqz4m0hBkXycq5b9n3fc5KZBoH7SdHl9xVjUpJ92yqt86QdQ43b-l2vMmhxw">](https://music.youtube.com/watch?v=4UnU3r0M3zg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QzNl1QDss7d8vpvjiK7w8ZEHw1rhGQCMux0_S2WHv3eRrIb7wxIyZX0g2BB6zlaF1ZYF0JcJbNcA2r0">](https://music.youtube.com/watch?v=x-xTttimcNk)
 
-Red Hot Chili Peppers - Under The Bridge
+Pink Floyd - Comfortably Numb
 
-**Albums**: Blood Sugar Sex Magik (Deluxe Edition)
+**Albums**: The Wall
 
-Last updated at 03/09/2021 20:13
+Last updated at 03/09/2021 20:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
