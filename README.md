@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/watch?v=eL9J31knS9M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CCTnmGrAgt7_K0U6NmBsKNH8BBjOD7ezapFab96WmGGvSPX2jQA8aom1l3TO1pDmBVLgMp6gu7-1mGuBqQ">](https://music.youtube.com/watch?v=IhKJpRdfFVc)
 
-JuJu Club - 16
+뱅크 - 가질 수 없는 너
 
-**Albums**: 16／20
+**Albums**: 선물
 
-Last updated at 03/09/2021 14:27
+Last updated at 03/09/2021 14:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
