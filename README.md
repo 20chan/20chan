@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ME7Mx0b0f6y5W_bZsFKDkZA-6PXp_LyuihS2a3ePfBqZb69jDtoGJQeEtmmRzc1jkSIfVRbCHR4jX8xPMw">](https://music.youtube.com/watch?v=b3ulSLHnDy4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/X1AmAdIuHAwKhvQ84pqdZhERpWqfDeDM9i8XSnrDTISy7xtdflSXEoQiQyDJfZ6NDi3vh399e_MAcdvJ">](https://music.youtube.com/watch?v=U7k2qv8KTDI)
 
-Royal Republic - Full Steam Spacemachine
+Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Scar Tissue
 
-**Albums**: We Are The Royal
+**Albums**: Californication
 
-Last updated at 03/09/2021 13:09
+Last updated at 03/09/2021 13:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
