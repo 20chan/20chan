@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/EBguzqKx6ohFK2znYpmd2C1klfKn9hPc4SgHSpY2Gh6sgWxZ01IAa7N7gP7g9aVsGoMxARIcn_4Os8Bv">](https://music.youtube.com/watch?v=XxOLNRjGg1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gKyEKVH_NzVTpxFlExUd2NnqqX-KkrTcRduVnU4GlP3Dg1IXY_Nz9bU56fUTtDQ3yO0A-i1XPVN1ulE">](https://music.youtube.com/watch?v=JdeeJaHETfg)
 
-럼블 피쉬(Rumble Fish) - 비와 당신
+쿨 (Cool) - 슬퍼지려 하기전에
 
-**Albums**: Memory For You
+**Albums**: The [Ku:l] : Love Is...Waiting
 
-Last updated at 03/09/2021 14:46
+Last updated at 03/09/2021 14:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
