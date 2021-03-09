@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/d7bJNoH_IybM9ZOI9Q7uQrT-5rBpNwxXFb-DHysqjLzjlwr9NRCmOmwE3Hv61INMN9At6KCYBWVTxKD_">](https://music.youtube.com/watch?v=f_K_0SNaRk0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD">](https://music.youtube.com/watch?v=BLZWkjBXfN8)
 
-펀 - We Are Young(피처링: 저넬 모네이)
+Linkin Park(린킨 파크) - In the End
 
-**Albums**: Some Nights
+**Albums**: Hybrid Theory (Bonus Edition)
 
-Last updated at 03/09/2021 12:36
+Last updated at 03/09/2021 12:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
