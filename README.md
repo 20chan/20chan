@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9nU6QIPVMvC2vyjZY3ZIHBXmRTDS_dhC7IBd-ZCZuI6Le7zpXkh525v9EgI6qT_mzONzVZgmwVw96FG">](https://music.youtube.com/watch?v=LA279p9K7GY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hDLDNkUUVGxGyJ66vDblUQpCSJgjqhhQ8q6DDM2tlvGHyO_Etr4YayvBA_Wyaa0D0LReDNkX89YTun7ARg">](https://music.youtube.com/watch?v=5b05xJ9LO64)
 
-Oasis(오아시스) - Whatever
+Eagle-Eye Cherry - Save Tonight
 
-**Albums**: Definitely Maybe (Deluxe Edition Remastered)
+**Albums**: Desireless
 
-Last updated at 03/09/2021 18:01
+Last updated at 03/09/2021 18:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
