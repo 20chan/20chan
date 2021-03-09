@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vbzlk2m5uuvj6HA6jiXOfqrZq-kO9Fe14CUr52ZVQOfR59kiQ--nGpzrYPzX7rU_GnP8mSsHzV4ZV4YN">](https://music.youtube.com/watch?v=NNWaHH9W-HA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/soFyZYOggw-Ae05b91WiVDnq9ahXLOrNJiR4wWiQemfclVliG_BHht1bH6f0cjLB0KzKlyGBTsPrtQEn">](https://music.youtube.com/watch?v=m2zUrruKjDQ)
 
-Rise Against - Help Is On The Way
+The Killers - Mr. Brightside
 
-**Albums**: Endgame
+**Albums**: Hot Fuss
 
-Last updated at 03/09/2021 13:52
+Last updated at 03/09/2021 13:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
