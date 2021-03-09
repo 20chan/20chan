@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hwAtlrtNT39sUhHMHe2lNcOaH3wezcvNlAZzc_Elho4_oCWNbyy8pK2Vy177DXVpka2yc44FR1W-1sJ">](https://music.youtube.com/watch?v=ecHf1zkYRVg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ME7Mx0b0f6y5W_bZsFKDkZA-6PXp_LyuihS2a3ePfBqZb69jDtoGJQeEtmmRzc1jkSIfVRbCHR4jX8xPMw">](https://music.youtube.com/watch?v=b3ulSLHnDy4)
 
-Sum 41 - In Too Deep
+Royal Republic - Full Steam Spacemachine
 
-**Albums**: All Killer, No Filler
+**Albums**: We Are The Royal
 
-Last updated at 03/09/2021 13:06
+Last updated at 03/09/2021 13:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
