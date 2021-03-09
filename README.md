@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PZpOSXNr2tHElNaVlnvP-ZvJim-F0FzD_RyKfNNmLy6ZP1wC1c1CpJuAJxLa8ErzHhGE8R3w8ikzt-7C">](https://music.youtube.com/watch?v=7fHYE8BI9kc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XeI3g00kOOrGARC6VXUhTISzlPLrfN5HZXKjaCZdRk1hq8EQ9znunGIqZdVHfagyYhWUp-QMQq0QviYI">](https://music.youtube.com/watch?v=4LsHTLr41o8)
 
-M.C The Max - 잠시만 안녕
+샵(S#arp) - Sweety
 
-**Albums**: M.C The Max!
+**Albums**: 샵(S#arp) 4집(Feel So Good)
 
-Last updated at 03/09/2021 14:36
+Last updated at 03/09/2021 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
