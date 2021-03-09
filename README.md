@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jeUB5XGg_zuhG7f_-BRXNNAYclpUs8gTPd3Cp-fI4fi74mZMJ_GQzxt5h5rOKuj2iq15u0xQ8lv6srEA">](https://music.youtube.com/watch?v=ZsCwe6h05_g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A">](https://music.youtube.com/watch?v=KlWBO9m52Fk)
 
-Death Cab for Cutie - Talking Like Turnstiles
+Foo Fighters - All My Life
 
-**Albums**: Crooked Teeth
+**Albums**: One By One
 
-Last updated at 03/09/2021 17:55
+Last updated at 03/09/2021 17:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
