@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KC2tDiFdec41kaIEy0hD0BGaNbcFX6dqmz-bJKs9miDv0zGaEtbTc0x5TRStshVO8Ep_6T8mmyyJaXGbFg">](https://music.youtube.com/watch?v=vkvrbbtnp6s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/X1AmAdIuHAwKhvQ84pqdZhERpWqfDeDM9i8XSnrDTISy7xtdflSXEoQiQyDJfZ6NDi3vh399e_MAcdvJ">](https://music.youtube.com/watch?v=LCZLCG4JFm4)
 
-Nickelback - How You Remind Me (LP Mix)
+Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Otherside
 
-**Albums**: Silver Side Up
+**Albums**: Californication
 
-Last updated at 03/09/2021 13:16
+Last updated at 03/09/2021 13:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
