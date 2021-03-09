@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=ulRXvH8VOl8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wyNOYrZV_oEjqpVwqLQCkL48-gK7Gn1Ouhe3WDaveui18lv0h0dkvYSPI8xjHbb9vNf4_jyRvFGUMoZEKg">](https://music.youtube.com/watch?v=D4INE2zO9OU)
 
-Green Day - Wake Me up When September Ends
+Red Hot Chili Peppers - Can't Stop
 
-**Albums**: American Idiot
+**Albums**: By The Way (Deluxe Version)
 
-Last updated at 03/09/2021 11:07
+Last updated at 03/09/2021 11:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
