@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CnnHbnEDAVwwYR2QhU7zlqA1iEK9PsnpRpGHp19r7KOcMt6u6oCQmJKGCylGOt9IUsrh7A5SxVriI-X8">](https://music.youtube.com/watch?v=TngViNw2pOo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Zx6Vs761jpUmZQbP4vCEqz4m0hBkXycq5b9n3fc5KZBoH7SdHl9xVjUpJ92yqt86QdQ43b-l2vMmhxw">](https://music.youtube.com/watch?v=4UnU3r0M3zg)
 
-Derek & The Dominos - Layla
+Red Hot Chili Peppers - Under The Bridge
 
-**Albums**: Layla and Other Assorted Love Songs
+**Albums**: Blood Sugar Sex Magik (Deluxe Edition)
 
-Last updated at 03/09/2021 20:06
+Last updated at 03/09/2021 20:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
