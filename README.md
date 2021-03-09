@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UgiyhZaKEOvKq-KJC3_FpLvLrs4Ww_a6rbEwT1eIhiSzNMRXWXU74rnhUMlETXCFwka7DyUonVeUa3o">](https://music.youtube.com/watch?v=EJRdDhnTRoo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P6UQgFQD0MduEsjvh0D1CahKTqebTtObTBUkYp_7F9QcDbtgqFsqkHQwTOtJX6XQv5vL8fxEiBgpjj0K_Q">](https://music.youtube.com/watch?v=mmIXwYkDs9k)
 
-The Rolling Stones - Gimme Shelter
+Metallica - The Unforgiven
 
-**Albums**: Let It Bleed
+**Albums**: Metallica
 
-Last updated at 03/09/2021 21:41
+Last updated at 03/09/2021 21:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
