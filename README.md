@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/watch?v=5-FSQ_yTCoc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uMXG7npF9szm_P0fWRKnfz4unwpxiKpq6jvXXWJokqn-k62fbG8Zq75cx7towtwzszSj1BW9a7KMPLjQ">](https://music.youtube.com/watch?v=DrIzeKwOh5E)
 
-JuJu Club - 公主後遺症
+이브(EVE) - 너 그럴때면
 
-**Albums**: 16／20
+**Albums**: Oldie But Goodie Vol. 2
 
-Last updated at 03/09/2021 14:16
+Last updated at 03/09/2021 14:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
