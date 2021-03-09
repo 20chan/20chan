@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/-xCiJRwI232ReBygJxzyLqsQNK8uYIsom8Ke0dfnWdGxpTRJy_sVsZVSSGnNPOsYVgVxTOYkttCzEwGBfA">](https://music.youtube.com/watch?v=hjpF8ukSrvk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/86Z15pLGKfK-u7jHf_VFHqWZjeDrqrZBpeQ4yjrgHDNnA7eZCPJFHnfCkM7oTc4qQDb_cpax0fOqlpSy">](https://music.youtube.com/watch?v=mhIay4-PbCY)
 
-Pink Floyd - Wish You Were Here
+R.E.M. - Everybody Hurts
 
-**Albums**: Wish You Were Here
+**Albums**: Automatic For The People (25th Anniversary Edition)
 
-Last updated at 03/09/2021 16:41
+Last updated at 03/09/2021 16:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
