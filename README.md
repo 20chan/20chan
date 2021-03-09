@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4frPe22we3TB0jTjlk_sMi1kLqHm3b5YDucKNrr6RDl0FQ9dybSJGvYvKJGiTeyF_X1NWJm2OZeeVlhmPQ">](https://music.youtube.com/watch?v=CNmVV_BuHBI)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273afc77adee05a9b93078ac321">](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv)
 
-Goo Goo Dolls - Iris
+sumika - フィクション
 
-**Albums**: Stay with You
+**Albums**: Not supported
 
-Last updated at 03/09/2021 18:17
+Last updated at 03/09/2021 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
