@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Mec0zeof6z-TkwToxxv3Fs6GjyUmifRDUJeEq200VC3_Tla3Sx4S6UfLTK8uNuPB8Q-RaPm4DU5B-EeQ">](https://music.youtube.com/watch?v=xOazTYPrt64)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/e5bL_vrulDrYJcdsqGMGZ4XV5Hx7iGA96O1s3ik_AZpxowA-G7MA88n7hqq5a-wrdP0ODa7cOmpWCxS_kw">](https://music.youtube.com/watch?v=lj27-JB2qKY)
 
-Gotye - Somebody That I Used To Know(피처링: Kimbra)
+Aerosmith - I Don't Want to Miss a Thing (From "Armageddon" Soundtrack)
 
-**Albums**: Making Mirrors
+**Albums**: I Don't Want To Miss A Thing EP
 
-Last updated at 03/09/2021 12:44
+Last updated at 03/09/2021 12:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
