@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/J3jQ_ihOG_Xv-owzuFZwZFkaanqCCQSZVWspZ8g43DN_QXEzsiRx9YTCZA1sSaagwlegIj-V_XDX-fM">](https://music.youtube.com/watch?v=a7tyaQcXDNU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HEX73V1TT7tjN-scPgzggwvm2_215qeOMCnS0vRzvNQkP3su1NyCEVeWiOulE-Vj-gbavNAG-T47lTLe">](https://music.youtube.com/watch?v=iL-jC7XyLeo)
 
-Scorpions(스콜피온스) - Still Loving You (2015 - Remaster)
+Lynyrd Skynyrd - Sweet Home Alabama
 
-**Albums**: Love At First Sting (Deluxe Edition)
+**Albums**: Second Helping
 
-Last updated at 03/09/2021 20:59
+Last updated at 03/09/2021 21:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
