@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QzNl1QDss7d8vpvjiK7w8ZEHw1rhGQCMux0_S2WHv3eRrIb7wxIyZX0g2BB6zlaF1ZYF0JcJbNcA2r0">](https://music.youtube.com/watch?v=zz8frWcmthA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3U_kyEsSqSV3mLDRE0BYfnMMaTgmz5M6nI3-kSbkTGnnaZdwl7pJW07KNZmCjpk9hwnFdV6xzwXbsP7KGA">](https://music.youtube.com/watch?v=l-5aPNxv-pU)
 
-Pink Floyd - Another Brick In The Wall (Part 2)
+Lynyrd Skynyrd - Simple Man
 
-**Albums**: The Wall
+**Albums**: Pronounced' Leh-'Nerd 'Skin-'Nerd
 
-Last updated at 03/09/2021 21:10
+Last updated at 03/09/2021 21:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
