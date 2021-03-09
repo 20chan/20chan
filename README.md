@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=J0xe5DcnYSA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=s6GIT4RhFv0)
 
-Green Day - Holiday / Boulevard of Broken Dreams
+Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Snow (Hey Oh)
 
-**Albums**: American Idiot
+**Albums**: Stadium Arcadium
 
-Last updated at 03/09/2021 10:46
+Last updated at 03/09/2021 10:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
