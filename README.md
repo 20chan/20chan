@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/X1AmAdIuHAwKhvQ84pqdZhERpWqfDeDM9i8XSnrDTISy7xtdflSXEoQiQyDJfZ6NDi3vh399e_MAcdvJ">](https://music.youtube.com/watch?v=OtXiwSCq99Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/quvppsqGQZuPi8eWy0Ebs-2UgVpK4AF1JjvnEOklwrOcrSRWF5Ch4B3A6ho2VO9hlpRGi7gy4qihnWg">](https://music.youtube.com/watch?v=l1cc1tnrb9E)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Californication
+써티 세컨즈 투 마스 - Kings And Queens
 
-**Albums**: Californication
+**Albums**: This Is War
 
-Last updated at 03/09/2021 11:31
+Last updated at 03/09/2021 11:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
