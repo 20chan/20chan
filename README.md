@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BtAKhqmTBoZWEQPlcF9tgpqILWNkQ4vc0tk0nlSrIpdvhW9sf9K-tQDoym1zh9Svl-8PnpFCY_6vNYg7">](https://music.youtube.com/watch?v=eXRWHzV72sU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ED1ppb4ndnNURR9U_JaTjoZCoG6ApSq1S6GjIQ6W40htmgndukqQqsddFRItkI9uRk41grfyeBfXcG2g">](https://music.youtube.com/watch?v=uGYrhFYE_mc)
 
-Linkin Park(린킨 파크) - What I've Done
+Maroon 5(마룬 파이브) - Won't Go Home Without You
 
-**Albums**: Minutes To Midnight (Deluxe)
+**Albums**: It Won't Be Soon Before Long (International Version)
 
-Last updated at 03/09/2021 13:28
+Last updated at 03/09/2021 13:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
