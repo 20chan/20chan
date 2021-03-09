@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=s6GIT4RhFv0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/BFPLCUdcSziW4KfjCvhMi2f5Gsz328iQc1bNztactVK_sDXHRjn432mDdb2k6a92xW1xlmL_BFVAS3s">](https://music.youtube.com/watch?v=53IHdiCabSc)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Snow (Hey Oh)
+Avenged Sevenfold - Dear God
 
-**Albums**: Stadium Arcadium
+**Albums**: Avenged Sevenfold
 
-Last updated at 03/09/2021 10:55
+Last updated at 03/09/2021 11:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
