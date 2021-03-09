@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5Th9v1KSOSBUdajb74T-2kV9nsOLQl3kY34RzGSRPyr_9WLhUJft7F9U4rUC_skvlQXyF5y2PD9zQ8">](https://music.youtube.com/watch?v=DM9DZv9roD0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x9MPYOLf2Z4VnjHH5NAOZxGqe0a_hQ1UK85hyvPSQZUE-HSRwT4UYoOL1GFNldvrQc9FQA3_ggIUYEP6">](https://music.youtube.com/watch?v=j6PpCC6IPbQ)
 
-트래비스 - Closer
+버브 - The Drugs Don't Work
 
-**Albums**: The Boy With No Name
+**Albums**: The Drugs Don't Work
 
-Last updated at 03/09/2021 17:42
+Last updated at 03/09/2021 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
