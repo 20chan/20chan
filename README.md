@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3U_kyEsSqSV3mLDRE0BYfnMMaTgmz5M6nI3-kSbkTGnnaZdwl7pJW07KNZmCjpk9hwnFdV6xzwXbsP7KGA">](https://music.youtube.com/watch?v=CqnU_sJ8V-E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pcrIVPiugsSpXJJPCaPNdp2vpHPo5UsmsoVjqlT7L1p7Lki663u9tONk-S3oqK9GvAsoj2m0AaNgNJj9Zg">](https://music.youtube.com/watch?v=y6lfK3bH4z8)
 
-Lynyrd Skynyrd - Free Bird
+Guns N' Roses(건즈 앤 로지스) - November Rain
 
-**Albums**: Pronounced' Leh-'Nerd 'Skin-'Nerd
+**Albums**: Use Your Illusion I
 
-Last updated at 03/09/2021 19:32
+Last updated at 03/09/2021 19:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
