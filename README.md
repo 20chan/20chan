@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_k0J6oViJyAUR6SXwZ9fqWaq2aRNnHaj32l8OZ0aklU8mCmJcpQLcCVP--5HOGYWv-8pAnVV0f_i5c">](https://music.youtube.com/watch?v=8ZBnwBVjwOk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hwAtlrtNT39sUhHMHe2lNcOaH3wezcvNlAZzc_Elho4_oCWNbyy8pK2Vy177DXVpka2yc44FR1W-1sJ">](https://music.youtube.com/watch?v=ecHf1zkYRVg)
 
-Linkin Park(린킨 파크) - New Divide
+Sum 41 - In Too Deep
 
-**Albums**: Transformers: Revenge Of The Fallen The Album
+**Albums**: All Killer, No Filler
 
-Last updated at 03/09/2021 13:02
+Last updated at 03/09/2021 13:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
