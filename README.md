@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736976aee791024b55cc1a993b">](https://open.spotify.com/album/5Ze4DUS7zkZ8yy645OE23f)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d3beb711b523811c8f29b314">](https://open.spotify.com/album/3gwSXVXDe4ZWk6pMZFWuIw)
 
-라온 - Hated by life itself (Inochi ni Kirawarete iru)
+UVERworld - ODD FUTURE
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 15:01
+Last updated at 03/09/2021 15:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
