@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/q5PWa2JVJApX31A7QU2vE4RY8i5S_ofYbfpxgDjhz5fagMAxv8ROkEpUr2OAYgYrhzYqJpv0bV94DRCb">](https://music.youtube.com/watch?v=0Mo_jbZtE-Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vbzlk2m5uuvj6HA6jiXOfqrZq-kO9Fe14CUr52ZVQOfR59kiQ--nGpzrYPzX7rU_GnP8mSsHzV4ZV4YN">](https://music.youtube.com/watch?v=NNWaHH9W-HA)
 
-Imagine Dragons - Demons
+Rise Against - Help Is On The Way
 
-**Albums**: Night Visions (Deluxe)
+**Albums**: Endgame
 
-Last updated at 03/09/2021 13:49
+Last updated at 03/09/2021 13:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
