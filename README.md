@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6qYwoluuV4_hIcqix3ZYYWU1egchSnVzOL1-lHA2tWxfhaoAgxEYI3JieTe8NHNUTTE_atcwOo06XH4">](https://music.youtube.com/watch?v=MStZVZZvy6I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V5Th9v1KSOSBUdajb74T-2kV9nsOLQl3kY34RzGSRPyr_9WLhUJft7F9U4rUC_skvlQXyF5y2PD9zQ8">](https://music.youtube.com/watch?v=DM9DZv9roD0)
 
-The Electric Soft Parade - Silent to the Dark
+트래비스 - Closer
 
-**Albums**: Holes in the Wall
+**Albums**: The Boy With No Name
 
-Last updated at 03/09/2021 17:26
+Last updated at 03/09/2021 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
