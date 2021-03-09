@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/o7DkKtw_HEj6n0dnbnD-vE1AbbeGppRUAFjFh-jwqBdX01qyYSfTr_ye1JpO2dcUQoernJ3z-hCRvLL6_Q">](https://music.youtube.com/watch?v=hz6N5T9RCgQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JCdydxIcxMn25cnxiw8bqHGTtaCj9BjQ1_rH590DoPdQoyhwh50hXiB5dQrb_hmzN_y8_N3guK2gKA">](https://music.youtube.com/watch?v=5-FSQ_yTCoc)
 
-이상은 - 비밀의 화원
+JuJu Club - 公主後遺症
 
-**Albums**: 신비체험
+**Albums**: 16／20
 
-Last updated at 03/09/2021 14:12
+Last updated at 03/09/2021 14:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
