@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RXkX2lDDXfpQyBjc_AEXy55v6XgPy9j9aSKjHM_mE068rD7LGhuNVFhA8pGOqR1ghO-8v9ty6FMQWCoSdQ">](https://music.youtube.com/watch?v=FS8p_F0Stog)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UgiyhZaKEOvKq-KJC3_FpLvLrs4Ww_a6rbEwT1eIhiSzNMRXWXU74rnhUMlETXCFwka7DyUonVeUa3o">](https://music.youtube.com/watch?v=EJRdDhnTRoo)
 
-Blue Öyster Cult - (Don't Fear) The Reaper
+The Rolling Stones - Gimme Shelter
 
-**Albums**: Agents Of Fortune
+**Albums**: Let It Bleed
 
-Last updated at 03/09/2021 21:36
+Last updated at 03/09/2021 21:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
