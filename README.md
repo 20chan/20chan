@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_P1hfeJJhKzodIhCEqHLbWknTQ6qxtVpXLWVqzRdQiEyN12jEh2FvzUJ8F6U08ehWAICAjVfi-1RAHgh">](https://music.youtube.com/watch?v=VixdIglCZXk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S496I1JK8xN_TxN97NJmD_JZBkopZsdy0pPpU6usi2Sm6-JT-yf9XSNgFVWtTlYCOSKrowBpl2ByOP4">](https://music.youtube.com/watch?v=0bcIjILqORM)
 
-The Animals - House of the Rising Sun
+Led Zeppelin - Whole Lotta Love (Remaster)
 
-**Albums**: Most of the Animals
+**Albums**: Led Zeppelin II (Deluxe Edition)
 
-Last updated at 03/09/2021 20:48
+Last updated at 03/09/2021 20:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
