@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mp7L1MgMPDLM7yGMtz0DIbfZeQmgnOm0KLCzObzigahmVcE4fCruh0Kaq9fCrNiuKcKlHMKKKLN0gHvgFA">](https://music.youtube.com/watch?v=DowAWZgDO8c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/v4VktFpNR2DVnv2v-CF6x7c8l3ueGrWd9_G2SXRr9puqCkF5nwdbf_znKIuk2TLVendBqd3I5ZU3bJtP">](https://music.youtube.com/watch?v=VBev7fC_2WI)
 
-Red Hot Chili Peppers - The Adventures Of Rain Dance Maggie
+Avenged Sevenfold - M.I.A.
 
-**Albums**: I'm With You
+**Albums**: City Of Evil
 
-Last updated at 03/09/2021 11:55
+Last updated at 03/09/2021 12:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
