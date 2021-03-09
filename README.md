@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I5_krVuun7yUejNFkiDfJanYL4qt14YFFERLdM5WJhTwyk4h0WE_wKMPAr1_Jjg0v8bNshKNnxStENNO">](https://music.youtube.com/watch?v=oSBSpSOh6lQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/o6QPwrP53iTM5f7Zr1enVBsRWm2NshqOCZwpftS4_AiQTGb9AQp-l_OaLhbOe_LKfjcs3fNMXvd1YK7g3w">](https://music.youtube.com/watch?v=I4jH5QPQ6oY)
 
-Coldplay(콜드플레이) - Trouble
+라이브 - Lightning Crashes
 
-**Albums**: Parachutes
+**Albums**: Throwing Copper (25th Anniversary)
 
-Last updated at 03/09/2021 17:02
+Last updated at 03/09/2021 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
