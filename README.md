@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/86Z15pLGKfK-u7jHf_VFHqWZjeDrqrZBpeQ4yjrgHDNnA7eZCPJFHnfCkM7oTc4qQDb_cpax0fOqlpSy">](https://music.youtube.com/watch?v=mhIay4-PbCY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MLhnI_oU-NDEuPvjEGNnPDbaigF8IzJYtpMgNVl7-0DdEXtyzYodNjAfgKpH8OxcwxuS24fzzsUu2wE4">](https://music.youtube.com/watch?v=AhM8nl3obLw)
 
-R.E.M. - Everybody Hurts
+Oasis(오아시스) - Stand by Me
 
-**Albums**: Automatic For The People (25th Anniversary Edition)
+**Albums**: Be Here Now ()
 
-Last updated at 03/09/2021 16:46
+Last updated at 03/09/2021 16:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
