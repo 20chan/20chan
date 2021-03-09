@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb53782889e6f2e70a2634a3">](https://open.spotify.com/album/0htxNVyVbhow8ESseUu5UV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273716fe2f1016f578d77a9f11e">](https://open.spotify.com/album/6VgVDK9jscm4oTgodBV66J)
 
-Kenshi Yonezu - Lemon
+Hitorie - アンノウン・マザーグース
 
 **Albums**: Not supported
 
-Last updated at 03/09/2021 15:14
+Last updated at 03/09/2021 15:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
