@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/s0UqxCim81jX8atL8Eh0q_X8v9cHlP0w2aHzKmlXcyxpQ0fzTT7pvo3MJZ0tK3Z1qLTH-sEwfEv7cattXw">](https://music.youtube.com/watch?v=SsaFBNvhceA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/c8LEKsHdrYEcMSW2HTlB3zk39mEGHjZAftYsVOD3J7iWGTnoLosljlGVnRJ31CbfdmushuFMJGdRYoQ">](https://music.youtube.com/watch?v=cvCFRGn7EEQ)
 
-Led Zeppelin - Kashmir
+Aerosmith - Dream On
 
-**Albums**: Physical Graffiti
+**Albums**: Aerosmith
 
-Last updated at 03/09/2021 19:50
+Last updated at 03/09/2021 19:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
