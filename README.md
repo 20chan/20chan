@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Ms0vnowpCLQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ms0vnowpCLQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KTYD_kN7rPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KTYD_kN7rPg)
 
-Major Lazer(메이저 레이저) - Lean On (Dillon Francis & Jauz Remix)(피처링: DJ Snake (DJ 스네이크), MØ)
+마리나 앤 더 다이아몬즈 - Lies (Zeds Dead Remix)
 
-**Albums**: 조회수 58만회
+**Albums**: 조회수 1886만회
 
-Last updated at 03/10/2021 18:16
+Last updated at 03/10/2021 18:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
