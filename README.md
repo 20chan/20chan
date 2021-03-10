@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uM5ONTNfT8k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uM5ONTNfT8k)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6mXuVn5FoIE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6mXuVn5FoIE)
 
-DROELOE 및 산 홀로 - Lines of the Broken(피처링: 커트)
+Elephante - Clean Bandit - Rather Be (Elephante Remix)
 
-**Albums**: 조회수 7.2만회
+**Albums**: 조회수 11만회
 
-Last updated at 03/10/2021 15:31
+Last updated at 03/10/2021 15:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
