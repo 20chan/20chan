@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pUzL9WT-Teg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pUzL9WT-Teg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JVRgq_Bu8Wk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JVRgq_Bu8Wk)
 
-Night Grind, Hyperforms 및 Lukrative - ANTHEM(피처링: Noax, vowl., NOIXES, Cosmic)
+MrSuicideSheep - Tarro - Wave Board
 
-**Albums**: 조회수 457만회
+**Albums**: 조회수 267만회
 
-Last updated at 03/10/2021 18:48
+Last updated at 03/10/2021 18:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
