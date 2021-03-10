@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JVRgq_Bu8Wk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JVRgq_Bu8Wk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mClDu38gy5E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mClDu38gy5E)
 
-MrSuicideSheep - Tarro - Wave Board
+Coopex 및 NEZZY, Coopex, David Shane - You & Me
 
-**Albums**: 조회수 267만회
+**Albums**: 조회수 256만회
 
-Last updated at 03/10/2021 18:54
+Last updated at 03/10/2021 18:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
