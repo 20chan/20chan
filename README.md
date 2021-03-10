@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0hfFQl2iEi8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0hfFQl2iEi8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/dXHVuIqGzSU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dXHVuIqGzSU)
 
-실번 에소 - Hey Mami (Big Wild Remix)
+Big Wild - Aftergold
 
-**Albums**: 조회수 846만회
+**Albums**: 조회수 811만회
 
-Last updated at 03/10/2021 14:48
+Last updated at 03/10/2021 14:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
