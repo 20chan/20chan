@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Xy7bRveobEk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Xy7bRveobEk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/i9e7O7OUglk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=i9e7O7OUglk)
 
-Keys N Krates - Follow You Down
+20Syl - Voices(피처링: 리타 J)
 
-**Albums**: 조회수 42만회
+**Albums**: 조회수 1084만회
 
-Last updated at 03/10/2021 16:57
+Last updated at 03/10/2021 17:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
