@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/WIXjHt8KmUc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WIXjHt8KmUc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pZzVgNn3y68/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pZzVgNn3y68)
 
-Zara Larsson(자라 라슨) 및 MNEK - Never Forget You (Price & Takis Remix)
+젤라 데이 - Compass (Louis The Child Remix)
 
-**Albums**: 조회수 2.2억회
+**Albums**: 조회수 592만회
 
-Last updated at 03/10/2021 18:07
+Last updated at 03/10/2021 18:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
