@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/0GvT724mt1U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0GvT724mt1U)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/8D9d9weVQnI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8D9d9weVQnI)
 
-Vanic - Staring at the Sun
+Bass Nation - Apashe - Majesty (Instrumental)
 
-**Albums**: 조회수 81만회
+**Albums**: 조회수 1113만회
 
-Last updated at 03/10/2021 15:52
+Last updated at 03/10/2021 15:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
