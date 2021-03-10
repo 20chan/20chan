@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e">](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273794179deeade79ef08eabd94">](https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP)
 
-Ikimonogakari - 熱情のスペクトラム
+ONE OK ROCK - Stand Out Fit In
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 10:51
+Last updated at 03/10/2021 10:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
