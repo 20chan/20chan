@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/izv6XqFojHY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=izv6XqFojHY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ufvIpj8O-Yw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ufvIpj8O-Yw)
 
-Jack Ü - Take Ü There (Zeds Dead Remix)(피처링: Kiesza)
+루이 더 차일드 - Fade Away
 
-**Albums**: 조회수 152만회
+**Albums**: 조회수 5.1만회
 
-Last updated at 03/10/2021 18:36
+Last updated at 03/10/2021 18:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
