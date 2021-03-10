@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/u0T7LuLPiZo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=u0T7LuLPiZo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/e5CxXNUTDN4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=e5CxXNUTDN4)
 
-타스카 블랙 - Leave Me
+Daft Punk(다프트 펑크) - Harder, Better, Faster, Stronger (Dillon Francis Remix)
 
-**Albums**: 조회수 6.3만회
+**Albums**: 조회수 2081만회
 
-Last updated at 03/10/2021 17:20
+Last updated at 03/10/2021 17:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
