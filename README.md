@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/F6nt3Sw3Isk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=F6nt3Sw3Isk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/X-HT1DZWJPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=X-HT1DZWJPg)
 
-What So Not - Gemini(피처링: George Maple)
+AllttA - That Good Ship
 
-**Albums**: 조회수 974만회
+**Albums**: 조회수 152만회
 
-Last updated at 03/10/2021 19:28
+Last updated at 03/10/2021 19:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
