@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0">](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733aba86f5fd6944eb9f6836e1">](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx)
 
-RADWIMPS Toko Miura - Grand Escape (Movie Edit) [feat. Toko Miura]
+Eve - Raison Detre
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 11:07
+Last updated at 03/10/2021 11:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
