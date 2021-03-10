@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mClDu38gy5E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mClDu38gy5E)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/U_GZExDUfVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U_GZExDUfVA)
 
-Coopex 및 NEZZY, Coopex, David Shane - You & Me
+산 홀로 - lift me from the ground(피처링: 소피 윈터슨)
 
-**Albums**: 조회수 256만회
+**Albums**: 조회수 10만회
 
-Last updated at 03/10/2021 18:57
+Last updated at 03/10/2021 19:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
