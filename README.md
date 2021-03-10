@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/w1OZEqjXfj4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=w1OZEqjXfj4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/hCoxFODjkZU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hCoxFODjkZU)
 
-이선희 - 2 다시필사랑위해_이선희 1집_Remastered (For Love To Repeat)
+좋은노래가나다 - 석미경 ㅡ 물안개 (가사)
 
-**Albums**: 조회수 3.1만회
+**Albums**: 조회수 5.5천회
 
-Last updated at 03/10/2021 14:28
+Last updated at 03/10/2021 14:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
