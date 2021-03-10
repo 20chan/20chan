@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/SrC-BQIbWuo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=SrC-BQIbWuo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/XfDGdl2L5b0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XfDGdl2L5b0)
 
-Just A Gent feat. Ella Vos & Joey Chavez, Just A Gent - Rolling Dice(피처링: 엘라 보스, 조이 차베즈)
+obylx - Alive
 
-**Albums**: 조회수 194만회
+**Albums**: 조회수 6.7만회
 
-Last updated at 03/10/2021 17:50
+Last updated at 03/10/2021 17:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
