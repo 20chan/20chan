@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ZJ9shXz0WCA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZJ9shXz0WCA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/pzAo3Hj15R4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pzAo3Hj15R4)
 
-제리 포크 - To My Soul
+토베 스튀르케 - Borderline (Vanic Remix)
 
-**Albums**: 조회수 514만회
+**Albums**: 조회수 2774만회
 
-Last updated at 03/10/2021 15:23
+Last updated at 03/10/2021 15:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
