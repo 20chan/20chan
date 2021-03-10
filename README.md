@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ZeaIvjoH1FY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZeaIvjoH1FY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/v90utlNYnBI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=v90utlNYnBI)
 
-플라이트 퍼실리티스 - Crave You (Adventure Club Remix)(피처링: Gisselle Ortiz Cáceres)
+베이스넥타 - Magical World(피처링: Nelly Furtado)
 
-**Albums**: 조회수 1억회
+**Albums**: 조회수 1060만회
 
-Last updated at 03/10/2021 18:27
+Last updated at 03/10/2021 18:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
