@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/v90utlNYnBI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=v90utlNYnBI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/izv6XqFojHY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=izv6XqFojHY)
 
-베이스넥타 - Magical World(피처링: Nelly Furtado)
+Jack Ü - Take Ü There (Zeds Dead Remix)(피처링: Kiesza)
 
-**Albums**: 조회수 1060만회
+**Albums**: 조회수 152만회
 
-Last updated at 03/10/2021 18:31
+Last updated at 03/10/2021 18:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
