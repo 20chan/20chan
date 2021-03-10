@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/3FWsr1gVb_I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3FWsr1gVb_I)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/w1OZEqjXfj4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=w1OZEqjXfj4)
 
-danmooj1 - [HD] 야다 - 이미슬픈사랑
+이선희 - 2 다시필사랑위해_이선희 1집_Remastered (For Love To Repeat)
 
-**Albums**: 조회수 1700만회
+**Albums**: 조회수 3.1만회
 
-Last updated at 03/10/2021 14:24
+Last updated at 03/10/2021 14:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
