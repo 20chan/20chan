@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/E4qWjNS5gL4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=E4qWjNS5gL4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/p2YaodGLmJE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=p2YaodGLmJE)
 
-Chill Nation - Rando - Bandido (Jasaro Remix)
+그리즐리 베어 - Will Calls (Marfa Demo)
 
-**Albums**: 조회수 15만회
+**Albums**: 조회수 35만회
 
-Last updated at 03/10/2021 16:33
+Last updated at 03/10/2021 16:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
