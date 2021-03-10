@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NEj_fK-10bxEOauCzwslljY6oXT3vWxk3zau9-XHHAziwKL4xV2LWAldz9D2ZhF_-3ksudIkAX-Vtgkneg">](https://music.youtube.com/watch?v=Ukh1zoiV304)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb53782889e6f2e70a2634a3">](https://open.spotify.com/album/0htxNVyVbhow8ESseUu5UV)
 
-Scorpions(스콜피온스) - Wind Of Change
+Kenshi Yonezu - Lemon
 
-**Albums**: Crazy World
+**Albums**: Not supported
 
-Last updated at 03/09/2021 22:06
+Last updated at 03/10/2021 10:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
