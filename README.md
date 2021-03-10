@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/2Rxa4pNAnMY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2Rxa4pNAnMY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/NbmYpy9SNUg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NbmYpy9SNUg)
 
-The Griswolds - Live this nightmare (NGHTMRE Remix)
+Foxes - Youth (Adventure Club Remix)
 
-**Albums**: 조회수 574만회
+**Albums**: 조회수 24만회
 
-Last updated at 03/10/2021 16:09
+Last updated at 03/10/2021 16:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
