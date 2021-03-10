@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/pZzVgNn3y68/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=pZzVgNn3y68)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Ms0vnowpCLQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ms0vnowpCLQ)
 
-젤라 데이 - Compass (Louis The Child Remix)
+Major Lazer(메이저 레이저) - Lean On (Dillon Francis & Jauz Remix)(피처링: DJ Snake (DJ 스네이크), MØ)
 
-**Albums**: 조회수 592만회
+**Albums**: 조회수 58만회
 
-Last updated at 03/10/2021 18:12
+Last updated at 03/10/2021 18:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
