@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/kPSPlYktUes/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kPSPlYktUes)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RwY4JzrrppA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RwY4JzrrppA)
 
-브로 사파리 - Burn the Block (Gent & Jawns Remix)
+산 홀로 - San Holo - Still Looking [Official Audio](피처링: 제임스 빈센트 맥모로우)
 
-**Albums**: 조회수 8.1천회
+**Albums**: 조회수 11만회
 
-Last updated at 03/10/2021 19:20
+Last updated at 03/10/2021 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
