@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/U_GZExDUfVA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U_GZExDUfVA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/IctghRr8ZN8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IctghRr8ZN8)
 
-산 홀로 - lift me from the ground(피처링: 소피 윈터슨)
+Prismo - Senses (William Black Remix)
 
-**Albums**: 조회수 10만회
+**Albums**: 조회수 430만회
 
-Last updated at 03/10/2021 19:00
+Last updated at 03/10/2021 19:04
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
