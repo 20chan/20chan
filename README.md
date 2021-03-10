@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/oPLVi7zcaiQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=oPLVi7zcaiQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1gBAoW5vfuQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1gBAoW5vfuQ)
 
-마이른 - Afterdark(피처링: Aviella)
+SLANDER 및 나잇매어 - GUD VIBRATIONS
 
-**Albums**: 조회수 66만회
+**Albums**: 조회수 103만회
 
-Last updated at 03/10/2021 17:32
+Last updated at 03/10/2021 17:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
