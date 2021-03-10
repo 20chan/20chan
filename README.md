@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/rKnZrV18J88/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rKnZrV18J88)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/iwePzJLYBwE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iwePzJLYBwE)
 
-기타선생김용남 - 이선희 - 알고 싶어요
+pops8090 - 뱅크(Bank) - 가질 수 없는 너 (1995年)
 
-**Albums**: 조회수 432만회
+**Albums**: 조회수 2245만회
 
-Last updated at 03/10/2021 14:05
+Last updated at 03/10/2021 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
