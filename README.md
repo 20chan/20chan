@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739ee734a46d5a3789d7b867dc">](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2736976aee791024b55cc1a993b">](https://open.spotify.com/album/5Ze4DUS7zkZ8yy645OE23f)
 
-Vickeblanka - Black Catcher
+라온 - Hated by life itself (Inochi ni Kirawarete iru)
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 10:58
+Last updated at 03/10/2021 11:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
