@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5E-9UwsLEoE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5E-9UwsLEoE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4W-i3y3vSWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4W-i3y3vSWg)
 
-Major Lazer(메이저 레이저) - Be Together(피처링: 와일드 벨)
+Desert Dwellers - Saraswati's Twerkaba
 
-**Albums**: 조회수 81만회
+**Albums**: 조회수 5.8천회
 
-Last updated at 03/10/2021 17:12
+Last updated at 03/10/2021 17:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
