@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4W-i3y3vSWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4W-i3y3vSWg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/u0T7LuLPiZo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=u0T7LuLPiZo)
 
-Desert Dwellers - Saraswati's Twerkaba
+타스카 블랙 - Leave Me
 
-**Albums**: 조회수 5.8천회
+**Albums**: 조회수 6.3만회
 
-Last updated at 03/10/2021 17:16
+Last updated at 03/10/2021 17:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
