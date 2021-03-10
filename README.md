@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27328f74b1a5437015ca5516bc8">](https://open.spotify.com/album/2Bq3VhRr38MIfolC0czcx3)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739794fc0e54d795a65d732967">](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI)
 
-미야비 - Other Side
+Eve - Dramaturgy
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 11:29
+Last updated at 03/10/2021 11:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
