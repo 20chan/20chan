@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1SGU4GyfIGw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1SGU4GyfIGw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0GvT724mt1U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0GvT724mt1U)
 
-Trap Nation - Luude & Example, Georgi Kay - Sink Or Swim
+Vanic - Staring at the Sun
 
-**Albums**: 조회수 189만회
+**Albums**: 조회수 81만회
 
-Last updated at 03/10/2021 15:51
+Last updated at 03/10/2021 15:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
