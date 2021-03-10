@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/eGVlm_jSF48/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eGVlm_jSF48)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/rhrqbcufZXo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=rhrqbcufZXo)
 
-CloudKid - Point Point - Life In Grey (Khamsin Remix)
+루이 더 차일드 - It's Strange(피처링: K. 플레이)
 
-**Albums**: 조회수 232만회
+**Albums**: 조회수 378만회
 
-Last updated at 03/10/2021 17:43
+Last updated at 03/10/2021 17:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
