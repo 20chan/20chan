@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qbGZDEFHBmc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qbGZDEFHBmc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-9zJV2wQnD0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-9zJV2wQnD0)
 
-제이 울프 - Indian Summer
+Hi-Lo - San Holo - Can't Forget You (ft. The Nicholas) [Official Music Video]
 
-**Albums**: 조회수 1743만회
+**Albums**: 조회수 123만회
 
-Last updated at 03/10/2021 19:12
+Last updated at 03/10/2021 19:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
