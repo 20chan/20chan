@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4pRZKemWZws/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4pRZKemWZws)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JRo4TtY8DRs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JRo4TtY8DRs)
 
-Big Gigantic - Big Gigantic - Terminal 5 - NYC - March 11th & 12th 2016(피처링: 안젤라 맥클러스키)
+It's Different - Tell Me
 
-**Albums**: 조회수 2만회
+**Albums**: 조회수 1330만회
 
-Last updated at 03/10/2021 15:02
+Last updated at 03/10/2021 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
