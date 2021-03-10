@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ATlgU_mMZGM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ATlgU_mMZGM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Ve5mkTABRKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ve5mkTABRKs)
 
-이정희 - 민지-수국水菊의 찻집(가사자막)
+사랑은 그리움이고 눈물이다 - 정수라 - 난 너에게 (1986)
 
-**Albums**: 조회수 6.9천회
+**Albums**: 조회수 6.5만회
 
-Last updated at 03/10/2021 14:17
+Last updated at 03/10/2021 14:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
