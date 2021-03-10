@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/N3Q7fUIhA74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=N3Q7fUIhA74)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Ewr86bQB8Lc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ewr86bQB8Lc)
 
-Keys N Krates - Treat Me Right
+Kid Cudi - Day 'N' Nite (Andrew Luce Remix)
 
-**Albums**: 조회수 532만회
+**Albums**: 조회수 6882만회
 
-Last updated at 03/10/2021 15:13
+Last updated at 03/10/2021 15:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
