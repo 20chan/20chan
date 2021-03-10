@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735297fd707b625b67e24723b3">](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ade26fc245658d700650a912">](https://open.spotify.com/album/1ljx1yhQxihioKMX1qliQb)
 
-Superfly - 覚醒
+Cö Shu Nie - asphyxia
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 11:14
+Last updated at 03/10/2021 11:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
