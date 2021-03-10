@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/wOHjkv9_S0U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wOHjkv9_S0U)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/eGVlm_jSF48/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=eGVlm_jSF48)
 
-TroyBoi - ili
+CloudKid - Point Point - Life In Grey (Khamsin Remix)
 
-**Albums**: 조회수 11만회
+**Albums**: 조회수 232만회
 
-Last updated at 03/10/2021 17:39
+Last updated at 03/10/2021 17:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
