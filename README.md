@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/QQhMdz0HsJw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=QQhMdz0HsJw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/5fLVlswIJqM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5fLVlswIJqM)
 
-루이 더 차일드 및 Evalyn - Fire
+CloZee - Secret Place
 
-**Albums**: 조회수 396만회
+**Albums**: 조회수 4.9천회
 
-Last updated at 03/10/2021 15:45
+Last updated at 03/10/2021 15:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
