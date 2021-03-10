@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/E3pIQFA-VPs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=E3pIQFA-VPs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/WIXjHt8KmUc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WIXjHt8KmUc)
 
-Anna Lunoe - Stomper (DR Fresch Remix)
+Zara Larsson(자라 라슨) 및 MNEK - Never Forget You (Price & Takis Remix)
 
-**Albums**: 조회수 7.1만회
+**Albums**: 조회수 2.2억회
 
-Last updated at 03/10/2021 18:03
+Last updated at 03/10/2021 18:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
