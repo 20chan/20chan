@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/A41l3a1396I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=A41l3a1396I)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/N3Q7fUIhA74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=N3Q7fUIhA74)
 
-MrSuicideSheep - Grizmatik - My People
+Keys N Krates - Treat Me Right
 
-**Albums**: 조회수 134만회
+**Albums**: 조회수 532만회
 
-Last updated at 03/10/2021 15:08
+Last updated at 03/10/2021 15:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
