@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/XfDGdl2L5b0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=XfDGdl2L5b0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/wM8ZyeWyifo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wM8ZyeWyifo)
 
-obylx - Alive
+CloZee, David Starfire, CloZee, David Starfire - Black Panther
 
-**Albums**: 조회수 6.7만회
+**Albums**: 조회수 4.6천회
 
-Last updated at 03/10/2021 17:55
+Last updated at 03/10/2021 17:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
