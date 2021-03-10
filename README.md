@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-9zJV2wQnD0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-9zJV2wQnD0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/kPSPlYktUes/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=kPSPlYktUes)
 
-Hi-Lo - San Holo - Can't Forget You (ft. The Nicholas) [Official Music Video]
+브로 사파리 - Burn the Block (Gent & Jawns Remix)
 
-**Albums**: 조회수 123만회
+**Albums**: 조회수 8.1천회
 
-Last updated at 03/10/2021 19:16
+Last updated at 03/10/2021 19:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
