@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/k1U333EXRI0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=k1U333EXRI0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YfRLJQlpMNw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YfRLJQlpMNw)
 
-산 홀로 - One Thing
+미키 발렌 - Wildcard(피처링: Feli Ferraro)
 
-**Albums**: 조회수 298만회
+**Albums**: 조회수 2096만회
 
-Last updated at 03/10/2021 16:25
+Last updated at 03/10/2021 16:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
