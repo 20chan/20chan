@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JRo4TtY8DRs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JRo4TtY8DRs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/A41l3a1396I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=A41l3a1396I)
 
-It's Different - Tell Me
+MrSuicideSheep - Grizmatik - My People
 
-**Albums**: 조회수 1330만회
+**Albums**: 조회수 134만회
 
-Last updated at 03/10/2021 15:03
+Last updated at 03/10/2021 15:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
