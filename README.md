@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KTYD_kN7rPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KTYD_kN7rPg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ZeaIvjoH1FY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZeaIvjoH1FY)
 
-마리나 앤 더 다이아몬즈 - Lies (Zeds Dead Remix)
+플라이트 퍼실리티스 - Crave You (Adventure Club Remix)(피처링: Gisselle Ortiz Cáceres)
 
-**Albums**: 조회수 1886만회
+**Albums**: 조회수 1억회
 
-Last updated at 03/10/2021 18:21
+Last updated at 03/10/2021 18:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
