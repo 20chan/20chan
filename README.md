@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273794179deeade79ef08eabd94">](https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27383a0a177ac01d893a9fe1e0f">](https://open.spotify.com/album/0OcqDsoSjPhHNydrdRRJJM)
 
-ONE OK ROCK - Wasted Nights
+TK from Ling tosite sigure - katharsis
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 11:21
+Last updated at 03/10/2021 11:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
