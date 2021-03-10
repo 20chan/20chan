@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ufvIpj8O-Yw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ufvIpj8O-Yw)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ZTjRDhR5q0M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZTjRDhR5q0M)
 
-루이 더 차일드 - Fade Away
+제드 데드 - Collapse(피처링: Memorecks)
 
-**Albums**: 조회수 5.1만회
+**Albums**: 조회수 74만회
 
-Last updated at 03/10/2021 18:40
+Last updated at 03/10/2021 18:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
