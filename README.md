@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/NbmYpy9SNUg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NbmYpy9SNUg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/MYwFW-bFZTo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MYwFW-bFZTo)
 
-Foxes - Youth (Adventure Club Remix)
+산 홀로 - Fly
 
-**Albums**: 조회수 24만회
+**Albums**: 조회수 13만회
 
-Last updated at 03/10/2021 16:12
+Last updated at 03/10/2021 16:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
