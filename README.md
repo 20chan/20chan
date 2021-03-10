@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/i9e7O7OUglk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=i9e7O7OUglk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/dbTFGcknEcM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dbTFGcknEcM)
 
-20Syl - Voices(피처링: 리타 J)
+DROELOE - In Time(피처링: Belle Doron)
 
-**Albums**: 조회수 1084만회
+**Albums**: 조회수 889만회
 
-Last updated at 03/10/2021 17:01
+Last updated at 03/10/2021 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
