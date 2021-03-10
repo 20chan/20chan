@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/e5CxXNUTDN4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=e5CxXNUTDN4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/HSFoic_K8Y0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=HSFoic_K8Y0)
 
-Daft Punk(다프트 펑크) - Harder, Better, Faster, Stronger (Dillon Francis Remix)
+Big Gigantic - Brighter Future(피처링: Naaz)
 
-**Albums**: 조회수 2081만회
+**Albums**: 조회수 24만회
 
-Last updated at 03/10/2021 17:24
+Last updated at 03/10/2021 17:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
