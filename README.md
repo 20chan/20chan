@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/dbTFGcknEcM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=dbTFGcknEcM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/cZG2moWybNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=cZG2moWybNA)
 
-DROELOE - In Time(피처링: Belle Doron)
+Tiagz - TIAGZ | SOLO Dance Competition | #WODDallas #GadgikSolo | Ongoing Thing – 20syl
 
-**Albums**: 조회수 889만회
+**Albums**: 조회수 4.7천회
 
-Last updated at 03/10/2021 17:05
+Last updated at 03/10/2021 17:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
