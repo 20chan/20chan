@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/p2YaodGLmJE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=p2YaodGLmJE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jjtG2lpKhpM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jjtG2lpKhpM)
 
-그리즐리 베어 - Will Calls (Marfa Demo)
+ZHU - Faded (Odesza Remix)
 
-**Albums**: 조회수 35만회
+**Albums**: 조회수 61만회
 
-Last updated at 03/10/2021 16:36
+Last updated at 03/10/2021 16:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
