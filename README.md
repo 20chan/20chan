@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/wM8ZyeWyifo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=wM8ZyeWyifo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/E3pIQFA-VPs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=E3pIQFA-VPs)
 
-CloZee, David Starfire, CloZee, David Starfire - Black Panther
+Anna Lunoe - Stomper (DR Fresch Remix)
 
-**Albums**: 조회수 4.6천회
+**Albums**: 조회수 7.1만회
 
-Last updated at 03/10/2021 17:58
+Last updated at 03/10/2021 18:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
