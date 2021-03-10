@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/5fLVlswIJqM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=5fLVlswIJqM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1SGU4GyfIGw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1SGU4GyfIGw)
 
-CloZee - Secret Place
+Trap Nation - Luude & Example, Georgi Kay - Sink Or Swim
 
-**Albums**: 조회수 4.9천회
+**Albums**: 조회수 189만회
 
-Last updated at 03/10/2021 15:48
+Last updated at 03/10/2021 15:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
