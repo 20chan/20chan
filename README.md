@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/s8Et5JuLUs8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=s8Et5JuLUs8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4pRZKemWZws/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4pRZKemWZws)
 
-Vindata - All I Really Need(피처링: 켄지 메이)
+Big Gigantic - Big Gigantic - Terminal 5 - NYC - March 11th & 12th 2016(피처링: 안젤라 맥클러스키)
 
-**Albums**: 조회수 440만회
+**Albums**: 조회수 2만회
 
-Last updated at 03/10/2021 14:56
+Last updated at 03/10/2021 15:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
