@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/RwY4JzrrppA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RwY4JzrrppA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/F6nt3Sw3Isk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=F6nt3Sw3Isk)
 
-산 홀로 - San Holo - Still Looking [Official Audio](피처링: 제임스 빈센트 맥모로우)
+What So Not - Gemini(피처링: George Maple)
 
-**Albums**: 조회수 11만회
+**Albums**: 조회수 974만회
 
-Last updated at 03/10/2021 19:24
+Last updated at 03/10/2021 19:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
