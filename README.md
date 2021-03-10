@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/sTSJcpB9B0Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=sTSJcpB9B0Y)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/k1U333EXRI0/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">](https://music.youtube.com/watch?v=k1U333EXRI0)
 
-Hermitude - The Buzz(피처링: TAPZ, Mataya)
+산 홀로 - One Thing
 
-**Albums**: 조회수 1150만회
+**Albums**: 조회수 298만회
 
-Last updated at 03/10/2021 16:21
+Last updated at 03/10/2021 16:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
