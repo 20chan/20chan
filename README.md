@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/NCvG8C1a2IE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NCvG8C1a2IE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uuOUpq772BU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uuOUpq772BU)
 
-Just A Gent 및 나잇매어 - Limelight (NGHTMRE Remix)
+Flux Pavilion - Cut Me Out feat. Turin Brakes
 
-**Albums**: 조회수 7만회
+**Albums**: 조회수 18만회
 
-Last updated at 03/10/2021 16:01
+Last updated at 03/10/2021 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
