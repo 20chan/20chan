@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273794179deeade79ef08eabd94">](https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739ee734a46d5a3789d7b867dc">](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD)
 
-ONE OK ROCK - Stand Out Fit In
+Vickeblanka - Black Catcher
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 10:54
+Last updated at 03/10/2021 10:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
