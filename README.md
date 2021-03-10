@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2733aba86f5fd6944eb9f6836e1">](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735297fd707b625b67e24723b3">](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61)
 
-Eve - Raison Detre
+Superfly - 覚醒
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 11:10
+Last updated at 03/10/2021 11:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
