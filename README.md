@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/qIYDPXazpQ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qIYDPXazpQ0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/0hfFQl2iEi8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=0hfFQl2iEi8)
 
-가요10선새여울 - 장덕 히트가요(10-1)선***여섯번째곡은 "정수라"노래입니다...
+실번 에소 - Hey Mami (Big Wild Remix)
 
-**Albums**: 조회수 26만회
+**Albums**: 조회수 846만회
 
-Last updated at 03/10/2021 14:36
+Last updated at 03/10/2021 14:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
