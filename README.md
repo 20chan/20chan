@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-B9NOnOGboc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-B9NOnOGboc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/WVevzJk6mDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WVevzJk6mDc)
 
-AllTrapMusic - Hermitude x Flume - Hyperparadise (GANZ Flip)
+Trap Nation - Paris Blohm - Into Dust (feat. Elle Vee)
 
-**Albums**: 조회수 281만회
+**Albums**: 조회수 583만회
 
-Last updated at 03/10/2021 16:48
+Last updated at 03/10/2021 16:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
