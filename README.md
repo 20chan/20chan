@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/hCoxFODjkZU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=hCoxFODjkZU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/qIYDPXazpQ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=qIYDPXazpQ0)
 
-좋은노래가나다 - 석미경 ㅡ 물안개 (가사)
+가요10선새여울 - 장덕 히트가요(10-1)선***여섯번째곡은 "정수라"노래입니다...
 
-**Albums**: 조회수 5.5천회
+**Albums**: 조회수 26만회
 
-Last updated at 03/10/2021 14:32
+Last updated at 03/10/2021 14:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
