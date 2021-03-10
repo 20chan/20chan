@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/IctghRr8ZN8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=IctghRr8ZN8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9sC-SAfAo3g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9sC-SAfAo3g)
 
-Prismo - Senses (William Black Remix)
+더 니콜라스 및 산 홀로 - Hiding
 
-**Albums**: 조회수 430만회
+**Albums**: 조회수 12만회
 
-Last updated at 03/10/2021 19:04
+Last updated at 03/10/2021 19:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
