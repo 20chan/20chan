@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/8D9d9weVQnI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=8D9d9weVQnI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/NCvG8C1a2IE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=NCvG8C1a2IE)
 
-Bass Nation - Apashe - Majesty (Instrumental)
+Just A Gent 및 나잇매어 - Limelight (NGHTMRE Remix)
 
-**Albums**: 조회수 1113만회
+**Albums**: 조회수 7만회
 
-Last updated at 03/10/2021 15:57
+Last updated at 03/10/2021 16:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
