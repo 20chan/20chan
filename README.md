@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uuOUpq772BU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uuOUpq772BU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/2Rxa4pNAnMY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=2Rxa4pNAnMY)
 
-Flux Pavilion - Cut Me Out feat. Turin Brakes
+The Griswolds - Live this nightmare (NGHTMRE Remix)
 
-**Albums**: 조회수 18만회
+**Albums**: 조회수 574만회
 
-Last updated at 03/10/2021 16:05
+Last updated at 03/10/2021 16:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
