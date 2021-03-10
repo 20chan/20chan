@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/WVevzJk6mDc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WVevzJk6mDc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Xy7bRveobEk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Xy7bRveobEk)
 
-Trap Nation - Paris Blohm - Into Dust (feat. Elle Vee)
+Keys N Krates - Follow You Down
 
-**Albums**: 조회수 583만회
+**Albums**: 조회수 42만회
 
-Last updated at 03/10/2021 16:53
+Last updated at 03/10/2021 16:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
