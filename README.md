@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Ve5mkTABRKs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ve5mkTABRKs)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/3FWsr1gVb_I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=3FWsr1gVb_I)
 
-사랑은 그리움이고 눈물이다 - 정수라 - 난 너에게 (1986)
+danmooj1 - [HD] 야다 - 이미슬픈사랑
 
-**Albums**: 조회수 6.5만회
+**Albums**: 조회수 1700만회
 
-Last updated at 03/10/2021 14:20
+Last updated at 03/10/2021 14:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
