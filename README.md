@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/MYwFW-bFZTo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MYwFW-bFZTo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/sTSJcpB9B0Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=sTSJcpB9B0Y)
 
-산 홀로 - Fly
+Hermitude - The Buzz(피처링: TAPZ, Mataya)
 
-**Albums**: 조회수 13만회
+**Albums**: 조회수 1150만회
 
-Last updated at 03/10/2021 16:16
+Last updated at 03/10/2021 16:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
