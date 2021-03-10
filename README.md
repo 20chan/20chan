@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Ewr86bQB8Lc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Ewr86bQB8Lc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ZJ9shXz0WCA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ZJ9shXz0WCA)
 
-Kid Cudi - Day 'N' Nite (Andrew Luce Remix)
+제리 포크 - To My Soul
 
-**Albums**: 조회수 6882만회
+**Albums**: 조회수 514만회
 
-Last updated at 03/10/2021 15:18
+Last updated at 03/10/2021 15:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
