@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ade26fc245658d700650a912">](https://open.spotify.com/album/1ljx1yhQxihioKMX1qliQb)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273794179deeade79ef08eabd94">](https://open.spotify.com/album/1obI3635eoYwWYhGs2vEeP)
 
-Cö Shu Nie - asphyxia
+ONE OK ROCK - Wasted Nights
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 11:18
+Last updated at 03/10/2021 11:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
