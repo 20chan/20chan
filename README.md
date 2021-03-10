@@ -1,12 +1,12 @@
-## Currently Playing on Spotify
+## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2739794fc0e54d795a65d732967">](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KsfZydnDywg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KsfZydnDywg)
 
-Eve - Dramaturgy
+박태섬 - 장덕노래모음 30곡
 
-**Albums**: Not supported
+**Albums**: 조회수 4.7만회
 
-Last updated at 03/10/2021 11:33
+Last updated at 03/10/2021 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
