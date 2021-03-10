@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/phn2JZ2xTz4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=phn2JZ2xTz4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/-B9NOnOGboc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-B9NOnOGboc)
 
-MrSuicideSheep - Nihils - Help Our Souls (Urban Contact Remix)
+AllTrapMusic - Hermitude x Flume - Hyperparadise (GANZ Flip)
 
-**Albums**: 조회수 1155만회
+**Albums**: 조회수 281만회
 
-Last updated at 03/10/2021 16:44
+Last updated at 03/10/2021 16:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
