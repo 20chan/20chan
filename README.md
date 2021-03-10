@@ -1,12 +1,12 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273eb53782889e6f2e70a2634a3">](https://open.spotify.com/album/0htxNVyVbhow8ESseUu5UV)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe">](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO)
 
-Kenshi Yonezu - Lemon
+LiSA - 紅蓮華
 
 **Albums**: Not supported
 
-Last updated at 03/10/2021 10:39
+Last updated at 03/10/2021 10:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
