@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/RoDvDSMGE5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RoDvDSMGE5g)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jxJnIKSlZq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jxJnIKSlZq4)
 
-BEAUZ - Count The Hours
+MrSuicideSheep - Vanic X K.Flay - Cops
 
-**Albums**: 조회수 1만회
+**Albums**: 조회수 901만회
 
-Last updated at 03/11/2021 10:47
+Last updated at 03/11/2021 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
