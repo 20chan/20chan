@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hwAtlrtNT39sUhHMHe2lNcOaH3wezcvNlAZzc_Elho4_oCWNbyy8pK2Vy177DXVpka2yc44FR1W-1sJ">](https://music.youtube.com/watch?v=ecHf1zkYRVg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=ywCpp0v-rj4)
 
-Sum 41 - In Too Deep
+Beck - Don't Let It Go
 
-**Albums**: All Killer, No Filler
+**Albums**: Morning Phase
 
-Last updated at 03/11/2021 21:37
+Last updated at 03/11/2021 21:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
