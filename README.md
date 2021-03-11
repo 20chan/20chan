@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xu9V0XDGut7Kd_fXr-ib6YtXLlrg25qH8GR0F6KzLssqMgDHoBsrLza8Xh3wGbQGjzAzRWnumQQRcws">](https://music.youtube.com/watch?v=jNW_LLazHRI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7W2iYR1Bi5nX2A0i8zXjTPyVNKOOlRzpbzu3ez3xcjImpNvW9u9BmaWz6wVa1HIPAn7fhvu9aCwQRVI">](https://music.youtube.com/watch?v=1nGRvJuC1EU)
 
-The Rolling Stones - You Got Me Rocking
+존 포거티 - Hot Rod Heart
 
-**Albums**: Voodoo Lounge
+**Albums**: Blue Moon Swamp
 
-Last updated at 03/11/2021 19:29
+Last updated at 03/11/2021 19:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
