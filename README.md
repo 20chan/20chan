@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oWapJUkANkcHAHkSLTrrTp5Di6DrMFjaGQ7s1W4YKFK37F1g_kzAvgGHeSxC_SrgUCU--_DswLjutcA">](https://music.youtube.com/watch?v=458JYRJM2fc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gbM_Jqu-mSAs_dkz0LwSGq_Er6vuBwpagpMNZE3QJAvDVmjC3h6eYyd77-QQl0DeeyVuEN6NJ0IqHsW1">](https://music.youtube.com/watch?v=PoCC8jgECIM)
 
-케이지 디 엘리펀트 - Black Madonna
+그레타 반 플릿 - You're The One
 
-**Albums**: Social Cues
+**Albums**: Anthem Of The Peaceful Army
 
-Last updated at 03/11/2021 17:21
+Last updated at 03/11/2021 17:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
