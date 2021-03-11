@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">](https://music.youtube.com/watch?v=v_uncMEJkBc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=9wOl71nzdH4)
 
-My Chemical Romance(마이 케미컬 로맨스) - Welcome to the Black Parade
+Beck - Country Down
 
-**Albums**: The Black Parade
+**Albums**: Morning Phase
 
-Last updated at 03/11/2021 20:57
+Last updated at 03/11/2021 21:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
