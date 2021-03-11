@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/X2sQmULoKoY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=X2sQmULoKoY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uOFTqVi-qp4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uOFTqVi-qp4)
 
-Wide Awake - HiGHER
+산 홀로 - Light
 
-**Albums**: 조회수 136만회
+**Albums**: 조회수 238만회
 
-Last updated at 03/11/2021 12:48
+Last updated at 03/11/2021 12:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
