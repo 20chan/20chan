@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/TPZnDVnNZ6E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=TPZnDVnNZ6E)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mgdt0zXJbKA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mgdt0zXJbKA)
 
-Zedd(제드) 및 Kesha(케샤) - True Colors (Nolan van Lith Remix)
+Trap City - Oniix - Droppin Bombs
 
-**Albums**: 조회수 1543만회
+**Albums**: 조회수 156만회
 
-Last updated at 03/11/2021 13:13
+Last updated at 03/11/2021 13:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
