@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZhHFDrMl4GjwHA4lCN3DwRqlc959T8e5WLPMI0dmiFtZdF2jaXbyiVQ_t9hj-Oa6kcPiuG92EFr8cIUl">](https://music.youtube.com/watch?v=yHqqCmcF0WI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GLS1o7Vh-LFGBBkq1y9Ooadrvji-6ql0j1yOQT2-zqJIW1aLGdEfJA9JY56E3A71qgNJfHAsEQCrdaHiWg">](https://music.youtube.com/watch?v=27zOar_iEOA)
 
-Sum 41 - No Reason
+Muse(뮤즈) - Hysteria
 
-**Albums**: Chuck
+**Albums**: Absolution
 
-Last updated at 03/11/2021 22:08
+Last updated at 03/11/2021 22:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
