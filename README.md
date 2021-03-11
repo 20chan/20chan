@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/KeSUZJkFb1M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KeSUZJkFb1M)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/9zra1L4t0ss/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9zra1L4t0ss)
 
-DROELOE 및 Vinzere - Nothing Wrong
+J-Marin - My Lean
 
-**Albums**: 조회수 61만회
+**Albums**: 조회수 44만회
 
-Last updated at 03/11/2021 14:37
+Last updated at 03/11/2021 14:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
