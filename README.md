@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xGjY3K5qTOM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mFUS8GrWXNk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/DdISOatomY4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=DdISOatomY4)
 
-루이 더 차일드 및 K. 플레이 - We All Have Dreams
+Andromedik - Let Me In
 
-**Albums**: 조회수 14만회
+**Albums**: 조회수 582만회
 
-Last updated at 03/11/2021 12:40
+Last updated at 03/11/2021 12:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
