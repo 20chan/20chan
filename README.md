@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mmvf_zDLXKc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mmvf_zDLXKc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/m67JI5d0zIM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=m67JI5d0zIM)
 
-Trap Nation - Wizard - So Bright
+20Syl - Moongaï - Cosmofamille (20syl Remix)
 
-**Albums**: 조회수 335만회
+**Albums**: 조회수 102만회
 
-Last updated at 03/11/2021 13:01
+Last updated at 03/11/2021 13:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
