@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TpE4c3PWoD-YgLgQ4ETEgfqpbFRkphTGanaJtndGHYr7lbMryT428l34hw1Cu9xf9vUuqpTJcE5BQNEa">](https://music.youtube.com/watch?v=KIxU5caGD6c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=uiZ3NVUVW98)
 
-그린 데이 - Holiday
+Beck - Wave
 
-**Albums**: Holiday
+**Albums**: Morning Phase
 
-Last updated at 03/11/2021 21:06
+Last updated at 03/11/2021 21:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
