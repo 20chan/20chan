@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vWKe-wLogiFuRowDrc1g9oNP5p8PgZD-W4jgRDUK2AS8oP81vRMVnNNWLEOrbJ7yJD0jDvAZ8rRfphRvQA">](https://music.youtube.com/watch?v=gYCTXzOTnXg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/P6UQgFQD0MduEsjvh0D1CahKTqebTtObTBUkYp_7F9QcDbtgqFsqkHQwTOtJX6XQv5vL8fxEiBgpjj0K_Q">](https://music.youtube.com/watch?v=kaOOfci2YC8)
 
-그린 데이 - Boulevard of Broken Dreams
+Metallica - Nothing Else Matters
 
-**Albums**: Greatest Hits: God's Favorite Band
+**Albums**: Metallica
 
-Last updated at 03/11/2021 22:19
+Last updated at 03/11/2021 22:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
