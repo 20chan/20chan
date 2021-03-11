@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GLS1o7Vh-LFGBBkq1y9Ooadrvji-6ql0j1yOQT2-zqJIW1aLGdEfJA9JY56E3A71qgNJfHAsEQCrdaHiWg">](https://music.youtube.com/watch?v=27zOar_iEOA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/E5207XMJhmpXi7ieNmafc3X4llprtwbdDmTOssNJUdAehoiw75ks6VrPo01_d-OHhAbIe2OwS6S58Yib">](https://music.youtube.com/watch?v=iMdwKnpt5wc)
 
-Muse(뮤즈) - Hysteria
+U2 - Every Breaking Wave
 
-**Albums**: Absolution
+**Albums**: Songs Of Innocence
 
-Last updated at 03/11/2021 22:11
+Last updated at 03/11/2021 22:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
