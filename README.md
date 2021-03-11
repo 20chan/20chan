@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9WKdOo3ZWh-RX8cDJFstFmRVcHKryi8duxdX2ZtssqzWD9P5hVbde1ILZBy_IatjJg3TN2IstLZFuesV">](https://music.youtube.com/watch?v=r3d-LU3E90Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY">](https://music.youtube.com/watch?v=rC8jAR6lg6A)
 
-U2 - Walk On
+Foo Fighters - Rope
 
-**Albums**: All That You Can't Leave Behind
+**Albums**: Wasting Light
 
-Last updated at 03/11/2021 18:13
+Last updated at 03/11/2021 18:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
