@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Mi9d52sVfWE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Mi9d52sVfWE)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/OESFaGXzN70/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OESFaGXzN70)
 
-미아 베일 - Money
+레인 맨 및 크리스타 영스 - Habit
 
-**Albums**: 조회수 10만회
+**Albums**: 조회수 51만회
 
-Last updated at 03/11/2021 11:03
+Last updated at 03/11/2021 11:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
