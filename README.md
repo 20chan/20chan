@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY">](https://music.youtube.com/watch?v=FQU0QOmwHFA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MuPb1a4JhwPpn8nLh34E83StkW8JP0xxIHSes6F5KxdvqhsERHdQ-pQO3W8Ecn6UzSneKAB_UkAr_e4">](https://music.youtube.com/watch?v=8TXnjGtIhyc)
 
-Foo Fighters - Walk
+U2 - Vertigo
 
-**Albums**: Wasting Light
+**Albums**: How To Dismantle An Atomic Bomb
 
-Last updated at 03/11/2021 17:30
+Last updated at 03/11/2021 17:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
