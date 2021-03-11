@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A">](https://music.youtube.com/watch?v=KlWBO9m52Fk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">](https://music.youtube.com/watch?v=U0XcqF7rqHk)
 
-Foo Fighters - All My Life
+그린 데이 - 21 Guns
 
-**Albums**: One By One
+**Albums**: 21st Century Breakdown
 
-Last updated at 03/11/2021 16:19
+Last updated at 03/11/2021 16:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
