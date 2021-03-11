@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/bwrCCc6hWKo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bwrCCc6hWKo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Mi9d52sVfWE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Mi9d52sVfWE)
 
-Jo Cohen & BQ - Glowing at Night
+미아 베일 - Money
 
-**Albums**: 조회수 576만회
+**Albums**: 조회수 10만회
 
-Last updated at 03/11/2021 11:00
+Last updated at 03/11/2021 11:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
