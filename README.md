@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/m67JI5d0zIM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=m67JI5d0zIM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/OUkkaqSNduU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OUkkaqSNduU)
 
-20Syl - Moongaï - Cosmofamille (20syl Remix)
+디스클로저 - You & Me (Flume remix)(피처링: Eliza Doolittle)
 
-**Albums**: 조회수 102만회
+**Albums**: 조회수 8773만회
 
-Last updated at 03/11/2021 13:05
+Last updated at 03/11/2021 13:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
