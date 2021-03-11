@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=VyV54YwPAkk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9WKdOo3ZWh-RX8cDJFstFmRVcHKryi8duxdX2ZtssqzWD9P5hVbde1ILZBy_IatjJg3TN2IstLZFuesV">](https://music.youtube.com/watch?v=QrqPjFyM0wg)
 
-Green Day - American Idiot
+U2 - Beautiful Day
 
-**Albums**: American Idiot
+**Albums**: All That You Can't Leave Behind
 
-Last updated at 03/11/2021 16:03
+Last updated at 03/11/2021 16:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
