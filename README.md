@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RlTAgFwcjJGn7JZlvqfPJk7q3H30XF0rWpCoGfy20RqzRO1ww6HtcdSpyvo7E_ylj0zwmyeQ_l6pgVkyIw">](https://music.youtube.com/watch?v=5kzg4pDk_FU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MNMxpgcqEIE9nXhCsHXO9oQwZvnJbJeKMUYy1_HhGd-vjQ2P_7sAdE2VCiRopvLUVnZXIq-4rj2V3nlH">](https://music.youtube.com/watch?v=voQHSsQF9Vs)
 
-U2 - City Of Blinding Lights (Radio Edit)
+Sheryl Crow - A Change Would Do You Good
 
-**Albums**: City Of Blinding Lights
+**Albums**: Sheryl Crow
 
-Last updated at 03/11/2021 20:35
+Last updated at 03/11/2021 20:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
