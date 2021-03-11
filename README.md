@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JTmtbup7wUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JTmtbup7wUk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xEiZ39qBRwo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xEiZ39qBRwo)
 
-Majestic Casual - On Planets - Spectacle (feat. Madalen Duke)
+Slow Magic - Waited 4 U (ODESZA Remix)
 
-**Albums**: 조회수 49만회
+**Albums**: 조회수 1567만회
 
-Last updated at 03/11/2021 11:10
+Last updated at 03/11/2021 11:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
