@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fDs93jkuiWLUevWu4of8oKreYAhmDAxVj9JhU5DrowTXDaR8oM_L1ppDHdJk0XgcHK9kBjjrPZhnM-c_">](https://music.youtube.com/watch?v=0MbfMUDf_LM)
+[<img align="left" width="100" src="">](https://www.youtube.com/channel/UClNvDZAwy0z1P2un18UxvCQ)
 
-Muse(뮤즈) - Psycho
+SURL / 설 - SURL(설) - Dry Flower M/V
 
-**Albums**: Drones
+**Albums**: Not supported
 
-Last updated at 03/11/2021 16:29
+Last updated at 03/11/2021 16:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
