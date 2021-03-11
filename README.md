@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=4FkfyssnHqU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oXkMqBsAK1FwXEdhwgRIpnWt989JE2eW7aJZtIa93lpZoFDYkyRtRbqut7v8DCDeA8ZL3zre4cbcQYKBnw">](https://music.youtube.com/watch?v=8tPsaSPraks)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Dani California
+The Black Keys - Gold on the Ceiling
 
-**Albums**: Stadium Arcadium
+**Albums**: El Camino
 
-Last updated at 03/11/2021 15:36
+Last updated at 03/11/2021 15:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
