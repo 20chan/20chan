@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zV4G64r91t4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=zV4G64r91t4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mmvf_zDLXKc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mmvf_zDLXKc)
 
-Hayden James - Something About You (ODESZA Remix)
+Trap Nation - Wizard - So Bright
 
-**Albums**: 조회수 706만회
+**Albums**: 조회수 335만회
 
-Last updated at 03/11/2021 12:56
+Last updated at 03/11/2021 13:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
