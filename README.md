@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=uiZ3NVUVW98)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YKO8v0Sy3H6qKS0u8Vb_cajD5c9RErhNnOsWh4Z018dlTont_YVTlJu1WZrCyM7a9yV7IjhuLNY57pQ0Og">](https://music.youtube.com/watch?v=Q9BHJQZAP2o)
 
-Beck - Wave
+Sum 41 - Still Waiting
 
-**Albums**: Morning Phase
+**Albums**: Does This Look Infected?
 
-Last updated at 03/11/2021 21:10
+Last updated at 03/11/2021 21:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
