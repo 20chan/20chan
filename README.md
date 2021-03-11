@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWkZaxW3vojNbI0hS2WtY5dFyKt3hy25CBcjCCTuRGPHepp9LpV0AvZj7Ab4ul1qDduNwfU3oAxQhJDK">](https://music.youtube.com/watch?v=VJx7Et20OI0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_dTgdJhdrfqHsgGxUcSnelrHoLO1TGyzksEH15P_-8nlRI3A4HtO81EJCVRVm5EeM63fL1P8b0S1syC">](https://music.youtube.com/watch?v=NVKbnXRXQog)
 
-케이지 디 엘리펀트 - Cold Cold Cold
+디 워 온 드러그 - Thinking Of A Place
 
-**Albums**: Tell Me I'm Pretty
+**Albums**: A Deeper Understanding
 
-Last updated at 03/11/2021 15:44
+Last updated at 03/11/2021 15:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
