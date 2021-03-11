@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/OUkkaqSNduU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OUkkaqSNduU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/TPZnDVnNZ6E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=TPZnDVnNZ6E)
 
-디스클로저 - You & Me (Flume remix)(피처링: Eliza Doolittle)
+Zedd(제드) 및 Kesha(케샤) - True Colors (Nolan van Lith Remix)
 
-**Albums**: 조회수 8773만회
+**Albums**: 조회수 1543만회
 
-Last updated at 03/11/2021 13:08
+Last updated at 03/11/2021 13:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
