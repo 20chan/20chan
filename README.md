@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/jFVDMJtbhEdnQ6Xtk3zcU3xgRNgjP5OUStejW_ejM_OKD08DVai87pgnOoLD6NDnli9RWJSRHQuvDGeD">](https://music.youtube.com/watch?v=D3OPJvjnJa0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MNMxpgcqEIE9nXhCsHXO9oQwZvnJbJeKMUYy1_HhGd-vjQ2P_7sAdE2VCiRopvLUVnZXIq-4rj2V3nlH">](https://music.youtube.com/watch?v=cnJ8k48OkCw)
 
-Alanis Morissette - Hand in My Pocket
+Sheryl Crow - If It Makes You Happy
 
-**Albums**: Jagged Little Pill
+**Albums**: Sheryl Crow
 
-Last updated at 03/11/2021 17:41
+Last updated at 03/11/2021 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
