@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">](https://music.youtube.com/watch?v=TFR0hH7dx9Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fDs93jkuiWLUevWu4of8oKreYAhmDAxVj9JhU5DrowTXDaR8oM_L1ppDHdJk0XgcHK9kBjjrPZhnM-c_">](https://music.youtube.com/watch?v=FdfD_My85hY)
 
-그린 데이 - Know Your Enemy
+Muse(뮤즈) - Dead Inside
 
-**Albums**: 21st Century Breakdown
+**Albums**: Drones
 
-Last updated at 03/11/2021 18:00
+Last updated at 03/11/2021 18:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
