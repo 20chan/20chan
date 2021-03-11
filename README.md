@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dZQmr_haIHqCRrDI_l-UYYCGrNvv9Zi55fJ18wkVbu2WDP4P0gntGPn48gqdH2YniKojau2WiiDHgY2P">](https://music.youtube.com/watch?v=15x8znT7bgs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/MNMxpgcqEIE9nXhCsHXO9oQwZvnJbJeKMUYy1_HhGd-vjQ2P_7sAdE2VCiRopvLUVnZXIq-4rj2V3nlH">](https://music.youtube.com/watch?v=waqsc9Vh788)
 
-U2 - Elevation
+Sheryl Crow - Everyday Is A Winding Road
 
-**Albums**: U218 Singles (Deluxe Version)
+**Albums**: Sheryl Crow
 
-Last updated at 03/11/2021 19:43
+Last updated at 03/11/2021 19:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
