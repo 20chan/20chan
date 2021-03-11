@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Vjl4g2ceFxk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Vjl4g2ceFxk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/u83uRU7i0E0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=u83uRU7i0E0)
 
-파비안 마주르 - Sun Goes Down
+미아 베일 - American Dream
 
-**Albums**: 조회수 4.3만회
+**Albums**: 조회수 47만회
 
-Last updated at 03/11/2021 14:23
+Last updated at 03/11/2021 14:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
