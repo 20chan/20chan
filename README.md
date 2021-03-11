@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gbM_Jqu-mSAs_dkz0LwSGq_Er6vuBwpagpMNZE3QJAvDVmjC3h6eYyd77-QQl0DeeyVuEN6NJ0IqHsW1">](https://music.youtube.com/watch?v=j4NM7hB_DeA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3QMxUP4YSbirCEQoo-aiO20iltWe9Qq37CxqT5M_9VdSMmXEPXIckyeRodSbPJF1pwyUTiiugFmbxlI3">](https://music.youtube.com/watch?v=v1b24aWSfpA)
 
-그레타 반 플릿 - When The Curtain Falls
+Foo Fighters - Times Like These
 
-**Albums**: Anthem Of The Peaceful Army
+**Albums**: One By One (Expanded Edition)
 
-Last updated at 03/11/2021 16:59
+Last updated at 03/11/2021 17:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
