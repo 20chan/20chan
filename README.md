@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2Wl0IFLk3AEgnUS7MwbHtILcZq6PT-DpZs8dtb-ilw0sojuFAwDMQanKE18dGRsQPz7MLhPARhpD_Awy">](https://music.youtube.com/watch?v=UfItWcGzdQA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_dTgdJhdrfqHsgGxUcSnelrHoLO1TGyzksEH15P_-8nlRI3A4HtO81EJCVRVm5EeM63fL1P8b0S1syC">](https://music.youtube.com/watch?v=C08__yI_48U)
 
-브루스 스프링스틴 - Waitin' On A Sunny Day
+디 워 온 드러그 - Holding On
 
-**Albums**: The Rising
+**Albums**: A Deeper Understanding
 
-Last updated at 03/11/2021 18:58
+Last updated at 03/11/2021 19:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
