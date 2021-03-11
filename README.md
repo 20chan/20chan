@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/X-HT1DZWJPg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=X-HT1DZWJPg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/mPV3-DKiCME/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mPV3-DKiCME)
 
-AllttA - That Good Ship
+Trap City - Keys N Krates - Dreamyness
 
-**Albums**: 조회수 152만회
+**Albums**: 조회수 286만회
 
-Last updated at 03/10/2021 19:33
+Last updated at 03/11/2021 10:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
