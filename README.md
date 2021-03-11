@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/OESFaGXzN70/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=OESFaGXzN70)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JTmtbup7wUk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JTmtbup7wUk)
 
-레인 맨 및 크리스타 영스 - Habit
+Majestic Casual - On Planets - Spectacle (feat. Madalen Duke)
 
-**Albums**: 조회수 51만회
+**Albums**: 조회수 49만회
 
-Last updated at 03/11/2021 11:06
+Last updated at 03/11/2021 11:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
