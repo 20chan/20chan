@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/xlMpamDxwSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xlMpamDxwSo)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/X8hNQwIutJs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=X8hNQwIutJs)
 
-What So Not, BURNS - Trust(피처링: 마이른)
+Gui Brazil, Artury Pepper, Gui Brazil, Artury Pepper - Take Me Over
 
-**Albums**: 조회수 2.8만회
+**Albums**: 조회수 3.8만회
 
-Last updated at 03/11/2021 12:23
+Last updated at 03/11/2021 12:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
