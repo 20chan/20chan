@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/jBVmcmrv_ik/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jBVmcmrv_ik)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/tDwvFEPj1Nc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tDwvFEPj1Nc)
 
-산 홀로 - Brighter Days(피처링: 비폴라 선샤인)
+MrSuicideSheep - Yeah Nah - Tribe (feat. Cam Nacson)
 
-**Albums**: 조회수 5.8만회
+**Albums**: 조회수 390만회
 
-Last updated at 03/11/2021 12:02
+Last updated at 03/11/2021 12:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
