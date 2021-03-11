@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mPV3-DKiCME/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mPV3-DKiCME)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/Cf_84ZbV77E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cf_84ZbV77E)
 
-Trap City - Keys N Krates - Dreamyness
+DROELOE - Wake The Warrior
 
-**Albums**: 조회수 286만회
+**Albums**: 조회수 2.7만회
 
-Last updated at 03/11/2021 10:34
+Last updated at 03/11/2021 10:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
