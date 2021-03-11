@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=ywCpp0v-rj4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9nU6QIPVMvC2vyjZY3ZIHBXmRTDS_dhC7IBd-ZCZuI6Le7zpXkh525v9EgI6qT_mzONzVZgmwVw96FG">](https://music.youtube.com/watch?v=LA279p9K7GY)
 
-Beck - Don't Let It Go
+Oasis(오아시스) - Whatever
 
-**Albums**: Morning Phase
+**Albums**: Definitely Maybe (Deluxe Edition Remastered)
 
-Last updated at 03/11/2021 21:40
+Last updated at 03/11/2021 21:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
