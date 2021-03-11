@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xu9V0XDGut7Kd_fXr-ib6YtXLlrg25qH8GR0F6KzLssqMgDHoBsrLza8Xh3wGbQGjzAzRWnumQQRcws">](https://music.youtube.com/watch?v=ix5HAxiIzrQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yV9729eYCC3OBtK8ORb4HlsNp6JvGOokmL0Uk3a97KuCFdRUDpjYVU2OZ6h5i6tUHEXIuVu5wGOd1nrPyA">](https://music.youtube.com/watch?v=_cr33vD24wU)
 
-The Rolling Stones - Out Of Tears
+Sheryl Crow - My Favorite Mistake
 
-**Albums**: Voodoo Lounge
+**Albums**: The Globe Sessions
 
-Last updated at 03/11/2021 20:08
+Last updated at 03/11/2021 20:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
