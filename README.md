@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oXkMqBsAK1FwXEdhwgRIpnWt989JE2eW7aJZtIa93lpZoFDYkyRtRbqut7v8DCDeA8ZL3zre4cbcQYKBnw">](https://music.youtube.com/watch?v=9DYPfItb2fk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oWapJUkANkcHAHkSLTrrTp5Di6DrMFjaGQ7s1W4YKFK37F1g_kzAvgGHeSxC_SrgUCU--_DswLjutcA">](https://music.youtube.com/watch?v=YBlUcqOKheg)
 
-The Black Keys - Lonely Boy
+케이지 디 엘리펀트 - Social Cues
 
-**Albums**: El Camino
+**Albums**: Social Cues
 
-Last updated at 03/11/2021 16:10
+Last updated at 03/11/2021 16:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
