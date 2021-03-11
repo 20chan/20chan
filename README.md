@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MuPb1a4JhwPpn8nLh34E83StkW8JP0xxIHSes6F5KxdvqhsERHdQ-pQO3W8Ecn6UzSneKAB_UkAr_e4">](https://music.youtube.com/watch?v=9bgm-PLMBtI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0t56z7BHoL-y707OisUF5JfM6fJFKdhRUW9XHoW120v7PdeNGrXRh68djTKXaRJy1oc3fFfLcWBO8ndU_g">](https://music.youtube.com/watch?v=cXT7DBeVxA4)
 
-U2 - Sometimes You Can't Make It On Your Own
+Foo Fighters - Let It Die
 
-**Albums**: How To Dismantle An Atomic Bomb
+**Albums**: Echoes, Silence, Patience & Grace
 
-Last updated at 03/11/2021 18:44
+Last updated at 03/11/2021 18:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
