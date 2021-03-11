@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/B2m_WnXjqnM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=B2m_WnXjqnM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6Swdv_LKzQc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6Swdv_LKzQc)
 
-What So Not - High You Are (Branchez Remix)
+루이 더 차일드 및 덕워스 - Get Together
 
-**Albums**: 조회수 5660만회
+**Albums**: 조회수 2.8만회
 
-Last updated at 03/11/2021 11:23
+Last updated at 03/11/2021 11:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
