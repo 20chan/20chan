@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/4Da5k2HVftA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4Da5k2HVftA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/bRe03Nc6oG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bRe03Nc6oG8)
 
-MARQUESE SCOTT - Rise & Fall | Dubstep
+Nurko - Let Me Go(피처링: 알리나 르네)
 
-**Albums**: 조회수 24만회
+**Albums**: 조회수 17만회
 
-Last updated at 03/11/2021 11:41
+Last updated at 03/11/2021 11:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
