@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Cf_84ZbV77E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Cf_84ZbV77E)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/MDJ0U4FC5KM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MDJ0U4FC5KM)
 
-DROELOE - Wake The Warrior
+산 홀로 - RAW
 
-**Albums**: 조회수 2.7만회
+**Albums**: 조회수 625만회
 
-Last updated at 03/11/2021 10:39
+Last updated at 03/11/2021 10:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
