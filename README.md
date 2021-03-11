@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/I9nU6QIPVMvC2vyjZY3ZIHBXmRTDS_dhC7IBd-ZCZuI6Le7zpXkh525v9EgI6qT_mzONzVZgmwVw96FG">](https://music.youtube.com/watch?v=LA279p9K7GY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/229bErE63A6cZfHAi7RNSA9xSfBO4NaeA7cNEGtTjJv8N457Yz01RAICVOUGiG93qurZJp4p3GBNhZBF">](https://music.youtube.com/watch?v=P0bHAyGhxE8)
 
-Oasis(오아시스) - Whatever
+그린 데이 - Welcome to Paradise
 
-**Albums**: Definitely Maybe (Deluxe Edition Remastered)
+**Albums**: Dookie
 
-Last updated at 03/11/2021 21:44
+Last updated at 03/11/2021 21:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
