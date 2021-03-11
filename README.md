@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/F0taPg3xk8s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=F0taPg3xk8s)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/AQExFj6VKbU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=AQExFj6VKbU)
 
-20Syl - Dust Clouds
+일레니엄 - Needed You(피처링: 디아 프램프턴)
 
-**Albums**: 조회수 126만회
+**Albums**: 조회수 81만회
 
-Last updated at 03/11/2021 13:20
+Last updated at 03/11/2021 13:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
