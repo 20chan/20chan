@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/Mqbw7CUVWhM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=Mqbw7CUVWhM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/b-s1CQLo0ds/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=b-s1CQLo0ds)
 
-20Syl - Kodama
+MrSuicideSheep - Whethan - Can't Hide (feat. Ashe)
 
-**Albums**: 조회수 423만회
+**Albums**: 조회수 781만회
 
-Last updated at 03/11/2021 10:54
+Last updated at 03/11/2021 10:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
