@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_dTgdJhdrfqHsgGxUcSnelrHoLO1TGyzksEH15P_-8nlRI3A4HtO81EJCVRVm5EeM63fL1P8b0S1syC">](https://music.youtube.com/watch?v=C08__yI_48U)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7W2iYR1Bi5nX2A0i8zXjTPyVNKOOlRzpbzu3ez3xcjImpNvW9u9BmaWz6wVa1HIPAn7fhvu9aCwQRVI">](https://music.youtube.com/watch?v=Y4kqBkh8qcE)
 
-디 워 온 드러그 - Holding On
+존 포거티 - Blueboy
 
-**Albums**: A Deeper Understanding
+**Albums**: Blue Moon Swamp
 
-Last updated at 03/11/2021 19:02
+Last updated at 03/11/2021 19:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
