@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/9zra1L4t0ss/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=9zra1L4t0ss)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/U9P-BA91giY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U9P-BA91giY)
 
-J-Marin - My Lean
+MrSuicideSheep - Danrell - White Noise (feat. Ryder)
 
-**Albums**: 조회수 44만회
+**Albums**: 조회수 718만회
 
-Last updated at 03/11/2021 14:42
+Last updated at 03/11/2021 14:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
