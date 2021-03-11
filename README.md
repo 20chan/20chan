@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A">](https://music.youtube.com/watch?v=if_Te5GzuYo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xu9V0XDGut7Kd_fXr-ib6YtXLlrg25qH8GR0F6KzLssqMgDHoBsrLza8Xh3wGbQGjzAzRWnumQQRcws">](https://music.youtube.com/watch?v=ix5HAxiIzrQ)
 
-Foo Fighters - Low
+The Rolling Stones - Out Of Tears
 
-**Albums**: One By One
+**Albums**: Voodoo Lounge
 
-Last updated at 03/11/2021 20:03
+Last updated at 03/11/2021 20:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
