@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3QMxUP4YSbirCEQoo-aiO20iltWe9Qq37CxqT5M_9VdSMmXEPXIckyeRodSbPJF1pwyUTiiugFmbxlI3">](https://music.youtube.com/watch?v=v1b24aWSfpA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=kBMwT8GV1VA)
 
-Foo Fighters - Times Like These
+Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Tell Me Baby
 
-**Albums**: One By One (Expanded Edition)
+**Albums**: Stadium Arcadium
 
-Last updated at 03/11/2021 17:02
+Last updated at 03/11/2021 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
