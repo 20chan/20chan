@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">](https://music.youtube.com/watch?v=s4ptSaCG9pg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2Wl0IFLk3AEgnUS7MwbHtILcZq6PT-DpZs8dtb-ilw0sojuFAwDMQanKE18dGRsQPz7MLhPARhpD_Awy">](https://music.youtube.com/watch?v=UfItWcGzdQA)
 
-그린 데이 - East Jesus Nowhere
+브루스 스프링스틴 - Waitin' On A Sunny Day
 
-**Albums**: 21st Century Breakdown
+**Albums**: The Rising
 
-Last updated at 03/11/2021 18:54
+Last updated at 03/11/2021 18:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
