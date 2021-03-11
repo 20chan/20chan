@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Of3zBUDoSRn5QKgEXb0TXkf7ttAikU2W8l34MfXbODX6jtN0cXTMduyXEOEHqzOgBY5hVySW3yh6YJEU">](https://music.youtube.com/watch?v=Y9XXeznskQ4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A">](https://music.youtube.com/watch?v=KlWBO9m52Fk)
 
-산타나 - Maria Maria (radio mix)(피처링: The Product G&B)
+Foo Fighters - All My Life
 
-**Albums**: Supernatural (Remastered)
+**Albums**: One By One
 
-Last updated at 03/11/2021 16:16
+Last updated at 03/11/2021 16:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
