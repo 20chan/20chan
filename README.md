@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/E5207XMJhmpXi7ieNmafc3X4llprtwbdDmTOssNJUdAehoiw75ks6VrPo01_d-OHhAbIe2OwS6S58Yib">](https://music.youtube.com/watch?v=iMdwKnpt5wc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vWKe-wLogiFuRowDrc1g9oNP5p8PgZD-W4jgRDUK2AS8oP81vRMVnNNWLEOrbJ7yJD0jDvAZ8rRfphRvQA">](https://music.youtube.com/watch?v=gYCTXzOTnXg)
 
-U2 - Every Breaking Wave
+그린 데이 - Boulevard of Broken Dreams
 
-**Albums**: Songs Of Innocence
+**Albums**: Greatest Hits: God's Favorite Band
 
-Last updated at 03/11/2021 22:15
+Last updated at 03/11/2021 22:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
