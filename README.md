@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Of3zBUDoSRn5QKgEXb0TXkf7ttAikU2W8l34MfXbODX6jtN0cXTMduyXEOEHqzOgBY5hVySW3yh6YJEU">](https://music.youtube.com/watch?v=nJ3Yb2L2838)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY">](https://music.youtube.com/watch?v=WHzGYudqdiw)
 
-산타나 - Put Your Lights On(피처링: Everlast)
+Foo Fighters - These Days
 
-**Albums**: Supernatural (Remastered)
+**Albums**: Wasting Light
 
-Last updated at 03/11/2021 17:50
+Last updated at 03/11/2021 17:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
