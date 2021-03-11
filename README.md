@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=kBMwT8GV1VA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AA8daBZAWjmQMsulwEtZ9fp0ni7t-y97J-er0DjsjKj2cyNyen3Di2CSZ9gE-joTqA3GxodJ1MQQOWzo">](https://music.youtube.com/watch?v=ywpJACWd0dA)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Tell Me Baby
+Muse(뮤즈) - Resistance
 
-**Albums**: Stadium Arcadium
+**Albums**: The Resistance
 
-Last updated at 03/11/2021 17:07
+Last updated at 03/11/2021 17:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
