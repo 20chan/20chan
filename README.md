@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aUs9JPxr2nWmA6_8bL1YIjI6xHM7TfwZifuA_R76Y9WinfOSval3RCb8x1lkEtq1G-5gwrHYSaQkAUkz">](https://music.youtube.com/watch?v=s6GIT4RhFv0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0t56z7BHoL-y707OisUF5JfM6fJFKdhRUW9XHoW120v7PdeNGrXRh68djTKXaRJy1oc3fFfLcWBO8ndU_g">](https://music.youtube.com/watch?v=BMMGwtklEeE)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Snow (Hey Oh)
+Foo Fighters - The Pretender
 
-**Albums**: Stadium Arcadium
+**Albums**: Echoes, Silence, Patience & Grace
 
-Last updated at 03/11/2021 15:06
+Last updated at 03/11/2021 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
