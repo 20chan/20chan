@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/u83uRU7i0E0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=u83uRU7i0E0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/YwR1dpsDRdU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YwR1dpsDRdU)
 
-미아 베일 - American Dream
+LPX 및 What So Not - Better(피처링: LPX)
 
-**Albums**: 조회수 47만회
+**Albums**: 조회수 104만회
 
-Last updated at 03/11/2021 14:26
+Last updated at 03/11/2021 14:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
