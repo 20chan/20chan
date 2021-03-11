@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/YwR1dpsDRdU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=YwR1dpsDRdU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/ONFYbLdRTD8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ONFYbLdRTD8)
 
-LPX 및 What So Not - Better(피처링: LPX)
+Squired & Minit, Squired, Minit - Awake
 
-**Albums**: 조회수 104만회
+**Albums**: 조회수 3.5만회
 
-Last updated at 03/11/2021 14:30
+Last updated at 03/11/2021 14:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
