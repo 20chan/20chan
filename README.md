@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yV9729eYCC3OBtK8ORb4HlsNp6JvGOokmL0Uk3a97KuCFdRUDpjYVU2OZ6h5i6tUHEXIuVu5wGOd1nrPyA">](https://music.youtube.com/watch?v=_cr33vD24wU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2Wl0IFLk3AEgnUS7MwbHtILcZq6PT-DpZs8dtb-ilw0sojuFAwDMQanKE18dGRsQPz7MLhPARhpD_Awy">](https://music.youtube.com/watch?v=ycrFcPmMuqg)
 
-Sheryl Crow - My Favorite Mistake
+브루스 스프링스틴 - Lonesome Day
 
-**Albums**: The Globe Sessions
+**Albums**: The Rising
 
-Last updated at 03/11/2021 20:13
+Last updated at 03/11/2021 20:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
