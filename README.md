@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bxZTBpY7erVQlnSEarqeZlaDtIecqXKG2SUfatYuEdtiay85xd0N6AyFSaBBPIs7H_i0chNZGYPkbmc">](https://music.youtube.com/watch?v=0UHUQ9wuNKI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0t56z7BHoL-y707OisUF5JfM6fJFKdhRUW9XHoW120v7PdeNGrXRh68djTKXaRJy1oc3fFfLcWBO8ndU_g">](https://music.youtube.com/watch?v=apy6d_coAFY)
 
-Coldplay(콜드플레이) - Lost!
+Foo Fighters - Long Road To Ruin
 
-**Albums**: Viva La Vida (Prospekt's March Edition)
+**Albums**: Echoes, Silence, Patience & Grace
 
-Last updated at 03/11/2021 19:36
+Last updated at 03/11/2021 19:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
