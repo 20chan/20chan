@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/v8B5AOljhsY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=v8B5AOljhsY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/uyxAwyveuJg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uyxAwyveuJg)
 
-산 홀로 - We Rise (Acoustic)
+Delta Heavy 및 제드 데드 - Lift You Up (Yvng Jalapeño Remix)
 
-**Albums**: 조회수 1.1억회
+**Albums**: 조회수 1.9만회
 
-Last updated at 03/11/2021 11:28
+Last updated at 03/11/2021 11:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
