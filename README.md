@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/-9T5fLmn7rY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=-9T5fLmn7rY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/B2m_WnXjqnM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=B2m_WnXjqnM)
 
-일레니엄 - It’s All on U(피처링: Liam O'Donnell)
+What So Not - High You Are (Branchez Remix)
 
-**Albums**: 조회수 4592만회
+**Albums**: 조회수 5660만회
 
-Last updated at 03/11/2021 11:19
+Last updated at 03/11/2021 11:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
