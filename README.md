@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/ONFYbLdRTD8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=ONFYbLdRTD8)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/KeSUZJkFb1M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=KeSUZJkFb1M)
 
-Squired & Minit, Squired, Minit - Awake
+DROELOE 및 Vinzere - Nothing Wrong
 
-**Albums**: 조회수 3.5만회
+**Albums**: 조회수 61만회
 
-Last updated at 03/11/2021 14:33
+Last updated at 03/11/2021 14:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
