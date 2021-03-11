@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oXkMqBsAK1FwXEdhwgRIpnWt989JE2eW7aJZtIa93lpZoFDYkyRtRbqut7v8DCDeA8ZL3zre4cbcQYKBnw">](https://music.youtube.com/watch?v=8tPsaSPraks)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWkZaxW3vojNbI0hS2WtY5dFyKt3hy25CBcjCCTuRGPHepp9LpV0AvZj7Ab4ul1qDduNwfU3oAxQhJDK">](https://music.youtube.com/watch?v=VJx7Et20OI0)
 
-The Black Keys - Gold on the Ceiling
+케이지 디 엘리펀트 - Cold Cold Cold
 
-**Albums**: El Camino
+**Albums**: Tell Me I'm Pretty
 
-Last updated at 03/11/2021 15:40
+Last updated at 03/11/2021 15:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
