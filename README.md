@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/iRInHpZQeh4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=iRInHpZQeh4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/BI2KUXOFzVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=BI2KUXOFzVQ)
 
-루이 더 차일드 - What A World
+타스카 블랙 - In Your Eyes(피처링: Ayelle)
 
-**Albums**: 조회수 3.6만회
+**Albums**: 조회수 5만회
 
-Last updated at 03/11/2021 13:29
+Last updated at 03/11/2021 13:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
