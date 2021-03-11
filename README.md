@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY">](https://music.youtube.com/watch?v=WHzGYudqdiw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">](https://music.youtube.com/watch?v=TFR0hH7dx9Y)
 
-Foo Fighters - These Days
+그린 데이 - Know Your Enemy
 
-**Albums**: Wasting Light
+**Albums**: 21st Century Breakdown
 
-Last updated at 03/11/2021 17:55
+Last updated at 03/11/2021 18:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
