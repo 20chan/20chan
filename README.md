@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fDs93jkuiWLUevWu4of8oKreYAhmDAxVj9JhU5DrowTXDaR8oM_L1ppDHdJk0XgcHK9kBjjrPZhnM-c_">](https://music.youtube.com/watch?v=87lZG6ikr20)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YnIfvvkEB0q3amRXEjXQqrSW003USEp4ljuR3YKefywZNrTjYfm_b_wCtpkrSxpMH9LwNGL22oE_ZGNhYw">](https://music.youtube.com/watch?v=--415EOiXtQ)
 
-Muse(뮤즈) - The Handler
+Green Day - Stray Heart
 
-**Albums**: Drones
+**Albums**: ¡DOS!
 
-Last updated at 03/11/2021 21:54
+Last updated at 03/11/2021 21:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
