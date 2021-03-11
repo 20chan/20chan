@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=YIebotSzl5Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A">](https://music.youtube.com/watch?v=if_Te5GzuYo)
 
-Beck - Heart Is A Drum
+Foo Fighters - Low
 
-**Albums**: Morning Phase
+**Albums**: One By One
 
-Last updated at 03/11/2021 19:59
+Last updated at 03/11/2021 20:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
