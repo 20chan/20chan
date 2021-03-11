@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0t56z7BHoL-y707OisUF5JfM6fJFKdhRUW9XHoW120v7PdeNGrXRh68djTKXaRJy1oc3fFfLcWBO8ndU_g">](https://music.youtube.com/watch?v=apy6d_coAFY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dZQmr_haIHqCRrDI_l-UYYCGrNvv9Zi55fJ18wkVbu2WDP4P0gntGPn48gqdH2YniKojau2WiiDHgY2P">](https://music.youtube.com/watch?v=15x8znT7bgs)
 
-Foo Fighters - Long Road To Ruin
+U2 - Elevation
 
-**Albums**: Echoes, Silence, Patience & Grace
+**Albums**: U218 Singles (Deluxe Version)
 
-Last updated at 03/11/2021 19:40
+Last updated at 03/11/2021 19:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
