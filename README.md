@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/p6jrxq0h-r1ztL9TTvfsH8fM1bpIjc83O-4xZsslvJ8LkLsEYW8FnToeF-xLfKSBnHbbmFY2ocCExUQ">](https://music.youtube.com/watch?v=yjpIAejd-O8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=oPwMactlIac)
 
-Muse(뮤즈) - Pressure
+Beck - Waking Light
 
-**Albums**: Pressure
+**Albums**: Morning Phase
 
-Last updated at 03/11/2021 21:21
+Last updated at 03/11/2021 21:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
