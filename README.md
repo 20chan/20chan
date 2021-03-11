@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/BI2KUXOFzVQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=BI2KUXOFzVQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/WLSCnx3kMjI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WLSCnx3kMjI)
 
-타스카 블랙 - In Your Eyes(피처링: Ayelle)
+Veorra - Not Yet
 
-**Albums**: 조회수 5만회
+**Albums**: 조회수 80만회
 
-Last updated at 03/11/2021 13:33
+Last updated at 03/11/2021 13:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
