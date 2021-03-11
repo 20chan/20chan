@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_dTgdJhdrfqHsgGxUcSnelrHoLO1TGyzksEH15P_-8nlRI3A4HtO81EJCVRVm5EeM63fL1P8b0S1syC">](https://music.youtube.com/watch?v=NVKbnXRXQog)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uIvh_nHhKDBLQoi-DtLllajBBfqf9bMzLTMJh7qgjfkYkYwdB0Ql1dibkkz-0FXlg0TOYfSTDvzIfTI7">](https://music.youtube.com/watch?v=HJMLLKgknvk)
 
-디 워 온 드러그 - Thinking Of A Place
+Foo Fighters - Learn to Fly
 
-**Albums**: A Deeper Understanding
+**Albums**: There Is Nothing Left To Lose
 
-Last updated at 03/11/2021 15:48
+Last updated at 03/11/2021 15:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
