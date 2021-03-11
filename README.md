@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=oPwMactlIac)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD">](https://music.youtube.com/watch?v=BLZWkjBXfN8)
 
-Beck - Waking Light
+Linkin Park(린킨 파크) - In the End
 
-**Albums**: Morning Phase
+**Albums**: Hybrid Theory (Bonus Edition)
 
-Last updated at 03/11/2021 21:25
+Last updated at 03/11/2021 21:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
