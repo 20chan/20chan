@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=E__5pGoJbU0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uIvh_nHhKDBLQoi-DtLllajBBfqf9bMzLTMJh7qgjfkYkYwdB0Ql1dibkkz-0FXlg0TOYfSTDvzIfTI7">](https://music.youtube.com/watch?v=vPN8JOeZxwQ)
 
-Beck - Say Goodbye
+Foo Fighters - Next Year
 
-**Albums**: Morning Phase
+**Albums**: There Is Nothing Left To Lose
 
-Last updated at 03/11/2021 20:27
+Last updated at 03/11/2021 20:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
