@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/VbyLYz3a9NU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VbyLYz3a9NU)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/jBVmcmrv_ik/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=jBVmcmrv_ik)
 
-Proximity - pronouncedyea x Far & Few - iwantuu (feat. Rio Sauuer)
+산 홀로 - Brighter Days(피처링: 비폴라 선샤인)
 
-**Albums**: 조회수 117만회
+**Albums**: 조회수 5.8만회
 
-Last updated at 03/11/2021 11:58
+Last updated at 03/11/2021 12:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
