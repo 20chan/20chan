@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xu9V0XDGut7Kd_fXr-ib6YtXLlrg25qH8GR0F6KzLssqMgDHoBsrLza8Xh3wGbQGjzAzRWnumQQRcws">](https://music.youtube.com/watch?v=NeI1EaVXfXw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fDs93jkuiWLUevWu4of8oKreYAhmDAxVj9JhU5DrowTXDaR8oM_L1ppDHdJk0XgcHK9kBjjrPZhnM-c_">](https://music.youtube.com/watch?v=xMUM6gtwJzQ)
 
-The Rolling Stones - Love Is Strong
+Muse(뮤즈) - Mercy
 
-**Albums**: Voodoo Lounge
+**Albums**: Drones
 
-Last updated at 03/11/2021 18:22
+Last updated at 03/11/2021 18:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
