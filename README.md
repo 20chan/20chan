@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/oWapJUkANkcHAHkSLTrrTp5Di6DrMFjaGQ7s1W4YKFK37F1g_kzAvgGHeSxC_SrgUCU--_DswLjutcA">](https://music.youtube.com/watch?v=38DzgoMQGeg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXFGtBhmxZd0cWbwgJCsaUvLH59uZe_T_9E1plQPi_zHBuPAHTuhzz_h8I-uIYaXJMKvVfRB7gcRJFI">](https://music.youtube.com/watch?v=J0xe5DcnYSA)
 
-케이지 디 엘리펀트 - Ready To Let Go
+Green Day - Holiday / Boulevard of Broken Dreams
 
-**Albums**: Social Cues
+**Albums**: American Idiot
 
-Last updated at 03/11/2021 14:55
+Last updated at 03/11/2021 14:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
