@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/l7LafIpW0K0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=l7LafIpW0K0)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zyXmsVwZqX4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=zyXmsVwZqX4)
 
-DROELOE - Kintsugi
+Cartoon, 콜맨 트랩 - Why We Lose
 
-**Albums**: 조회수 16만회
+**Albums**: 조회수 1.6억회
 
-Last updated at 03/11/2021 14:47
+Last updated at 03/11/2021 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
