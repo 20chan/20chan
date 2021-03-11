@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/VjEJgBcN0hA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VjEJgBcN0hA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/xlMpamDxwSo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=xlMpamDxwSo)
 
-앰프 라이브 - Amp Live 8 Rememberance
+What So Not, BURNS - Trust(피처링: 마이른)
 
-**Albums**: 조회수 3.9만회
+**Albums**: 조회수 2.8만회
 
-Last updated at 03/11/2021 12:19
+Last updated at 03/11/2021 12:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
