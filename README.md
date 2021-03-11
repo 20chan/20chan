@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/_1ab7lWDQmA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=_1ab7lWDQmA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VjEJgBcN0hA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VjEJgBcN0hA)
 
-MEMBA 및 EVAN GIIA - For Aisha (Featured in "The Sky Is Pink")(피처링: Nooran Sisters)
+앰프 라이브 - Amp Live 8 Rememberance
 
-**Albums**: 조회수 278만회
+**Albums**: 조회수 3.9만회
 
-Last updated at 03/11/2021 12:16
+Last updated at 03/11/2021 12:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
