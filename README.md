@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fDs93jkuiWLUevWu4of8oKreYAhmDAxVj9JhU5DrowTXDaR8oM_L1ppDHdJk0XgcHK9kBjjrPZhnM-c_">](https://music.youtube.com/watch?v=xMUM6gtwJzQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_dTgdJhdrfqHsgGxUcSnelrHoLO1TGyzksEH15P_-8nlRI3A4HtO81EJCVRVm5EeM63fL1P8b0S1syC">](https://music.youtube.com/watch?v=nbQTBYfLcfg)
 
-Muse(뮤즈) - Mercy
+디 워 온 드러그 - Pain
 
-**Albums**: Drones
+**Albums**: A Deeper Understanding
 
-Last updated at 03/11/2021 18:26
+Last updated at 03/11/2021 18:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
