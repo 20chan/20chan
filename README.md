@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MNMxpgcqEIE9nXhCsHXO9oQwZvnJbJeKMUYy1_HhGd-vjQ2P_7sAdE2VCiRopvLUVnZXIq-4rj2V3nlH">](https://music.youtube.com/watch?v=voQHSsQF9Vs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Z4gcZIbOwswELkzEAjjSQ56XattBJrb454TeGN2gL17l-5ve-hIoB1LtEqcse2GHcN0CtJdMsI6hpaNX">](https://music.youtube.com/watch?v=SjWe5Pvl0cI)
 
-Sheryl Crow - A Change Would Do You Good
+Sheryl Crow - Sweet Child O' Mine (Rick Rubin New Mix)
 
-**Albums**: Sheryl Crow
+**Albums**: Hits And Rarities
 
-Last updated at 03/11/2021 20:39
+Last updated at 03/11/2021 20:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
