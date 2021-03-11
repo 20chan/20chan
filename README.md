@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/U9P-BA91giY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=U9P-BA91giY)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/l7LafIpW0K0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=l7LafIpW0K0)
 
-MrSuicideSheep - Danrell - White Noise (feat. Ryder)
+DROELOE - Kintsugi
 
-**Albums**: 조회수 718만회
+**Albums**: 조회수 16만회
 
-Last updated at 03/11/2021 14:44
+Last updated at 03/11/2021 14:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
