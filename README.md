@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UWkZaxW3vojNbI0hS2WtY5dFyKt3hy25CBcjCCTuRGPHepp9LpV0AvZj7Ab4ul1qDduNwfU3oAxQhJDK">](https://music.youtube.com/watch?v=w41e0aBkoZs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/gbM_Jqu-mSAs_dkz0LwSGq_Er6vuBwpagpMNZE3QJAvDVmjC3h6eYyd77-QQl0DeeyVuEN6NJ0IqHsW1">](https://music.youtube.com/watch?v=j4NM7hB_DeA)
 
-케이지 디 엘리펀트 - Trouble
+그레타 반 플릿 - When The Curtain Falls
 
-**Albums**: Tell Me I'm Pretty
+**Albums**: Anthem Of The Peaceful Army
 
-Last updated at 03/11/2021 16:55
+Last updated at 03/11/2021 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
