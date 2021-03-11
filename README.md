@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/v21maX_2whk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=v21maX_2whk)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VbyLYz3a9NU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VbyLYz3a9NU)
 
-매튜 코마 및 Flux Pavilion - Emotional
+Proximity - pronouncedyea x Far & Few - iwantuu (feat. Rio Sauuer)
 
-**Albums**: 조회수 25만회
+**Albums**: 조회수 117만회
 
-Last updated at 03/11/2021 11:54
+Last updated at 03/11/2021 11:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
