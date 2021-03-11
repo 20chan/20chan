@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/tDwvFEPj1Nc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=tDwvFEPj1Nc)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/VDt1Sxn5Noc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=VDt1Sxn5Noc)
 
-MrSuicideSheep - Yeah Nah - Tribe (feat. Cam Nacson)
+Bass Nation - Delp & YABØII - Session
 
-**Albums**: 조회수 390만회
+**Albums**: 조회수 50만회
 
-Last updated at 03/11/2021 12:07
+Last updated at 03/11/2021 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
