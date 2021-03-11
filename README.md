@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uOFTqVi-qp4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uOFTqVi-qp4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/zV4G64r91t4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=zV4G64r91t4)
 
-산 홀로 - Light
+Hayden James - Something About You (ODESZA Remix)
 
-**Albums**: 조회수 238만회
+**Albums**: 조회수 706만회
 
-Last updated at 03/11/2021 12:52
+Last updated at 03/11/2021 12:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
