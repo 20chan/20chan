@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=Iph0Nv3Eljk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/2Wl0IFLk3AEgnUS7MwbHtILcZq6PT-DpZs8dtb-ilw0sojuFAwDMQanKE18dGRsQPz7MLhPARhpD_Awy">](https://music.youtube.com/watch?v=r5_8gpiSotI)
 
-Beck - Blue Moon
+브루스 스프링스틴 - The Rising
 
-**Albums**: Morning Phase
+**Albums**: The Rising
 
-Last updated at 03/11/2021 19:20
+Last updated at 03/11/2021 19:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
