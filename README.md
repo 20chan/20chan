@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fDs93jkuiWLUevWu4of8oKreYAhmDAxVj9JhU5DrowTXDaR8oM_L1ppDHdJk0XgcHK9kBjjrPZhnM-c_">](https://music.youtube.com/watch?v=FdfD_My85hY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/jFVDMJtbhEdnQ6Xtk3zcU3xgRNgjP5OUStejW_ejM_OKD08DVai87pgnOoLD6NDnli9RWJSRHQuvDGeD">](https://music.youtube.com/watch?v=K_f85Zc6u-U)
 
-Muse(뮤즈) - Dead Inside
+Alanis Morissette - You Oughta Know
 
-**Albums**: Drones
+**Albums**: Jagged Little Pill
 
-Last updated at 03/11/2021 18:03
+Last updated at 03/11/2021 18:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
