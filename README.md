@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9WKdOo3ZWh-RX8cDJFstFmRVcHKryi8duxdX2ZtssqzWD9P5hVbde1ILZBy_IatjJg3TN2IstLZFuesV">](https://music.youtube.com/watch?v=QrqPjFyM0wg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oXkMqBsAK1FwXEdhwgRIpnWt989JE2eW7aJZtIa93lpZoFDYkyRtRbqut7v8DCDeA8ZL3zre4cbcQYKBnw">](https://music.youtube.com/watch?v=9DYPfItb2fk)
 
-U2 - Beautiful Day
+The Black Keys - Lonely Boy
 
-**Albums**: All That You Can't Leave Behind
+**Albums**: El Camino
 
-Last updated at 03/11/2021 16:05
+Last updated at 03/11/2021 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
