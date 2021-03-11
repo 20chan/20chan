@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/X1AmAdIuHAwKhvQ84pqdZhERpWqfDeDM9i8XSnrDTISy7xtdflSXEoQiQyDJfZ6NDi3vh399e_MAcdvJ">](https://music.youtube.com/watch?v=U7k2qv8KTDI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hwAtlrtNT39sUhHMHe2lNcOaH3wezcvNlAZzc_Elho4_oCWNbyy8pK2Vy177DXVpka2yc44FR1W-1sJ">](https://music.youtube.com/watch?v=ecHf1zkYRVg)
 
-Red Hot Chili Peppers(레드 핫 칠리 페퍼스) - Scar Tissue
+Sum 41 - In Too Deep
 
-**Albums**: Californication
+**Albums**: All Killer, No Filler
 
-Last updated at 03/11/2021 21:33
+Last updated at 03/11/2021 21:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
