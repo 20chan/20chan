@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/mgdt0zXJbKA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=mgdt0zXJbKA)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/F0taPg3xk8s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=F0taPg3xk8s)
 
-Trap City - Oniix - Droppin Bombs
+20Syl - Dust Clouds
 
-**Albums**: 조회수 156만회
+**Albums**: 조회수 126만회
 
-Last updated at 03/11/2021 13:17
+Last updated at 03/11/2021 13:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
