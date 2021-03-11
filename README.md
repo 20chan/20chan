@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/gbM_Jqu-mSAs_dkz0LwSGq_Er6vuBwpagpMNZE3QJAvDVmjC3h6eYyd77-QQl0DeeyVuEN6NJ0IqHsW1">](https://music.youtube.com/watch?v=PoCC8jgECIM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY">](https://music.youtube.com/watch?v=FQU0QOmwHFA)
 
-그레타 반 플릿 - You're The One
+Foo Fighters - Walk
 
-**Albums**: Anthem Of The Peaceful Army
+**Albums**: Wasting Light
 
-Last updated at 03/11/2021 17:25
+Last updated at 03/11/2021 17:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
