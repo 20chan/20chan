@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7W2iYR1Bi5nX2A0i8zXjTPyVNKOOlRzpbzu3ez3xcjImpNvW9u9BmaWz6wVa1HIPAn7fhvu9aCwQRVI">](https://music.youtube.com/watch?v=1nGRvJuC1EU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bxZTBpY7erVQlnSEarqeZlaDtIecqXKG2SUfatYuEdtiay85xd0N6AyFSaBBPIs7H_i0chNZGYPkbmc">](https://music.youtube.com/watch?v=0UHUQ9wuNKI)
 
-존 포거티 - Hot Rod Heart
+Coldplay(콜드플레이) - Lost!
 
-**Albums**: Blue Moon Swamp
+**Albums**: Viva La Vida (Prospekt's March Edition)
 
-Last updated at 03/11/2021 19:32
+Last updated at 03/11/2021 19:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
