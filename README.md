@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uIvh_nHhKDBLQoi-DtLllajBBfqf9bMzLTMJh7qgjfkYkYwdB0Ql1dibkkz-0FXlg0TOYfSTDvzIfTI7">](https://music.youtube.com/watch?v=vPN8JOeZxwQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RlTAgFwcjJGn7JZlvqfPJk7q3H30XF0rWpCoGfy20RqzRO1ww6HtcdSpyvo7E_ylj0zwmyeQ_l6pgVkyIw">](https://music.youtube.com/watch?v=5kzg4pDk_FU)
 
-Foo Fighters - Next Year
+U2 - City Of Blinding Lights (Radio Edit)
 
-**Albums**: There Is Nothing Left To Lose
+**Albums**: City Of Blinding Lights
 
-Last updated at 03/11/2021 20:31
+Last updated at 03/11/2021 20:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
