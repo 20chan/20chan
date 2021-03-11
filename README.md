@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/C1pQxz5wzjQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=C1pQxz5wzjQ)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/v21maX_2whk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=v21maX_2whk)
 
-MrSuicideSheep - Jacob Tillberg - A Dream
+매튜 코마 및 Flux Pavilion - Emotional
 
-**Albums**: 조회수 223만회
+**Albums**: 조회수 25만회
 
-Last updated at 03/11/2021 11:51
+Last updated at 03/11/2021 11:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
