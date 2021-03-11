@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AA8daBZAWjmQMsulwEtZ9fp0ni7t-y97J-er0DjsjKj2cyNyen3Di2CSZ9gE-joTqA3GxodJ1MQQOWzo">](https://music.youtube.com/watch?v=Y4R6k8_iIkE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bxZTBpY7erVQlnSEarqeZlaDtIecqXKG2SUfatYuEdtiay85xd0N6AyFSaBBPIs7H_i0chNZGYPkbmc">](https://music.youtube.com/watch?v=3a-q7vPa-UU)
 
-Muse(뮤즈) - Uprising
+Coldplay(콜드플레이) - Viva La Vida
 
-**Albums**: The Resistance
+**Albums**: Viva La Vida (Prospekt's March Edition)
 
-Last updated at 03/11/2021 15:16
+Last updated at 03/11/2021 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
