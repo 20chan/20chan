@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/1hhCjrIw_5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1hhCjrIw_5U)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/4Da5k2HVftA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=4Da5k2HVftA)
 
-Trap City - Kaivon - I Love You.
+MARQUESE SCOTT - Rise & Fall | Dubstep
 
-**Albums**: 조회수 43만회
+**Albums**: 조회수 24만회
 
-Last updated at 03/11/2021 11:37
+Last updated at 03/11/2021 11:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
