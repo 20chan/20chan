@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/uyxAwyveuJg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=uyxAwyveuJg)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/1hhCjrIw_5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=1hhCjrIw_5U)
 
-Delta Heavy 및 제드 데드 - Lift You Up (Yvng Jalapeño Remix)
+Trap City - Kaivon - I Love You.
 
-**Albums**: 조회수 1.9만회
+**Albums**: 조회수 43만회
 
-Last updated at 03/11/2021 11:33
+Last updated at 03/11/2021 11:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
