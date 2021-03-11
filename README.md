@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/WLSCnx3kMjI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=WLSCnx3kMjI)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/6WbZIoCtBmk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=6WbZIoCtBmk)
 
-Veorra - Not Yet
+Wide Awake - Ready
 
-**Albums**: 조회수 80만회
+**Albums**: 조회수 2148만회
 
-Last updated at 03/11/2021 13:37
+Last updated at 03/11/2021 14:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
