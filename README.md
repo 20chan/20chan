@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0t56z7BHoL-y707OisUF5JfM6fJFKdhRUW9XHoW120v7PdeNGrXRh68djTKXaRJy1oc3fFfLcWBO8ndU_g">](https://music.youtube.com/watch?v=BMMGwtklEeE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/AA8daBZAWjmQMsulwEtZ9fp0ni7t-y97J-er0DjsjKj2cyNyen3Di2CSZ9gE-joTqA3GxodJ1MQQOWzo">](https://music.youtube.com/watch?v=Y4R6k8_iIkE)
 
-Foo Fighters - The Pretender
+Muse(뮤즈) - Uprising
 
-**Albums**: Echoes, Silence, Patience & Grace
+**Albums**: The Resistance
 
-Last updated at 03/11/2021 15:12
+Last updated at 03/11/2021 15:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
