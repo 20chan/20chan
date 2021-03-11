@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/zyXmsVwZqX4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=zyXmsVwZqX4)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/JrXJp9Q-13I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JrXJp9Q-13I)
 
-Cartoon, 콜맨 트랩 - Why We Lose
+Bass Nation - Exodus - KÉDALOS, MCTR, Lenny, STRADEUS, Yaguru, SL!DE, COSMIC, skypierr, hélix & THROVN
 
-**Albums**: 조회수 1.6억회
+**Albums**: 조회수 96만회
 
-Last updated at 03/11/2021 14:51
+Last updated at 03/11/2021 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
