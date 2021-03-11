@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yV9729eYCC3OBtK8ORb4HlsNp6JvGOokmL0Uk3a97KuCFdRUDpjYVU2OZ6h5i6tUHEXIuVu5wGOd1nrPyA">](https://music.youtube.com/watch?v=PIKuZjztmhM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aIYnooOgxTKPLd3KuATaK-MVCW2sI5jKmO24INE7b3s9848x10T7ZAmM9K4yhwr9Xv3FuMWPOGX2dX7v9g">](https://music.youtube.com/watch?v=UmTG7PAn0pk)
 
-Sheryl Crow - Mississippi
+Beck - Blackbird Chain
 
-**Albums**: The Globe Sessions
+**Albums**: Morning Phase
 
-Last updated at 03/11/2021 20:47
+Last updated at 03/11/2021 20:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
