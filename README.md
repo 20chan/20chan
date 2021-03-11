@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/MDJ0U4FC5KM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=MDJ0U4FC5KM)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/RoDvDSMGE5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=RoDvDSMGE5g)
 
-산 홀로 - RAW
+BEAUZ - Count The Hours
 
-**Albums**: 조회수 625만회
+**Albums**: 조회수 1만회
 
-Last updated at 03/11/2021 10:43
+Last updated at 03/11/2021 10:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
