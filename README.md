@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/b-s1CQLo0ds/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=b-s1CQLo0ds)
+[<img align="left" width="100" src="https://i.ytimg.com/vi/bwrCCc6hWKo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=bwrCCc6hWKo)
 
-MrSuicideSheep - Whethan - Can't Hide (feat. Ashe)
+Jo Cohen & BQ - Glowing at Night
 
-**Albums**: 조회수 781만회
+**Albums**: 조회수 576만회
 
-Last updated at 03/11/2021 10:57
+Last updated at 03/11/2021 11:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
