@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/2Wl0IFLk3AEgnUS7MwbHtILcZq6PT-DpZs8dtb-ilw0sojuFAwDMQanKE18dGRsQPz7MLhPARhpD_Awy">](https://music.youtube.com/watch?v=r5_8gpiSotI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xu9V0XDGut7Kd_fXr-ib6YtXLlrg25qH8GR0F6KzLssqMgDHoBsrLza8Xh3wGbQGjzAzRWnumQQRcws">](https://music.youtube.com/watch?v=jNW_LLazHRI)
 
-브루스 스프링스틴 - The Rising
+The Rolling Stones - You Got Me Rocking
 
-**Albums**: The Rising
+**Albums**: Voodoo Lounge
 
-Last updated at 03/11/2021 19:24
+Last updated at 03/11/2021 19:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
