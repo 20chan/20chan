@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.ytimg.com/vi/JrXJp9Q-13I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">](https://music.youtube.com/watch?v=JrXJp9Q-13I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oWapJUkANkcHAHkSLTrrTp5Di6DrMFjaGQ7s1W4YKFK37F1g_kzAvgGHeSxC_SrgUCU--_DswLjutcA">](https://music.youtube.com/watch?v=38DzgoMQGeg)
 
-Bass Nation - Exodus - KÉDALOS, MCTR, Lenny, STRADEUS, Yaguru, SL!DE, COSMIC, skypierr, hélix & THROVN
+케이지 디 엘리펀트 - Ready To Let Go
 
-**Albums**: 조회수 96만회
+**Albums**: Social Cues
 
-Last updated at 03/11/2021 14:54
+Last updated at 03/11/2021 14:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
