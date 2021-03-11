@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY">](https://music.youtube.com/watch?v=rC8jAR6lg6A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xu9V0XDGut7Kd_fXr-ib6YtXLlrg25qH8GR0F6KzLssqMgDHoBsrLza8Xh3wGbQGjzAzRWnumQQRcws">](https://music.youtube.com/watch?v=NeI1EaVXfXw)
 
-Foo Fighters - Rope
+The Rolling Stones - Love Is Strong
 
-**Albums**: Wasting Light
+**Albums**: Voodoo Lounge
 
-Last updated at 03/11/2021 18:18
+Last updated at 03/11/2021 18:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
