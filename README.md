@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/watch?v=SdahbIukU2g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/watch?v=obd6sddVGp4)
 
-버스커 버스커 - 그댈 마주하는건 힘들어 (그마힘)
+버스커 버스커 - 정말로 사랑한다면
 
 **Albums**: 버스커 버스커 1집 마무리
 
-Last updated at 03/12/2021 10:50
+Last updated at 03/12/2021 10:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
