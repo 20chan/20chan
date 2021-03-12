@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/watch?v=eq8_0g4YBPc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=xPrrodzLXYQ)
 
-버즈 - 가시
+버스커 버스커(Busker Busker) - 향수
 
-**Albums**: Buzz Effect
+**Albums**: 버스커 버스커 1집
 
-Last updated at 03/12/2021 12:43
+Last updated at 03/12/2021 12:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
