@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1ZeTcV2oV56Ex4MkO7Nb1xTbzU3U5NKkJ1r2dZjw0-RkU3mcWJrhhSDPq5Ll9MrqjYSAU-yijfZ9D08c">](https://music.youtube.com/watch?v=aAHMKfHfxkY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/watch?v=QyeKhvxLeRo)
 
-허각 - 하늘을 달리다
+Norazo - 형 (兄)
 
-**Albums**: 허각 1st 미니앨범
+**Albums**: 야심작
 
-Last updated at 03/12/2021 13:07
+Last updated at 03/12/2021 13:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
