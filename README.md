@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_MB7t-WhIofoBnd51WSULQn-YOkQCp2nOQ3dr8CgSg46cLswSJ0fKFA1CpnTk56GdtWevEPlZeEQLpRq">](https://music.youtube.com/watch?v=H9gFLkNdHvA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/99EFNx_39ss_nxD3ueQKlUOgDiPO2QzZbotIa9McRArhF-gm8xcnmS8THqciGfSpeIE0q-PcBXECuEY">](https://music.youtube.com/watch?v=tskQU3Qr0dg)
 
-더 시네마틱 오케스트라 및 The London Metropolitan Orchestra - Arrival of the Birds
+Martino Vergnaghi - This Road Is Pain
 
-**Albums**: The Crimson Wing: Mystery of the Flamingos (Original Soundtrack)
+**Albums**: Per Aspera
 
-Last updated at 03/12/2021 16:10
+Last updated at 03/12/2021 16:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
