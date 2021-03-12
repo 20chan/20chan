@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/watch?v=fqdgHKMqUp0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/watch?v=TlV1E4Uv8XE)
 
-버즈 - 나에게로 떠나는 여행
+버스커 버스커 - 네온사인
 
-**Albums**: Buzz Effect
+**Albums**: 버스커 버스커 1집 마무리
 
-Last updated at 03/12/2021 13:23
+Last updated at 03/12/2021 13:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
