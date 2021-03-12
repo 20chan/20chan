@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/X5McHJkxIxoz2XjnfWUWkogITQ1oW7LQn7SmvfG33Jk6S3dYcxgmGTdOeZxZUgT4l1di3Wo7SX8EsRyB">](https://music.youtube.com/watch?v=749DIRUHhNY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OYK6ikKAPTVg21Bo_uvrRD_6UZ3ye99_whaQOlvtwJqVvQjrq_120Rny3vM64q5qrK2yGqfH-PCfHRs">](https://music.youtube.com/watch?v=NW7lvC7xeRQ)
 
-Linked Horizon - 紅蓮の弓矢
+May'n - ライオン -May'n Ver.-
 
-**Albums**: 進撃の軌跡
+**Albums**: メイン☆ストリート
 
-Last updated at 03/12/2021 14:43
+Last updated at 03/12/2021 14:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
