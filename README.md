@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/watch?v=4x4GN1e1KLQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_PnZP6AWF5NJ9bJH4Cm__43gliAAZmaDfW_QTqJe0QebBZWUyWDYy4CLuY3KfSa0rQhbNJ-Qgz1AQI">](https://music.youtube.com/watch?v=DGHBegYCcmQ)
 
-버스커 버스커 - 소나기 (주르르루)
+스탠딩 에그(Standing Egg) - 오래된 노래
 
-**Albums**: 버스커 버스커 1집 마무리
+**Albums**: 오래된 노래
 
-Last updated at 03/12/2021 13:55
+Last updated at 03/12/2021 13:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
