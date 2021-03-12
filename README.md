@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=xPrrodzLXYQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9S7vF4yYKyhybSmEOsUlGIBJFQFADQizgjATEkBbKSR6ljdaOxXvQs_ZGraFDnsVwaL52yHgUv2JwQCYAg">](https://music.youtube.com/watch?v=OO7LhlPcbBQ)
 
-버스커 버스커(Busker Busker) - 향수
+멜로망스(MeloMance) - Bashfulness 부끄럼
 
-**Albums**: 버스커 버스커 1집
+**Albums**: bright #4
 
-Last updated at 03/12/2021 12:47
+Last updated at 03/12/2021 12:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
