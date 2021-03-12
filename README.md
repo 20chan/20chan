@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pxhSDZi1iY7B3nWbEgG1ysRfGmWPAs3cg4J94gsUa5L0hZquFzlJM4Coz927MOqq2W9qsPw8NUu7supv">](https://music.youtube.com/watch?v=zC8RrOA0spo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GbcfcBe2jH71hwl_-erqevODt2lHnC7tYepEAWAxyXdkoo7jfze8yRJPFE1sZIR9Ocnpah9cTaD6S6QU4w">](https://music.youtube.com/watch?v=0DfD9NasSP8)
 
-HYUKOH - TOMBOY
+장범준 - Without You by My Side (A New Song Called Wedding March)
 
-**Albums**: 23
+**Albums**: 2nd Album
 
-Last updated at 03/12/2021 12:18
+Last updated at 03/12/2021 12:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
