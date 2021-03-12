@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/watch?v=pJ-IGZKyfpU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=JoKBeVuxz8s)
 
-Woo - We Are(피처링: Loco, GRAY)
+버스커 버스커(Busker Busker) - 골목길 어귀에서
 
-**Albums**: We Are
+**Albums**: 버스커 버스커 1집
 
-Last updated at 03/12/2021 12:25
+Last updated at 03/12/2021 12:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
