@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uoEAMagqBhRVo3XKcplhgS2z5h-XkNPsgSF1k6wTSQG_3sxSZZijhk0TT-3LKYIF6wyi-Fh7IdDDwH4">](https://music.youtube.com/watch?v=rfykBICvtCo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GbcfcBe2jH71hwl_-erqevODt2lHnC7tYepEAWAxyXdkoo7jfze8yRJPFE1sZIR9Ocnpah9cTaD6S6QU4w">](https://music.youtube.com/watch?v=1ynMF1CUdgY)
 
-어반자카파 (URBAN ZAKAPA) - 목요일 밤(피처링: 빈지노(Beenzino))
+장범준 - To Hongdae
 
-**Albums**: 목요일 밤
+**Albums**: 2nd Album
 
-Last updated at 03/12/2021 14:03
+Last updated at 03/12/2021 14:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
