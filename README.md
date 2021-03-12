@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TbXdJ_J6zBglKBjcOACrou8KG-JBmFetBvpNr_ppfNoLeGAWfEYYzQzL83U_V-liA-G5FiekQvmuQ8cATw">](https://music.youtube.com/watch?v=3bR31p1cPqU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1OTL4i4ipr3MsXaH0mAbsbBPqdmRaFD8Wep_rv-KgNhxy-2_CzVNYeAmBuTmvg_YhIcDHF0O02aQsErDuw">](https://music.youtube.com/watch?v=q0zubjuZzo4)
 
-fripSide - sister's noise
+LiSA(리사) - Catch the Moment
 
-**Albums**: infinite synthesis 2
+**Albums**: Catch the Moment
 
-Last updated at 03/12/2021 14:59
+Last updated at 03/12/2021 15:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
