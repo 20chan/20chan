@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SB4B1bgWQ15OZA9_zikn4-8vBqHLjjMCmcwx6xec9L7SANf_wPaurcArYIKz3NzaovyidbSWS2nbi5Zt">](https://music.youtube.com/watch?v=uuVO-El6tXM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_GPAdnS0f5IZ_GQmslGLNhX_NnzPIhG8KOtEp9FsjTZ4t9ZiIHcyjXqcD_71OKpTjc6J59s5zMx71Ms">](https://music.youtube.com/watch?v=zwJQE0HkYZw)
 
-Rin Kagamine - Meltdown
+이루마(Yiruma) - River Flows In You
 
-**Albums**: Meltdown
+**Albums**: Yiruma 2nd Album 'First Love' (The Original & the Very First Recording)
 
-Last updated at 03/12/2021 15:26
+Last updated at 03/12/2021 15:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
