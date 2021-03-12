@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/yzhUgyAq3MKGd4JjQHEAOciwVLhemnpCqEZ9byHeJxjVfNtqcVriprjYql9jhgNquMvhP_1Bf4jzv2_gpg">](https://music.youtube.com/watch?v=r4fUB9pOXZQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/V7QOylWmzZtvehy7le_aRcV0GzhUQESVFW7Haid4ZL6oaLskDnFN5OiFEkvALccZtUF_KskSdmJXhi0">](https://music.youtube.com/watch?v=t8P-zdkoeJA)
 
-버스커버스커 - 길
+JANNABI - 주저하는 연인들을 위해
 
-**Albums**: 슈퍼스타K 3 Top11 Part.3
+**Albums**: 전설
 
-Last updated at 03/12/2021 12:35
+Last updated at 03/12/2021 12:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
