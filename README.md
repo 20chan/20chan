@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDG_EbUu0tX2y-cGsOAxGSx2OzwoklG5BqkVc0uUTM8DdLAl_D03-co2H0yDaGzOLm_RmqD5aeOrrt8">](https://music.youtube.com/watch?v=VX7w5fwdMkI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tyVib2WfBLBGO5zPaNu-TdxKrZlmWkjEL2y11sKw17bjT6D7oIuBloIxpqmS1pR5rpZttmdcPgsLvVc">](https://music.youtube.com/watch?v=TlaGDYbxnJk)
 
-프라이머리(Primary) - Johnny(피처링: 다이나믹 듀오(Dynamic Duo))
+적재 - 별 보러 가자
 
-**Albums**: Johnny
+**Albums**: FINE
 
-Last updated at 03/12/2021 13:41
+Last updated at 03/12/2021 13:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
