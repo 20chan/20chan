@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/idXQD22BjxkpisY_fIFdjOMjTd9KQV53UoHtZX_z8bG4YfPCP58P9Lqb7_uVrJ0b4hIMKDf9NuXxh1A">](https://music.youtube.com/watch?v=SZkkZLSCv44)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ufw5VjO0mOCiqZXRDMAq_SPGx0wgC5jo6FF4Viem_UP8l91t9mAszZ0I0ZgPLSjRvDbWdYWbAEz7Ry1_Pw">](https://music.youtube.com/watch?v=6e5shGqLzEw)
 
-자전거 탄 풍경 - 너에게 난, 나에게 넌
+10cm(십센치) - 애상
 
-**Albums**: 1집 자전거 탄 풍경
+**Albums**: 윤일상 작곡가 21주년 기념 앨범 (I'm 21)
 
-Last updated at 03/12/2021 11:32
+Last updated at 03/12/2021 11:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
