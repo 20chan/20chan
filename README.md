@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XTMvJQ5Y0e8OV0bn1HR88mT95cNKqZUGHy_Pt5fMmuJ7fp6cWcHHJLEc9-icLQBPez4V1pgcCWmgVCsJ">](https://music.youtube.com/watch?v=57X3uq9s33U)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/X5McHJkxIxoz2XjnfWUWkogITQ1oW7LQn7SmvfG33Jk6S3dYcxgmGTdOeZxZUgT4l1di3Wo7SX8EsRyB">](https://music.youtube.com/watch?v=749DIRUHhNY)
 
-fripSide - LEVEL5-judgelight-
+Linked Horizon - 紅蓮の弓矢
 
-**Albums**: LEVEL5-judgelight-
+**Albums**: 進撃の軌跡
 
-Last updated at 03/12/2021 14:39
+Last updated at 03/12/2021 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
