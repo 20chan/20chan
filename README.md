@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ufw5VjO0mOCiqZXRDMAq_SPGx0wgC5jo6FF4Viem_UP8l91t9mAszZ0I0ZgPLSjRvDbWdYWbAEz7Ry1_Pw">](https://music.youtube.com/watch?v=6e5shGqLzEw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fgN9gCK4kYnade5hhF6mrbjt4FJGsxi1NO4zM1EVEXkJS8D6cJBXPOPP-wq_t-gmZYOcp5WU80uFNHxZ9A">](https://music.youtube.com/watch?v=QV8D6P-NR4c)
 
-10cm(십센치) - 애상
+장범준 - 당신과는 천천히
 
-**Albums**: 윤일상 작곡가 21주년 기념 앨범 (I'm 21)
+**Albums**: 3집
 
-Last updated at 03/12/2021 11:53
+Last updated at 03/12/2021 11:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
