@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/watch?v=nmrYd5OrkjQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JDG_EbUu0tX2y-cGsOAxGSx2OzwoklG5BqkVc0uUTM8DdLAl_D03-co2H0yDaGzOLm_RmqD5aeOrrt8">](https://music.youtube.com/watch?v=VX7w5fwdMkI)
 
-버스커 버스커(Busker Busker) - 밤
+프라이머리(Primary) - Johnny(피처링: 다이나믹 듀오(Dynamic Duo))
 
-**Albums**: Busker Busker 2nd
+**Albums**: Johnny
 
-Last updated at 03/12/2021 13:38
+Last updated at 03/12/2021 13:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
