@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r1AfbsSYtAbc6cU0VeCqzemZlLCYB1IQq0l3tlO6X3IylxewGS7NZmcnt94HA8Bygmn7iRInSpe9TOJtyg">](https://music.youtube.com/watch?v=gAz5CB9UXI8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/w4dfK7Oeueo-zkYvFCB9lZvpf7I64WZsVlw3eXguhv7pxrLPJjLPR1UifjHdqAKh9MFqtNvPTd1sWSUI">](https://music.youtube.com/watch?v=3xerxZ3gLnc)
 
-더 넛츠 - 사랑의 바보
+장범준 - 사랑이란 말이 어울리는 사람 (사말어사)
 
-**Albums**: 더 넛츠 1집
+**Albums**: 1집
 
-Last updated at 03/12/2021 12:01
+Last updated at 03/12/2021 12:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
