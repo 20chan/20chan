@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fgN9gCK4kYnade5hhF6mrbjt4FJGsxi1NO4zM1EVEXkJS8D6cJBXPOPP-wq_t-gmZYOcp5WU80uFNHxZ9A">](https://music.youtube.com/watch?v=QV8D6P-NR4c)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r1AfbsSYtAbc6cU0VeCqzemZlLCYB1IQq0l3tlO6X3IylxewGS7NZmcnt94HA8Bygmn7iRInSpe9TOJtyg">](https://music.youtube.com/watch?v=gAz5CB9UXI8)
 
-장범준 - 당신과는 천천히
+더 넛츠 - 사랑의 바보
 
-**Albums**: 3집
+**Albums**: 더 넛츠 1집
 
-Last updated at 03/12/2021 11:57
+Last updated at 03/12/2021 12:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
