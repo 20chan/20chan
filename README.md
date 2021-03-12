@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BbU8NrV0XhoeIiVdkwnC4a_HGIfnRsAyLfOnvUb6HEQ9AAJcSfMn6WnVp2pjCB4PXSK4djQq7gKkF5YU">](https://music.youtube.com/watch?v=A1tZgPAcpjE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/yzhUgyAq3MKGd4JjQHEAOciwVLhemnpCqEZ9byHeJxjVfNtqcVriprjYql9jhgNquMvhP_1Bf4jzv2_gpg">](https://music.youtube.com/watch?v=r4fUB9pOXZQ)
 
-잔나비 - 사랑하긴 했었나요 스쳐가는 인연이었나요 짧지않은 우리 함께했던 시간들이 자꾸 내 마음을 가둬두네
+버스커버스커 - 길
 
-**Albums**: 봉춤을 추네
+**Albums**: 슈퍼스타K 3 Top11 Part.3
 
-Last updated at 03/12/2021 12:32
+Last updated at 03/12/2021 12:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
