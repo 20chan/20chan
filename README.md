@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/acqdCM3zWr_WlbNKXZY58u39_aiJf2rl59tiUWZKTgtD7T-fS5RioBim8yxecNYkjedTaii8bg--FPfr">](https://music.youtube.com/watch?v=Z7lTmPWvpaI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/watch?v=fqdgHKMqUp0)
 
-BMK - When flowering spring comes
+버즈 - 나에게로 떠나는 여행
 
-**Albums**: SOUL FOOD
+**Albums**: Buzz Effect
 
-Last updated at 03/12/2021 13:19
+Last updated at 03/12/2021 13:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
