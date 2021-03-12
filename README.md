@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kQbevTJiG-zYiQvLF2RVsJl2vqgOCbTEAMHjQv0shp-9gIK92sJKJpYVumSLNa5NY-Gf7GFd7JPuaf-Y">](https://music.youtube.com/watch?v=Lcb7Za77lfw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TbXdJ_J6zBglKBjcOACrou8KG-JBmFetBvpNr_ppfNoLeGAWfEYYzQzL83U_V-liA-G5FiekQvmuQ8cATw">](https://music.youtube.com/watch?v=3bR31p1cPqU)
 
-뒤에서부터 기어오는 부대 - 恋は渾沌の隷也
+fripSide - sister's noise
 
-**Albums**: 恋は渾沌の隷也
+**Albums**: infinite synthesis 2
 
-Last updated at 03/12/2021 14:55
+Last updated at 03/12/2021 14:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
