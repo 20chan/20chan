@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Cw4FH0gOhCFqE6rKYGIPCxyuyNwkbH3UZhh0LKZYGwJu2ttdiQ07MDm-wHToqVJr_l9UMBCVpAJDtE">](https://music.youtube.com/watch?v=Qn8dJA3WM3M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/S-JB0aiwh2KEootnCCiocCLyIwBYpWAvogXKnFxO_pIVMWLCNUIJsRofdmDPxiPbt428iQxXponk_Yir">](https://music.youtube.com/watch?v=o3YbBDqEiGc)
 
-알티마 - Burst The Gravity
+yanaginagi - 春擬き
 
-**Albums**: Burst The Gravity
+**Albums**: Follow My Tracks
 
-Last updated at 03/12/2021 15:12
+Last updated at 03/12/2021 15:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
