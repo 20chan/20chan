@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/V7QOylWmzZtvehy7le_aRcV0GzhUQESVFW7Haid4ZL6oaLskDnFN5OiFEkvALccZtUF_KskSdmJXhi0">](https://music.youtube.com/watch?v=t8P-zdkoeJA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/wLPlq3Rl1sOn5Wam9CRrS5ZmfSBmeFSwQ9d32tcTwaMXjSp4VG3uF0OTQYQcs4c_7T-mimV-74Gyf-4t">](https://music.youtube.com/watch?v=eq8_0g4YBPc)
 
-JANNABI - 주저하는 연인들을 위해
+버즈 - 가시
 
-**Albums**: 전설
+**Albums**: Buzz Effect
 
-Last updated at 03/12/2021 12:39
+Last updated at 03/12/2021 12:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
