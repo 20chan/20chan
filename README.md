@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S_PnZP6AWF5NJ9bJH4Cm__43gliAAZmaDfW_QTqJe0QebBZWUyWDYy4CLuY3KfSa0rQhbNJ-Qgz1AQI">](https://music.youtube.com/watch?v=DGHBegYCcmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uoEAMagqBhRVo3XKcplhgS2z5h-XkNPsgSF1k6wTSQG_3sxSZZijhk0TT-3LKYIF6wyi-Fh7IdDDwH4">](https://music.youtube.com/watch?v=rfykBICvtCo)
 
-스탠딩 에그(Standing Egg) - 오래된 노래
+어반자카파 (URBAN ZAKAPA) - 목요일 밤(피처링: 빈지노(Beenzino))
 
-**Albums**: 오래된 노래
+**Albums**: 목요일 밤
 
-Last updated at 03/12/2021 13:58
+Last updated at 03/12/2021 14:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
