@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fsM2Yvp14NtSyIXVRVzh5pLrNo-pa_GEnt51huzXI8WPd3K7WBLpl-0OsTIUbQCQP_vOkL5Pvwsd5rZhHA">](https://music.youtube.com/watch?v=Rd-t_F0otFQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sRjnNH8-M2Vu9ijQj2l8yos_NkMgl7OtpDBCXH4aWWKJmb17snm6idT7t7mD2mDaGJNlLa-K0ZeOLvV7">](https://music.youtube.com/watch?v=oDOVv8qCREk)
 
-규현(KYUHYUN) - 在光化门 At Gwanghwamun (Chinese Version)
+윤종신 - Like it(좋니)
 
-**Albums**: 광화문에서 (중국어 Ver.)
+**Albums**: LISTEN 010 Like it(좋니)
 
-Last updated at 03/12/2021 14:09
+Last updated at 03/12/2021 14:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
