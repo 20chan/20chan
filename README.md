@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uuLT8ivo-aBq1nrUUR9bK6ot-RtqA2aSdnVmrs6HXQGoIvkWk5I3QU1HlqeOlFNoUheKdbAWazwoDHX-Sg">](https://music.youtube.com/watch?v=0RZBEHV1vHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=_sQhN4dLC60)
 
-10cm(십센치) - 스토커 Stalker
+버스커 버스커(Busker Busker) - 첫사랑
 
-**Albums**: 3.0
+**Albums**: 버스커 버스커 1집
 
-Last updated at 03/12/2021 11:07
+Last updated at 03/12/2021 11:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
