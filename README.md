@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/HDlHvnc9B0NseILlq1TsghdOmmaeU56dN8uYkePpxLuWaHGAssHdYXsLzUKiwf0vmQNfGKYhb3mx09il">](https://music.youtube.com/watch?v=4NX4D7WfF4I)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/6nQI1tPC4VUSmvFgAJnpArhX2p3GwGa_1wE3OKJDumrRoJDJXizjOwGIpLlJ7is4P5noDOJlnNtwnLI">](https://music.youtube.com/watch?v=X5-Uie8HRts)
 
-지오바니 - Gentle Heart
+Tim Janis - Canyon Winds (Piano Reprise)
 
-**Albums**: Around the World, Vol. 2
+**Albums**: Beautiful America
 
-Last updated at 03/12/2021 17:06
+Last updated at 03/12/2021 17:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
