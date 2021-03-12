@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pF8FQvLnAfRUV4Xp_DZDZ4jebPPg07SpdCxSv411cMZaaBpYdlsWgAIn7615jQ4Y-O6mn-m-83kIgHCcQg">](https://music.youtube.com/watch?v=6WjuuzhWyh0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/vw4ZL0RK5v8XYIDe3-GgN0f9pExwb0nzp0l9z8bDXdlKS7vFtx4zLisSX-pBPgBsYKqK2l4GW1EKHLKv">](https://music.youtube.com/watch?v=OUyOCOu1d44)
 
-The Piano Guys(피아노 가이즈) - A Thousand Years
+Rita Chepurchenko - Wind
 
-**Albums**: The Piano Guys
+**Albums**: Piano and Violin Duet (Bonus Track Version)
 
-Last updated at 03/12/2021 15:47
+Last updated at 03/12/2021 15:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
