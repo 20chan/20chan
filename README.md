@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tLMENEjaasHdgvuQLY1pysfh7tgVxsFOuOS_WYeBFIxRGUR7qM8QBv85s4KnemVcOZom512KlS2Vlms">](https://music.youtube.com/watch?v=k2LDC0sTsEQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SB4B1bgWQ15OZA9_zikn4-8vBqHLjjMCmcwx6xec9L7SANf_wPaurcArYIKz3NzaovyidbSWS2nbi5Zt">](https://music.youtube.com/watch?v=uuVO-El6tXM)
 
-Ito kanako - スカイクラッドの観測者
+Rin Kagamine - Meltdown
 
-**Albums**: ChaosAttractor
+**Albums**: Meltdown
 
-Last updated at 03/12/2021 15:21
+Last updated at 03/12/2021 15:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
