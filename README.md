@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tyVib2WfBLBGO5zPaNu-TdxKrZlmWkjEL2y11sKw17bjT6D7oIuBloIxpqmS1pR5rpZttmdcPgsLvVc">](https://music.youtube.com/watch?v=TlaGDYbxnJk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/87iz-jIjZh_L1lpJXIrOcVxxVN9ZVTnU0yyUnAmK9R5y2UYWIN_kTTSWSGXesZC7Jv5ZkBm27Pi649OP">](https://music.youtube.com/watch?v=iKZw4zLcIZM)
 
-적재 - 별 보러 가자
+닐로 - 지나오다
 
-**Albums**: FINE
+**Albums**: About You
 
-Last updated at 03/12/2021 13:45
+Last updated at 03/12/2021 13:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
