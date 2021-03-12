@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/87iz-jIjZh_L1lpJXIrOcVxxVN9ZVTnU0yyUnAmK9R5y2UYWIN_kTTSWSGXesZC7Jv5ZkBm27Pi649OP">](https://music.youtube.com/watch?v=iKZw4zLcIZM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/watch?v=4x4GN1e1KLQ)
 
-닐로 - 지나오다
+버스커 버스커 - 소나기 (주르르루)
 
-**Albums**: About You
+**Albums**: 버스커 버스커 1집 마무리
 
-Last updated at 03/12/2021 13:50
+Last updated at 03/12/2021 13:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
