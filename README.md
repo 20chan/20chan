@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/OYK6ikKAPTVg21Bo_uvrRD_6UZ3ye99_whaQOlvtwJqVvQjrq_120Rny3vM64q5qrK2yGqfH-PCfHRs">](https://music.youtube.com/watch?v=NW7lvC7xeRQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kQbevTJiG-zYiQvLF2RVsJl2vqgOCbTEAMHjQv0shp-9gIK92sJKJpYVumSLNa5NY-Gf7GFd7JPuaf-Y">](https://music.youtube.com/watch?v=Lcb7Za77lfw)
 
-May'n - ライオン -May'n Ver.-
+뒤에서부터 기어오는 부대 - 恋は渾沌の隷也
 
-**Albums**: メイン☆ストリート
+**Albums**: 恋は渾沌の隷也
 
-Last updated at 03/12/2021 14:49
+Last updated at 03/12/2021 14:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
