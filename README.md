@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/watch?v=TlV1E4Uv8XE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DM7Xf9kIxHB36ccXFOyx1E6iVxq_Zww9JCO4MAwjTpF4RxBYAnFLsiVAOKv_yBj5utrrhEbiIX7A5eLS">](https://music.youtube.com/watch?v=bVrW1eDMtL8)
 
-버스커 버스커 - 네온사인
+HYUKOH - Wi Ing Wi Ing 위잉위잉
 
-**Albums**: 버스커 버스커 1집 마무리
+**Albums**: 20
 
-Last updated at 03/12/2021 13:27
+Last updated at 03/12/2021 13:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
