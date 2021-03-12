@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/S-JB0aiwh2KEootnCCiocCLyIwBYpWAvogXKnFxO_pIVMWLCNUIJsRofdmDPxiPbt428iQxXponk_Yir">](https://music.youtube.com/watch?v=o3YbBDqEiGc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tLMENEjaasHdgvuQLY1pysfh7tgVxsFOuOS_WYeBFIxRGUR7qM8QBv85s4KnemVcOZom512KlS2Vlms">](https://music.youtube.com/watch?v=k2LDC0sTsEQ)
 
-yanaginagi - 春擬き
+Ito kanako - スカイクラッドの観測者
 
-**Albums**: Follow My Tracks
+**Albums**: ChaosAttractor
 
-Last updated at 03/12/2021 15:17
+Last updated at 03/12/2021 15:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
