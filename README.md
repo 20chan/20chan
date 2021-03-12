@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/DM7Xf9kIxHB36ccXFOyx1E6iVxq_Zww9JCO4MAwjTpF4RxBYAnFLsiVAOKv_yBj5utrrhEbiIX7A5eLS">](https://music.youtube.com/watch?v=bVrW1eDMtL8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JHFaFwvTWgIekp9w1FNNK0nPb-PAx4SLnPavg8Sz_X8znOiAkV80eQFS8bF3XPrlzbjxp1N5XbOPPKM">](https://music.youtube.com/watch?v=aLX3b3j6z3g)
 
-HYUKOH - Wi Ing Wi Ing 위잉위잉
+오혁(OhHyuk) - A Little Girl
 
-**Albums**: 20
+**Albums**: Reply 1988 Director's (Original TV Soundtrack)
 
-Last updated at 03/12/2021 13:31
+Last updated at 03/12/2021 13:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
