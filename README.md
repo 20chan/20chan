@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_GPAdnS0f5IZ_GQmslGLNhX_NnzPIhG8KOtEp9FsjTZ4t9ZiIHcyjXqcD_71OKpTjc6J59s5zMx71Ms">](https://music.youtube.com/watch?v=zwJQE0HkYZw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5JACzb28QFLYLjXi2_6eSLu1KHu7NqzhNfSrHqICMZv5SRDItZ4k79BQUaAa1nPNNmiYE_rOqpj7RdWV">](https://music.youtube.com/watch?v=PhXEL2FRSag)
 
-이루마(Yiruma) - River Flows In You
+루도비코 에이나우디 - Nuvole Bianche
 
-**Albums**: Yiruma 2nd Album 'First Love' (The Original & the Very First Recording)
+**Albums**: Una Mattina
 
-Last updated at 03/12/2021 15:30
+Last updated at 03/12/2021 15:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
