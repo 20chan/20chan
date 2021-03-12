@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0WX6DeCXe-2l5erOWhlZbQNuoAaytcHpSf4x67u122kmS3vOWG1w55WPX6OKWEXvV0LT_f24pV1gow9BeA">](https://music.youtube.com/watch?v=UmnQ2fEoXUI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XTMvJQ5Y0e8OV0bn1HR88mT95cNKqZUGHy_Pt5fMmuJ7fp6cWcHHJLEc9-icLQBPez4V1pgcCWmgVCsJ">](https://music.youtube.com/watch?v=57X3uq9s33U)
 
-fripSide - only my railgun
+fripSide - LEVEL5-judgelight-
 
-**Albums**: only my railgun
+**Albums**: LEVEL5-judgelight-
 
-Last updated at 03/12/2021 14:35
+Last updated at 03/12/2021 14:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
