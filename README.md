@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsmM8lnuyx2ollbZtJGdk5kOz_RQEiRHuNfuqgmOnxT2D8aUkf_XfVtEV7wryke27L1nF7iqsKU1QBRC">](https://music.youtube.com/watch?v=79Et7TxwNpI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xdpHB5YSG0PD981CJgStaZJcx4CcfTYD8lcFSknPayoZJdVKFuuMxl3rCGP3efQsmUDe19hKgkBbAdc">](https://music.youtube.com/watch?v=Gvfmv7AZ_Kw)
 
-Paul Cardall - I Feel My Savior's Love
+Kevin Kern - And the Light is Forever
 
-**Albums**: Hymns Vol. 2
+**Albums**: Imagination's Light
 
-Last updated at 03/12/2021 16:17
+Last updated at 03/12/2021 16:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
