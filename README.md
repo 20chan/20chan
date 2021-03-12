@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9S7vF4yYKyhybSmEOsUlGIBJFQFADQizgjATEkBbKSR6ljdaOxXvQs_ZGraFDnsVwaL52yHgUv2JwQCYAg">](https://music.youtube.com/watch?v=OO7LhlPcbBQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uuLT8ivo-aBq1nrUUR9bK6ot-RtqA2aSdnVmrs6HXQGoIvkWk5I3QU1HlqeOlFNoUheKdbAWazwoDHX-Sg">](https://music.youtube.com/watch?v=0RZBEHV1vHQ)
 
-멜로망스(MeloMance) - Bashfulness 부끄럼
+10cm(십센치) - 스토커 Stalker
 
-**Albums**: bright #4
+**Albums**: 3.0
 
-Last updated at 03/12/2021 12:51
+Last updated at 03/12/2021 12:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
