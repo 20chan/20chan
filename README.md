@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/P6UQgFQD0MduEsjvh0D1CahKTqebTtObTBUkYp_7F9QcDbtgqFsqkHQwTOtJX6XQv5vL8fxEiBgpjj0K_Q">](https://music.youtube.com/watch?v=kaOOfci2YC8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pD85FY7sTEPtXGGDvZhyzikpLAKeTDxfgRGUBxC0Ydy0QuwB5aa9I2OSxBXRFiW7da-ZF59G2to8jlH">](https://music.youtube.com/watch?v=SdahbIukU2g)
 
-Metallica - Nothing Else Matters
+버스커 버스커 - 그댈 마주하는건 힘들어 (그마힘)
 
-**Albums**: Metallica
+**Albums**: 버스커 버스커 1집 마무리
 
-Last updated at 03/11/2021 22:24
+Last updated at 03/12/2021 10:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
