@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7vtOfRIxzleQQQZQGgc3Vc5yGc-3qcNaYjzgdk-wzWiu0N9L5LvibWQx8yYdP6Jmu30-DhWENXtGjxOxbw">](https://music.youtube.com/watch?v=FZq-0Omm22s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=HRadddyS5jg)
 
-엠씨더맥스 - 사계 (하루살이)
+버스커 버스커(Busker Busker) - 꽃송이가
 
-**Albums**: Circular
+**Albums**: 버스커 버스커 1집
 
-Last updated at 03/12/2021 14:19
+Last updated at 03/12/2021 14:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
