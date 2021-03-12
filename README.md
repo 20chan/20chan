@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=_sQhN4dLC60)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fgN9gCK4kYnade5hhF6mrbjt4FJGsxi1NO4zM1EVEXkJS8D6cJBXPOPP-wq_t-gmZYOcp5WU80uFNHxZ9A">](https://music.youtube.com/watch?v=zeIOhIpQ-oI)
 
-버스커 버스커(Busker Busker) - 첫사랑
+장범준 - 노래방에서
 
-**Albums**: 버스커 버스커 1집
+**Albums**: 3집
 
-Last updated at 03/12/2021 11:19
+Last updated at 03/12/2021 11:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
