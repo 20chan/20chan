@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bEx8j67-zltGWDzj4co8LmnfanxSGAbuM_4YRhzu_SvPR1jMGawzTxzDX9B2zEAgmgnra94gfGSqJBDHxg">](https://music.youtube.com/watch?v=A2qfQD-P0Ew)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Cw4FH0gOhCFqE6rKYGIPCxyuyNwkbH3UZhh0LKZYGwJu2ttdiQ07MDm-wHToqVJr_l9UMBCVpAJDtE">](https://music.youtube.com/watch?v=Qn8dJA3WM3M)
 
-fhána - 青空のラプソディ
+알티마 - Burst The Gravity
 
-**Albums**: World Atlas
+**Albums**: Burst The Gravity
 
-Last updated at 03/12/2021 15:08
+Last updated at 03/12/2021 15:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
