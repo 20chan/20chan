@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=_sQhN4dLC60)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/DEuWG6yDA15tirxBfwthmkppPaUNnzP6rOMtf6cKy1CXRipTi_A9o4wYKMeqFr_oDEj9-WEMw4DDjg">](https://music.youtube.com/watch?v=Ts20_7v14ZA)
 
-버스커 버스커(Busker Busker) - 첫사랑
+자우림 - 스물다섯, 스물하나
 
-**Albums**: 버스커 버스커 1집
+**Albums**: Goodbye, grief.
 
-Last updated at 03/12/2021 11:11
+Last updated at 03/12/2021 11:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
