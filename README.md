@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/t1FsdFmlVLmnW5SZTr7Y6B4oUpMXx1uTg4ODzwN2w38AvIn1RZ1coUdy_jfamhv5-gi17s9sIMWc4SE">](https://music.youtube.com/watch?v=wercPv8IIFw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/HDlHvnc9B0NseILlq1TsghdOmmaeU56dN8uYkePpxLuWaHGAssHdYXsLzUKiwf0vmQNfGKYhb3mx09il">](https://music.youtube.com/watch?v=4NX4D7WfF4I)
 
-Angel Lover - River Flows in You (Piano Version)
+지오바니 - Gentle Heart
 
-**Albums**: River Flows in You
+**Albums**: Around the World, Vol. 2
 
-Last updated at 03/12/2021 17:03
+Last updated at 03/12/2021 17:06
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
