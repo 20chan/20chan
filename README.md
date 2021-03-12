@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uuLT8ivo-aBq1nrUUR9bK6ot-RtqA2aSdnVmrs6HXQGoIvkWk5I3QU1HlqeOlFNoUheKdbAWazwoDHX-Sg">](https://music.youtube.com/watch?v=0RZBEHV1vHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fgN9gCK4kYnade5hhF6mrbjt4FJGsxi1NO4zM1EVEXkJS8D6cJBXPOPP-wq_t-gmZYOcp5WU80uFNHxZ9A">](https://music.youtube.com/watch?v=s0Fh2jrycgE)
 
-10cm(십센치) - 스토커 Stalker
+장범준 - 이밤
 
-**Albums**: 3.0
+**Albums**: 3집
 
-Last updated at 03/12/2021 12:54
+Last updated at 03/12/2021 12:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
