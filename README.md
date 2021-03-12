@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=mBxxH022atc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0WX6DeCXe-2l5erOWhlZbQNuoAaytcHpSf4x67u122kmS3vOWG1w55WPX6OKWEXvV0LT_f24pV1gow9BeA">](https://music.youtube.com/watch?v=UmnQ2fEoXUI)
 
-버스커 버스커(Busker Busker) - 봄바람
+fripSide - only my railgun
 
-**Albums**: 버스커 버스커 1집
+**Albums**: only my railgun
 
-Last updated at 03/12/2021 14:30
+Last updated at 03/12/2021 14:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
