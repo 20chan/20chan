@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/k6fRKtXcfwleojVJEaP4tG1asXrmI1XvnsTIwJi2jT3qMjrReO_EwP6zp4M09SiOxKiOY68PjAIIqA0">](https://music.youtube.com/watch?v=KdKucPl2lXA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/watch?v=eoRV-cuLsCo)
 
-뜨거운 감자 - Propose 고백
+버스커 버스커(Busker Busker) - 사랑은 타이밍
 
-**Albums**: Seesaw 시소
+**Albums**: Busker Busker 2nd
 
-Last updated at 03/12/2021 12:10
+Last updated at 03/12/2021 12:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
