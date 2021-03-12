@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/watch?v=eoRV-cuLsCo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pxhSDZi1iY7B3nWbEgG1ysRfGmWPAs3cg4J94gsUa5L0hZquFzlJM4Coz927MOqq2W9qsPw8NUu7supv">](https://music.youtube.com/watch?v=zC8RrOA0spo)
 
-버스커 버스커(Busker Busker) - 사랑은 타이밍
+HYUKOH - TOMBOY
 
-**Albums**: Busker Busker 2nd
+**Albums**: 23
 
-Last updated at 03/12/2021 12:14
+Last updated at 03/12/2021 12:18
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
