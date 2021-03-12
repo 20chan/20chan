@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fgN9gCK4kYnade5hhF6mrbjt4FJGsxi1NO4zM1EVEXkJS8D6cJBXPOPP-wq_t-gmZYOcp5WU80uFNHxZ9A">](https://music.youtube.com/watch?v=s0Fh2jrycgE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/tgD3rt6NlFBizFnDAjNC61RFkYChEDQzculw7b7pNgAR5bNtR-aPLrrWE1etAIchzkeZP9HtX-Lw8cJ3">](https://music.youtube.com/watch?v=Kx8pJzPodsY)
 
-장범준 - 이밤
+잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만
 
-**Albums**: 3집
+**Albums**: MONKEY HOTEL
 
-Last updated at 03/12/2021 12:58
+Last updated at 03/12/2021 13:02
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
