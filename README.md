@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=HRadddyS5jg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7xkOiFTDIqaTXvpwdm8dqxekBoXZRo0jJKnl8u9iW0NB4s_gAn7Z_ulh9lMA4_MxxeEsdt0tKtc4IXY0WA">](https://music.youtube.com/watch?v=eO8w9xFArpE)
 
-버스커 버스커(Busker Busker) - 꽃송이가
+버스커 버스커(Busker Busker) - 여수 밤바다
 
 **Albums**: 버스커 버스커 1집
 
-Last updated at 03/12/2021 14:22
+Last updated at 03/12/2021 14:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
