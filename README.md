@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KJhPOfCL7guCWniA5GitcTUgQ4yj2rJJaBERp1E8B8Mh3H41ak6j4vvsDe-bqWonTI7QKb_D58x_XRNZDg">](https://music.youtube.com/watch?v=3FmbJI3AN1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NrdeEoLjlROjNJkaTz5JCdVxQWMUwxvPca6bgr5U89lu3E9bi79QQJcQib_SseDrSLz2AxIR5hzHCcIM">](https://music.youtube.com/watch?v=JVbOySItoYA)
 
-Soothing Piano Classics - If
+Danny Wright - Inside of Me
 
-**Albums**: Soothing Piano Classics - Soothing Piano - Soothing Music on Piano
+**Albums**: Real Romance
 
-Last updated at 03/12/2021 16:55
+Last updated at 03/12/2021 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
