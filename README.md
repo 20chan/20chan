@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w4dfK7Oeueo-zkYvFCB9lZvpf7I64WZsVlw3eXguhv7pxrLPJjLPR1UifjHdqAKh9MFqtNvPTd1sWSUI">](https://music.youtube.com/watch?v=3xerxZ3gLnc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/k6fRKtXcfwleojVJEaP4tG1asXrmI1XvnsTIwJi2jT3qMjrReO_EwP6zp4M09SiOxKiOY68PjAIIqA0">](https://music.youtube.com/watch?v=KdKucPl2lXA)
 
-장범준 - 사랑이란 말이 어울리는 사람 (사말어사)
+뜨거운 감자 - Propose 고백
 
-**Albums**: 1집
+**Albums**: Seesaw 시소
 
-Last updated at 03/12/2021 12:05
+Last updated at 03/12/2021 12:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
