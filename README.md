@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uCtz5fOh5P4DuXf99oIifRMqQzlNWm0F9Yx4wcPhnX_6mjtS2FpRyHei6RXiElwJMnSPZUWBrFsJKosu">](https://music.youtube.com/watch?v=pDaz7ZDqpY8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1xx07bj8hOJLK4ilnvsbFKa483LJ0SSxubx9NKra_sLCpxKSsgFG2wSjrG8JY1WHVI5qWXMqHEC8e36j">](https://music.youtube.com/watch?v=81zz5Lh3yj8)
 
-Jacob's Piano - River Flows in You
+Brooklyn Duo - Canon in D
 
-**Albums**: 4 Pieces: A Tribute to Yiruma & Yukie Nishimura
+**Albums**: Canon in D
 
-Last updated at 03/12/2021 15:39
+Last updated at 03/12/2021 15:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
