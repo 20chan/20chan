@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/1OTL4i4ipr3MsXaH0mAbsbBPqdmRaFD8Wep_rv-KgNhxy-2_CzVNYeAmBuTmvg_YhIcDHF0O02aQsErDuw">](https://music.youtube.com/watch?v=q0zubjuZzo4)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bEx8j67-zltGWDzj4co8LmnfanxSGAbuM_4YRhzu_SvPR1jMGawzTxzDX9B2zEAgmgnra94gfGSqJBDHxg">](https://music.youtube.com/watch?v=A2qfQD-P0Ew)
 
-LiSA(리사) - Catch the Moment
+fhána - 青空のラプソディ
 
-**Albums**: Catch the Moment
+**Albums**: World Atlas
 
-Last updated at 03/12/2021 15:03
+Last updated at 03/12/2021 15:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
