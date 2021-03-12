@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B-NxK5ukwdnBeRvslKAH3c1KQy7tYeDH2MndgT_diskKVRt4ZsGOHS0oMzf4AUgYO4vp_8wXd0xwAs-4">](https://music.youtube.com/watch?v=QyeKhvxLeRo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7T676gkHCjbVyyeYZZXLNHZdVq_d9sp4OvHca236STOKSU2TAYgjdiEQ0EXRUxcepiKlcRsZdLZiyJY">](https://music.youtube.com/watch?v=6V8fc3IeZ20)
 
-Norazo - 형 (兄)
+버스커 버스커(Busker Busker) - 처음엔 사랑이란게
 
-**Albums**: 야심작
+**Albums**: Busker Busker 2nd
 
-Last updated at 03/12/2021 13:11
+Last updated at 03/12/2021 13:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
