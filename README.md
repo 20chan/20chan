@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/99EFNx_39ss_nxD3ueQKlUOgDiPO2QzZbotIa9McRArhF-gm8xcnmS8THqciGfSpeIE0q-PcBXECuEY">](https://music.youtube.com/watch?v=tskQU3Qr0dg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FsmM8lnuyx2ollbZtJGdk5kOz_RQEiRHuNfuqgmOnxT2D8aUkf_XfVtEV7wryke27L1nF7iqsKU1QBRC">](https://music.youtube.com/watch?v=79Et7TxwNpI)
 
-Martino Vergnaghi - This Road Is Pain
+Paul Cardall - I Feel My Savior's Love
 
-**Albums**: Per Aspera
+**Albums**: Hymns Vol. 2
 
-Last updated at 03/12/2021 16:12
+Last updated at 03/12/2021 16:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
