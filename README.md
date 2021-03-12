@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/e1dXptgZTrr8lpTIvhLAJNsqYupgxUhJTNeVM1WVoroemq2nrxC7JTCitXymc_WxsXA8PJaTFhwZhNTu">](https://music.youtube.com/watch?v=KCD6-3Dj4kA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Xfw2b9W_zC4Xxj52_SHUjoY9rH7qUGJ8cgEDkY-lZKR8eWcE0j1OnBHLvINhqFNpVad8ItYsyA7CKlyMXQ">](https://music.youtube.com/watch?v=0lFDpldloRE)
 
-제임스 호너 - Rose's Theme (My Heart Will Go On) (Solo Piano Version)
+아론 지그만 - Steve's Theme
 
-**Albums**: Titanic: The Ultimate Collection
+**Albums**: The Last Song
 
-Last updated at 03/12/2021 16:29
+Last updated at 03/12/2021 16:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
