@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GbcfcBe2jH71hwl_-erqevODt2lHnC7tYepEAWAxyXdkoo7jfze8yRJPFE1sZIR9Ocnpah9cTaD6S6QU4w">](https://music.youtube.com/watch?v=1ynMF1CUdgY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fsM2Yvp14NtSyIXVRVzh5pLrNo-pa_GEnt51huzXI8WPd3K7WBLpl-0OsTIUbQCQP_vOkL5Pvwsd5rZhHA">](https://music.youtube.com/watch?v=Rd-t_F0otFQ)
 
-장범준 - To Hongdae
+규현(KYUHYUN) - 在光化门 At Gwanghwamun (Chinese Version)
 
-**Albums**: 2nd Album
+**Albums**: 광화문에서 (중국어 Ver.)
 
-Last updated at 03/12/2021 14:06
+Last updated at 03/12/2021 14:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
