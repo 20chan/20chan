@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">](https://music.youtube.com/watch?v=EjpnDnUR1KM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">](https://music.youtube.com/watch?v=OcvLH6SDa18)
 
-Leellamarz 및 TOIL - GONE
+창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)
 
-**Albums**: TOYSTORY2
+**Albums**: Swoosh Flow (Remix)
 
-Last updated at 03/23/2021 14:21
+Last updated at 03/23/2021 14:24
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
