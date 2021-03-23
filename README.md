@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ncWslgW4NNIALEK9MQvE4tLGfxeX12j3rYXFK7BAR3PkTWAAs10kja3Lfjh7XS9Rl_J25Cb1CtQG-rTI">](https://music.youtube.com/watch?v=DRYYphdG3Ck)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TlNRDzgk3gcg7fMH0NFJzMLv54z3Ue4CG6s_QMQXJaSgctxtxTloxHc7eyOSiS2EHgaPsETI59DEd7V6">](https://music.youtube.com/watch?v=ti9pcUDykBg)
 
-이문세 - Spring Breeze(봄바람) (feat.Naul of Brown Eyed Soul)
+이문세 - 소녀
 
-**Albums**: NEW DIRECTION
+**Albums**: 난 아직 모르잖아요
 
-Last updated at 03/23/2021 18:35
+Last updated at 03/23/2021 18:38
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
