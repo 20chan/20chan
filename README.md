@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">](https://music.youtube.com/watch?v=-iPWHBqsWfM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">](https://music.youtube.com/watch?v=F50yfwMmAAc)
 
-한요한 - 400km(피처링: Kid Milli)
+lIlBOI - CREDIT(피처링: 염따, 기리보이(Giriboy), Zion.T)
 
-**Albums**: 원기옥
+**Albums**: Show Me the Money 9 Final
 
-Last updated at 03/23/2021 13:55
+Last updated at 03/23/2021 13:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
