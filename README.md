@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">](https://music.youtube.com/watch?v=yUnyZQYwGAc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">](https://music.youtube.com/watch?v=KMvxAH-bRmw)
 
-스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)
+BIG Naughty (서동현) - Joker(피처링: JAMIE)
 
-**Albums**: Show Me the Money 9 Episode 1
+**Albums**: Bucket List
 
-Last updated at 03/23/2021 18:09
+Last updated at 03/23/2021 18:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
