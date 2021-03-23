@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">](https://music.youtube.com/watch?v=_qP14y6kMHU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">](https://music.youtube.com/watch?v=R2c5v0iJbgk)
 
-창모, 해쉬 스완, ASH ISLAND 및 김효은 - 비워
+쿤디판다 - The Roots(피처링: 저스디스)
 
-**Albums**: 비워
+**Albums**: Show Me the Money 9 Episode 3
 
-Last updated at 03/23/2021 12:46
+Last updated at 03/23/2021 12:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
