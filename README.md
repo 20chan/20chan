@@ -1,12 +1,12 @@
-## Currently Playing on YTMusic
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bQN1pzwS0hNcc7SOlFhDj9xb6ny4xEwEwecESPsz8ZljpVWtgbZUlhEG_irUd-JXRuLypLjeAl7i-LA5UA">](https://music.youtube.com/watch?v=96JoDlQ8bks)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mkjMow05jYw8ouhw3Xib7eXdOEM7OnOa-pFHDXdCYC6UN7hScBhkTyMp_Jn-w1WsMsMzg-txuR7d52o1">](https://music.youtube.com/watch?v=4mozUs2aIAg)
 
-이문세 - 그녀의 웃음소리뿐
+이문세 - 깊은 밤을 날아서
 
-**Albums**: 이문세 Memories
+**Albums**: 이문세 4집
 
-Last updated at 03/23/2021 18:42
+Last updated at 03/23/2021 18:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
