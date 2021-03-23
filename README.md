@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">](https://music.youtube.com/watch?v=NZcnHur9PDw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">](https://music.youtube.com/watch?v=xKRYKEUwS0E)
 
-래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)
+마미손 - 사랑은 (Remaster)(피처링: Wonstein)
 
-**Albums**: Show Me the Money 9 Final
+**Albums**: 나의슬픔(My Sadness)(Remaster)
 
-Last updated at 03/23/2021 17:40
+Last updated at 03/23/2021 17:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
