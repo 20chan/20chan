@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GMXEG4isA1AO-uCNz8jeOtNdU2hfCeKuP7BBGV5G9P0DT8GitgZKuwJbDhPQxWOPXGzfcwL4p21S-poI">](https://music.youtube.com/watch?v=uwy5hGT6i7Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/FCXpg3jSdvRDR1iNm-U8Scc55JKqMBZIavvRRTQoloC01K8105ekWBSj7Ci6X6gVPqMcRcASdMjLLuA">](https://music.youtube.com/watch?v=rKS6hNta8zg)
 
-GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP
+김승민 - 10°0' 0° N 118°50 0° E(피처링: ASH ISLAND)
 
-**Albums**: IMJMWDP
+**Albums**: Rio Loves Tokyo Part.1
 
-Last updated at 03/23/2021 13:42
+Last updated at 03/23/2021 13:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
