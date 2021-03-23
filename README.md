@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">](https://music.youtube.com/watch?v=F50yfwMmAAc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/d9OY-IyMDal0uSlI6T6cFXUQ71JjnnqPgY2J2Uw2uxoT-IYlTmq_W2EnrAAcjd_5ZMX7ACJr9qgqNSUK">](https://music.youtube.com/watch?v=vL-O1-Zm6vk)
 
-lIlBOI - CREDIT(피처링: 염따, 기리보이(Giriboy), Zion.T)
+허클베리피 - One of Them(피처링: 이케이, 저스디스)
 
-**Albums**: Show Me the Money 9 Final
+**Albums**: One of Them
 
-Last updated at 03/23/2021 13:59
+Last updated at 03/23/2021 14:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
