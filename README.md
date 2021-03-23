@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/FplU0bcpxR7lK1gEJfTRsud6dTXfM4QGW-5FxbZk1ZQclR8ekSiwJzD2tG3qjnGXEnH-YCEmwHf1uqyH">](https://music.youtube.com/watch?v=71zXQgX9_RI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/H_0z_rlLiFm0u0163hn_Lub5XbfdPv0n2avRq61zpcDz_NvLb9ibBxfQ3C7VQidlBFXumumyaepthQTg">](https://music.youtube.com/watch?v=u99mzkfwHxo)
 
-팔로알토 - 그늘(피처링: SUPERBEE, 스웨이디, zene the zilla)
+강현준 (Lil Tachi), 영비, 윤훼이 및 저스디스 - 나쁜맛
 
-**Albums**: Summer Grooves
+**Albums**: Cumpilation
 
-Last updated at 03/23/2021 14:36
+Last updated at 03/23/2021 14:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
