@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">](https://music.youtube.com/watch?v=8iSRuY80agw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pnkUGJbmJ3qNmTdDJ9KJsFJqbtiDwpEv6Q9vxNWles5uVzl4A3840A4RKGOljFsRakgyd0yeI5iDcd8">](https://music.youtube.com/watch?v=Z3gK2gReL5k)
 
-래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))
+래원 (Layone) - 원효대사
 
-**Albums**: 느린심장박동
+**Albums**: 이태원
 
-Last updated at 03/23/2021 12:22
+Last updated at 03/23/2021 12:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
