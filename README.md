@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aMWbhFDOJSk_-RUJOzoNhTscInVX6okYQAAIM0BQo45l2NiNH6Zzgn3JEJsW2xjdu8wGnk4Z4cSUGME">](https://music.youtube.com/watch?v=vHKF_rxMAjA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">](https://music.youtube.com/watch?v=8iSRuY80agw)
 
-조광일, 브라운티거, 왈로, 영잔디스 - 4 Harsh Carls
+래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))
 
-**Albums**: 4HC (4 Harsh Carls)
+**Albums**: 느린심장박동
 
-Last updated at 03/23/2021 15:36
+Last updated at 03/23/2021 15:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
