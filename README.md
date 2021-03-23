@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">](https://music.youtube.com/watch?v=8iSRuY80agw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">](https://music.youtube.com/watch?v=Q_MfswxOgmQ)
 
-래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))
+래원 (Layone) - 널만나러가는길이야
 
-**Albums**: 느린심장박동
+**Albums**: Foxiboy
 
-Last updated at 03/23/2021 17:30
+Last updated at 03/23/2021 17:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
