@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">](https://music.youtube.com/watch?v=-PEwrXZApPI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/sxZJ_NnljAKrwe3yw2LooM-G3QSw0Vk8uux2mxP07GHrH9wp5IggieTn2ZNtamjySyNU4Bb5IP1lhP_W">](https://music.youtube.com/watch?v=rybXSV15ofY)
 
-허성현 (Rose de Penny), Dsel, 가오가이 및 Untell - Win Win(피처링: BewhY(비와이))
+Jvcki Wai, 쿠기(Coogie), 팔로알토(Paloalto) 및 더 콰이엇(The Quiett) - Fadeaway
 
-**Albums**: Show Me the Money 9 Episode 1
+**Albums**: Fadeaway
 
-Last updated at 03/23/2021 13:30
+Last updated at 03/23/2021 13:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
