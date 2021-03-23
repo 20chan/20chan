@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">](https://music.youtube.com/watch?v=KMvxAH-bRmw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/watch?v=_XAJ69Sadjg)
 
-BIG Naughty (서동현) - Joker(피처링: JAMIE)
+천재노창 - God(행)
 
-**Albums**: Bucket List
+**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
 
-Last updated at 03/23/2021 18:13
+Last updated at 03/23/2021 18:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
