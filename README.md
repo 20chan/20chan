@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/d9OY-IyMDal0uSlI6T6cFXUQ71JjnnqPgY2J2Uw2uxoT-IYlTmq_W2EnrAAcjd_5ZMX7ACJr9qgqNSUK">](https://music.youtube.com/watch?v=vL-O1-Zm6vk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">](https://music.youtube.com/watch?v=ywWKuk4Xv1w)
 
-허클베리피 - One of Them(피처링: 이케이, 저스디스)
+다이나믹 듀오 - MSG(피처링: 페노메코)
 
-**Albums**: One of Them
+**Albums**: OFF DUTY
 
-Last updated at 03/23/2021 14:03
+Last updated at 03/23/2021 14:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
