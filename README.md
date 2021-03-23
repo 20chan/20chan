@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">](https://music.youtube.com/watch?v=gsLQpBEC7QA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Mm0Xp05N3j65H3zwbNou1YnaG9hC57NgqznSvI6P9f_FV5SJaWjtBoOS98of6nYOQmyIxbPAcJIk69Jdw">](https://music.youtube.com/watch?v=-V4K43-4KYM)
 
-기리보이(Giriboy) - 파티피플(피처링: Uneducated Kid, 염따)
+Hash Swan - Wang Like Alexander(피처링: GRAY)
 
-**Albums**: 갑분기
+**Albums**: Alexandrite
 
-Last updated at 03/23/2021 14:51
+Last updated at 03/23/2021 14:54
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
