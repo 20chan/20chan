@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3Ta1cvVeXabgD8JhBysLMeoEne87ONUfEm2rMnlr6jGYuLo4w0ah9lQTokIts-8-pDsgHQ6qIvFoKXk6">](https://music.youtube.com/watch?v=_XAJ69Sadjg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JwGUyzlVuoRBSsF7P_WZ2E0CbBSdUbA-cPUskYByT48qFhuBTOkUOQc2xzb1MhWqPZa_XgrHMZWzritk">](https://music.youtube.com/watch?v=hjYJZKU49k8)
 
-천재노창 - God(행)
+E SENS - RADAR (FEAT. 김심야 KIM XIMYA)
 
-**Albums**: MY NEW INSTAGRAM : MESURECHIFFON
+**Albums**: 이방인 THE STRANGER
 
-Last updated at 03/23/2021 18:15
+Last updated at 03/23/2021 18:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
