@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0fwxWy4PhaIpGje7n3umflSZx3pk2inzix-RKOPix4SV9v37FEfaCx8Je0gQs1FqyJZI5K8Sg0pxKyA">](https://music.youtube.com/watch?v=8hTMXZ8hVd8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/1MSnAGIMFn8Rcm7rZQr84h9VO7EM5U1L9-gntMAPfcYyOJywtlbR0wOEsj7SwjVH0Sw2Hf2hL6vRsjP4TQ">](https://music.youtube.com/watch?v=6KGBMnOxZjs)
 
-비와이(BewhY) - The Time Goes On
+Jvcki Wai - 띵 (Prod. By 기리보이)
 
-**Albums**: Time Travel
+**Albums**: Dingo X Indigo Music
 
-Last updated at 03/23/2021 15:09
+Last updated at 03/23/2021 15:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
