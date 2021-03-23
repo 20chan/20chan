@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">](https://music.youtube.com/watch?v=IabVAAbTIro)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">](https://music.youtube.com/watch?v=yUnyZQYwGAc)
 
-lIlBOI , Wonstein - FRIENDS (Prod. by Slom)
+스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)
 
-**Albums**: FRIENDS
+**Albums**: Show Me the Money 9 Episode 1
 
-Last updated at 03/23/2021 18:05
+Last updated at 03/23/2021 18:09
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
