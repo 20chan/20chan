@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pnkUGJbmJ3qNmTdDJ9KJsFJqbtiDwpEv6Q9vxNWles5uVzl4A3840A4RKGOljFsRakgyd0yeI5iDcd8">](https://music.youtube.com/watch?v=0vDuan29VJM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">](https://music.youtube.com/watch?v=9smDx7jBXMQ)
 
-래원 (Layone) - 이모힙합(피처링: 베이식, 이영지, 이케이)
+Big Naughty - 문제 Problems(피처링: Coogie)
 
-**Albums**: 이태원
+**Albums**: Show Me the Money 8 Episode 4
 
-Last updated at 03/23/2021 13:23
+Last updated at 03/23/2021 13:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
