@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">](https://music.youtube.com/watch?v=SnuJ-xHCORI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">](https://music.youtube.com/watch?v=rGVqQVMtaUo)
 
-조광일 - 곡예사 Remix(피처링: 마이노스, 식보이(Sikboy), 올티(Olltii), 브라운티거)
+lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak
 
-**Albums**: 암순응
+**Albums**: Show Me the Money 9 Episode 1
 
-Last updated at 03/23/2021 12:31
+Last updated at 03/23/2021 12:39
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
