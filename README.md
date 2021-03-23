@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">](https://music.youtube.com/watch?v=xKRYKEUwS0E)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/j4FCnfqLXk_N6yg47XvQEbZP-lZrkF-9wJ_f_oc6gumNIzJM__pWppvjEKw5L9r5o21vxSKQEpRclDhw">](https://music.youtube.com/watch?v=PK02_Q5hHKo)
 
-마미손 - 사랑은 (Remaster)(피처링: Wonstein)
+파테코 - Rainy day(피처링: 스키니 브라운, 윤진영)
 
-**Albums**: 나의슬픔(My Sadness)(Remaster)
+**Albums**: Rainy day
 
-Last updated at 03/23/2021 17:44
+Last updated at 03/23/2021 17:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
