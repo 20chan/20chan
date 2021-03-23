@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">](https://music.youtube.com/watch?v=9smDx7jBXMQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">](https://music.youtube.com/watch?v=-PEwrXZApPI)
 
-Big Naughty - 문제 Problems(피처링: Coogie)
+허성현 (Rose de Penny), Dsel, 가오가이 및 Untell - Win Win(피처링: BewhY(비와이))
 
-**Albums**: Show Me the Money 8 Episode 4
+**Albums**: Show Me the Money 9 Episode 1
 
-Last updated at 03/23/2021 13:26
+Last updated at 03/23/2021 13:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
