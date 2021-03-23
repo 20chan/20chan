@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/8Mm0Xp05N3j65H3zwbNou1YnaG9hC57NgqznSvI6P9f_FV5SJaWjtBoOS98of6nYOQmyIxbPAcJIk69Jdw">](https://music.youtube.com/watch?v=-V4K43-4KYM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/GJQZ4pMRZOHXEn9gRy9qZM5jjvkNjjbrRelk25zPCtIKRJFnNmgRc2O_y3U9HwUQ4sHtI9kTR3Oyx8ku">](https://music.youtube.com/watch?v=mY8PWmcUVnQ)
 
-Hash Swan - Wang Like Alexander(피처링: GRAY)
+염따, 더 콰이엇(The Quiett), 팔로알토 및 사이먼 도미닉 - 달려
 
-**Albums**: Alexandrite
+**Albums**: RUN
 
-Last updated at 03/23/2021 14:54
+Last updated at 03/23/2021 14:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
