@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">](https://music.youtube.com/watch?v=MSYq3MzTLGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dP_vI0XXlNl3JKI4x-K3KvFhttkKeOA3H9LJ7E5rWzCmXwG5wPZySFYQ7soDeoXx6lckdpiOkTkU6p-L">](https://music.youtube.com/watch?v=9Unrl9Yi55s)
 
-더 콰이엇 - Hangang gang (Megamix)
+파테코 및 디핵 - OHAYO MY NIGHT
 
-**Albums**: Hangang gang (Megamix)
+**Albums**: OHAYO MY NIGHT
 
-Last updated at 03/23/2021 17:51
+Last updated at 03/23/2021 17:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
