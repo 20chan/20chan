@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">](https://music.youtube.com/watch?v=rGVqQVMtaUo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">](https://music.youtube.com/watch?v=yFcxPvkMBl8)
 
-lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak
+YUMDDA - 존시나(피처링: Northfacegawd, JUSTHIS, Layone)
 
-**Albums**: Show Me the Money 9 Episode 1
+**Albums**: 살아숨셔 3
 
-Last updated at 03/23/2021 12:39
+Last updated at 03/23/2021 12:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
