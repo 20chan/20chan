@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/GJQZ4pMRZOHXEn9gRy9qZM5jjvkNjjbrRelk25zPCtIKRJFnNmgRc2O_y3U9HwUQ4sHtI9kTR3Oyx8ku">](https://music.youtube.com/watch?v=mY8PWmcUVnQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/OLKQFK2BShisvU_YSZiSCkcupqwEQZn_8RlA6HXLndG8zboLXn6e9s453AZsl7Pr_6vRdqCFJIc3liIT">](https://music.youtube.com/watch?v=JXmypr49UZk)
 
-염따, 더 콰이엇(The Quiett), 팔로알토 및 사이먼 도미닉 - 달려
+Swings 및 Han Yo Han - Fake Rock Star (Feat. NO:EL)
 
-**Albums**: RUN
+**Albums**: 외나무다리
 
-Last updated at 03/23/2021 14:57
+Last updated at 03/23/2021 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
