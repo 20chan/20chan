@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mDQU4srEIdCMRMVrDZ_X6OeyK4L1nKcs-Rd8a9CRj-vWKBGdu6K79x29q287xCK5NCf_34sPUWAD5otV">](https://music.youtube.com/watch?v=xAQrGnCyFIU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">](https://music.youtube.com/watch?v=JSuOMvgXnaM)
 
-기리보이(Giriboy) - 거지(피처링: 존오버, 윤훼이, 저스디스)
+The Quiett - Prime Time (Remix)(피처링: 에이 부기 윗 다 후디)
 
-**Albums**: 치명적인 앨범 Ⅲ
+**Albums**: Q Day Remixes
 
-Last updated at 03/23/2021 13:11
+Last updated at 03/23/2021 13:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
