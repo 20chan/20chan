@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">](https://music.youtube.com/watch?v=zt1zcLJbftw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">](https://music.youtube.com/watch?v=8iSRuY80agw)
 
-미란이 - Achoo(피처링: pH-1, 김하온(HAON))
+래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))
 
-**Albums**: Show Me the Money 9 Episode 3
+**Albums**: 느린심장박동
 
-Last updated at 03/23/2021 15:40
+Last updated at 03/23/2021 17:30
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
