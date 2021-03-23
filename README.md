@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">](https://music.youtube.com/watch?v=OcvLH6SDa18)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/watch?v=pJ-IGZKyfpU)
 
-창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)
+Woo - We Are(피처링: Loco, GRAY)
 
-**Albums**: Swoosh Flow (Remix)
+**Albums**: We Are
 
-Last updated at 03/23/2021 14:24
+Last updated at 03/23/2021 14:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
