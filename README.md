@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fEinQARrK59ctQ9pYYKI3sy1DcgI1BNiSfZRUHbWtt4gPMuA4Oovy70-bNuCo_8wEqwE1b_3zditCYYx">](https://music.youtube.com/watch?v=medo8dj_-28)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">](https://music.youtube.com/watch?v=gsLQpBEC7QA)
 
-HAN YO HAN - 범퍼카(피처링: Young B, NO:EL)
+기리보이(Giriboy) - 파티피플(피처링: Uneducated Kid, 염따)
 
-**Albums**: 범퍼카
+**Albums**: 갑분기
 
-Last updated at 03/23/2021 14:47
+Last updated at 03/23/2021 14:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
