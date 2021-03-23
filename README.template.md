@@ -1,4 +1,4 @@
-## Currently Playing on {CURRENT_PLAYING_SOURCE}
+## Now Playing on {CURRENT_PLAYING_SOURCE}
 
 [<img align="left" width="100" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_URL})
 
