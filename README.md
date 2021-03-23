@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/H_0z_rlLiFm0u0163hn_Lub5XbfdPv0n2avRq61zpcDz_NvLb9ibBxfQ3C7VQidlBFXumumyaepthQTg">](https://music.youtube.com/watch?v=u99mzkfwHxo)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/JZF4Y9aEX6m4FptTS_japPrAoM0IshfJISJwI57cuWLs3Ii4Whyo-LU7O9ExENJN4ee7E_RBvsGn_lI">](https://music.youtube.com/watch?v=1fAGyOu7xeE)
 
-강현준 (Lil Tachi), 영비, 윤훼이 및 저스디스 - 나쁜맛
+기리보이(Giriboy) - 우리서로사랑하지는말자
 
-**Albums**: Cumpilation
+**Albums**: 영화같게
 
-Last updated at 03/23/2021 14:40
+Last updated at 03/23/2021 14:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
