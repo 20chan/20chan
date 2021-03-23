@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/PGMHym4bIQ9Nn_VxxMrVE4O7ZjaRbz6OXWs-umoYcTR7rj2_RYtEnm9gykOu-Rvm8b_8lyCf7mouYym_AA">](https://music.youtube.com/watch?v=S-6oQyf7oG8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aMWbhFDOJSk_-RUJOzoNhTscInVX6okYQAAIM0BQo45l2NiNH6Zzgn3JEJsW2xjdu8wGnk4Z4cSUGME">](https://music.youtube.com/watch?v=vHKF_rxMAjA)
 
-지코(ZICO) - 천둥벌거숭이(피처링: Jvcki Wai, 염따)
+조광일, 브라운티거, 왈로, 영잔디스 - 4 Harsh Carls
 
-**Albums**: THINKING, Part 1
+**Albums**: 4HC (4 Harsh Carls)
 
-Last updated at 03/23/2021 15:32
+Last updated at 03/23/2021 15:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
