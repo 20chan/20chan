@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TlNRDzgk3gcg7fMH0NFJzMLv54z3Ue4CG6s_QMQXJaSgctxtxTloxHc7eyOSiS2EHgaPsETI59DEd7V6">](https://music.youtube.com/watch?v=ti9pcUDykBg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bQN1pzwS0hNcc7SOlFhDj9xb6ny4xEwEwecESPsz8ZljpVWtgbZUlhEG_irUd-JXRuLypLjeAl7i-LA5UA">](https://music.youtube.com/watch?v=96JoDlQ8bks)
 
-이문세 - 소녀
+이문세 - 그녀의 웃음소리뿐
 
-**Albums**: 난 아직 모르잖아요
+**Albums**: 이문세 Memories
 
-Last updated at 03/23/2021 18:38
+Last updated at 03/23/2021 18:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
