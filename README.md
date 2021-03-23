@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">](https://music.youtube.com/watch?v=pJ-IGZKyfpU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">](https://music.youtube.com/watch?v=mYHaPeUrEr8)
 
-Woo - We Are(피처링: Loco, GRAY)
+JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO
 
-**Albums**: We Are
+**Albums**: IM
 
-Last updated at 03/23/2021 14:29
+Last updated at 03/23/2021 14:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
