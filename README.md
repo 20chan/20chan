@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">](https://music.youtube.com/watch?v=OlKkYPJMEtE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/8pnkUGJbmJ3qNmTdDJ9KJsFJqbtiDwpEv6Q9vxNWles5uVzl4A3840A4RKGOljFsRakgyd0yeI5iDcd8">](https://music.youtube.com/watch?v=0vDuan29VJM)
 
-Leellamarz 및 TOIL - 아가씨 (Feat. ZENE THE ZILLA & 머쉬베놈)
+래원 (Layone) - 이모힙합(피처링: 베이식, 이영지, 이케이)
 
-**Albums**: TOYSTORY2
+**Albums**: 이태원
 
-Last updated at 03/23/2021 13:20
+Last updated at 03/23/2021 13:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
