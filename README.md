@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_GPAdnS0f5IZ_GQmslGLNhX_NnzPIhG8KOtEp9FsjTZ4t9ZiIHcyjXqcD_71OKpTjc6J59s5zMx71Ms">](https://music.youtube.com/watch?v=zwJQE0HkYZw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">](https://music.youtube.com/watch?v=8iSRuY80agw)
 
-이루마(Yiruma) - River Flows In You
+래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))
 
-**Albums**: Yiruma 2nd Album 'First Love' (The Original & the Very First Recording)
+**Albums**: 느린심장박동
 
-Last updated at 03/12/2021 17:18
+Last updated at 03/23/2021 12:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
