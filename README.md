@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/SVMhF7tn1KsFPTCiCKEt4Lh65HZnkZt7ZULGKY7Sa2bKIzDHMRlHQC_7OL4KFADjcjry7XD34Hm9-Xy9ww">](https://music.youtube.com/watch?v=HhWAQDZX-Vg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/mDQU4srEIdCMRMVrDZ_X6OeyK4L1nKcs-Rd8a9CRj-vWKBGdu6K79x29q287xCK5NCf_34sPUWAD5otV">](https://music.youtube.com/watch?v=xAQrGnCyFIU)
 
-pH-1, Kid Milli 및 Loopy - Good Day(피처링: Paloalto)
+기리보이(Giriboy) - 거지(피처링: 존오버, 윤훼이, 저스디스)
 
-**Albums**: Show Me the Money 777 (Episode 1)
+**Albums**: 치명적인 앨범 Ⅲ
 
-Last updated at 03/23/2021 13:06
+Last updated at 03/23/2021 13:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
