@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">](https://music.youtube.com/watch?v=b8L20BI9cg0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/smGHaKk5affg8pwKcwivJjPNB801XE68rNkFp8ndJTxJvxvw1zITsStd43A5EkNkecu3q_sJn89kkEhe">](https://music.youtube.com/watch?v=o-qto9XYRso)
 
-마미손 - 땡큐땡큐 (Remaster)(피처링: Chang Kiha, YDG, MUSHVENOM)
+넉살, 한해, 라이노 및 조우찬 - N분의 1(피처링: 다이나믹듀오)
 
-**Albums**: 나의슬픔(My Sadness)(Remaster)
+**Albums**: Show Me the Money 6 Episode 1
 
-Last updated at 03/23/2021 15:18
+Last updated at 03/23/2021 15:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
