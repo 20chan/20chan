@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">](https://music.youtube.com/watch?v=ywWKuk4Xv1w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">](https://music.youtube.com/watch?v=xmXHQUAWLA8)
 
-다이나믹 듀오 - MSG(피처링: 페노메코)
+GIRIBOY - 호랑이소굴(피처링: Jvcki Wai)
 
-**Albums**: OFF DUTY
+**Albums**: 호랑이소굴
 
-Last updated at 03/23/2021 14:08
+Last updated at 03/23/2021 14:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
