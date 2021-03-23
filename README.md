@@ -1,12 +1,12 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/B9818xpMvQhDLUTN6L75pPCXouHn4aAR-MpOatH6cKQvzkCLWSTKm6DVmpOnjLBk1NeKbtyIs4Bof36_">](https://music.youtube.com/watch?v=YuAPFHwKOhU)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YLMSUhF_0SpFkIaNty9FcLw4jrH1QimQWS6H-Vd_3LZ1hDuSScGwu9kqNE3KiCLnra3Mqmu-5g3SKBrx">](https://music.youtube.com/watch?v=Af1Pi45RHAE)
 
-래원 (Layone) - 오태식
+Young B, YUNHWAY, Lil Tachi 및 Han Yo-han - 아퍼 (Band Ver.)
 
-**Albums**: 해바라기
+**Albums**: 아퍼 (Band Ver.)
 
-Last updated at 03/23/2021 12:54
+Last updated at 03/23/2021 12:57
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
