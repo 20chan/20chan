@@ -1,12 +1,12 @@
-## Now Playing on YTMusic
+## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/mkjMow05jYw8ouhw3Xib7eXdOEM7OnOa-pFHDXdCYC6UN7hScBhkTyMp_Jn-w1WsMsMzg-txuR7d52o1">](https://music.youtube.com/watch?v=4mozUs2aIAg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b7654c3200adac6a101db0ab">](https://open.spotify.com/album/7p7QkA2uAymfgGkyhuNa7J)
 
-이문세 - 깊은 밤을 날아서
+ - Lose Control
 
-**Albums**: 이문세 4집
+**Albums**: Not supported
 
-Last updated at 03/23/2021 18:59
+Last updated at 03/25/2021 11:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
