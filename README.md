@@ -1,12 +1,12 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31">](https://open.spotify.com/album/0nOXOyMEu6TD2HgVm12aks)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738d0a75346badc30c8b845be9">](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh)
 
- - Are We Still Young
+ - Cake By The Ocean
 
 **Albums**: Not supported
 
-Last updated at 03/25/2021 12:09
+Last updated at 03/25/2021 12:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
