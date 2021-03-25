@@ -1,12 +1,12 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738d0a75346badc30c8b845be9">](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
 
-DNCE - Cake By The Ocean
+Two Feet - Go Fuck Yourself
 
 **Albums**: Not supported
 
-Last updated at 03/25/2021 12:27
+Last updated at 03/25/2021 12:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
