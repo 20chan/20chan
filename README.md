@@ -1,12 +1,12 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d11188025d684f93f8cc1260">](https://open.spotify.com/album/3gk5LmXVewb5mo4FWHuZI6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
 
-Two Feet - You?
+Glass Animals - The Other Side Of Paradise
 
 **Albums**: Not supported
 
-Last updated at 03/25/2021 12:34
+Last updated at 03/25/2021 12:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
