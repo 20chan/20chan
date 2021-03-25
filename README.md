@@ -1,12 +1,12 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273d11188025d684f93f8cc1260">](https://open.spotify.com/album/3gk5LmXVewb5mo4FWHuZI6)
 
-Two Feet - Go Fuck Yourself
+Two Feet - You?
 
 **Albums**: Not supported
 
-Last updated at 03/25/2021 12:32
+Last updated at 03/25/2021 12:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
