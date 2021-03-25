@@ -1,8 +1,8 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273a5ccc769c8fbc837c44af9e3">](https://open.spotify.com/album/0Cb0KcevtzRaH7hmYxoeny)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
 
-june - A Little Messed Up
+Glass Animals - The Other Side Of Paradise
 
 **Albums**: Not supported
 
