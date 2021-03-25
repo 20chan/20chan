@@ -1,12 +1,12 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2738d0a75346badc30c8b845be9">](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273b7654c3200adac6a101db0ab">](https://open.spotify.com/album/7p7QkA2uAymfgGkyhuNa7J)
 
-DNCE - Cake By The Ocean
+ - Lose Control
 
 **Albums**: Not supported
 
-Last updated at 03/25/2021 12:13
+Last updated at 03/25/2021 12:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
