@@ -2,11 +2,11 @@
 
 [<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23">](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy)
 
-Glass Animals - The Other Side Of Paradise
+ - The Other Side Of Paradise
 
 **Albums**: Not supported
 
-Last updated at 03/25/2021 12:37
+Last updated at 03/25/2021 13:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
