@@ -1,12 +1,12 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b27387e6bb28f269597e09145121">](https://open.spotify.com/album/6nV47nUjokX90oxKeoIIdZ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2735bb0f92c88480fb24dec0c31">](https://open.spotify.com/album/0nOXOyMEu6TD2HgVm12aks)
 
-Sub Urban - Isolate
+Grant Juneau - Are We Still Young
 
 **Albums**: Not supported
 
-Last updated at 03/25/2021 12:21
+Last updated at 03/25/2021 12:23
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
