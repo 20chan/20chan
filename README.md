@@ -1,12 +1,12 @@
-## Now Playing on Spotify
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273488f7916bcb14082e1acb101">](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwngXfHMHhncMEHLUqimBqc3o9hhMVCtORKOvtLgU7g=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
 
-Two Feet - Go Fuck Yourself
+米津玄師 - 米津玄師　MV『vivi』
 
 **Albums**: Not supported
 
-Last updated at 04/07/2021 10:42
+Last updated at 05/03/2021 15:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
