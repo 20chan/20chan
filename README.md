@@ -1,12 +1,12 @@
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwngXfHMHhncMEHLUqimBqc3o9hhMVCtORKOvtLgU7g=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniJYj8nPTWa27MXC2MJ4GudO7dVaB6B2ybG3AH3xg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCf7eD2RJguOWovag4yc5n5Q)
 
-米津玄師 - 米津玄師 MV「Flowerwall」
+bo en - my time
 
 **Albums**: Not supported
 
-Last updated at 05/03/2021 15:25
+Last updated at 05/05/2021 02:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
