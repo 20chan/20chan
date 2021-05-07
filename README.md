@@ -1,12 +1,12 @@
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniJYj8nPTWa27MXC2MJ4GudO7dVaB6B2ybG3AH3xg=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCf7eD2RJguOWovag4yc5n5Q)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwngciDVq0UyHIizNzTEcT_uI_631RDsb7ci_Mdjvjw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCaHMbSAO8KdHtf7gtOSB0Yw)
 
-bo en - pale machine [full album]
+DREAMERS - Die Happy (Visualizer Video)
 
 **Albums**: Not supported
 
-Last updated at 05/05/2021 02:52
+Last updated at 05/07/2021 14:31
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
