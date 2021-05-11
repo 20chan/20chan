@@ -1,12 +1,12 @@
 ## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwngciDVq0UyHIizNzTEcT_uI_631RDsb7ci_Mdjvjw=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCaHMbSAO8KdHtf7gtOSB0Yw)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwng5Za5IrgOsheTFRFfpx6XmS71-kKJoDp8pH8Tpmw=s88-c-k-c0x00ffffff-no-rj">](https://www.youtube.com/channel/UCnvpohExvwcECE8r_mnzQog)
 
-DREAMERS - Die Happy (Visualizer Video)
+KMOONFND - Blur (희미해서) (feat. Heize) (헤이즈)
 
 **Albums**: Not supported
 
-Last updated at 05/07/2021 14:31
+Last updated at 05/11/2021 22:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
