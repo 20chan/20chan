@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/j0e8qiJKMIen5MbZM0E9gQ7QEmYfY3Tiv5OUeNC6MQkuk-0p8dCirkS6sw9pykhlEJ0NXm71qW9ME3cReQ">](https://music.youtube.com/watch?v=wRqxK5abWj0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KOly7W3mL81bF8S4dCnPiw5qqkwC_cFkWLHxSsDvkbaM3_OsENVRhGwhC6-VPbo5BY_R3nr7IbT3LHc">](https://music.youtube.com/watch?v=GC2hCvrdyhg)
 
-Sabai 및 Hoang - Million Days(피처링: Claire Ridgely)
+Dabin feat Dia Frampton - Bloom
 
-**Albums**: Million Days
+**Albums**: Wild Youth
 
-Last updated at 05/17/2021 15:44
+Last updated at 05/17/2021 15:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
