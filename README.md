@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KOly7W3mL81bF8S4dCnPiw5qqkwC_cFkWLHxSsDvkbaM3_OsENVRhGwhC6-VPbo5BY_R3nr7IbT3LHc">](https://music.youtube.com/watch?v=GC2hCvrdyhg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/L3gCC3pJu-KrL8IbYmWGPaGGxA-bxe98fuX0Gc8OQ734zJu9T-n2rWp4COVgmyQiKBQtWUZV7iBfnd8">](https://music.youtube.com/watch?v=aCOH8lRKPHg)
 
-Dabin feat Dia Frampton - Bloom
+이문세 - 희미해서(피처링: 헤이즈(Heize))
 
-**Albums**: Wild Youth
+**Albums**: BETWEEN US
 
-Last updated at 05/17/2021 15:45
+Last updated at 05/17/2021 15:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
