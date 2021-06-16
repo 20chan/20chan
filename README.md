@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/3hblHjwRwMWLFcnpIiQYfhuWu17WGeFceAUgZgNe6zCPRx1Oo9pMpK4KTjqjvbrz2PgJ_O-RU0lBNuc">](https://music.youtube.com/watch?v=cRfEnCOJdnY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Kpy4HyzCGGA4B5kQ1RYpB3DJI5BBKxp1Yfzfkm-JpILjJSFoYqkp1yewrYu0gDtNQHXzRpJdCoW9s7o">](https://music.youtube.com/watch?v=fgXXwUsr2Ng)
 
-조너선 그로프 - Lost in the Woods
+why mona - Wannabe
 
-**Albums**: Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
+**Albums**: Wannabe
 
-Last updated at 05/21/2021 17:00
+Last updated at 06/16/2021 12:13
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
