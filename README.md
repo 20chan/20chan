@@ -1,12 +1,12 @@
 ## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731f40ba7ac0b09b635c229b2f">](https://open.spotify.com/album/3wRAY8jCfQC7BtnbazwFSr)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc">](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca)
 
-창모 - Interlude
+서리 - Fairy Tale
 
 **Albums**: Not supported
 
-Last updated at 06/17/2021 10:47
+Last updated at 06/17/2021 10:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
