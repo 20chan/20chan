@@ -1,12 +1,12 @@
-## Now Playing on YTMusic
+## Now Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Kpy4HyzCGGA4B5kQ1RYpB3DJI5BBKxp1Yfzfkm-JpILjJSFoYqkp1yewrYu0gDtNQHXzRpJdCoW9s7o">](https://music.youtube.com/watch?v=fgXXwUsr2Ng)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b2731f40ba7ac0b09b635c229b2f">](https://open.spotify.com/album/3wRAY8jCfQC7BtnbazwFSr)
 
-why mona - Wannabe
+창모 - Interlude
 
-**Albums**: Wannabe
+**Albums**: Not supported
 
-Last updated at 06/16/2021 12:13
+Last updated at 06/17/2021 10:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
