@@ -1,12 +1,12 @@
-## Now Playing on Spotify
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc">](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CiMiAagSsAkxt-lj39ej1KKq05GbzAxW3LNxm-eWR9SgLku-XLJYHbE7hq4tkRIlNo6MGlJ__G3JzjoW">](https://music.youtube.com/watch?v=kgd0rzJ0Ss8)
 
-서리 - Fairy Tale
+Adam Lambert - Whataya Want from Me
 
-**Albums**: Not supported
+**Albums**: For Your Entertainment
 
-Last updated at 06/17/2021 10:50
+Last updated at 01/16/2022 17:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
