@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CiMiAagSsAkxt-lj39ej1KKq05GbzAxW3LNxm-eWR9SgLku-XLJYHbE7hq4tkRIlNo6MGlJ__G3JzjoW">](https://music.youtube.com/watch?v=kgd0rzJ0Ss8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KJ7Jv-6fvz1JOIjI7KUpNGNjQYt6mU2Eu6jPjWSlkZJ8CqKpSrquUzZQW6WvdrteEF-83e-tGl0pRiWn">](https://music.youtube.com/watch?v=gsX3fDbj7dE)
 
-Adam Lambert - Whataya Want from Me
+Scorpions - Rock Believer
 
-**Albums**: For Your Entertainment
+**Albums**: Rock Believer
 
-Last updated at 01/16/2022 17:03
+Last updated at 03/05/2022 20:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
