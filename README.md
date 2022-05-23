@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/KJ7Jv-6fvz1JOIjI7KUpNGNjQYt6mU2Eu6jPjWSlkZJ8CqKpSrquUzZQW6WvdrteEF-83e-tGl0pRiWn">](https://music.youtube.com/watch?v=gsX3fDbj7dE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QIwXaBt4cHDmxUzRIlosAgWKr_NjeqW6-eRgRabNka8OwIyauYZmU9BMDTFLgA2JxsN1xabUaN7Ulnzd">](https://music.youtube.com/watch?v=1Df28_NCk6s)
 
-Scorpions - Rock Believer
+Ghost - Call Me Little Sunshine
 
-**Albums**: Rock Believer
+**Albums**: IMPERA
 
-Last updated at 03/05/2022 20:14
+Last updated at 05/23/2022 13:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
