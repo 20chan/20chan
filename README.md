@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QIwXaBt4cHDmxUzRIlosAgWKr_NjeqW6-eRgRabNka8OwIyauYZmU9BMDTFLgA2JxsN1xabUaN7Ulnzd">](https://music.youtube.com/watch?v=1Df28_NCk6s)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5Jj5k2RMtMHzsGs1woBcsO42iBWBKN3qbaAzU5Mkbd07enodkKOX4FGf2IpAEhGpI9HID0WB-lLZ1xY5og">](https://music.youtube.com/watch?v=3TyIfoj0d98)
 
-Ghost - Call Me Little Sunshine
+Weezer - What's The Good Of Being Good
 
-**Albums**: IMPERA
+**Albums**: SZNZ: Summer
 
-Last updated at 05/23/2022 13:50
+Last updated at 06/25/2022 02:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
