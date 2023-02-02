@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5Jj5k2RMtMHzsGs1woBcsO42iBWBKN3qbaAzU5Mkbd07enodkKOX4FGf2IpAEhGpI9HID0WB-lLZ1xY5og">](https://music.youtube.com/watch?v=3TyIfoj0d98)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/uTzba0Dgl5G4ZjeNx8aYEFDii37F5Gs2yKWdLi89RJm3ngG1nRg-VyYu0P0OTM5HN94DEbuHDJMqHDkvaA">](https://music.youtube.com/watch?v=Dy_eP-mqWow)
 
-Weezer - What's The Good Of Being Good
+Goo Goo Dolls - Iris
 
-**Albums**: SZNZ: Summer
+**Albums**: Dizzy Up The Girl
 
-Last updated at 06/25/2022 02:10
+Last updated at 02/02/2023 12:03
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
