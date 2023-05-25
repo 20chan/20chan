@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/uTzba0Dgl5G4ZjeNx8aYEFDii37F5Gs2yKWdLi89RJm3ngG1nRg-VyYu0P0OTM5HN94DEbuHDJMqHDkvaA">](https://music.youtube.com/watch?v=Dy_eP-mqWow)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/0xuqwBPhZpf65pvHJDOyA4uK3aA808prjUVwirGkliK3UI_MO7RY-14fs4Xp63zFtpOq2ihKmjOPRFw">](https://music.youtube.com/watch?v=UMJm_97QXHA)
 
-Goo Goo Dolls - Iris
+Mitski - Francis Forever
 
-**Albums**: Dizzy Up The Girl
+**Albums**: Bury Me At Makeout Creek
 
-Last updated at 02/02/2023 12:03
+Last updated at 05/25/2023 18:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
