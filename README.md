@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/0xuqwBPhZpf65pvHJDOyA4uK3aA808prjUVwirGkliK3UI_MO7RY-14fs4Xp63zFtpOq2ihKmjOPRFw">](https://music.youtube.com/watch?v=UMJm_97QXHA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZIINWzxeKenzB7kZn_GLcFJ8x3Z0IIqKJkpKMIZpqCFlSJb_onPNL8fgRBu5FOs7BT8PUnFVUqt00Cw">](https://music.youtube.com/watch?v=HIZwUG4Juo8)
 
-Mitski - Francis Forever
+Des Rocs - Never Ending Moment
 
-**Albums**: Bury Me At Makeout Creek
+**Albums**: Never Ending Moment
 
-Last updated at 05/25/2023 18:42
+Last updated at 11/26/2023 12:11
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
