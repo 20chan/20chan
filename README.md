@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AtjQKneFRMLZyLUSeLvDkYpB0Zj8ltEoA5LUhqEpT60hvWaaMSlmE-dQ_mkpdEdcSkDe_jx4ImKKfhGl">](https://music.youtube.com/watch?v=O0g9U3Haf7M)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Md0YzM8gjLJo5u6fBLFfKSmJbfmVRFOQ0ZC4qTLR40U050_eRglYMXu_5-YV--6eNllAfhPyfEgDHLDe">](https://music.youtube.com/watch?v=M9cfZrLC6Ug)
 
-Des Rocs - Hanging by a Thread
+All Time Low - Monsters (feat. Demi Lovato & blackbear)
 
-**Albums**: A Real Good Person in a Real Bad Place
+**Albums**: Monsters
 
-Last updated at 11/26/2023 13:42
+Last updated at 05/04/2024 05:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
