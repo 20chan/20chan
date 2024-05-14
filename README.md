@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Md0YzM8gjLJo5u6fBLFfKSmJbfmVRFOQ0ZC4qTLR40U050_eRglYMXu_5-YV--6eNllAfhPyfEgDHLDe">](https://music.youtube.com/watch?v=M9cfZrLC6Ug)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CiMiAagSsAkxt-lj39ej1KKq05GbzAxW3LNxm-eWR9SgLku-XLJYHbE7hq4tkRIlNo6MGlJ__G3JzjoW">](https://music.youtube.com/watch?v=kgd0rzJ0Ss8)
 
-All Time Low - Monsters (feat. Demi Lovato & blackbear)
+Adam Lambert - Whataya Want from Me
 
-**Albums**: Monsters
+**Albums**: For Your Entertainment
 
-Last updated at 05/04/2024 05:55
+Last updated at 05/15/2024 08:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
