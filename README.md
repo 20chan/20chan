@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CiMiAagSsAkxt-lj39ej1KKq05GbzAxW3LNxm-eWR9SgLku-XLJYHbE7hq4tkRIlNo6MGlJ__G3JzjoW">](https://music.youtube.com/watch?v=kgd0rzJ0Ss8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/5lp--UF777m4zIe2qhk0gV4b9IGEtwKLRWB8WxF9NSbt5CLryh7stpzBN5lqmBJy66yC1zmdll3wBTc">](https://music.youtube.com/watch?v=wjA4C1uJk10)
 
-Adam Lambert - Whataya Want from Me
+Des Rocs - Suicide Romantics
 
-**Albums**: For Your Entertainment
+**Albums**: This is Our Life
 
-Last updated at 05/15/2024 08:36
+Last updated at 05/19/2024 21:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
