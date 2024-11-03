@@ -1,12 +1,12 @@
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/5lp--UF777m4zIe2qhk0gV4b9IGEtwKLRWB8WxF9NSbt5CLryh7stpzBN5lqmBJy66yC1zmdll3wBTc">](https://music.youtube.com/watch?v=wjA4C1uJk10)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hTew7jceR2AJwTg_PuI9BnatxODvpw6myMuRyuCZOu06JQcju7B94y61AOCdderUxTj2YPIlt3BWevc">](https://music.youtube.com/watch?v=vmMu7kuKHQo)
 
-Des Rocs - Suicide Romantics
+half•alive - Automatic
 
-**Albums**: This is Our Life
+**Albums**: Automatic
 
-Last updated at 05/19/2024 21:37
+Last updated at 11/03/2024 12:21
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
 
